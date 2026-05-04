@@ -1,0 +1,116 @@
+name: Generate CashCafe Articles
+
+on:
+  schedule:
+    - cron: '10 10 * * *'  # 12:10 España (slot despues de hogarinteligente)
+  workflow_dispatch:
+    inputs:
+      count:
+        description: 'Numero de articulos a generar'
+        required: false
+        default: '3'
+        type: choice
+        options: ['1', '2', '3', '5', '6']
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install Python dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Determine article count
+        id: config
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "count=${{ github.event.inputs.count }}" >> $GITHUB_OUTPUT
+          else
+            echo "count=3" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Generate articles
+        id: generate
+        env:
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GH_MODELS_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          SUCCESS=0
+          FAILED=0
+          for i in $(seq 1 ${{ steps.config.outputs.count }}); do
+            echo "--- Generando articulo $i de ${{ steps.config.outputs.count }} ---"
+            if ARTICLE_INDEX=$i python scripts/generate_article.py; then
+              SUCCESS=$((SUCCESS + 1))
+            else
+              echo "Intento 1 fallo, reintentando en 45s..."
+              sleep 45
+              if ARTICLE_INDEX=$i python scripts/generate_article.py; then
+                SUCCESS=$((SUCCESS + 1))
+              else
+                FAILED=$((FAILED + 1))
+                echo "Articulo $i fallo tras 2 intentos"
+              fi
+            fi
+            if [ $i -lt ${{ steps.config.outputs.count }} ]; then
+              sleep 30
+            fi
+          done
+          echo "success=$SUCCESS" >> $GITHUB_OUTPUT
+          echo "failed=$FAILED" >> $GITHUB_OUTPUT
+          echo "=== Resultado: $SUCCESS OK, $FAILED fallidos ==="
+
+      - name: Commit and push
+        if: success()
+        run: |
+          git config user.name "CashCafe Bot"
+          git config user.email "vladys.z96@gmail.com"
+          git add blog-data.jsx
+          if git diff --staged --quiet; then
+            echo "No new articles to commit"
+          else
+            git commit -m "articulo: auto-generated $(date +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Telegram summary
+        if: always()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          SUCCESS="${{ steps.generate.outputs.success }}"
+          FAILED="${{ steps.generate.outputs.failed }}"
+          TOTAL="${{ steps.config.outputs.count }}"
+          STATUS="${{ job.status }}"
+
+          if [ "$STATUS" = "success" ] && [ "${FAILED:-0}" = "0" ]; then
+            MSG="CashCafe — $SUCCESS/$TOTAL articulos generados"
+          elif [ "${SUCCESS:-0}" != "0" ]; then
+            MSG="CashCafe — $SUCCESS/$TOTAL OK, $FAILED fallidos"
+          else
+            MSG="CashCafe — FALLO ($STATUS)"
+          fi
+
+          curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            -d chat_id="${TELEGRAM_CHAT_ID}" \
+            -d parse_mode="HTML" \
+            -d text="<b>$MSG</b>" || true
