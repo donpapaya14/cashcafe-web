@@ -575,6 +575,29 @@
   /* ── nav ────────────────────────────────────────────────────────────────── */
   .topnav-links a:hover { color: var(--ink-1); }
 
+  /* ── mobile nav ─────────────────────────────────────────────────────────── */
+  @media (max-width: 720px) {
+    .topnav-links { display: none !important; }
+    .container { padding-left: 16px !important; padding-right: 16px !important; }
+    .display { font-size: clamp(28px, 7vw, 48px) !important; }
+    .lede { font-size: 14px !important; }
+    .section-title { font-size: clamp(22px, 5.5vw, 36px) !important; }
+    .eyebrow { font-size: 10px !important; }
+    .featured-actions { flex-wrap: wrap; }
+    .featured-actions button { flex: 1 1 auto; min-width: 100px; }
+    .cafe-body { padding: 12px !important; }
+    .cafe-name { font-size: 16px !important; }
+    .cafe-specialty { font-size: 12px !important; }
+    .cafe-quote { font-size: 12px !important; padding: 10px 12px !important; }
+  }
+  @media (max-width: 420px) {
+    .featured-card { border-radius: 10px !important; }
+    .cafe-card { border-radius: 10px !important; }
+    .affiliate-card { border-radius: 10px !important; }
+    .featured-media { min-height: 280px !important; }
+    .directory-grid { gap: 16px !important; }
+  }
+
   /* ── chips ──────────────────────────────────────────────────────────────── */
   .chip {
     font-size: 12.5px; font-weight: 500;
