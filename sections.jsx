@@ -264,9 +264,9 @@ function FeaturedLocal({ t, lang, cafe, sectionRef }) {
               <button className="btn-ghost">
                 <Icon.bookmark s={14}/> {t.featured_cta_save}
               </button>
-              <button className="btn-ghost">
-                <Icon.phone s={14}/> {t.featured_cta_call}
-              </button>
+              <a href={cafe.instagram} target="_blank" rel="noopener" className="btn-ghost" style={{ textDecoration: "none" }}>
+                <Icon.ext s={14}/> Instagram
+              </a>
               <span className="featured-source">
                 <Icon.ext s={11}/> Google Business Profile
               </span>
