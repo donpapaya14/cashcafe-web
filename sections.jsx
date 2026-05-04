@@ -1003,6 +1003,14 @@ function Footer({ t, lang, onNav }) {
           <a href="https://www.youtube.com/@cashcafe4636" target="_blank" rel="noopener" style={navLink}>YouTube</a>
           <a href="https://www.instagram.com/cashcafe2020/" target="_blank" rel="noopener" style={navLink}>Instagram</a>
         </div>
+        <div style={{ display: "flex", flexWrap: "wrap", gap: 16, fontSize: 12, color: "var(--ink-2)" }}>
+          <span style={{ color: "var(--ink-3)", fontWeight: 600 }}>{lang === "es" ? "Nuestras webs:" : "Our sites:"}</span>
+          <a href="https://vida-sana-360.com" target="_blank" rel="noopener" style={navLink}>VidaSana360</a>
+          <a href="https://saludlongevidad.org" target="_blank" rel="noopener" style={navLink}>SaludLongevidad</a>
+          <a href="https://finanzasclara.uk" target="_blank" rel="noopener" style={navLink}>FinanzasClara</a>
+          <a href="https://catbrothers.uk" target="_blank" rel="noopener" style={navLink}>CatBrothers</a>
+          <a href="https://espaciointeligente.org" target="_blank" rel="noopener" style={navLink}>Espacio Inteligente</a>
+        </div>
         <div style={{ display: "flex", gap: 20, fontSize: 12, color: "var(--ink-3)" }}>
           <a href="#" onClick={(e)=>{e.preventDefault(); onNav && onNav("legal");}} style={navLink}>
             {lang === "es" ? "Aviso Legal · Privacidad · Cookies" : "Legal · Privacy · Cookies"}
