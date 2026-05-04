@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Sitemap: https://donpapaya14.github.io/cashcafe-web/sitemap.xml
+Sitemap: https://cash-cafe.org/sitemap.xml
 
 # Crawl-delay for politeness
 Crawl-delay: 1
