@@ -2625,6 +2625,382 @@ const BLOG_ARTICLES = [
       { kind: "p", text: "You don't need brute force: 15-20 kg of pressure is enough. What matters is that it's level and consistent. Tamping at an angle creates one side denser than the other, and water always takes the easy path. Practice with a scale under the portafilter until you calibrate the pressure." },
     ],
   },
+
+  { id: "post-auto-2026-05-05-357", slug: "molinillo-manual-vs-el-ctrico-cu-l-elegir-seg-n-tu-caf",
+    category: "gear", hue: 14, date: "2026-05-05", readTime: 3, author: "lucia",
+    title_es: "Molinillo manual vs eléctrico: cuál elegir según tu café",
+    title_en: "Hand grinder vs electric: which to choose for your coffee",
+    excerpt_es: "La elección entre un molinillo manual y uno eléctrico puede ser crucial para disfrutar del café perfecto. La diferencia en la consistencia del molido y el control sobre la molienda son factores clave que debes considerar.",
+    excerpt_en: "Choosing between a manual and electric grinder can make all the difference in enjoying the perfect cup of coffee. Factors such as grind consistency and control are crucial to consider.",
+    body_es: [
+    {
+        "kind": "lede",
+        "text": "La elección entre un molinillo manual y uno eléctrico puede ser crucial para disfrutar del café perfecto. La diferencia en la consistencia del molido, el control y los ajustes, la portabilidad, el ruido, la inversión inicial y el mantenimiento son factores clave que debes considerar."
+    },
+    {
+        "kind": "h2",
+        "text": "Consisencia de molido: ¿qué logra cada uno?"
+    },
+    {
+        "kind": "p",
+        "text": "Los molinillos manuales, como el Hario, ofrecen una gran uniformidad en el molido, lo que puede resultar en una extracción más precisa y un sabor más equilibrado. Por otro lado, los molinillos eléctricos, como el Baratza, pueden ofrecer una mayor velocidad y comodidad, pero pueden requerir un ajuste más preciso para lograr la consistencia deseada."
+    },
+    {
+        "kind": "ul",
+        "items": [
+            "Molinillos manuales: mayor control sobre la consistencia del molido",
+            "Molinillos eléctricos: mayor velocidad y comodidad, pero requieren ajuste preciso"
+        ]
+    },
+    {
+        "kind": "ad"
+    },
+    {
+        "kind": "h2",
+        "text": "Control y ajustes: precisión al detalle"
+    },
+    {
+        "kind": "p",
+        "text": "Los molinillos manuales suelen tener un rango de ajustes micrométricos que permiten un control preciso sobre la molienda, lo que es ideal para métodos de preparación como el espresso o el filtro. Los molinillos eléctricos, por otro lado, pueden tener sistemas de muescas que facilitan el ajuste, pero pueden requerir un poco más de práctica para dominar."
+    },
+    {
+        "kind": "ol",
+        "items": [
+            "Ajustar la molienda para espresso: 1-2 clics en un molinillo manual",
+            "Ajustar la molienda para filtro: 3-4 clics en un molinillo manual"
+        ]
+    },
+    {
+        "kind": "h2",
+        "text": "Para quién es ideal cada opción"
+    },
+    {
+        "kind": "p",
+        "text": "Los molinillos manuales son ideales para aquellos que buscan un control preciso sobre la molienda y están dispuestos a invertir un poco de tiempo y esfuerzo en el proceso. Los molinillos eléctricos, por otro lado, son ideales para aquellos que buscan comodidad y velocidad, y están dispuestos a aceptar un poco menos de control sobre la molienda."
+    }
+],
+    body_en: [
+    {
+        "kind": "lede",
+        "text": "Choosing between a manual and electric grinder can make all the difference in enjoying the perfect cup of coffee. Factors such as grind consistency, control and adjustments, portability, noise, initial investment, and maintenance are crucial to consider."
+    },
+    {
+        "kind": "h2",
+        "text": "Grind Consistency: What Each Achieves"
+    },
+    {
+        "kind": "p",
+        "text": "Manual grinders, like the Hario, offer a high level of grind uniformity, which can result in a more precise extraction and a balanced flavor. On the other hand, electric grinders, like the Baratza, can offer greater speed and convenience, but may require more precise adjustment to achieve the desired consistency."
+    },
+    {
+        "kind": "ul",
+        "items": [
+            "Manual grinders: greater control over grind consistency",
+            "Electric grinders: faster and more convenient, but require precise adjustment"
+        ]
+    },
+    {
+        "kind": "ad"
+    },
+    {
+        "kind": "h2",
+        "text": "Control and Adjustments: Precision Matters"
+    },
+    {
+        "kind": "p",
+        "text": "Manual grinders typically have a range of micrometric adjustments that allow for precise control over the grind, making them ideal for preparation methods like espresso or pour-over. Electric grinders, on the other hand, may have notch systems that make adjustment easier, but may require a bit more practice to master."
+    },
+    {
+        "kind": "ol",
+        "items": [
+            "Adjusting the grind for espresso: 1-2 clicks on a manual grinder",
+            "Adjusting the grind for pour-over: 3-4 clicks on a manual grinder"
+        ]
+    },
+    {
+        "kind": "h2",
+        "text": "Who is Each Option Best For?"
+    },
+    {
+        "kind": "p",
+        "text": "Manual grinders are ideal for those who seek precise control over the grind and are willing to invest a bit of time and effort into the process. Electric grinders, on the other hand, are ideal for those who prioritize convenience and speed, and are willing to accept a bit less control over the grind."
+    }
+],
+  },
+
+  { id: "post-auto-2026-05-05-509", slug: "prensa-francesa-vale-la-pena-o-es-un-mito",
+    category: "gear", hue: 38, date: "2026-05-05", readTime: 3, author: "david",
+    title_es: "Prensa francesa: ¿vale la pena o es un mito?",
+    title_en: "French Press: Worth It or Overrated?",
+    excerpt_es: "La prensa francesa es económica pero imperfecta: analizamos cuándo compensa usarla y cuándo es mejor optar por otros métodos de preparación.",
+    excerpt_en: "The French press is affordable but flawed—here's when it's worth using and when to choose other brewing methods instead.",
+    body_es: [
+    {
+        "kind": "lede",
+        "text": "La prensa francesa es un clásico en las cocinas de los amantes del café, pero ¿realmente vale la pena o es puro marketing? Analizamos sus ventajas, desventajas y el tipo de bebedor al que le conviene."
+    },
+    {
+        "kind": "h2",
+        "text": "¿Por qué la prensa francesa divide opiniones?"
+    },
+    {
+        "kind": "p",
+        "text": "Este método es económico (15-40€) y sencillo de usar, pero muchos baristas lo critican por dejar posos y acelerar la oxidación del café. Curiosidad histórica: pese a su nombre, fue patentado en Italia en 1929 por Attilio Calimani."
+    },
+    {
+        "kind": "h2",
+        "text": "Precio real frente a competidores directos"
+    },
+    {
+        "kind": "ul",
+        "items": [
+            "Prensa francesa básica: 15€ (sin gastos recurrentes)",
+            "V60 + filtros de papel: 20€ inicial + 5€/mes en filtros",
+            "Aeropress: 35€ (filtros reutilizables disponibles)"
+        ]
+    },
+    {
+        "kind": "p",
+        "text": "Aunque es la opción más barata, requiere molido grueso, lo que aumenta el consumo de café (hasta 20% más que métodos de filtro)."
+    },
+    {
+        "kind": "ad"
+    },
+    {
+        "kind": "h2",
+        "text": "Sabor: lo que ganas y lo que pierdes"
+    },
+    {
+        "kind": "p",
+        "text": "Según la Specialty Coffee Association (SCA), la extracción en prensa francesa es menos uniforme que en V60 debido a la inmersión total. Sin embargo, retiene aceites esenciales que aportan cuerpo y son ideales para perfiles achocolatados. No recomendada para cafés florales o de alta acidez."
+    },
+    {
+        "kind": "h2",
+        "text": "Limpieza y mantenimiento: el lado oculto"
+    },
+    {
+        "kind": "ol",
+        "items": [
+            "Limpieza básica: 2-3 minutos (desmontar filtro de malla)",
+            "Mantenimiento clave: remojar en vinagre 1 vez cada 2 semanas para eliminar aceites rancios",
+            "Comparativa: un V60 se limpia en 30 segundos con solo desechar el filtro"
+        ]
+    },
+    {
+        "kind": "h2",
+        "text": "¿Para quién merece la pena realmente?"
+    },
+    {
+        "kind": "p",
+        "text": "Si buscas economía y no te molestan los posos, es una gran opción. Para mayor claridad, existen prensas con filtro doble (desde 20€) o la Aeropress, que ofrece limpieza similar por precio comparable. Los puristas de cafés complejos deberían considerar otros métodos."
+    }
+],
+    body_en: [
+    {
+        "kind": "lede",
+        "text": "The French press sits in every coffee lover's cabinet, but does it live up to the hype? We break down its pros, cons, and who should actually use it."
+    },
+    {
+        "kind": "h2",
+        "text": "Why the French press splits opinions"
+    },
+    {
+        "kind": "p",
+        "text": "Affordable ($20-50) and foolproof, yet many baristas hate it for its sludge and oxidation issues. Fun fact: despite its name, it was patented in Italy by Attilio Calimani in 1929."
+    },
+    {
+        "kind": "h2",
+        "text": "True cost vs competitors"
+    },
+    {
+        "kind": "ul",
+        "items": [
+            "Basic French press: $20 (no recurring costs)",
+            "V60 + paper: $25 initial + $6/month for filters",
+            "Aeropress: $40 (reusable filters available)"
+        ]
+    },
+    {
+        "kind": "p",
+        "text": "While cheapest upfront, it requires coarser grinds, increasing coffee consumption by up to 20% compared to pour-over methods."
+    },
+    {
+        "kind": "ad"
+    },
+    {
+        "kind": "h2",
+        "text": "Flavor trade-offs"
+    },
+    {
+        "kind": "p",
+        "text": "SCA research shows French press extraction is less even than V60 due to full immersion. However, it retains essential oils that enhance body—perfect for chocolatey profiles. Avoid for floral or bright coffees."
+    },
+    {
+        "kind": "h2",
+        "text": "The hidden cleaning hassle"
+    },
+    {
+        "kind": "ol",
+        "items": [
+            "Basic cleanup: 2-3 min (disassembling mesh)",
+            "Key maintenance: soak in vinegar biweekly to remove rancid oils",
+            "Comparison: V60 cleans in 30 sec by just tossing the paper filter"
+        ]
+    },
+    {
+        "kind": "h2",
+        "text": "Who should actually buy one?"
+    },
+    {
+        "kind": "p",
+        "text": "Great for budget drinkers who don't mind sediment. For clarity, dual-filter presses (from $25) or Aeropress offer similar pricing. Complexity seekers should explore other brewers."
+    }
+],
+  },
+
+  { id: "post-auto-2026-05-05-985", slug: "mejora-tu-caf-con-accesorios",
+    category: "gear", hue: 14, date: "2026-05-05", readTime: 3, author: "lucia",
+    title_es: "Mejora tu café con accesorios",
+    title_en: "Upgrade Your Coffee Game",
+    excerpt_es: "Descubre qué accesorios de café realmente mejoran tu bebida y cuáles son puro marketing. Consejos prácticos de expertos.",
+    excerpt_en: "Learn which coffee tools actually improve your brew and which are just hype. Expert-backed tips for every budget.",
+    body_es: [
+    {
+        "kind": "lede",
+        "text": "El café perfecto no solo depende de los granos, sino también de los accesorios que usas. Desde el molinillo hasta el termómetro, cada herramienta puede marcar la diferencia en el sabor y la experiencia. En este artículo, exploramos cuáles valen la pena y cómo elegirlos."
+    },
+    {
+        "kind": "h2",
+        "text": "Introducción a los accesorios de café"
+    },
+    {
+        "kind": "p",
+        "text": "Según un estudio de la Universidad de California, Davis ), la consistencia en la preparación del café es clave para extraer los sabores óptimos. Accesorios como el tamper o el molinillo ayudan a controlar variables críticas como el tamaño de molienda y la presión, evitando sabores amargos o aguados."
+    },
+    {
+        "kind": "h2",
+        "text": "Tamper y distribuidor: ¿qué son y para qué sirven?"
+    },
+    {
+        "kind": "p",
+        "text": "El tamper compacta el café molido en el portafiltro para una extracción uniforme, mientras que el distribuidor nivela los granos antes de presionar. Investigaciones del Specialty Coffee Association (SCA) muestran que un mal uso del tamper puede reducir hasta un 30% la eficiencia de extracción."
+    },
+    {
+        "kind": "ul",
+        "items": [
+            "Tamper: Elige uno de acero inoxidable con base plana para mayor durabilidad.",
+            "Distribuidor: Opta por ajustes de altura regulables para diferentes dosis."
+        ]
+    },
+    {
+        "kind": "ad"
+    },
+    {
+        "kind": "h2",
+        "text": "Accesorios que valen la pena: molinillo, hervidor y termómetro"
+    },
+    {
+        "kind": "p",
+        "text": "Un molinillo de fresas (no cuchillas) garantiza una molienda uniforme, clave para evitar sobre extracción. El hervidor con control de temperatura y el termómetro son esenciales para métodos como el pour-over, donde el agua a 92-96°C optimiza los sabores, según la SCA."
+    },
+    {
+        "kind": "h2",
+        "text": "Accesorios que no valen la pena: ¿qué puedes prescindir?"
+    },
+    {
+        "kind": "p",
+        "text": "Evita gadgets como 'medidores de crema' o 'espumadores automáticos' sin respaldo científico. Un estudio del Journal of Food Science (2018) confirmó que muchos no impactan en el sabor y solo añaden complejidad innecesaria."
+    },
+    {
+        "kind": "h2",
+        "text": "Consejos para elegir los accesorios adecuados"
+    },
+    {
+        "kind": "ol",
+        "items": [
+            "Prioriza calidad sobre cantidad: Invierte en un buen molinillo antes que en múltiples herramientas.",
+            "Considera tu método de preparación: Un aeropress necesita menos accesorios que un espresso.",
+            "Espacio y presupuesto: Si tienes poca cocina, opta por herramientas multifunción."
+        ]
+    },
+    {
+        "kind": "h2",
+        "text": "Conclusión: cómo mejorar tu café con accesorios"
+    },
+    {
+        "kind": "p",
+        "text": "Los accesorios correctos, usados con técnica adecuada, transforman tu café de bueno a excepcional. Enfócate en herramientas probadas (molinillo, tamper) y descarta las modas sin fundamento. ¡Tu paladar y tu billetera lo agradecerán!"
+    }
+],
+    body_en: [
+    {
+        "kind": "lede",
+        "text": "Great coffee isn’t just about the beans—it’s about the tools you use. From grinders to kettles, each accessory can elevate or ruin your brew. Here’s a no-nonsense guide to the gear that matters and how to choose it."
+    },
+    {
+        "kind": "h2",
+        "text": "Why Coffee Accessories Matter"
+    },
+    {
+        "kind": "p",
+        "text": "Research from UC Davis shows that consistency in brewing is crucial for flavor extraction. Tools like tampers and grinders help control variables like grind size and pressure, preventing bitter or weak coffee."
+    },
+    {
+        "kind": "h2",
+        "text": "Tamper and Distributor: The Dynamic Duo"
+    },
+    {
+        "kind": "p",
+        "text": "A tamper compacts coffee grounds for even extraction, while a distributor levels them beforehand. The Specialty Coffee Association (SCA) found that improper tamping can reduce extraction efficiency by 30%."
+    },
+    {
+        "kind": "ul",
+        "items": [
+            "Tamper: Choose stainless steel with a flat base for durability.",
+            "Distributor: Look for adjustable height settings for different doses."
+        ]
+    },
+    {
+        "kind": "ad"
+    },
+    {
+        "kind": "h2",
+        "text": "Worth-It Accessories: Grinder, Kettle, Thermometer"
+    },
+    {
+        "kind": "p",
+        "text": "A burr grinder (not blades) ensures uniform grounds, key to avoiding over-extraction. A gooseneck kettle and thermometer are must-haves for pour-over, where water at 195-205°F (SCA standard) unlocks optimal flavors."
+    },
+    {
+        "kind": "h2",
+        "text": "Skip These: Overhyped Tools"
+    },
+    {
+        "kind": "p",
+        "text": "Avoid gimmicks like 'crema gauges' or automatic frothers without scientific backing. A 2018 Journal of Food Science study confirmed most don’t impact taste and just add clutter."
+    },
+    {
+        "kind": "h2",
+        "text": "How to Choose the Right Gear"
+    },
+    {
+        "kind": "ol",
+        "items": [
+            "Quality over quantity: Invest in a good grinder first.",
+            "Match your brew method: Espresso needs more tools than French press.",
+            "Space and budget: Compact kitchens benefit from multi-use tools."
+        ]
+    },
+    {
+        "kind": "h2",
+        "text": "Final Tip: Less Is More"
+    },
+    {
+        "kind": "p",
+        "text": "The right tools, used correctly, turn good coffee into extraordinary. Focus on proven gear (grinder, tamper) and skip the hype. Your taste buds—and wallet—will thank you."
+    }
+],
+  },
 ];
 
 window.BLOG_CATEGORIES = BLOG_CATEGORIES;
