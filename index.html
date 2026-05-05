@@ -2468,9 +2468,24 @@ function App() {
   const [geo, setGeo] = useState(null);
   const [geoState, setGeoState] = useState("idle");
 
+  // Leer URL inicial (soporta navegación directa y redirect desde 404.html)
+  const _parseInitialURL = () => {
+    const params = new URLSearchParams(window.location.search);
+    const redirected = params.get("p");
+    const path = redirected || window.location.pathname;
+    if (path.startsWith("/blog/")) {
+      const slug = path.replace(/^\/blog\//, "").replace(/\/$/, "");
+      const exists = (typeof BLOG_ARTICLES !== "undefined") && BLOG_ARTICLES.find(a => a.slug === slug);
+      return { view: exists ? "article" : "blog", slug: exists ? slug : null };
+    }
+    if (path === "/blog" || path === "/blog/") return { view: "blog", slug: null };
+    return { view: "home", slug: null };
+  };
+  const _init = _parseInitialURL();
+
   // view: "home" | "blog" | "article"; articleSlug only relevant when "article"
-  const [view, setView] = useState("home");
-  const [articleSlug, setArticleSlug] = useState(null);
+  const [view, setView] = useState(_init.view);
+  const [articleSlug, setArticleSlug] = useState(_init.slug);
 
   const t = I18N[lang];
 
@@ -2487,6 +2502,40 @@ function App() {
       ? "Cash Café — Guía global de cafeterías"
       : "Cash Café — A global coffee guide";
   }, [lang]);
+
+  // Sincronizar URL con estado (SEO: cada artículo tiene su propia URL)
+  useEffect(() => {
+    let path;
+    if (view === "article" && articleSlug) path = `/blog/${articleSlug}`;
+    else if (view === "blog") path = "/blog";
+    else path = "/";
+    const current = window.location.pathname + window.location.search;
+    if (current !== path) {
+      // Si venimos del redirect 404 (?p=...) → replaceState para no añadir entrada extra
+      if (window.location.search.includes("p=")) {
+        window.history.replaceState({ view, articleSlug }, "", path);
+      } else {
+        window.history.pushState({ view, articleSlug }, "", path);
+      }
+    }
+  }, [view, articleSlug]);
+
+  // Manejar botón atrás/adelante del navegador
+  useEffect(() => {
+    const handlePop = (e) => {
+      const state = e.state;
+      if (state && state.view) {
+        setView(state.view);
+        setArticleSlug(state.articleSlug || null);
+      } else {
+        setView("home");
+        setArticleSlug(null);
+      }
+      window.scrollTo({ top: 0, behavior: "instant" });
+    };
+    window.addEventListener("popstate", handlePop);
+    return () => window.removeEventListener("popstate", handlePop);
+  }, []);
 
   const onNav = (where) => {
     if (where === "home") {
