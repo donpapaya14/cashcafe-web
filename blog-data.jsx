@@ -3001,6 +3001,305 @@ const BLOG_ARTICLES = [
     }
 ],
   },
+
+  { id: "post-auto-2026-05-06-136", slug: "cafeter-a-la-colombe",
+    category: "culture", hue: 34, date: "2026-05-06", readTime: 3, author: "david",
+    title_es: "Cafetería La Colombe",
+    title_en: "La Colombe Cafe",
+    excerpt_es: "La Colombe es una de las cafeterías más reconocidas en la escena del café especialidad, con una historia que se remonta a 1994. Con ubicaciones en varias ciudades de Estados Unidos, La Colombe ha obtenido numerosos premios por su compromiso con la calidad y la innovación en el mundo del café.",
+    excerpt_en: "La Colombe is one of the most recognized coffee shops in the specialty coffee scene, with a history dating back to 1994. With locations in several US cities, La Colombe has won numerous awards for its commitment to quality and innovation in the world of coffee.",
+    body_es: [
+    {
+        "kind": "lede",
+        "text": "La Colombe es una de las cafeterías más reconocidas en la escena del café especialidad, con una historia que se remonta a 1994 cuando fue fundada por Todd Carmichael y J.P. Iberti en Filadelfia. Con ubicaciones en varias ciudades de Estados Unidos, La Colombe ha obtenido numerosos premios por su compromiso con la calidad y la innovación en el mundo del café."
+    },
+    {
+        "kind": "h2",
+        "text": "Introducción a La Colombe"
+    },
+    {
+        "kind": "p",
+        "text": "La Colombe se ha expandido a lo largo de los años, con ubicaciones en ciudades como Nueva York, Chicago y Washington D.C. La cafetería ha recibido premios como el de 'Mejor Cafetería' en la revista Philadelphia Magazine y ha sido reconocida por su compromiso con la sostenibilidad y la calidad en la industria del café."
+    },
+    {
+        "kind": "h2",
+        "text": "Filosofía de la calidad"
+    },
+    {
+        "kind": "p",
+        "text": "La Colombe se enfoca en la calidad del café, seleccionando granos de alta calidad y utilizando métodos de tostado que resaltan el sabor y la complejidad de cada variedad. La cafetería trabaja directamente con productores de café en todo el mundo para asegurarse de que los granos sean frescos y de la más alta calidad."
+    },
+    {
+        "kind": "ad"
+    },
+    {
+        "kind": "h2",
+        "text": "Innovaciones y colaboraciones"
+    },
+    {
+        "kind": "p",
+        "text": "La Colombe ha sido pionera en la innovación en la industria del café, colaborando con otros expertos en café y contribuyendo a la comunidad a través de proyectos y eventos. La cafetería ha lanzado iniciativas como su programa de 'Café Sostenible', que busca reducir el impacto ambiental de la producción de café."
+    },
+    {
+        "kind": "h2",
+        "text": "Experiencia en la cafetería"
+    },
+    {
+        "kind": "p",
+        "text": "La experiencia en La Colombe es única, con un ambiente acogedor y un servicio al cliente atento y conocedor. La variedad de opciones de café es amplia, con desde clásicos como el espresso y el cappuccino hasta opciones más innovadoras como el 'Corsica' y el 'Kersting'. El menú de acompañamiento ofrece opciones deliciosas como pasteles y sandwiches."
+    }
+],
+    body_en: [
+    {
+        "kind": "lede",
+        "text": "La Colombe is one of the most recognized coffee shops in the specialty coffee scene, with a history dating back to 1994 when it was founded by Todd Carmichael and J.P. Iberti in Philadelphia. With locations in several US cities, La Colombe has won numerous awards for its commitment to quality and innovation in the world of coffee."
+    },
+    {
+        "kind": "h2",
+        "text": "Introduction to La Colombe"
+    },
+    {
+        "kind": "p",
+        "text": "La Colombe has expanded over the years, with locations in cities like New York, Chicago, and Washington D.C. The coffee shop has received awards such as 'Best Coffee Shop' in Philadelphia Magazine and has been recognized for its commitment to sustainability and quality in the coffee industry."
+    },
+    {
+        "kind": "h2",
+        "text": "Quality Philosophy"
+    },
+    {
+        "kind": "p",
+        "text": "La Colombe focuses on the quality of its coffee, selecting high-quality beans and using roasting methods that bring out the flavor and complexity of each variety. The coffee shop works directly with coffee producers around the world to ensure that the beans are fresh and of the highest quality."
+    },
+    {
+        "kind": "ad"
+    },
+    {
+        "kind": "h2",
+        "text": "Innovations and Collaborations"
+    },
+    {
+        "kind": "p",
+        "text": "La Colombe has been a pioneer in innovation in the coffee industry, collaborating with other coffee experts and contributing to the community through projects and events. The coffee shop has launched initiatives such as its 'Sustainable Coffee' program, which aims to reduce the environmental impact of coffee production."
+    },
+    {
+        "kind": "h2",
+        "text": "Coffee Shop Experience"
+    },
+    {
+        "kind": "p",
+        "text": "The experience at La Colombe is unique, with a cozy atmosphere and attentive, knowledgeable customer service. The variety of coffee options is extensive, ranging from classics like espresso and cappuccino to more innovative options like 'Corsica' and 'Kersting'. The accompanying menu offers delicious options like pastries and sandwiches."
+    }
+],
+  },
+
+  { id: "post-auto-2026-05-06-874", slug: "caf-perfecto-para-trabajar",
+    category: "recipes", hue: 38, date: "2026-05-06", readTime: 3, author: "marcos",
+    title_es: "Café perfecto para trabajar",
+    title_en: "Coffee for productivity",
+    excerpt_es: "Descubre cómo la ciencia y la técnica se unen para crear el café perfecto que potencia tu productividad, desde el ratio ideal hasta la temperatura óptima.",
+    excerpt_en: "Learn how science and technique combine to brew the perfect productivity-boosting coffee, from ideal ratios to optimal temperatures.",
+    body_es: [
+    {
+        "kind": "lede",
+        "text": "El café no solo es un placer matutino, sino un aliado científico para la productividad. Encontrar la receta perfecta puede marcar la diferencia entre un día lento y uno lleno de energía y enfoque. Aquí te explicamos cómo lograrlo."
+    },
+    {
+        "kind": "h2",
+        "text": "La ciencia detrás del café productivo"
+    },
+    {
+        "kind": "p",
+        "text": "Según un estudio de la Universidad de Harvard, la cafeína bloquea los receptores de adenosina en el cerebro, lo que reduce la sensación de fatiga y mejora la concentración. Además, antioxidantes como el ácido clorogénico (presente en el café) pueden mejorar la función cognitiva, según investigaciones del Instituto Nacional de Salud de EE.UU."
+    },
+    {
+        "kind": "h2",
+        "text": "El ratio óptimo de café y agua"
+    },
+    {
+        "kind": "p",
+        "text": "La Specialty Coffee Association recomienda un ratio de 1:16 a 1:18 (café:agua) para una extracción equilibrada. Por ejemplo, 20 gramos de café para 320 ml de agua. Ratios más altos (como 1:15) intensifican el sabor y la cafeína, pero pueden ser amargos."
+    },
+    {
+        "kind": "h2",
+        "text": "La temperatura ideal"
+    },
+    {
+        "kind": "p",
+        "text": "El agua entre 90°C y 96°C extrae mejor los compuestos del café sin quemarlo. Un estudio del Journal of Agricultural and Food Chemistry confirmó que temperaturas más bajas (80°C) reducen la extracción de cafeína en un 20%."
+    },
+    {
+        "kind": "ad"
+    },
+    {
+        "kind": "h2",
+        "text": "Métodos de preparación"
+    },
+    {
+        "kind": "ul",
+        "items": [
+            "V60: Extracción limpia y brillante, ideal para perfiles frutales.",
+            "French Press: Cuerpo denso y mayor concentración de aceites (y cafeína).",
+            "Pour-over: Control preciso, pero requiere práctica para dominar el flujo."
+        ]
+    },
+    {
+        "kind": "h2",
+        "text": "Personaliza tu café"
+    },
+    {
+        "kind": "p",
+        "text": "¿Leche o azúcar? Un estudio de la Universidad de Barcelona revela que añadir leche entera ralentiza la absorción de cafeína, prolongando su efecto. Pero cuidado: el azúcar refinado puede causar picos de energía seguidos de bajones."
+    }
+],
+    body_en: [
+    {
+        "kind": "lede",
+        "text": "Coffee isn’t just a morning ritual—it’s a science-backed productivity booster. Finding your perfect brew can turn a sluggish day into one fueled by focus and energy. Here’s how to craft it."
+    },
+    {
+        "kind": "h2",
+        "text": "The Science of Productive Coffee"
+    },
+    {
+        "kind": "p",
+        "text": "Research from Harvard University shows caffeine blocks adenosine receptors in the brain, reducing fatigue and sharpening focus. Plus, antioxidants like chlorogenic acid (abundant in coffee) may enhance cognitive function, per NIH studies."
+    },
+    {
+        "kind": "h2",
+        "text": "The Goldilocks Ratio: Coffee to Water"
+    },
+    {
+        "kind": "p",
+        "text": "The Specialty Coffee Association recommends a 1:16 to 1:18 coffee-to-water ratio for balanced extraction. Example: 20g coffee for 320ml water. Stronger ratios (e.g., 1:15) pack more caffeine but risk bitterness."
+    },
+    {
+        "kind": "h2",
+        "text": "Temperature Matters"
+    },
+    {
+        "kind": "p",
+        "text": "Water at 195–205°F (90–96°C) extracts flavors optimally without scorching. A study in the Journal of Agricultural and Food Chemistry found lower temps (175°F/80°C) reduce caffeine extraction by 20%."
+    },
+    {
+        "kind": "ad"
+    },
+    {
+        "kind": "h2",
+        "text": "Brew Methods Decoded"
+    },
+    {
+        "kind": "ul",
+        "items": [
+            "V60: Bright, clean flavors—perfect for fruity notes.",
+            "French Press: Bold body with more oils (and caffeine).",
+            "Pour-over: Precision control, but mastering flow is key."
+        ]
+    },
+    {
+        "kind": "h2",
+        "text": "Make It Your Own"
+    },
+    {
+        "kind": "p",
+        "text": "Cream or sugar? University of Barcelona research shows whole milk slows caffeine absorption for sustained energy. But refined sugar? It may lead to energy crashes post-spike."
+    }
+],
+  },
+
+  { id: "post-auto-2026-05-06-575", slug: "filtros-de-agua-para-cafe",
+    category: "gear", hue: 16, date: "2026-05-06", readTime: 3, author: "marcos",
+    title_es: "Filtros de agua para cafe",
+    title_en: "Water Filters for Coffee",
+    excerpt_es: "El agua es un ingrediente fundamental en la preparación del café, y su calidad puede influir significativamente en el sabor y la calidad del brebaje. En este artículo, exploraremos los diferentes tipos de filtros de agua disponibles y cómo pueden ayudar a mejorar el sabor del café.",
+    excerpt_en: "Water is a crucial ingredient in coffee preparation, and its quality can significantly impact the flavor and quality of the brew. In this article, we'll explore the different types of water filters available and how they can help improve the taste of your coffee.",
+    body_es: [
+    {
+        "kind": "lede",
+        "text": "El agua es un ingrediente fundamental en la preparación del café, y su calidad puede influir significativamente en el sabor y la calidad del brebaje. En este artículo, exploraremos los diferentes tipos de filtros de agua disponibles y cómo pueden ayudar a mejorar el sabor del café."
+    },
+    {
+        "kind": "h2",
+        "text": "Tipos de filtros de agua"
+    },
+    {
+        "kind": "p",
+        "text": "Existen varios tipos de filtros de agua disponibles, cada uno con sus propias ventajas y desventajas. Los filtros de carbón activado son efectivos para eliminar impurezas y mejorar el sabor del agua, mientras que los filtros de ósmosis inversa pueden eliminar hasta el 99% de las impurezas y minerales del agua. Los filtros de cerámica también son una opción popular, ya que pueden eliminar bacterias y virus del agua."
+    },
+    {
+        "kind": "ul",
+        "items": [
+            "Filtros de carbón activado",
+            "Filtros de ósmosis inversa",
+            "Filtros de cerámica"
+        ]
+    },
+    {
+        "kind": "ad"
+    },
+    {
+        "kind": "h2",
+        "text": "Cómo afecta el agua al sabor del café"
+    },
+    {
+        "kind": "p",
+        "text": "La calidad del agua puede influir significativamente en el sabor del café. El pH del agua, la dureza del agua y la presencia de impurezas pueden afectar la extracción del café y el sabor final del brebaje. Un estudio de la Universidad de California encontró que el agua con un pH alto puede extraer más compuestos amargos del café, lo que puede resultar en un sabor desagradable."
+    },
+    {
+        "kind": "h2",
+        "text": "Precios y opciones para diferentes presupuestos"
+    },
+    {
+        "kind": "p",
+        "text": "Existen opciones de filtros de agua para diferentes presupuestos. Los filtros de carbón activado pueden ser una opción económica, mientras que los filtros de ósmosis inversa pueden ser más costosos. Es importante investigar y comparar precios y características antes de tomar una decisión."
+    }
+],
+    body_en: [
+    {
+        "kind": "lede",
+        "text": "Water is a crucial ingredient in coffee preparation, and its quality can significantly impact the flavor and quality of the brew. In this article, we'll explore the different types of water filters available and how they can help improve the taste of your coffee."
+    },
+    {
+        "kind": "h2",
+        "text": "Types of Water Filters"
+    },
+    {
+        "kind": "p",
+        "text": "There are several types of water filters on the market, each with its own advantages and disadvantages. Activated carbon filters are effective at removing impurities and improving the taste of water, while reverse osmosis filters can remove up to 99% of impurities and minerals from water. Ceramic filters are also a popular option, as they can remove bacteria and viruses from water."
+    },
+    {
+        "kind": "ul",
+        "items": [
+            "Activated Carbon Filters",
+            "Reverse Osmosis Filters",
+            "Ceramic Filters"
+        ]
+    },
+    {
+        "kind": "ad"
+    },
+    {
+        "kind": "h2",
+        "text": "How Water Affects the Taste of Coffee"
+    },
+    {
+        "kind": "p",
+        "text": "The quality of water can have a significant impact on the taste of coffee. The pH level of the water, the water hardness, and the presence of impurities can all affect the extraction of the coffee and the final flavor of the brew. A study by the University of California found that water with a high pH level can extract more bitter compounds from the coffee, resulting in an unpleasant taste."
+    },
+    {
+        "kind": "h2",
+        "text": "Prices and Options for Different Budgets"
+    },
+    {
+        "kind": "p",
+        "text": "There are water filter options available for different budgets. Activated carbon filters can be a budget-friendly option, while reverse osmosis filters can be more expensive. It's essential to research and compare prices and features before making a decision."
+    },
+    {
+        "kind": "blockquote",
+        "text": "The right water filter can make a significant difference in the taste of your coffee. By choosing a filter that meets your needs and budget, you can enjoy a better-tasting cup of coffee every time.",
+        "cite": "Coffee Connoisseur Magazine"
+    }
+],
+  },
 ];
 
 window.BLOG_CATEGORIES = BLOG_CATEGORIES;
