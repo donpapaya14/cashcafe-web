@@ -8,11 +8,6 @@ const latestPosts = allPosts
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
   .slice(0, 3);
 
-// Phone is null in source data — placeholder until owner confirms
-const PHONE = '{{ PHONE_HERE }}';
-const WA_NUMBER = '{{ WHATSAPP_HERE }}'; // E.164 sin +, ej: 34600000000
-const WA_MSG = encodeURIComponent('Hola, me gustaria reservar una mesa en Cash Cafe.');
-const waLink = `https://wa.me/${WA_NUMBER}?text=${WA_MSG}`;
 ---
 
 <BaseLayout
@@ -34,8 +29,8 @@ const waLink = `https://wa.me/${WA_NUMBER}?text=${WA_MSG}`;
           Sin prisas, sin postureo.
         </p>
         <div class="hero__actions">
-          <a href={waLink} class="btn-primary" target="_blank" rel="noopener">Reservar por WhatsApp &rarr;</a>
-          <a href="#carta" class="btn-ghost">Ver la carta</a>
+          <a href="#carta" class="btn-primary">Ver la carta</a>
+          <a href="https://maps.google.com/?cid=cash+cafe+beniel" target="_blank" rel="noopener" class="btn-ghost">Cómo llegar</a>
         </div>
 
         <div class="pop-chips" aria-label="Información clave">
@@ -49,26 +44,26 @@ const waLink = `https://wa.me/${WA_NUMBER}?text=${WA_MSG}`;
   </section>
 
   <!-- Visítanos / mapa + datos clave -->
-  <section class="section section--alt">
+  <section class="section section--alt visit-section">
+    <div class="visit-bg" aria-hidden="true">
+      <img src="/assets/cashcafe-interior.png" alt="" loading="lazy" />
+    </div>
     <div class="container visit-grid">
-      <div>
+      <div class="visit-text">
         <div class="eyebrow">Visítanos</div>
         <h2 class="section-title">Av. del Reino, 16 · Beniel</h2>
-        <p class="lede" style="max-width:520px">
-          Estamos a la entrada del pueblo. Aparcamiento fácil en la calle, terraza con sombra y wifi para los que se quedan a trabajar la mañana.
+        <p class="lede" style="max-width:560px">
+          Somos una cafetería pequeña con el mejor café de la zona. Llevamos más de 10 años ofreciendo los mejores desayunos en Beniel.
         </p>
 
         <ul class="visit-info">
           <li><strong>Dirección:</strong> Avenida del Reino, 16, 30130 Beniel (Murcia)</li>
           <li><strong>Horario:</strong> Lun–Vie 06:45–15:00 · Sáb 06:45–14:00 · Dom cerrado</li>
           <li><strong>Valoración:</strong> 4,7/5 (86 reseñas en Google)</li>
-          <li><strong>Servicios:</strong> Terraza · WiFi · Reservas · Take-away</li>
         </ul>
 
         <div class="cta-row">
-          <a href={`tel:${PHONE}`} class="btn-primary">Llámanos</a>
-          <a href={waLink} class="btn-ghost" target="_blank" rel="noopener">WhatsApp</a>
-          <a href="https://maps.google.com/?cid=cash+cafe+beniel" target="_blank" rel="noopener" class="btn-ghost">Cómo llegar</a>
+          <a href="https://maps.google.com/?cid=cash+cafe+beniel" target="_blank" rel="noopener" class="btn-primary">Cómo llegar</a>
         </div>
       </div>
       <div class="map-wrap">
@@ -85,6 +80,35 @@ const waLink = `https://wa.me/${WA_NUMBER}?text=${WA_MSG}`;
       </div>
     </div>
   </section>
+
+  <style>
+    .visit-section {
+      position: relative;
+      isolation: isolate;
+    }
+    .visit-bg {
+      position: absolute;
+      inset: 0;
+      z-index: -1;
+      overflow: hidden;
+    }
+    .visit-bg img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center;
+      filter: brightness(.4) saturate(1.1);
+    }
+    .visit-section .visit-text,
+    .visit-section .visit-info,
+    .visit-section .lede,
+    .visit-section .section-title,
+    .visit-section .eyebrow {
+      color: #fff;
+    }
+    .visit-section .visit-info strong { color: #fff; }
+    .visit-section .map-wrap iframe { border-radius: 12px; box-shadow: 0 6px 30px rgba(0,0,0,.3); }
+  </style>
 
   <!-- Carta -->
   <section id="carta" class="section">
@@ -166,7 +190,7 @@ const waLink = `https://wa.me/${WA_NUMBER}?text=${WA_MSG}`;
       </div>
       <p class="lede" style="max-width:640px">
         Catas guiadas, talleres de barista y tardes de música acústica.
-        Aforo reducido para que se disfrute sin agobios — reserva por WhatsApp.
+        Aforo reducido para que se disfrute sin agobios — pásate por el local para apuntarte.
       </p>
 
       <div class="events-grid">
@@ -174,26 +198,22 @@ const waLink = `https://wa.me/${WA_NUMBER}?text=${WA_MSG}`;
           <div class="event-card__tag">Cata</div>
           <h3>Cata de café de especialidad</h3>
           <p>Catamos 3 orígenes distintos en V60. Aprende a leer aroma, acidez y cuerpo. Plazas: 8.</p>
-          <a href={waLink} class="event-card__cta" target="_blank" rel="noopener">Reservar plaza &rarr;</a>
         </article>
         <article class="event-card">
           <div class="event-card__tag">Taller</div>
           <h3>Iniciación al espresso casero</h3>
           <p>Molienda, dosis, tamping y extracción. Te llevas la receta para tu cafetera. Plazas: 6.</p>
-          <a href={waLink} class="event-card__cta" target="_blank" rel="noopener">Reservar plaza &rarr;</a>
         </article>
         <article class="event-card">
           <div class="event-card__tag">Música</div>
           <h3>Acústico de tarde</h3>
           <p>Música en directo en la terraza, formato íntimo. Consumo libre, mesas limitadas.</p>
-          <a href={waLink} class="event-card__cta" target="_blank" rel="noopener">Reservar mesa &rarr;</a>
         </article>
       </div>
 
       <p class="micro" style="margin-top:24px;color:var(--ink-3)">
         Fechas concretas de cada evento — síguenos en
-        <a href="https://www.instagram.com/cashcafe2020/" target="_blank" rel="noopener">Instagram</a>
-        o pregunta directamente por WhatsApp.
+        <a href="https://www.instagram.com/cashcafe2020/" target="_blank" rel="noopener">Instagram</a>.
       </p>
     </div>
   </section>
@@ -203,9 +223,9 @@ const waLink = `https://wa.me/${WA_NUMBER}?text=${WA_MSG}`;
     <div class="container contact-grid">
       <div>
         <div class="eyebrow">Contacto</div>
-        <h2 class="section-title">Habla con nosotros</h2>
+        <h2 class="section-title">Pásate a vernos</h2>
         <p class="lede" style="max-width:520px">
-          Reservas, eventos privados, alergias o cualquier duda — la forma más rápida es WhatsApp.
+          Estamos en el centro de Beniel. Síguenos en redes para enterarte de eventos y novedades.
         </p>
 
         <ul class="contact-list">
@@ -216,14 +236,6 @@ const waLink = `https://wa.me/${WA_NUMBER}?text=${WA_MSG}`;
           <li>
             <strong>Horario</strong>
             <span>Lun–Vie 06:45–15:00 · Sáb 06:45–14:00 · Dom cerrado</span>
-          </li>
-          <li>
-            <strong>Teléfono</strong>
-            <span><a href={`tel:${PHONE}`}>{PHONE}</a></span>
-          </li>
-          <li>
-            <strong>WhatsApp</strong>
-            <span><a href={waLink} target="_blank" rel="noopener">Escríbenos por WhatsApp</a></span>
           </li>
           <li>
             <strong>Instagram</strong>
@@ -240,8 +252,7 @@ const waLink = `https://wa.me/${WA_NUMBER}?text=${WA_MSG}`;
         </ul>
 
         <div class="cta-row" style="margin-top:18px">
-          <a href={waLink} class="btn-primary" target="_blank" rel="noopener">Reservar por WhatsApp</a>
-          <a href={`tel:${PHONE}`} class="btn-ghost">Llamar al local</a>
+          <a href="https://maps.google.com/?cid=cash+cafe+beniel" target="_blank" rel="noopener" class="btn-primary">Cómo llegar</a>
         </div>
       </div>
       <div class="map-wrap">
