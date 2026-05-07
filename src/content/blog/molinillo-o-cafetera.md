@@ -8,8 +8,8 @@ author: "Ana Rivero"
 readingTime: 5
 sources: []
 draft: false
+image: https://images.pexels.com/photos/434213/pexels-photo-434213.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 You've got €500, a moka pot that's been with you for years, and an itch to level up. The question everyone asks: machine or grinder first? The answer has been the same for decades.
 
 ## The grinder always wins

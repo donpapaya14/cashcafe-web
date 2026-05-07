@@ -8,8 +8,8 @@ author: "David Aguilar"
 readingTime: 5
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1493080/pexels-photo-1493080.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 90% of supermarket coffee bags say nothing useful. Learn to read a specialty coffee label and never buy blind again.
 
 ## The essentials

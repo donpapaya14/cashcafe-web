@@ -8,8 +8,8 @@ author: "David Aguilar"
 readingTime: 3
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1565982/pexels-photo-1565982.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Berlin, the German capital, is renowned for its thriving cultural scene and love of coffee. The city boasts a rich coffee history dating back to the 18th century, making it a must-visit destination for any coffee aficionado.
 
 ## Introduction to Berlin's Coffee Scene

@@ -8,8 +8,8 @@ author: "Lucía Pardo"
 readingTime: 7
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1233528/pexels-photo-1233528.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 While cold brew submerges coffee in cold water for 12-24 hours, Kyoto drip uses gravity: ice-cold water drips slowly over ground coffee, passing through it drop by drop. The result is a clean, sweet, complex concentrate that the Japanese have been perfecting since the 1960s.
 
 ## How it works

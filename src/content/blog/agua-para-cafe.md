@@ -8,8 +8,8 @@ author: "Lucía Pardo"
 readingTime: 6
 sources: []
 draft: false
+image: https://images.pexels.com/photos/129207/pexels-photo-129207.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Your coffee is 98% water. You can have the best beans, the perfect grinder and a champion's technique — if the water is bad, the cup will be bad. That simple.
 
 ## What makes good coffee water

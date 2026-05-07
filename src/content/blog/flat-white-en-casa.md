@@ -8,8 +8,8 @@ author: "Marcos Llovera"
 readingTime: 4
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1233528/pexels-photo-1233528.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 A flat white isn't a small latte. It's milk with perfect microfoam poured over a double espresso. The difference is all texture — and yes, you can nail it without bar equipment.
 
 ## What you need

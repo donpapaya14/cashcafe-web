@@ -8,8 +8,8 @@ author: "Lucía Pardo"
 readingTime: 7
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1233528/pexels-photo-1233528.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Manual or electric grinder: the question every coffee enthusiast asks at least once. The answer depends on how many cups you make a day, which method you use, and how much you value your time at 7 AM. Let's look at the data.
 
 ## Manual grinder: portable precision

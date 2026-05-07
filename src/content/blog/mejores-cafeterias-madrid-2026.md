@@ -8,8 +8,8 @@ author: "Ana Rivero"
 readingTime: 8
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Madrid has become one of Europe's specialty coffee capitals. These five spots aren't seasonal trends — they've been proving for years that Madrid drinks real coffee.
 
 ## 1. Hola Coffee — The benchmark roaster

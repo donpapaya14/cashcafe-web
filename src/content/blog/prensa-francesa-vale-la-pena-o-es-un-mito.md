@@ -8,8 +8,8 @@ author: "David Aguilar"
 readingTime: 3
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1438191/pexels-photo-1438191.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 The French press sits in every coffee lover's cabinet, but does it live up to the hype? We break down its pros, cons, and who should actually use it.
 
 ## Why the French press splits opinions

@@ -8,8 +8,8 @@ author: "Ana Rivero"
 readingTime: 6
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1144176/pexels-photo-1144176.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 If you brew V60, Chemex, or any pour-over coffee, a gooseneck kettle isn't a luxury: it's the tool that controls how much water falls, where it falls, and how fast. That precision translates directly into flavor.
 
 ## Why gooseneck

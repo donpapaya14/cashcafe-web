@@ -8,8 +8,8 @@ author: "Lucía Pardo"
 readingTime: 8
 sources: []
 draft: false
+image: https://images.pexels.com/photos/542302/pexels-photo-542302.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 We asked six baristas from shops featured in this guide: what's your home V60 recipe? Five out of six agreed on the essentials. This is that recipe.
 
 ## Ingredients and ratio

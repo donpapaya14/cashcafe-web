@@ -8,8 +8,8 @@ author: "Lucía Pardo"
 readingTime: 6
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 A cezve, coffee ground to powder, and patience. Turkish coffee is UNESCO heritage and tastes like history.
 
 ## Coming up

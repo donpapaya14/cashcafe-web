@@ -8,8 +8,8 @@ author: "David Aguilar"
 readingTime: 4
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1304538/pexels-photo-1304538.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Don't fill with boiling water, don't tamp, don't let it gurgle. Your moka can do so much better.
 
 ## Coming up

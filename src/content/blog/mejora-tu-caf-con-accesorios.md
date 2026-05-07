@@ -8,8 +8,8 @@ author: "Lucía Pardo"
 readingTime: 3
 sources: []
 draft: false
+image: https://images.pexels.com/photos/434213/pexels-photo-434213.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Great coffee isn’t just about the beans—it’s about the tools you use. From grinders to kettles, each accessory can elevate or ruin your brew. Here’s a no-nonsense guide to the gear that matters and how to choose it.
 
 ## Why Coffee Accessories Matter

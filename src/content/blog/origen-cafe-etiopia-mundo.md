@@ -8,8 +8,8 @@ author: "Lucía Pardo"
 readingTime: 7
 sources: []
 draft: false
+image: https://images.pexels.com/photos/5946640/pexels-photo-5946640.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 It all started in the Ethiopian highlands, where a shepherd named Kaldi noticed his goats dancing after eating certain red berries. From there to your morning espresso: here's the short version.
 
 ## Ethiopia: the birthplace (9th century)

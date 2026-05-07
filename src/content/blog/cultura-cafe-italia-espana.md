@@ -8,8 +8,8 @@ author: "Marcos Llovera"
 readingTime: 7
 sources: []
 draft: false
+image: https://images.pexels.com/photos/2074131/pexels-photo-2074131.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Italy and Spain are Mediterranean Europe's two great coffee countries. Both drink espresso, both have bars on every corner, but the unwritten rules of coffee are completely opposite. Here are the ones that clash most.
 
 ## The cappuccino: the 11 o'clock rule

@@ -8,8 +8,8 @@ author: "Marcos Llovera"
 readingTime: 6
 sources: []
 draft: false
+image: https://images.pexels.com/photos/773958/pexels-photo-773958.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 The Espresso Martini was invented by Dick Bradsell in London in the 1980s when a model asked him for a cocktail that would 'wake me up.' Since then it has become the most ordered cocktail in bars around the world. The recipe is simple, but the details matter.
 
 ## The bar recipe

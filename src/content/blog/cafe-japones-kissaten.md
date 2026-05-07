@@ -8,8 +8,8 @@ author: "David Aguilar"
 readingTime: 8
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1269025/pexels-photo-1269025.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Kissaten are traditional Japanese coffeehouses that have been serving hand-prepared filter coffee, cup by cup, since the 1920s. Long before the third wave made pour-over trendy, kissaten masters had already perfected nel drip and spiral pouring with clockmaker precision.
 
 ## What is a kissaten

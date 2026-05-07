@@ -8,8 +8,8 @@ author: "Ana Rivero"
 readingTime: 6
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Nitro coffee infuses cold brew with nitrogen to create a velvety texture and persistent foam without milk or sugar. Cafés use kegs and pressure systems, but at home you can get a similar result with a whipped cream dispenser and an N2O cartridge.
 
 ## What you need

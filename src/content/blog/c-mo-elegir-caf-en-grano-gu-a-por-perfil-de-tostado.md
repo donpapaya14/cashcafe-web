@@ -8,8 +8,8 @@ author: "Ana Rivero"
 readingTime: 3
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1207737/pexels-photo-1207737.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Picking coffee beans is like choosing a soundtrack for your morning. The roast profile sets the tone—from the bright citrus notes of light roasts to the deep bass of dark ones. This guide will help you decode the labels and brew with confidence.
 
 ## The 3 Basic Roast Levels

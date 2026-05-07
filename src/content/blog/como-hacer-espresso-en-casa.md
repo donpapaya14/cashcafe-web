@@ -8,8 +8,8 @@ author: "Marcos Llovera"
 readingTime: 7
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1233528/pexels-photo-1233528.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Pulling a good espresso at home isn't magic, and it doesn't require €2,000 of gear. It's a handful of variables that, once you order them, become routine. This is the guide we wish we'd read first.
 
 ## The only things that really matter

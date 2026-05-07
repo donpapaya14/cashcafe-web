@@ -8,8 +8,8 @@ author: "David Aguilar"
 readingTime: 7
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1438191/pexels-photo-1438191.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Spices and coffee have been together for centuries — long before chains invented flavored syrups. These four recipes use whole spices, freshly ground coffee, and nothing else. They're quick, cheap, and surprisingly good.
 
 ## 1. Cardamom coffee (Arabic style)

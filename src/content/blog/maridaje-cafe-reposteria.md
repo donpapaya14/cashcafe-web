@@ -8,8 +8,8 @@ author: "Marcos Llovera"
 readingTime: 5
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Espresso with butter croissant. African filter with lemon tart. The basic rules of coffee pairing.
 
 ## Coming up

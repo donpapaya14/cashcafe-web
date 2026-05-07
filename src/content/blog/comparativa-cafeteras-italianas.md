@@ -8,8 +8,8 @@ author: "David Aguilar"
 readingTime: 7
 sources: []
 draft: false
+image: https://images.pexels.com/photos/2074130/pexels-photo-2074130.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 The Bialetti Moka Express has been an icon of Italian design since 1933. But in 90 years, competitors have appeared that improve on certain aspects without losing the essence. Is the original still worth it, or are there better options?
 
 ## Bialetti Moka Express: the original

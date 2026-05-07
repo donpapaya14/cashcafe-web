@@ -8,8 +8,8 @@ author: "Lucía Pardo"
 readingTime: 7
 sources: []
 draft: false
+image: https://images.pexels.com/photos/414645/pexels-photo-414645.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Nordic countries consume more coffee per capita than anywhere else in the world — Finland leads with 12 kg per person per year. But their coffee is filter: light, mild, in large cups. Meanwhile, southern Europe drinks dark espresso in tiny cups. Why?
 
 ## History and trade

@@ -8,8 +8,8 @@ author: "Lucía Pardo"
 readingTime: 8
 sources: []
 draft: false
+image: https://images.pexels.com/photos/2074123/pexels-photo-2074123.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Choosing whole bean coffee can be overwhelming: dozens of origins, roast profiles, and labels promising 'red fruit notes'. Here's the honest guide to telling marketing from real flavor.
 
 ## Origin: where your coffee comes from

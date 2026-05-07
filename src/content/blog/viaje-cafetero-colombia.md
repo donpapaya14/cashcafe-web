@@ -8,8 +8,8 @@ author: "Lucía Pardo"
 readingTime: 9
 sources: []
 draft: false
+image: https://images.pexels.com/photos/434213/pexels-photo-434213.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Colombia is the world's third-largest coffee producer and one of the few countries where you can tour farms, see the full bean journey, and end the day with a cup from the very plot you visited that morning. Here's the route we recommend.
 
 ## The Coffee Axis: Quindío, Risaralda and Caldas

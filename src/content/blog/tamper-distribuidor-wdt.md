@@ -8,8 +8,8 @@ author: "David Aguilar"
 readingTime: 7
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1233528/pexels-photo-1233528.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 If you're starting out with espresso, it's easy to confuse the tamper, distributor, and WDT tool. All three act on the coffee in the portafilter, but at different stages and with different functions. Clarifying them saves you money and frustration.
 
 ## WDT tool: breaking up clumps

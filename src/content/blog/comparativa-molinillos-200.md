@@ -8,8 +8,8 @@ author: "Ana Rivero"
 readingTime: 11
 sources: []
 draft: false
+image: https://images.pexels.com/photos/434213/pexels-photo-434213.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 One month, one coffee, one scale. Which holds its setting and which is actually worth the price.
 
 ## Coming up

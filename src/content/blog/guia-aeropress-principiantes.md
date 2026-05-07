@@ -8,8 +8,8 @@ author: "Marcos Llovera"
 readingTime: 6
 sources: []
 draft: false
+image: https://images.pexels.com/photos/894695/pexels-photo-894695.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 The AeroPress costs €30, fits in a backpack, and produces coffee that rivals €300 methods. If you want an entry point to specialty coffee, start here.
 
 ## Standard vs inverted method

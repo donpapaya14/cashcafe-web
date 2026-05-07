@@ -8,8 +8,8 @@ author: "Ana Rivero"
 readingTime: 6
 sources: []
 draft: false
+image: https://images.pexels.com/photos/894695/pexels-photo-894695.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Valencia has gone from the city of horchata to one of Spain's most vibrant specialty coffee scenes. Over the past three years, more than a dozen shops have opened that roast, brew, and teach coffee at an international level.
 
 ## Ruzafa: the coffee district

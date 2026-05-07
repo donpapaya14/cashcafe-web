@@ -8,8 +8,8 @@ author: "Lucía Pardo"
 readingTime: 7
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1144176/pexels-photo-1144176.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Portugal has a deep relationship with coffee — the bica is part of Lisbon's DNA. But in recent years, a new generation of baristas and roasters has added a specialty layer to that tradition, creating a scene that blends the best of classic Portuguese coffee with the third wave.
 
 ## Chiado and Baixa

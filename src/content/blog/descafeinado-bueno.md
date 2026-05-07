@@ -8,8 +8,8 @@ author: "Marcos Llovera"
 readingTime: 5
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1170659/pexels-photo-1170659.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Three processes, three roasters and a verdict: why Swiss water decaf has changed the game.
 
 ## Coming up

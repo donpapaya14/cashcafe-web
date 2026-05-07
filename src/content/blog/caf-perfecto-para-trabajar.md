@@ -8,8 +8,8 @@ author: "Marcos Llovera"
 readingTime: 3
 sources: []
 draft: false
+image: https://images.pexels.com/photos/2074130/pexels-photo-2074130.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Coffee isn’t just a morning ritual—it’s a science-backed productivity booster. Finding your perfect brew can turn a sluggish day into one fueled by focus and energy. Here’s how to craft it.
 
 ## The Science of Productive Coffee

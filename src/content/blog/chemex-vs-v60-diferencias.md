@@ -8,8 +8,8 @@ author: "Ana Rivero"
 readingTime: 7
 sources: []
 draft: false
+image: https://images.pexels.com/photos/414645/pexels-photo-414645.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Chemex and V60 are the two names any filter coffee enthusiast hears first. Both produce clean, aromatic cups, but their design differences create distinct flavor profiles. Let's compare them without playing favorites.
 
 ## Design and filter

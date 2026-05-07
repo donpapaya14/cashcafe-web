@@ -8,8 +8,8 @@ author: "Lucía Pardo"
 readingTime: 9
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1144176/pexels-photo-1144176.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Modern coffee history is told in three waves. Each one changed what we drink, how we brew, and how much we value the cup. Understanding these waves explains why your grandparents drank Nescafé, your parents went to Starbucks, and you're making V60 at home.
 
 ## First wave: coffee as product (1800s-1960s)

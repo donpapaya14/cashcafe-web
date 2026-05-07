@@ -8,8 +8,8 @@ author: "David Aguilar"
 readingTime: 8
 sources: []
 draft: false
+image: https://images.pexels.com/photos/2074131/pexels-photo-2074131.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Skillet roasting is the oldest and most rudimentary coffee roasting method. It won't produce professional-grade results, but it teaches you more about coffee in 15 minutes than a year of videos. And the smell it leaves in the kitchen is unbeatable.
 
 ## What you need

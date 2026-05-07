@@ -8,8 +8,8 @@ author: "David Aguilar"
 readingTime: 10
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1493080/pexels-photo-1493080.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Coffee grows in the tropical belt between the Tropics of Cancer and Capricorn. But within that band, each country produces coffee with its own personality. These are the world's 10 largest producers and what makes each one special.
 
 ## Brazil: the giant

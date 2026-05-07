@@ -8,8 +8,8 @@ author: "Lucía Pardo"
 readingTime: 3
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1170650/pexels-photo-1170650.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Choosing between a manual and electric grinder can make all the difference in enjoying the perfect cup of coffee. Factors such as grind consistency, control and adjustments, portability, noise, initial investment, and maintenance are crucial to consider.
 
 ## Grind Consistency: What Each Achieves

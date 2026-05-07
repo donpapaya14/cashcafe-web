@@ -8,8 +8,8 @@ author: "Marcos Llovera"
 readingTime: 6
 sources: []
 draft: false
+image: https://images.pexels.com/photos/162699/pexels-photo-162699.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Seville has historically been torrefacto territory — dark-roasted, sugar-coated coffee served as cortados in traditional bars. But over the past two years, a young generation of baristas has opened shops that roast in-house, source directly from farms, and serve filter coffee unapologetically. Here's what's out there.
 
 ## Alameda and surroundings

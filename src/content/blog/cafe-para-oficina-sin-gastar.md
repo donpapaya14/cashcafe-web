@@ -8,8 +8,8 @@ author: "David Aguilar"
 readingTime: 6
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Your office pod machine makes mediocre coffee and generates kilos of waste. For under €100 you can set up a corner that brews better coffee, costs less per cup, and leaves a better aftertaste — in every sense.
 
 ## The minimum gear

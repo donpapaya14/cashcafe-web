@@ -8,8 +8,8 @@ author: "Ana Rivero"
 readingTime: 7
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1417945/pexels-photo-1417945.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Nømad, Right Side and three finds that aren't in tourist guides. Barcelona tastes like real coffee.
 
 ## Coming up

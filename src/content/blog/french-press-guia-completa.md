@@ -8,8 +8,8 @@ author: "Marcos Llovera"
 readingTime: 7
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1170650/pexels-photo-1170650.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 The French press has been in kitchens worldwide for over 80 years. It's cheap, needs no paper filters, and produces a full-bodied, silky coffee. But most people use it wrong. Let's fix that.
 
 ## Gear and ratios

@@ -8,8 +8,8 @@ author: "Marcos Llovera"
 readingTime: 6
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1233521/pexels-photo-1233521.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 If you measure coffee by eye, every cup is a gamble. A scale with 0.1 g precision costs less than two bags of specialty coffee and guarantees repeatability: the ability to make the same good cup morning after morning.
 
 ## Why weighing matters

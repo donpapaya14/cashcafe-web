@@ -8,8 +8,8 @@ author: "Ana Rivero"
 readingTime: 8
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1269025/pexels-photo-1269025.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 In 2011, UNESCO recognized Viennese coffeehouse culture as intangible cultural heritage of Austria. Not because of the coffee itself, but because of what it represents: a space of informal democracy where anyone can sit for hours with a cup, a newspaper, and the company of ideas.
 
 ## Origins: the Turks' sacks

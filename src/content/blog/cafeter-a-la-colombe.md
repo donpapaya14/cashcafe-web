@@ -8,8 +8,8 @@ author: "David Aguilar"
 readingTime: 3
 sources: []
 draft: false
+image: https://images.pexels.com/photos/414645/pexels-photo-414645.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 La Colombe is one of the most recognized coffee shops in the specialty coffee scene, with a history dating back to 1994 when it was founded by Todd Carmichael and J.P. Iberti in Philadelphia. With locations in several US cities, La Colombe has won numerous awards for its commitment to quality and innovation in the world of coffee.
 
 ## Introduction to La Colombe

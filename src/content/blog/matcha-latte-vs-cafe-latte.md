@@ -8,8 +8,8 @@ author: "Ana Rivero"
 readingTime: 6
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 The matcha latte has gone from Instagram fad to a regular offering at specialty coffee shops. But does it make sense to compare it to a coffee latte? We analyze the real differences so you can choose with criteria, not by color.
 
 ## Caffeine: less but longer-lasting

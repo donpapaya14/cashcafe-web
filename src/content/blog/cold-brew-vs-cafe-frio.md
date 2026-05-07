@@ -8,8 +8,8 @@ author: "David Aguilar"
 readingTime: 5
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Cold brew isn't iced coffee. It's a cold extraction method that takes 12–24 hours and produces a smooth, sweet, low-acid concentrate. If you confuse them, this guide sets it straight.
 
 ## Cold brew: slow cold extraction

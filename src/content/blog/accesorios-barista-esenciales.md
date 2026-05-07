@@ -8,8 +8,8 @@ author: "Marcos Llovera"
 readingTime: 6
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Specialty coffee can seem like an expensive hobby, but the essential accessories cost less than a dinner out. These seven, all under €50, are the ones that actually make a difference in your daily cup.
 
 ## The 7 essentials

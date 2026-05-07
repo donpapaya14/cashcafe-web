@@ -8,8 +8,8 @@ author: "Ana Rivero"
 readingTime: 8
 sources: []
 draft: false
+image: https://images.pexels.com/photos/324028/pexels-photo-324028.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 The entry-level espresso machine market has improved enormously in recent years. Machines that used to cost €500 now have functional equivalents under €300. We've tested the three that convinced us most this year.
 
 ## What we looked for

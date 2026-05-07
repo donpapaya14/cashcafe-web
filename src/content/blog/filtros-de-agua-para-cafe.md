@@ -8,8 +8,8 @@ author: "Marcos Llovera"
 readingTime: 3
 sources: []
 draft: false
+image: https://images.pexels.com/photos/129207/pexels-photo-129207.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Water is a crucial ingredient in coffee preparation, and its quality can significantly impact the flavor and quality of the brew. In this article, we'll explore the different types of water filters available and how they can help improve the taste of your coffee.
 
 ## Types of Water Filters

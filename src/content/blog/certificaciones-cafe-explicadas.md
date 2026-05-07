@@ -8,8 +8,8 @@ author: "Ana Rivero"
 readingTime: 8
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1207918/pexels-photo-1207918.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 You buy a Fair Trade coffee thinking the producer got a fair price. But do you know how much actually reaches them? Coffee certifications are more complicated — and more imperfect — than their pretty logos suggest.
 
 ## Fair Trade

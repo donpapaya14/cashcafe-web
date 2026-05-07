@@ -8,8 +8,8 @@ author: "Marcos Llovera"
 readingTime: 5
 sources: []
 draft: false
+image: https://images.pexels.com/photos/414645/pexels-photo-414645.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 You don't need artistic talent. You need cold milk, the right pitcher, and 20 minutes of practice a day.
 
 ## Coming up

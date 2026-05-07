@@ -8,8 +8,8 @@ author: "Marcos Llovera"
 readingTime: 6
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1493080/pexels-photo-1493080.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Irish Coffee was invented in 1943 by Joe Sheridan at Foynes airport, Ireland, to warm up soaking wet flying-boat passengers. It didn't feature spray-can whipped cream or bottom-shelf whiskey. It was simple, elegant, and comforting. Here's how to make it properly.
 
 ## The original recipe

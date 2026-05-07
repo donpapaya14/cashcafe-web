@@ -8,8 +8,8 @@ author: "Ana Rivero"
 readingTime: 6
 sources: []
 draft: false
+image: https://images.pexels.com/photos/542302/pexels-photo-542302.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Your grandma said coffee was bad. 2026 science says otherwise. Over 1,000 studies analyzed — here's what we know for certain.
 
 ## Confirmed benefits

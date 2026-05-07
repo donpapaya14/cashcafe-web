@@ -8,8 +8,8 @@ author: "Lucía Pardo"
 readingTime: 6
 sources: []
 draft: false
+image: https://images.pexels.com/photos/5946640/pexels-photo-5946640.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 The term has been hollowed out by misuse. We bring it back with concrete examples and real names.
 
 ## Coming up

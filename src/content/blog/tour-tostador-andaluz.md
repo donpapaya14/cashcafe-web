@@ -8,8 +8,8 @@ author: "David Aguilar"
 readingTime: 9
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1170650/pexels-photo-1170650.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Fourteen hours with one of Spain's most careful roasters. What we learned changes how we buy coffee.
 
 ## Coming up

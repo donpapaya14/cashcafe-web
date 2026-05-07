@@ -8,8 +8,8 @@ author: "David Aguilar"
 readingTime: 3
 sources: []
 draft: false
+image: https://images.pexels.com/photos/2074123/pexels-photo-2074123.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 The V60 is a staple in specialty coffee for its ability to highlight nuanced flavors. Yet, one element often overlooked is water quality. Here’s how tweaking your H2O can elevate your pour-over from good to extraordinary.
 
 ## V60 101

@@ -8,8 +8,8 @@ author: "Marcos Llovera"
 readingTime: 5
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1233521/pexels-photo-1233521.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 The affogato is not a complex recipe. It's hot espresso poured over vanilla ice cream. But the difference between a mediocre one and a memorable one comes down to three decisions you can make in 30 seconds.
 
 ## Ingredients

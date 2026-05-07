@@ -8,8 +8,8 @@ author: "Ana Rivero"
 readingTime: 8
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1187762/pexels-photo-1187762.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Maximum convenience, minimum control. Who they're for and who they're not. With data, not snobbery.
 
 ## Coming up

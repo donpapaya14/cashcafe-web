@@ -8,8 +8,8 @@ author: "David Aguilar"
 readingTime: 3
 sources: []
 draft: false
+image: https://images.pexels.com/photos/1417945/pexels-photo-1417945.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-
 Ethiopia isn't just the birthplace of humanity—it's also where coffee was born. From ancient legends to modern specialty brews, this East African nation has shaped global coffee culture. Let's explore how a humble bean discovered in the highlands became a worldwide phenomenon.
 
 ## The Birthplace of Coffee
