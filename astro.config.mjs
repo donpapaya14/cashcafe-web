@@ -13,12 +13,12 @@ export default defineConfig({
         !page.includes('/legal-notice') &&
         !page.includes('/privacy-policy') &&
         !page.includes('/cookie-policy'),
-      i18n: { defaultLocale: 'en', locales: { en: 'en-US' } },
+      i18n: { defaultLocale: 'es', locales: { es: 'es-ES' } },
     }),
     mdx(),
   ],
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'es',
+    locales: ['es'],
   },
 });

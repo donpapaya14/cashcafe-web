@@ -2,57 +2,272 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import ArticleCard from '../components/content/ArticleCard.astro';
 import { getCollection } from 'astro:content';
-import { CATEGORIES } from '../utils/categories';
-import type { Category } from '../utils/categories';
 
 const allPosts = await getCollection('blog', ({ data }) => !data.draft);
 const latestPosts = allPosts
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-  .slice(0, 6);
+  .slice(0, 3);
 
-const categories = Object.entries(CATEGORIES) as [Category, (typeof CATEGORIES)[Category]][];
+// Phone is null in source data — placeholder until owner confirms
+const PHONE = '{{ PHONE_HERE }}';
+const WA_NUMBER = '{{ WHATSAPP_HERE }}'; // E.164 sin +, ej: 34600000000
+const WA_MSG = encodeURIComponent('Hola, me gustaria reservar una mesa en Cash Cafe.');
+const waLink = `https://wa.me/${WA_NUMBER}?text=${WA_MSG}`;
 ---
 
-<BaseLayout title="CashCafe" description="Coffee science, brewing, and cafe culture. Honest guides on espresso, pour over, gear, and recipes — backed by real data.">
-  <!-- Hero -->
+<BaseLayout
+  title="Cash Café — Cafetería en Beniel (Murcia)"
+  description="Cash Café, la cafetería mejor valorada de Beniel (Murcia). Café de especialidad, desayunos caseros, bocadillos y ambiente familiar. Av. del Reino 16."
+>
+  <!-- Hero local -->
   <section class="hero">
     <div class="container hero__inner hero-grid">
       <div class="hero-text">
-        <div class="eyebrow">An editorial coffee guide</div>
+        <div class="eyebrow">Beniel · Murcia · 4,7 en Google</div>
         <h1 class="display hero__title">
-          Coffee,<br />
-          <em>seriously brewed</em>
+          Café de verdad,<br />
+          <em>en tu pueblo</em>
         </h1>
         <p class="lede hero__subtitle">
-          Brewing science, honest gear reviews, and recipes that actually work at home.
-          No marketing fluff — just what makes the cup better.
+          Una pequeña cafetería en Beniel donde nos tomamos el café muy en serio.
+          Especialidad, desayunos caseros y bocadillos cuidados al detalle.
+          Sin prisas, sin postureo.
         </p>
         <div class="hero__actions">
-          <a href="/blog" class="btn-primary">Read articles &rarr;</a>
-          <a href="#categories" class="btn-ghost">Explore categories</a>
+          <a href={waLink} class="btn-primary" target="_blank" rel="noopener">Reservar por WhatsApp &rarr;</a>
+          <a href="#carta" class="btn-ghost">Ver la carta</a>
         </div>
 
-        <div class="pop-chips" aria-label="Popular topics">
-          <span class="pop-chips-label">Popular</span>
-          <a href="/categoria/espresso" class="pop-chip">Espresso</a>
-          <a href="/categoria/brewing" class="pop-chip">V60 &amp; pour over</a>
-          <a href="/categoria/gear" class="pop-chip">Grinders</a>
-          <a href="/categoria/recipes" class="pop-chip">Recipes</a>
-          <a href="/categoria/culture" class="pop-chip">World cafes</a>
+        <div class="pop-chips" aria-label="Información clave">
+          <span class="pop-chips-label">Hoy</span>
+          <span class="pop-chip">Lun–Vie 06:45–15:00</span>
+          <span class="pop-chip">Sáb 06:45–14:00</span>
+          <span class="pop-chip">Av. del Reino 16</span>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Latest Articles -->
+  <!-- Visítanos / mapa + datos clave -->
+  <section class="section section--alt">
+    <div class="container visit-grid">
+      <div>
+        <div class="eyebrow">Visítanos</div>
+        <h2 class="section-title">Av. del Reino, 16 · Beniel</h2>
+        <p class="lede" style="max-width:520px">
+          Estamos a la entrada del pueblo. Aparcamiento fácil en la calle, terraza con sombra y wifi para los que se quedan a trabajar la mañana.
+        </p>
+
+        <ul class="visit-info">
+          <li><strong>Dirección:</strong> Avenida del Reino, 16, 30130 Beniel (Murcia)</li>
+          <li><strong>Horario:</strong> Lun–Vie 06:45–15:00 · Sáb 06:45–14:00 · Dom cerrado</li>
+          <li><strong>Valoración:</strong> 4,7/5 (86 reseñas en Google)</li>
+          <li><strong>Servicios:</strong> Terraza · WiFi · Reservas · Take-away</li>
+        </ul>
+
+        <div class="cta-row">
+          <a href={`tel:${PHONE}`} class="btn-primary">Llámanos</a>
+          <a href={waLink} class="btn-ghost" target="_blank" rel="noopener">WhatsApp</a>
+          <a href="https://maps.google.com/?cid=cash+cafe+beniel" target="_blank" rel="noopener" class="btn-ghost">Cómo llegar</a>
+        </div>
+      </div>
+      <div class="map-wrap">
+        <iframe
+          title="Mapa de Cash Café en Beniel"
+          src="https://www.google.com/maps?q=Avenida+del+Reino+16+Beniel+Murcia&output=embed"
+          width="100%"
+          height="360"
+          style="border:0"
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+          allowfullscreen
+        ></iframe>
+      </div>
+    </div>
+  </section>
+
+  <!-- Carta -->
+  <section id="carta" class="section">
+    <div class="container">
+      <div class="section__header">
+        <div>
+          <div class="eyebrow">La carta</div>
+          <h2 class="section-title">Lo que servimos</h2>
+        </div>
+      </div>
+      <p class="lede" style="max-width:640px;margin-bottom:24px">
+        Café de especialidad, desayunos caseros y bocadillos hechos con producto cuidado.
+        Si tienes una alergia o preferencia, dínoslo y adaptamos.
+      </p>
+
+      <div class="menu-grid">
+        <div class="menu-block">
+          <h3>Cafés de especialidad</h3>
+          <ul>
+            <li><span>Espresso</span><span>Tueste cuidado, cuerpo y dulzor</span></li>
+            <li><span>Cortado</span><span>Espresso con un toque de leche caliente</span></li>
+            <li><span>Café con leche</span><span>Leche entera o vegetal</span></li>
+            <li><span>Cappuccino</span><span>Espuma sedosa, cacao opcional</span></li>
+            <li><span>Flat white</span><span>Doble ristretto + microespuma</span></li>
+            <li><span>Café filtro V60</span><span>Pour over, taza limpia y aromática</span></li>
+            <li><span>AeroPress</span><span>Cuerpo medio, perfil afrutado</span></li>
+            <li><span>Café del día</span><span>Origen rotativo, pregunta al barista</span></li>
+          </ul>
+        </div>
+
+        <div class="menu-block">
+          <h3>Desayunos caseros</h3>
+          <ul>
+            <li><span>Tostada con tomate y AOVE</span><span>Pan crujiente, tomate rallado, aceite virgen extra</span></li>
+            <li><span>Tostada de aguacate</span><span>Aguacate machacado, lima y semillas</span></li>
+            <li><span>Tostada con jamón</span><span>Jamón serrano y aceite</span></li>
+            <li><span>Bollería del día</span><span>Croissant, napolitana, palmera…</span></li>
+            <li><span>Zumo de naranja natural</span><span>Recién exprimido</span></li>
+            <li><span>Yogur con granola y fruta</span><span>Opción ligera y energética</span></li>
+          </ul>
+        </div>
+
+        <div class="menu-block">
+          <h3>Bocadillos variados</h3>
+          <ul>
+            <li><span>Bocadillo de tortilla</span><span>Tortilla jugosa de la casa</span></li>
+            <li><span>Bocadillo de jamón serrano</span><span>Pan crujiente y aceite</span></li>
+            <li><span>Bocadillo de lomo</span><span>Con queso opcional</span></li>
+            <li><span>Bocadillo vegetal</span><span>Tomate, lechuga y atún (o sin)</span></li>
+            <li><span>Sandwich mixto</span><span>Jamón, queso y tomate, plancha</span></li>
+          </ul>
+        </div>
+
+        <div class="menu-block">
+          <h3>Refrescos y otros</h3>
+          <ul>
+            <li><span>Té e infusiones</span><span>Variedad de tés sueltos</span></li>
+            <li><span>Chocolate caliente</span><span>Espeso, opcional con nata</span></li>
+            <li><span>Refrescos</span><span>Agua, refrescos clásicos, cervezas</span></li>
+            <li><span>Smoothies</span><span>Pregunta por los del día</span></li>
+          </ul>
+        </div>
+      </div>
+
+      <p class="micro" style="margin-top:24px;color:var(--ink-3)">
+        Carta sujeta a cambios estacionales. Precios y opciones específicas, en el local.
+      </p>
+    </div>
+  </section>
+
+  <!-- Eventos -->
+  <section id="eventos" class="section section--alt">
+    <div class="container">
+      <div class="section__header">
+        <div>
+          <div class="eyebrow">Lo que se mueve</div>
+          <h2 class="section-title">Eventos en el local</h2>
+        </div>
+      </div>
+      <p class="lede" style="max-width:640px">
+        Catas guiadas, talleres de barista y tardes de música acústica.
+        Aforo reducido para que se disfrute sin agobios — reserva por WhatsApp.
+      </p>
+
+      <div class="events-grid">
+        <article class="event-card">
+          <div class="event-card__tag">Cata</div>
+          <h3>Cata de café de especialidad</h3>
+          <p>Catamos 3 orígenes distintos en V60. Aprende a leer aroma, acidez y cuerpo. Plazas: 8.</p>
+          <a href={waLink} class="event-card__cta" target="_blank" rel="noopener">Reservar plaza &rarr;</a>
+        </article>
+        <article class="event-card">
+          <div class="event-card__tag">Taller</div>
+          <h3>Iniciación al espresso casero</h3>
+          <p>Molienda, dosis, tamping y extracción. Te llevas la receta para tu cafetera. Plazas: 6.</p>
+          <a href={waLink} class="event-card__cta" target="_blank" rel="noopener">Reservar plaza &rarr;</a>
+        </article>
+        <article class="event-card">
+          <div class="event-card__tag">Música</div>
+          <h3>Acústico de tarde</h3>
+          <p>Música en directo en la terraza, formato íntimo. Consumo libre, mesas limitadas.</p>
+          <a href={waLink} class="event-card__cta" target="_blank" rel="noopener">Reservar mesa &rarr;</a>
+        </article>
+      </div>
+
+      <p class="micro" style="margin-top:24px;color:var(--ink-3)">
+        Fechas concretas de cada evento — síguenos en
+        <a href="https://www.instagram.com/cashcafe2020/" target="_blank" rel="noopener">Instagram</a>
+        o pregunta directamente por WhatsApp.
+      </p>
+    </div>
+  </section>
+
+  <!-- Contacto -->
+  <section id="contacto" class="section">
+    <div class="container contact-grid">
+      <div>
+        <div class="eyebrow">Contacto</div>
+        <h2 class="section-title">Habla con nosotros</h2>
+        <p class="lede" style="max-width:520px">
+          Reservas, eventos privados, alergias o cualquier duda — la forma más rápida es WhatsApp.
+        </p>
+
+        <ul class="contact-list">
+          <li>
+            <strong>Dirección</strong>
+            <span>Avenida del Reino, 16 · 30130 Beniel (Murcia)</span>
+          </li>
+          <li>
+            <strong>Horario</strong>
+            <span>Lun–Vie 06:45–15:00 · Sáb 06:45–14:00 · Dom cerrado</span>
+          </li>
+          <li>
+            <strong>Teléfono</strong>
+            <span><a href={`tel:${PHONE}`}>{PHONE}</a></span>
+          </li>
+          <li>
+            <strong>WhatsApp</strong>
+            <span><a href={waLink} target="_blank" rel="noopener">Escríbenos por WhatsApp</a></span>
+          </li>
+          <li>
+            <strong>Instagram</strong>
+            <span><a href="https://www.instagram.com/cashcafe2020/" target="_blank" rel="noopener">@cashcafe2020</a></span>
+          </li>
+          <li>
+            <strong>Facebook</strong>
+            <span><a href="https://www.facebook.com/cashcafe" target="_blank" rel="noopener">/cashcafe</a></span>
+          </li>
+          <li>
+            <strong>Google Maps</strong>
+            <span><a href="https://maps.google.com/?cid=cash+cafe+beniel" target="_blank" rel="noopener">Cómo llegar</a></span>
+          </li>
+        </ul>
+
+        <div class="cta-row" style="margin-top:18px">
+          <a href={waLink} class="btn-primary" target="_blank" rel="noopener">Reservar por WhatsApp</a>
+          <a href={`tel:${PHONE}`} class="btn-ghost">Llamar al local</a>
+        </div>
+      </div>
+      <div class="map-wrap">
+        <iframe
+          title="Cómo llegar a Cash Café Beniel"
+          src="https://www.google.com/maps?q=Avenida+del+Reino+16+Beniel+Murcia&output=embed"
+          width="100%"
+          height="380"
+          style="border:0"
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+          allowfullscreen
+        ></iframe>
+      </div>
+    </div>
+  </section>
+
+  <!-- Blog del barista (SEO support) -->
   <section class="section">
     <div class="container">
       <div class="section__header">
         <div>
-          <div class="eyebrow">Recent</div>
-          <h2 class="section-title">Latest articles</h2>
+          <div class="eyebrow">El diario del barista</div>
+          <h2 class="section-title">Lo último del blog</h2>
         </div>
-        <a href="/blog" class="section__link">See all &rarr;</a>
+        <a href="/blog" class="section__link">Ver todos &rarr;</a>
       </div>
       <div class="articles-grid">
         {latestPosts.map(post => (
@@ -69,51 +284,188 @@ const categories = Object.entries(CATEGORIES) as [Category, (typeof CATEGORIES)[
       </div>
     </div>
   </section>
-
-  <!-- Categories -->
-  <section id="categories" class="section section--alt">
-    <div class="container">
-      <div style="text-align:center;margin-bottom:36px">
-        <div class="eyebrow" style="justify-content:center">Explore</div>
-        <h2 class="section-title">By category</h2>
-      </div>
-      <div class="categories-grid">
-        {categories.map(([key, cat]) => (
-          <a href={`/categoria/${key}`} class={`cat-card cat-card--${key}`}>
-            <h3>{cat.name}</h3>
-            <p>{cat.description}</p>
-          </a>
-        ))}
-      </div>
-    </div>
-  </section>
-
-  <!-- Newsletter CTA -->
-  <section class="section newsletter-hero">
-    <div class="container newsletter-hero__inner">
-      <div class="eyebrow" style="justify-content:center">Newsletter</div>
-      <h2 class="section-title">Coffee tips in your inbox every Sunday</h2>
-      <p>Join our free newsletter. No spam, just brews and gear notes.</p>
-      <a href="/about" class="btn-primary btn--lg">Subscribe free &rarr;</a>
-    </div>
-  </section>
 </BaseLayout>
 
 <style>
   .hero-text { max-width: 760px; }
   .hero__title em { font-style: italic; color: var(--accent); }
 
-  /* Per-category accent edge */
-  .cat-card--guides   { box-shadow: inset 4px 0 0 #6F4E37, var(--shadow-md); }
-  .cat-card--recipes  { box-shadow: inset 4px 0 0 #B5651D, var(--shadow-md); }
-  .cat-card--culture  { box-shadow: inset 4px 0 0 #8B5A2B, var(--shadow-md); }
-  .cat-card--gear     { box-shadow: inset 4px 0 0 #4B3621, var(--shadow-md); }
-  .cat-card--brewing  { box-shadow: inset 4px 0 0 #A0522D, var(--shadow-md); }
-  .cat-card--espresso { box-shadow: inset 4px 0 0 var(--accent), var(--shadow-md); }
+  .visit-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    align-items: start;
+  }
+  .visit-info {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0 18px;
+    color: var(--ink-2);
+    font-size: 15px;
+    line-height: 1.7;
+  }
+  .visit-info li { padding: 6px 0; border-bottom: 0.5px solid var(--line); }
+  .visit-info strong { color: var(--ink-1); margin-right: 6px; }
+  .cta-row { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 8px; }
+  .map-wrap {
+    border: 0.5px solid var(--line);
+    border-radius: 14px;
+    overflow: hidden;
+    box-shadow: var(--shadow-md);
+  }
 
+  .signature-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+    margin-top: 16px;
+  }
+  .signature-card {
+    padding: 28px 24px;
+    border: 0.5px solid var(--line);
+    border-radius: 14px;
+    background: color-mix(in oklab, var(--bg) 85%, transparent);
+    box-shadow: var(--shadow-md);
+  }
+  .signature-card h3 {
+    font-family: var(--font-display);
+    font-size: 22px;
+    margin-bottom: 8px;
+    color: var(--ink-1);
+  }
+  .signature-card p {
+    color: var(--ink-2);
+    font-size: 14.5px;
+    line-height: 1.6;
+  }
+
+  /* Carta */
+  .menu-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 32px;
+    margin-top: 16px;
+  }
+  .menu-block {
+    padding: 24px;
+    border: 0.5px solid var(--line);
+    border-radius: 14px;
+    background: color-mix(in oklab, var(--bg) 85%, transparent);
+  }
+  .menu-block h3 {
+    font-family: var(--font-display);
+    font-size: 22px;
+    color: var(--ink-1);
+    border-bottom: 0.5px solid var(--line);
+    padding-bottom: 8px;
+    margin-bottom: 12px;
+  }
+  .menu-block ul { list-style: none; padding: 0; margin: 0; }
+  .menu-block li {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2px;
+    padding: 10px 0;
+    border-bottom: 0.5px dashed var(--line);
+  }
+  .menu-block li:last-child { border-bottom: none; }
+  .menu-block li span:first-child {
+    font-weight: 600;
+    color: var(--ink-1);
+    font-size: 15.5px;
+  }
+  .menu-block li span:last-child {
+    color: var(--ink-2);
+    font-size: 13.5px;
+    line-height: 1.5;
+  }
+
+  /* Eventos */
+  .events-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+    margin-top: 16px;
+  }
+  .event-card {
+    padding: 26px 22px;
+    border: 0.5px solid var(--line);
+    border-radius: 14px;
+    background: color-mix(in oklab, var(--bg) 85%, transparent);
+    box-shadow: var(--shadow-md);
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  .event-card__tag {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--accent);
+    font-weight: 700;
+  }
+  .event-card h3 {
+    font-family: var(--font-display);
+    font-size: 20px;
+    color: var(--ink-1);
+  }
+  .event-card p {
+    color: var(--ink-2);
+    font-size: 14px;
+    line-height: 1.55;
+    flex-grow: 1;
+  }
+  .event-card__cta {
+    color: var(--accent);
+    font-weight: 600;
+    font-size: 14px;
+    text-decoration: none;
+    margin-top: 6px;
+  }
+  .event-card__cta:hover { color: var(--ink-1); }
+
+  /* Contacto */
+  .contact-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    align-items: start;
+  }
+  .contact-list {
+    list-style: none;
+    padding: 0;
+    margin: 18px 0;
+  }
+  .contact-list li {
+    display: grid;
+    grid-template-columns: 130px 1fr;
+    gap: 12px;
+    padding: 10px 0;
+    border-bottom: 0.5px solid var(--line);
+    font-size: 14.5px;
+  }
+  .contact-list strong {
+    color: var(--ink-1);
+    font-weight: 600;
+  }
+  .contact-list a {
+    color: var(--accent);
+    border-bottom: 1px dotted var(--accent);
+    text-decoration: none;
+  }
+  .contact-list a:hover { color: var(--ink-1); }
+
+  @media (max-width: 900px) {
+    .visit-grid,
+    .signature-grid,
+    .events-grid,
+    .menu-grid,
+    .contact-grid { grid-template-columns: 1fr; }
+  }
   @media (max-width: 600px) {
     .hero__actions { flex-direction: column; align-items: flex-start; }
     .hero__actions .btn-primary,
     .hero__actions .btn-ghost { width: 100%; justify-content: center; }
+    .contact-list li { grid-template-columns: 1fr; gap: 2px; }
   }
 </style>

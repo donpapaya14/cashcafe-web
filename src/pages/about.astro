@@ -1,36 +1,69 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+
+const PHONE = '{{ PHONE_HERE }}';
+const WA_NUMBER = '{{ WHATSAPP_HERE }}';
+const WA_MSG = encodeURIComponent('Hola, vengo de la web de Cash Cafe.');
+const waLink = `https://wa.me/${WA_NUMBER}?text=${WA_MSG}`;
 ---
 
-<BaseLayout title="About Cash Café" description="Cash Café — coffee science, brewing, and cafe culture. Honest guides without the marketing fluff.">
+<BaseLayout
+  title="Sobre nosotros · Cash Café"
+  description="Cash Café es una pequeña cafetería familiar en Beniel (Murcia). 4,7 en Google. Café de especialidad, desayunos caseros y cariño en cada taza."
+>
   <section class="about">
     <div class="container about__inner">
-      <div class="eyebrow">About</div>
+      <div class="eyebrow">Sobre nosotros</div>
       <h1 class="display" style="font-size:clamp(36px,5vw,64px);margin-top:8px">Cash <em>Café</em></h1>
       <p class="lede" style="margin-top:18px;max-width:640px">
-        An editorial coffee guide focused on what actually changes the cup.
+        Una cafetería pequeña con una obsesión grande.
       </p>
 
-      <p>We cover brewing methods (espresso, V60, Chemex, AeroPress, French press), gear that lasts, and the science behind extraction. No hype, no copy-paste reviews.</p>
+      <p>
+        Somos Cash Café, un pequeño rincón en <strong>Beniel, Murcia</strong>, donde nos tomamos el café muy en serio.
+        No somos una cadena ni una franquicia — somos una familia que un día decidió que en este pueblo se merecía un café de verdad.
+      </p>
 
-      <h2 class="section-title" style="margin-top:40px">What we publish</h2>
+      <p>
+        Empezamos con una idea sencilla: <em>hacer las cosas bien</em>. Cada taza, cada tostada, cada detalle.
+        No buscamos ser los más grandes, sino los que más cariño ponen en lo que hacen.
+      </p>
+
+      <p>
+        Con <strong>4,7 en Google Maps</strong> somos la cafetería mejor valorada de Beniel.
+        Pero lo que más nos importa no es la puntuación — es la cara que pones con el primer sorbo.
+      </p>
+
+      <h2 class="section-title" style="margin-top:40px">Lo que servimos</h2>
       <ul>
-        <li><strong>Brewing guides</strong> — step-by-step methods with measured ratios and times</li>
-        <li><strong>Gear reviews</strong> — what's worth buying at each price tier, what's a waste</li>
-        <li><strong>Recipes</strong> — drinks worth making, with the technique that makes them work</li>
-        <li><strong>Coffee culture</strong> — origins, history, and shop visits</li>
+        <li><strong>Café de especialidad</strong> — espresso, V60, AeroPress y leches vegetales</li>
+        <li><strong>Desayunos caseros</strong> — tostadas, bollería del día y zumo natural</li>
+        <li><strong>Bocadillos variados</strong> — pan crujiente y producto fresco</li>
       </ul>
 
-      <h2 class="section-title" style="margin-top:40px">Our approach</h2>
+      <h2 class="section-title" style="margin-top:40px">Cómo somos</h2>
       <ul>
-        <li><strong>Cite real sources</strong> — SCA standards, peer-reviewed studies, named baristas</li>
-        <li><strong>No miracle products</strong> — we don't promote scam gadgets or pyramid suppliers</li>
-        <li><strong>Affiliate transparency</strong> — Amazon links may earn a commission at no extra cost</li>
-        <li><strong>Free content</strong> — every guide is free to read, forever</li>
+        <li><strong>Familiares</strong> — el local lo llevamos nosotros, conocemos a quien entra</li>
+        <li><strong>Cuidadosos</strong> — molienda, dosis y temperatura medidas, no improvisamos</li>
+        <li><strong>Honestos</strong> — si no es bueno, no sale; si no nos gusta, no lo vendemos</li>
+        <li><strong>Cercanos</strong> — terraza, wifi y mesa libre para trabajar la mañana</li>
       </ul>
 
-      <h2 class="section-title" style="margin-top:40px">Contact</h2>
-      <p><a href="mailto:vladys.z96@gmail.com">vladys.z96@gmail.com</a></p>
+      <h2 class="section-title" style="margin-top:40px">Encuéntranos</h2>
+      <p>
+        Avenida del Reino, 16 · 30130 Beniel (Murcia)<br />
+        Lun–Vie 06:45–15:00 · Sáb 06:45–14:00 · Dom cerrado
+      </p>
+      <p>
+        <a href={waLink} target="_blank" rel="noopener">WhatsApp</a> ·
+        <a href={`tel:${PHONE}`}>Llamar</a> ·
+        <a href="https://maps.google.com/?cid=cash+cafe+beniel" target="_blank" rel="noopener">Cómo llegar</a>
+      </p>
+      <p>
+        <a href="https://www.instagram.com/cashcafe2020/" target="_blank" rel="noopener">Instagram</a> ·
+        <a href="https://www.facebook.com/cashcafe" target="_blank" rel="noopener">Facebook</a> ·
+        <a href="https://www.youtube.com/@cashcafe4636" target="_blank" rel="noopener">YouTube</a>
+      </p>
     </div>
   </section>
 </BaseLayout>

@@ -1,23 +1,22 @@
 ---
 const year = new Date().getFullYear();
-const categories = [
-  { href: '/categoria/brewing',  label: 'Brewing' },
-  { href: '/categoria/espresso', label: 'Espresso' },
-  { href: '/categoria/recipes',  label: 'Recipes' },
-  { href: '/categoria/culture',  label: 'Culture' },
-  { href: '/categoria/gear',     label: 'Gear' },
-  { href: '/categoria/guides',   label: 'Buying Guides' },
+const cafePages = [
+  { href: '/#carta',    label: 'Carta' },
+  { href: '/#eventos',  label: 'Eventos' },
+  { href: '/about',     label: 'Nosotros' },
+  { href: '/#contacto', label: 'Contacto' },
+  { href: '/blog',      label: 'Blog del barista' },
 ];
 const legal = [
-  { href: '/legal-notice',   label: 'Legal' },
-  { href: '/privacy-policy', label: 'Privacy' },
-  { href: '/cookie-policy', label: 'Cookies' },
+  { href: '/legal-notice',   label: 'Aviso legal' },
+  { href: '/privacy-policy', label: 'Privacidad' },
+  { href: '/cookie-policy',  label: 'Cookies' },
 ];
 const sites = [
-  { href: 'https://vida-sana-360.com',   label: 'VidaSana360' },
-  { href: 'https://saludlongevidad.org', label: 'SaludLongevidad' },
-  { href: 'https://finanzasclara.uk',    label: 'FinanzasClara' },
-  { href: 'https://catbrothers.uk',      label: 'CatBrothers' },
+  { href: 'https://vida-sana-360.com',      label: 'VidaSana360' },
+  { href: 'https://saludlongevidad.org',    label: 'SaludLongevidad' },
+  { href: 'https://finanzasclara.uk',       label: 'FinanzasClara' },
+  { href: 'https://catbrothers.uk',         label: 'CatBrothers' },
   { href: 'https://espaciointeligente.org', label: 'Espacio Inteligente' },
 ];
 ---
@@ -32,29 +31,33 @@ const sites = [
         <span class="brand-name">Cash<em>Café</em></span>
       </a>
       <p class="lede" style="font-size:13px;margin-top:12px;max-width:360px">
-        An editorial coffee guide. Brewing science, gear notes and recipes — no marketing fluff.
+        Una pequeña cafetería con un gran café. Av. del Reino 16, Beniel — la mejor valorada del pueblo.
+      </p>
+      <p class="micro" style="margin-top:10px;color:var(--ink-3)">
+        Lun–Vie 06:45–15:00 · Sáb 06:45–14:00 · Dom cerrado
       </p>
     </div>
 
-    <nav class="site-footer__col" aria-label="Categories">
-      <h4>Categories</h4>
+    <nav class="site-footer__col" aria-label="Cafetería">
+      <h4>La cafetería</h4>
       <ul>
-        {categories.map(c => <li><a href={c.href}>{c.label}</a></li>)}
+        {cafePages.map(c => <li><a href={c.href}>{c.label}</a></li>)}
       </ul>
     </nav>
 
-    <nav class="site-footer__col" aria-label="Connect">
-      <h4>Connect</h4>
+    <nav class="site-footer__col" aria-label="Síguenos">
+      <h4>Síguenos</h4>
       <ul>
-        <li><a href="https://www.youtube.com/@cashcafe4636" target="_blank" rel="noopener">YouTube</a></li>
         <li><a href="https://www.instagram.com/cashcafe2020/" target="_blank" rel="noopener">Instagram</a></li>
-        <li><a href="/rss.xml">RSS</a></li>
-        <li><a href="/about">About</a></li>
+        <li><a href="https://www.facebook.com/cashcafe" target="_blank" rel="noopener">Facebook</a></li>
+        <li><a href="https://www.youtube.com/@cashcafe4636" target="_blank" rel="noopener">YouTube</a></li>
+        <li><a href="https://flow.page/cashcafe" target="_blank" rel="noopener">flow.page</a></li>
+        <li><a href="https://maps.google.com/?cid=cash+cafe+beniel" target="_blank" rel="noopener">Google Maps</a></li>
       </ul>
     </nav>
 
-    <nav class="site-footer__col site-footer__col--sites" aria-label="Our sites">
-      <h4>Our sites</h4>
+    <nav class="site-footer__col site-footer__col--sites" aria-label="Webs hermanas">
+      <h4>Webs hermanas</h4>
       <ul>
         {sites.map(s => (
           <li><a href={s.href} target="_blank" rel="noopener">{s.label}</a></li>
@@ -65,7 +68,7 @@ const sites = [
 
   <div class="site-footer__bar">
     <div class="container site-footer__bar-inner">
-      <span class="micro">&copy; {year} Cash Café · Editorial coffee guide</span>
+      <span class="micro">&copy; {year} Cash Café · Av. del Reino 16, 30130 Beniel (Murcia)</span>
       <ul class="site-footer__legal">
         {legal.map(l => <li><a href={l.href}>{l.label}</a></li>)}
       </ul>
