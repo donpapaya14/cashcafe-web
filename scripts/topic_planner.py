@@ -1,75 +1,121 @@
 """
-Planifica temas de artículos para CashCafe — rotación de categorías cafe.
-Lee blog-data.jsx para evitar duplicados.
+Plans coffee topics from prebuilt SEO topic file (topics/cashcafe_seo_3months.json).
+Falls back to formula-based generation if topic file unavailable.
+Avoids duplicates by reading existing markdown in src/content/blog/.
 """
 
-import os
+import json
 import random
 import re
 from pathlib import Path
 
-DATA_FILE = Path(__file__).parent.parent / "blog-data.jsx"
+BLOG_DIR = Path(__file__).parent.parent / "src" / "content" / "blog"
+TOPICS_FILE = Path(__file__).parent.parent / "topics" / "cashcafe_seo_3months.json"
 
-CATEGORIES = ["guides", "recipes", "culture", "gear"]
+CATEGORIES = ["guides", "recipes", "culture", "gear", "brewing", "espresso"]
 
 ARTICLE_FORMULAS = {
     "guides": [
-        "Guia completa de cafeterias de especialidad en una ciudad espanola concreta con nombres, direcciones y que pedir",
-        "Guia de compra de un equipo de cafe concreto (cafetera, molinillo, etc.) con comparativa de 3 opciones y precios reales",
-        "Como elegir el mejor cafe en grano: guia con criterios concretos, marcas reales y precios",
-        "Guia para principiantes en cafe de especialidad: primer equipo, primer cafe, primera receta",
-        "Errores comunes al comprar cafe y como evitarlos con datos reales de la industria",
-        "Guia de cafeterias de especialidad en una gran ciudad europea (Londres, Paris, Berlin, etc.)",
+        "Detailed buying guide for one coffee category at multiple price tiers, with measured comparisons",
+        "Comparison of two popular brewers (e.g. V60 vs Chemex) with extraction data and use cases",
+        "What to look for when buying a grinder, with feature explanations and tier picks",
+        "Coffee subscription comparison or one-bag-fits-all guide for daily drinkers",
     ],
     "recipes": [
-        "Receta paso a paso de un metodo de cafe concreto (chemex, sifon, clever dripper) con tiempos y gramos exactos",
-        "Receta de bebida de cafe creativa (affogato, cafe tonic, espresso martini sin alcohol) con ingredientes y pasos",
-        "Comparativa de 3 recetas del mismo metodo de cafe con variables diferentes y resultado final",
-        "Receta de cafe para una estacion concreta (verano: cold brew; invierno: irish coffee casero) con variantes",
-        "Receta de reposteria con cafe (tiramisu, brownies de espresso, galletas de moka) con datos nutricionales",
-        "Receta de cafe para trabajar mejor: ratio optimo, temperatura, metodo y ciencia detras",
+        "Step-by-step recipe for one classic coffee drink with ratios, temperature and timing",
+        "Iced coffee variant with cold brew or Japanese-iced method, with measurements",
+        "Espresso-based cocktail or dessert recipe with technique and ingredient sourcing",
+        "Seasonal latte recipe with the science of foam, syrups and milk choice",
     ],
     "culture": [
-        "Historia del cafe en un pais o region concreta con fechas, nombres y datos verificables",
-        "Perfil de un tostador o cafeteria legendaria con su historia, filosofia y que la hace unica",
-        "Diferencias culturales en como se bebe cafe alrededor del mundo con datos concretos de consumo",
-        "La ciencia detras de un aspecto concreto del cafe (cafeina, tostado, extraccion) con estudios reales",
-        "Tendencias del cafe en 2026: que esta cambiando en la industria con datos y ejemplos",
-        "Cafe y productividad: que dice la ciencia sobre el momento optimo, la dosis y el tipo de cafe",
+        "Origin region deep dive (Ethiopia, Colombia, Honduras) with flavor profile and history",
+        "Coffee shop scene tour for a specific city, with notable cafes and what to order",
+        "First/second/third wave history with key figures, dates and shifts in technique",
+        "Coffee in a specific country (Italy, Japan, Australia) — culture, customs, signature drinks",
     ],
     "gear": [
-        "Review honesta de un equipo de cafe concreto con pros, contras y para quien es ideal",
-        "Comparativa de molinillos en un rango de precio concreto con pruebas de consistencia",
-        "Guia de mantenimiento de cafeteras: como limpiar cada tipo con productos caseros y frecuencia",
-        "Accesorios de cafe que merecen la pena vs los que no: analisis con precio y utilidad real",
-        "Como montar un rincon de cafe en casa con presupuesto limitado (100/300/500 euros)",
-        "Filtros de agua para cafe: tipos, precios y cual necesitas segun tu zona",
+        "Tested review of one machine, grinder or accessory at a specific price tier",
+        "Best espresso machine under $X with feature comparison and head-to-head test notes",
+        "Manual vs electric grinder analysis with grind consistency and price tradeoffs",
+        "Essential accessories for the home barista (tamper, scale, WDT, kettle) with picks",
+    ],
+    "brewing": [
+        "Pour-over technique guide for one brewer with grind, ratio, agitation and pour pattern",
+        "Immersion brewing (French press, AeroPress) with timing, ratio and clarity tradeoffs",
+        "How to dial in a recipe by adjusting one variable at a time with tasting cues",
+        "Water for coffee — TDS, mineral content, filtration impact on taste",
+    ],
+    "espresso": [
+        "How to dial in an espresso shot for beginners — three variables and their fix",
+        "Latte art technique with milk steaming, pour height and pattern walkthroughs",
+        "Espresso troubleshooting — sour, bitter, channeling, clogging and how to fix each",
+        "Single boiler vs dual boiler vs heat exchanger for home espresso, with tradeoffs",
     ],
 }
 
 
+def load_topics() -> list:
+    if not TOPICS_FILE.exists():
+        return []
+    try:
+        return json.loads(TOPICS_FILE.read_text(encoding="utf-8"))
+    except Exception:
+        return []
+
+
 def get_existing_titles() -> set[str]:
-    """Lee titulos de articulos del blog-data.jsx."""
     titles = set()
-    if not DATA_FILE.exists():
+    if not BLOG_DIR.exists():
         return titles
-    content = DATA_FILE.read_text(encoding="utf-8")
-    for match in re.finditer(r'title_es:\s*"(.+?)"', content):
-        titles.add(match.group(1).lower().strip())
+    for md_file in BLOG_DIR.glob("*.md"):
+        text = md_file.read_text(encoding="utf-8")
+        m = re.search(r'^title:\s*["\']?(.+?)["\']?\s*$', text, re.MULTILINE)
+        if m:
+            titles.add(m.group(1).lower().strip())
     return titles
 
 
+def get_existing_keywords() -> set[str]:
+    keywords = set()
+    for md_file in BLOG_DIR.glob("*.md"):
+        text = md_file.read_text(encoding="utf-8")
+        m = re.search(r'^title:\s*["\']?(.+?)["\']?\s*$', text, re.MULTILINE)
+        if m:
+            keywords.add(m.group(1).lower().strip())
+    return keywords
+
+
 def get_category_counts() -> dict[str, int]:
-    """Cuenta articulos por categoria en blog-data.jsx."""
     counts = {cat: 0 for cat in CATEGORIES}
-    if not DATA_FILE.exists():
+    if not BLOG_DIR.exists():
         return counts
-    content = DATA_FILE.read_text(encoding="utf-8")
-    for match in re.finditer(r'category:\s*"(\w+)"', content):
-        cat = match.group(1)
-        if cat in counts:
-            counts[cat] += 1
+    for md_file in BLOG_DIR.glob("*.md"):
+        text = md_file.read_text(encoding="utf-8")
+        m = re.search(r'^category:\s*["\']?([^"\'\n]+)["\']?\s*$', text, re.MULTILINE)
+        if m and m.group(1).strip() in counts:
+            counts[m.group(1).strip()] += 1
     return counts
+
+
+def map_topic_category(topic: dict) -> str:
+    """Best-guess mapping from topic intent/title to a CashCafe category."""
+    title = (topic.get("title", "") + " " + topic.get("primary_keyword", "")).lower()
+    intent = topic.get("search_intent", "").lower()
+    if any(w in title for w in ["espresso machine", "grinder", "tamper", "wdt", "kettle", "scale"]):
+        if "espresso" in title and "shot" in title:
+            return "espresso"
+        return "gear"
+    if any(w in title for w in ["recipe", "drink", "latte", "cappuccino", "macchiato", "iced"]):
+        return "recipes"
+    if any(w in title for w in ["history", "origin", "ethiopia", "colombia", "city", "cafes in", "shops in"]):
+        return "culture"
+    if any(w in title for w in ["dial", "shot", "espresso pull", "espresso ratio"]):
+        return "espresso"
+    if any(w in title for w in ["pour over", "v60", "chemex", "aeropress", "french press", "method", "brew"]):
+        return "brewing"
+    if "guide" in title or intent == "transactional":
+        return "guides"
+    return "brewing"
 
 
 def pick_category() -> str:
@@ -80,17 +126,38 @@ def pick_category() -> str:
 
 
 def pick_formula(category: str) -> str:
-    formulas = ARTICLE_FORMULAS.get(category, ARTICLE_FORMULAS["guides"])
+    formulas = ARTICLE_FORMULAS.get(category, list(ARTICLE_FORMULAS.values())[0])
     return random.choice(formulas)
 
 
 def plan_topic() -> dict:
+    """Try the SEO topics file first, fall back to formula generation."""
+    existing = get_existing_titles()
+    topics = load_topics()
+    if topics:
+        random.shuffle(topics)
+        for topic in topics:
+            tt = topic.get("title", "").lower().strip()
+            if tt and tt not in existing:
+                cat = map_topic_category(topic)
+                return {
+                    "category": cat,
+                    "formula": (
+                        f"Pre-planned: {topic.get('title')} | keyword: {topic.get('primary_keyword')} | "
+                        f"key points: {', '.join(topic.get('key_points', [])[:5])}"
+                    ),
+                    "preplanned": topic,
+                    "existing_titles": list(existing)[:20],
+                    "existing_count": len(existing),
+                }
+
+    # No preplanned topic available -> use formula
     category = pick_category()
     formula = pick_formula(category)
-    existing = get_existing_titles()
     return {
         "category": category,
         "formula": formula,
+        "preplanned": None,
         "existing_titles": list(existing)[:20],
         "existing_count": len(existing),
     }

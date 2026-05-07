@@ -1,7 +1,7 @@
 """
 AI client: round-robin Groq / GitHub / NVIDIA.
-Distribuye carga entre proveedores para maximizar tokens gratuitos.
-Fallback inmediato si uno falla — timeout por llamada, sin retries SDK.
+Distributes load across providers to maximise free tokens.
+Immediate fallback if one fails — per-call timeout, no SDK retries.
 """
 
 import json
@@ -17,7 +17,7 @@ log = logging.getLogger(__name__)
 
 GROQ_MODEL = "llama-3.3-70b-versatile"
 GITHUB_MODEL = "DeepSeek-V3-0324"
-NVIDIA_FAST = "deepseek-ai/deepseek-v4-flash"
+NVIDIA_FAST = "meta/llama-3.1-8b-instruct"
 NVIDIA_STABLE = "meta/llama-3.3-70b-instruct"
 
 PROVIDERS = ["groq", "github", "nvidia"]
@@ -25,7 +25,6 @@ _call_count = 0
 
 
 def _parse_json(text: str) -> dict:
-    """Limpia markdown/think tags y parsea JSON."""
     text = text.strip()
     if "<think>" in text:
         text = _re.sub(r"<think>.*?</think>", "", text, flags=_re.DOTALL).strip()
@@ -33,13 +32,17 @@ def _parse_json(text: str) -> dict:
         text = text.split("\n", 1)[1] if "\n" in text else text[3:]
     if text.endswith("```"):
         text = text.rsplit("```", 1)[0]
-    return json.loads(text.strip())
+    text = _re.sub(r"[\x00--]", "", text)
+    try:
+        return json.loads(text.strip())
+    except json.JSONDecodeError:
+        return json.loads(text.strip(), strict=False)
 
 
 def _call_groq(prompt: str, temperature: float = 0.7) -> dict:
     key = os.getenv("GROQ_API_KEY")
     if not key:
-        raise ValueError("GROQ_API_KEY no configurada")
+        raise ValueError("GROQ_API_KEY not configured")
     client = Groq(api_key=key, timeout=60.0, max_retries=0)
     response = client.chat.completions.create(
         model=GROQ_MODEL,
@@ -54,7 +57,7 @@ def _call_groq(prompt: str, temperature: float = 0.7) -> dict:
 def _call_github(prompt: str, temperature: float = 0.7) -> dict:
     token = os.getenv("GITHUB_TOKEN")
     if not token:
-        raise ValueError("GITHUB_TOKEN no configurado")
+        raise ValueError("GITHUB_TOKEN not configured")
     client = OpenAI(
         base_url="https://models.inference.ai.azure.com",
         api_key=token,
@@ -73,7 +76,7 @@ def _call_github(prompt: str, temperature: float = 0.7) -> dict:
 def _call_nvidia(prompt: str, temperature: float = 0.7) -> dict:
     key = os.getenv("NVIDIA_API_KEY")
     if not key:
-        raise ValueError("NVIDIA_API_KEY no configurada")
+        raise ValueError("NVIDIA_API_KEY not configured")
     client = OpenAI(
         base_url="https://integrate.api.nvidia.com/v1",
         api_key=key,
@@ -89,7 +92,7 @@ def _call_nvidia(prompt: str, temperature: float = 0.7) -> dict:
         )
         return _parse_json(response.choices[0].message.content)
     except Exception as e:
-        log.warning("NVIDIA v4-flash: %s -> probando llama-3.3", str(e)[:60])
+        log.warning("NVIDIA fast: %s -> trying llama-3.3", str(e)[:60])
 
     response = client.chat.completions.create(
         model=NVIDIA_STABLE,
@@ -125,10 +128,10 @@ def call_ai(prompt: str, temperature: float = 0.7, **kwargs) -> dict:
         except Exception as e:
             err = str(e)
             errors.append(f"{provider_name}: {err[:100]}")
-            log.warning("x %s: %s", provider_name, err[:100])
+            log.warning("fail %s: %s", provider_name, err[:100])
             if "429" in err:
                 time.sleep(15)
             else:
                 time.sleep(3)
 
-    raise RuntimeError(f"Todos los proveedores fallaron: {'; '.join(errors)}")
+    raise RuntimeError(f"All providers failed: {'; '.join(errors)}")

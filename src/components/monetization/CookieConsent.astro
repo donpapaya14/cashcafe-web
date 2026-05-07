@@ -1,0 +1,85 @@
+---
+// GDPR cookie consent banner
+---
+
+<div id="cookie-banner" class="cookie-banner" role="dialog" aria-label="Cookie consent" hidden>
+  <div class="cookie-banner__content">
+    <p>
+      We use cookies to improve your experience and serve relevant ads.
+      <a href="/cookies-policy">More info</a>
+    </p>
+    <div class="cookie-banner__actions">
+      <button id="cookie-reject" class="btn btn--outline cookie-btn">Reject</button>
+      <button id="cookie-accept" class="btn btn--primary cookie-btn">Accept</button>
+    </div>
+  </div>
+</div>
+
+<style>
+  .cookie-banner {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+    background: var(--color-surface);
+    border-top: 1px solid var(--color-border);
+    box-shadow: 0 -4px 20px rgba(75, 54, 33, 0.10);
+    padding: 1rem 1.5rem;
+  }
+  .cookie-banner__content {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.5rem;
+  }
+  .cookie-banner__content p {
+    font-size: 0.875rem;
+    color: var(--color-text-light);
+    margin: 0;
+  }
+  .cookie-banner__actions {
+    display: flex;
+    gap: 0.75rem;
+    flex-shrink: 0;
+  }
+  .cookie-btn { font-size: 0.8125rem; padding: 0.5rem 1rem; }
+
+  @media (max-width: 600px) {
+    .cookie-banner__content {
+      flex-direction: column;
+      text-align: center;
+    }
+  }
+</style>
+
+<script>
+  const banner = document.getElementById('cookie-banner');
+  const acceptBtn = document.getElementById('cookie-accept');
+  const rejectBtn = document.getElementById('cookie-reject');
+
+  if (!localStorage.getItem('cookie-consent')) {
+    banner?.removeAttribute('hidden');
+  }
+
+  acceptBtn?.addEventListener('click', () => {
+    localStorage.setItem('cookie-consent', 'accepted');
+    banner?.setAttribute('hidden', '');
+    loadAdSense();
+  });
+
+  rejectBtn?.addEventListener('click', () => {
+    localStorage.setItem('cookie-consent', 'rejected');
+    banner?.setAttribute('hidden', '');
+  });
+
+  function loadAdSense() {
+    // Only load AdSense after consent
+  }
+
+  if (localStorage.getItem('cookie-consent') === 'accepted') {
+    loadAdSense();
+  }
+</script>

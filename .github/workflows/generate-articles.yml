@@ -1,16 +1,16 @@
-name: Generate CashCafe Articles
+name: Generate SEO Articles
 
 on:
   schedule:
-    - cron: '10 10 * * *'  # 12:10 España (slot despues de hogarinteligente)
+    - cron: '10 10 * * *'  # 12:10 Spain
   workflow_dispatch:
     inputs:
       count:
-        description: 'Numero de articulos a generar'
+        description: 'Number of articles to generate'
         required: false
         default: '3'
         type: choice
-        options: ['1', '2', '3', '5', '6']
+        options: ['1', '2', '3', '5', '6', '10']
 
 permissions:
   contents: write
@@ -18,13 +18,22 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 120
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install Node dependencies
+        run: npm ci
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -53,41 +62,57 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_MODELS_TOKEN }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          AMAZON_TAG: vds96-20
+          SITE_URL: https://cash-cafe.org
+          BRAND: CashCafe
         run: |
           SUCCESS=0
           FAILED=0
           for i in $(seq 1 ${{ steps.config.outputs.count }}); do
-            echo "--- Generando articulo $i de ${{ steps.config.outputs.count }} ---"
+            echo "--- Generating article $i of ${{ steps.config.outputs.count }} ---"
             if ARTICLE_INDEX=$i python scripts/generate_article.py; then
               SUCCESS=$((SUCCESS + 1))
             else
-              echo "Intento 1 fallo, reintentando en 45s..."
-              sleep 45
+              echo "Attempt 1 failed, retrying in 120s..."
+              sleep 120
               if ARTICLE_INDEX=$i python scripts/generate_article.py; then
                 SUCCESS=$((SUCCESS + 1))
               else
-                FAILED=$((FAILED + 1))
-                echo "Articulo $i fallo tras 2 intentos"
+                echo "Attempt 2 failed, retrying in 120s..."
+                sleep 120
+                if ARTICLE_INDEX=$i python scripts/generate_article.py; then
+                  SUCCESS=$((SUCCESS + 1))
+                else
+                  FAILED=$((FAILED + 1))
+                  echo "Article $i failed after 3 attempts"
+                fi
               fi
             fi
             if [ $i -lt ${{ steps.config.outputs.count }} ]; then
-              sleep 30
+              sleep 60
             fi
           done
           echo "success=$SUCCESS" >> $GITHUB_OUTPUT
           echo "failed=$FAILED" >> $GITHUB_OUTPUT
-          echo "=== Resultado: $SUCCESS OK, $FAILED fallidos ==="
+          echo "=== Result: $SUCCESS OK, $FAILED failed ==="
+
+      - name: Build check
+        run: |
+          npm run build
+          echo "Build OK"
 
       - name: Commit and push
         if: success()
         run: |
           git config user.name "CashCafe Bot"
           git config user.email "vladys.z96@gmail.com"
-          git add blog-data.jsx
+          git add src/content/blog/
           if git diff --staged --quiet; then
             echo "No new articles to commit"
           else
-            git commit -m "articulo: auto-generated $(date +%Y-%m-%d)"
+            ARTICLE_COUNT=$(git diff --staged --name-only | wc -l | tr -d ' ')
+            git commit -m "articulo: auto-generated $(date +%Y-%m-%d) ($ARTICLE_COUNT new)"
             git push
           fi
 
@@ -103,14 +128,32 @@ jobs:
           STATUS="${{ job.status }}"
 
           if [ "$STATUS" = "success" ] && [ "${FAILED:-0}" = "0" ]; then
-            MSG="CashCafe — $SUCCESS/$TOTAL articulos generados"
+            EMOJI=""
+            MSG="<b>CashCafe</b> — $SUCCESS/$TOTAL articulos generados"
           elif [ "${SUCCESS:-0}" != "0" ]; then
-            MSG="CashCafe — $SUCCESS/$TOTAL OK, $FAILED fallidos"
+            EMOJI=""
+            MSG="<b>CashCafe</b> — $SUCCESS/$TOTAL OK, $FAILED fallidos"
           else
-            MSG="CashCafe — FALLO ($STATUS)"
+            EMOJI=""
+            MSG="<b>CashCafe</b> — FALLO ($STATUS)"
           fi
 
           curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
             -d chat_id="${TELEGRAM_CHAT_ID}" \
             -d parse_mode="HTML" \
-            -d text="<b>$MSG</b>" || true
+            -d text="$MSG" || true
+
+      - name: Fix and retry on build failure
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          echo "Build failed. Reverting problem articles..."
+          for f in $(git diff --name-only -- src/content/blog/); do
+            git checkout -- "$f" 2>/dev/null && echo "Reverted: $f"
+          done
+          curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            -d chat_id="${TELEGRAM_CHAT_ID}" \
+            -d parse_mode="HTML" \
+            -d text="<b>CashCafe</b> — Build fallo, articulos revertidos" || true

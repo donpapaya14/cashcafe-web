@@ -1,0 +1,81 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Newsletter" description="Get coffee tips, brews, and gear notes every Sunday from CashCafe. Free, no spam.">
+  <section class="newsletter-page">
+    <div class="container newsletter-page__inner">
+      <h1>Coffee in your inbox, every Sunday</h1>
+      <p class="newsletter-page__subtitle">
+        Each week we curate the best brewing tips, gear notes, and shop tours.
+        No spam, no fluff — just what makes the cup better.
+      </p>
+
+      <div class="newsletter-page__benefits">
+        <div class="benefit">
+          <span class="benefit__icon">&#10003;</span>
+          <span>Practical brewing tips you can use</span>
+        </div>
+        <div class="benefit">
+          <span class="benefit__icon">&#10003;</span>
+          <span>Honest gear notes, not marketing</span>
+        </div>
+        <div class="benefit">
+          <span class="benefit__icon">&#10003;</span>
+          <span>100% free, unsubscribe anytime</span>
+        </div>
+      </div>
+
+      <a
+        href="#"
+        class="btn btn--primary btn--lg"
+        aria-label="Subscribe — newsletter form coming soon"
+      >
+        Subscribe — coming soon
+      </a>
+
+      <p class="newsletter-page__note">
+        Your data is safe. Read our <a href="/privacy-policy">privacy policy</a>.
+      </p>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .newsletter-page {
+    padding: 5rem 0;
+    text-align: center;
+  }
+  .newsletter-page__inner { max-width: 600px; margin: 0 auto; }
+  .newsletter-page h1 { font-size: 2.5rem; }
+  .newsletter-page__subtitle {
+    font-size: 1.125rem;
+    color: var(--color-text-light);
+    margin: 1rem 0 2rem;
+    line-height: 1.7;
+  }
+  .newsletter-page__benefits {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    margin-bottom: 2rem;
+  }
+  .benefit {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+    font-size: 1rem;
+  }
+  .benefit__icon {
+    color: var(--color-accent);
+    font-weight: 700;
+    font-size: 1.25rem;
+  }
+  .btn--lg { padding: 0.875rem 2.5rem; font-size: 1.0625rem; }
+  .newsletter-page__note {
+    margin-top: 1.5rem;
+    font-size: 0.8125rem;
+    color: var(--color-text-muted);
+  }
+</style>

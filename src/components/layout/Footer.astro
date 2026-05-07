@@ -1,0 +1,119 @@
+---
+const year = new Date().getFullYear();
+const categories = [
+  { href: '/categoria/guides',   label: 'Buying Guides' },
+  { href: '/categoria/recipes',  label: 'Recipes' },
+  { href: '/categoria/culture',  label: 'Culture' },
+  { href: '/categoria/gear',     label: 'Gear' },
+  { href: '/categoria/brewing',  label: 'Brewing' },
+  { href: '/categoria/espresso', label: 'Espresso' },
+];
+const legal = [
+  { href: '/legal-notice', label: 'Legal notice' },
+  { href: '/privacy-policy', label: 'Privacy policy' },
+  { href: '/cookies-policy', label: 'Cookies policy' },
+];
+---
+
+<footer class="footer">
+  <div class="container footer__inner">
+    <div class="footer__brand">
+      <span class="footer__logo">&#9749; Cash<strong>Cafe</strong></span>
+      <p class="footer__tagline">Coffee science, brewing and cafe culture</p>
+    </div>
+
+    <div class="footer__col">
+      <h4>Categories</h4>
+      <ul>
+        {categories.map(c => <li><a href={c.href}>{c.label}</a></li>)}
+      </ul>
+    </div>
+
+    <div class="footer__col">
+      <h4>Legal</h4>
+      <ul>
+        {legal.map(l => <li><a href={l.href}>{l.label}</a></li>)}
+      </ul>
+    </div>
+
+    <div class="footer__col">
+      <h4>Connect</h4>
+      <ul>
+        <li><a href="/newsletter">Newsletter</a></li>
+        <li><a href="/rss.xml">RSS</a></li>
+      </ul>
+    </div>
+
+    <div class="footer__col">
+      <h4>Our sites</h4>
+      <ul>
+        <li><a href="https://saludlongevidad.org" target="_blank" rel="noopener">SaludLongevidad</a></li>
+        <li><a href="https://finanzasclara.uk" target="_blank" rel="noopener">FinanzasClara</a></li>
+        <li><a href="https://catbrothers.uk" target="_blank" rel="noopener">CatBrothers</a></li>
+        <li><a href="https://espaciointeligente.org" target="_blank" rel="noopener">Espacio Inteligente</a></li>
+        <li><a href="https://vida-sana-360.com" target="_blank" rel="noopener">VidaSana360</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="footer__bottom">
+    <div class="container">
+      <p>&copy; {year} CashCafe. Editorial coffee content. Affiliate links may earn a commission at no extra cost.</p>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .footer {
+    background: var(--color-text);
+    color: #D6CFC4;
+    margin-top: 4rem;
+    padding-top: 3rem;
+  }
+  .footer__inner {
+    display: grid;
+    grid-template-columns: 1.5fr repeat(4, 1fr);
+    gap: 2rem;
+    padding-bottom: 2rem;
+  }
+  .footer__logo {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: white;
+  }
+  .footer__logo strong { color: var(--color-accent); }
+  .footer__tagline {
+    margin-top: 0.5rem;
+    font-size: 0.875rem;
+    color: #B5AC9F;
+  }
+  .footer__col h4 {
+    color: white;
+    font-size: 0.875rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 1rem;
+  }
+  .footer__col ul { list-style: none; }
+  .footer__col li { margin-bottom: 0.5rem; }
+  .footer__col a {
+    color: #B5AC9F;
+    font-size: 0.875rem;
+    transition: color 0.2s;
+  }
+  .footer__col a:hover { color: white; }
+  .footer__bottom {
+    border-top: 1px solid #4a3d30;
+    padding: 1.25rem 0;
+  }
+  .footer__bottom p {
+    font-size: 0.8125rem;
+    color: #8B8071;
+    text-align: center;
+  }
+
+  @media (max-width: 700px) {
+    .footer__inner { grid-template-columns: 1fr 1fr; }
+    .footer__brand { grid-column: 1 / -1; }
+  }
+</style>

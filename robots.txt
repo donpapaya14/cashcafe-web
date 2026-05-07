@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://cash-cafe.org/sitemap.xml
-
-# Crawl-delay for politeness
-Crawl-delay: 1

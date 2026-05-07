@@ -1,0 +1,43 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="About CashCafe" description="CashCafe — coffee science, brewing, and cafe culture. Honest guides without the marketing fluff.">
+  <section class="about">
+    <div class="container about__inner">
+      <h1>About CashCafe</h1>
+      <p class="lead">CashCafe is a coffee blog focused on what actually changes the cup.</p>
+
+      <p>We cover brewing methods (espresso, V60, Chemex, AeroPress, French press), gear that lasts, and the science behind extraction. No hype, no copy-paste reviews.</p>
+
+      <h2>What we publish</h2>
+      <ul>
+        <li><strong>Brewing guides</strong> — step-by-step methods with measured ratios and times</li>
+        <li><strong>Gear reviews</strong> — what's worth buying at each price tier, what's a waste</li>
+        <li><strong>Recipes</strong> — drinks worth making, with the technique that makes them work</li>
+        <li><strong>Coffee culture</strong> — origins, history, and shop visits</li>
+      </ul>
+
+      <h2>Our approach</h2>
+      <ul>
+        <li><strong>Cite real sources</strong> — SCA standards, peer-reviewed studies, named baristas</li>
+        <li><strong>No miracle products</strong> — we don't promote scam gadgets or pyramid suppliers</li>
+        <li><strong>Affiliate transparency</strong> — Amazon links may earn a commission at no extra cost</li>
+        <li><strong>Free content</strong> — every guide is free to read, forever</li>
+      </ul>
+
+      <h2>Contact</h2>
+      <p>vladys.z96@gmail.com</p>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .about { padding: 3rem 0; }
+  .about__inner { max-width: var(--content-width); }
+  .lead { font-size: 1.1rem; color: var(--color-text-light); margin: 0.5rem 0 1.5rem; }
+  .about h2 { margin-top: 2rem; margin-bottom: 0.75rem; }
+  .about p { margin-bottom: 1rem; color: var(--color-text-light); line-height: 1.7; }
+  .about ul { padding-left: 1.5rem; margin-bottom: 1rem; }
+  .about li { margin-bottom: 0.5rem; color: var(--color-text-light); }
+</style>

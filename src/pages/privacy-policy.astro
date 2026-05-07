@@ -1,0 +1,58 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Privacy policy" noindex={true}>
+  <div class="container legal-page">
+    <h1>Privacy policy</h1>
+    <p><strong>Last updated:</strong> May 7, 2026</p>
+
+    <h2>Data controller</h2>
+    <p>CashCafe — Contact: vladys.z96@gmail.com</p>
+
+    <h2>Data we collect</h2>
+    <p>CashCafe collects data on a very limited basis:</p>
+    <ul>
+      <li><strong>Email:</strong> Only if you voluntarily subscribe to our newsletter.</li>
+      <li><strong>Browsing data:</strong> Anonymous data via Google AdSense and analytics cookies (only if you accept cookies).</li>
+    </ul>
+
+    <h2>Purpose</h2>
+    <ul>
+      <li>Send weekly newsletter with coffee content.</li>
+      <li>Anonymous traffic analysis to improve content.</li>
+      <li>Show relevant ads (Google AdSense).</li>
+    </ul>
+
+    <h2>Legal basis</h2>
+    <p>Data processing is based on your express consent (newsletter subscription, cookie acceptance).</p>
+
+    <h2>Recipients</h2>
+    <ul>
+      <li><strong>Email provider:</strong> processed by our newsletter platform when configured.</li>
+      <li><strong>Google</strong> (Google Ireland Limited): advertising and analytics. Complies with the EU-US Data Privacy Framework.</li>
+      <li><strong>Hosting:</strong> static files served by GitHub Pages (GitHub Inc.).</li>
+    </ul>
+
+    <h2>Your rights</h2>
+    <p>You can exercise your rights of access, rectification, deletion, opposition and portability by contacting vladys.z96@gmail.com.</p>
+    <p>To unsubscribe from the newsletter, use the "Unsubscribe" link at the bottom of every email.</p>
+
+    <h2>Data retention</h2>
+    <p>Your email is retained while your subscription remains active. Anonymous browsing data follows the policies of Google.</p>
+
+    <h2>Security</h2>
+    <p>We implement technical security measures (HTTPS, security headers) to protect information.</p>
+  </div>
+</BaseLayout>
+
+<style>
+  .legal-page {
+    max-width: var(--content-width);
+    padding: 3rem 1.5rem;
+  }
+  .legal-page h1 { margin-bottom: 0.5rem; }
+  .legal-page h2 { margin-top: 2rem; margin-bottom: 0.75rem; font-size: 1.25rem; }
+  .legal-page p, .legal-page li { margin-bottom: 0.75rem; color: var(--color-text-light); line-height: 1.7; }
+  .legal-page ul { padding-left: 1.5rem; }
+</style>
