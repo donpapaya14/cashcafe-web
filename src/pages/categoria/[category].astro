@@ -22,10 +22,16 @@ const sorted = posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.va
   title={catInfo.name}
   description={`${catInfo.name} on CashCafe — ${catInfo.description.toLowerCase()}.`}
 >
-  <section class="section">
+  <section class="section blog-hero" style="padding-top:64px;padding-bottom:24px">
     <div class="container">
-      <h1>{catInfo.name}</h1>
-      <p class="page-subtitle">{catInfo.description}</p>
+      <div class="eyebrow">Category</div>
+      <h1 class="display" style="font-size:clamp(36px,5vw,68px);margin-top:8px">{catInfo.name}</h1>
+      <p class="lede page-subtitle" style="margin-top:16px;max-width:640px">{catInfo.description}</p>
+    </div>
+  </section>
+
+  <section class="section" style="padding-top:24px">
+    <div class="container">
       {sorted.length > 0 ? (
         <div class="articles-grid">
           {sorted.map(post => (
@@ -48,13 +54,10 @@ const sorted = posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.va
 </BaseLayout>
 
 <style>
-  .section { padding: 3rem 0; }
-  h1 { margin-bottom: 0.25rem; }
-  .page-subtitle { color: var(--color-text-muted); margin-bottom: 2rem; }
-  .articles-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-    gap: 1.5rem;
+  .empty {
+    color: var(--ink-3);
+    font-style: italic;
+    text-align: center;
+    padding: 48px 0;
   }
-  .empty { color: var(--color-text-muted); font-style: italic; }
 </style>

@@ -2,15 +2,18 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 
-<BaseLayout title="About CashCafe" description="CashCafe — coffee science, brewing, and cafe culture. Honest guides without the marketing fluff.">
+<BaseLayout title="About Cash Café" description="Cash Café — coffee science, brewing, and cafe culture. Honest guides without the marketing fluff.">
   <section class="about">
     <div class="container about__inner">
-      <h1>About CashCafe</h1>
-      <p class="lead">CashCafe is a coffee blog focused on what actually changes the cup.</p>
+      <div class="eyebrow">About</div>
+      <h1 class="display" style="font-size:clamp(36px,5vw,64px);margin-top:8px">Cash <em>Café</em></h1>
+      <p class="lede" style="margin-top:18px;max-width:640px">
+        An editorial coffee guide focused on what actually changes the cup.
+      </p>
 
       <p>We cover brewing methods (espresso, V60, Chemex, AeroPress, French press), gear that lasts, and the science behind extraction. No hype, no copy-paste reviews.</p>
 
-      <h2>What we publish</h2>
+      <h2 class="section-title" style="margin-top:40px">What we publish</h2>
       <ul>
         <li><strong>Brewing guides</strong> — step-by-step methods with measured ratios and times</li>
         <li><strong>Gear reviews</strong> — what's worth buying at each price tier, what's a waste</li>
@@ -18,7 +21,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         <li><strong>Coffee culture</strong> — origins, history, and shop visits</li>
       </ul>
 
-      <h2>Our approach</h2>
+      <h2 class="section-title" style="margin-top:40px">Our approach</h2>
       <ul>
         <li><strong>Cite real sources</strong> — SCA standards, peer-reviewed studies, named baristas</li>
         <li><strong>No miracle products</strong> — we don't promote scam gadgets or pyramid suppliers</li>
@@ -26,18 +29,33 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         <li><strong>Free content</strong> — every guide is free to read, forever</li>
       </ul>
 
-      <h2>Contact</h2>
-      <p>vladys.z96@gmail.com</p>
+      <h2 class="section-title" style="margin-top:40px">Contact</h2>
+      <p><a href="mailto:vladys.z96@gmail.com">vladys.z96@gmail.com</a></p>
     </div>
   </section>
 </BaseLayout>
 
 <style>
-  .about { padding: 3rem 0; }
+  .about { padding: 56px 0 80px; }
   .about__inner { max-width: var(--content-width); }
-  .lead { font-size: 1.1rem; color: var(--color-text-light); margin: 0.5rem 0 1.5rem; }
-  .about h2 { margin-top: 2rem; margin-bottom: 0.75rem; }
-  .about p { margin-bottom: 1rem; color: var(--color-text-light); line-height: 1.7; }
-  .about ul { padding-left: 1.5rem; margin-bottom: 1rem; }
-  .about li { margin-bottom: 0.5rem; color: var(--color-text-light); }
+  .about h1 em { font-style: italic; color: var(--accent); }
+  .about p {
+    margin-bottom: 1rem;
+    color: var(--ink-2);
+    line-height: 1.7;
+    font-size: 16px;
+  }
+  .about ul {
+    padding-left: 1.25rem;
+    margin: 12px 0 24px;
+  }
+  .about li {
+    margin-bottom: 0.5rem;
+    color: var(--ink-2);
+    line-height: 1.55;
+    font-size: 15px;
+  }
+  .about strong { color: var(--ink-1); }
+  .about a { color: var(--accent); border-bottom: 1px dotted var(--accent); }
+  .about a:hover { color: var(--ink-1); border-bottom-color: var(--ink-1); }
 </style>

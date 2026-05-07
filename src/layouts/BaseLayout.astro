@@ -55,13 +55,20 @@ const resolvedCanonical = canonicalUrl ?? Astro.url.href;
   <meta name="twitter:description" content={description} />
   <meta name="twitter:image" content={resolvedOgImage} />
 
-  <!-- Fonts -->
+  <!-- Fonts: Fraunces (display serif) + Inter (sans) + Pacifico (script accent) -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..600&family=Inter:wght@300;400;500;600;700&family=Pacifico&display=swap"
+    rel="stylesheet"
+  />
 
   <!-- Favicon -->
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="apple-touch-icon" href="/assets/cash-cafe-logo.png" />
+
+  <!-- Theme color (matches dark coffee bg) -->
+  <meta name="theme-color" content="#1a0d05" />
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="CashCafe" href="/rss.xml" />
@@ -82,6 +89,14 @@ const resolvedCanonical = canonicalUrl ?? Astro.url.href;
   </script>
 </head>
 <body>
+  <!-- Full-page coffee video background (decorative) -->
+  <div class="site-bg" aria-hidden="true">
+    <video class="site-bg-video" autoplay muted loop playsinline preload="auto" poster="/assets/cashcafe-hero.png">
+      <source src="/assets/coffee-pour.mp4" type="video/mp4" />
+    </video>
+    <div class="site-bg-mask"></div>
+  </div>
+
   <Header />
   <main>
     <slot />

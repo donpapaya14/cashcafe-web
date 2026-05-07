@@ -7,11 +7,19 @@ const allPosts = await getCollection('blog', ({ data }) => !data.draft);
 const sortedPosts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 ---
 
-<BaseLayout title="All articles" description="All CashCafe articles on coffee science, brewing, espresso, gear, recipes, and cafe culture.">
-  <section class="section">
+<BaseLayout title="All articles" description="All Cash Café articles on coffee science, brewing, espresso, gear, recipes, and cafe culture.">
+  <section class="section blog-hero" style="padding-top:64px;padding-bottom:24px">
     <div class="container">
-      <h1>All articles</h1>
-      <p class="page-subtitle">Coffee science and brewing, no marketing fluff</p>
+      <div class="eyebrow">Blog</div>
+      <h1 class="display" style="font-size:clamp(36px,5vw,68px);margin-top:8px">All articles</h1>
+      <p class="lede page-subtitle" style="margin-top:16px;max-width:640px">
+        Coffee science and brewing, no marketing fluff
+      </p>
+    </div>
+  </section>
+
+  <section class="section" style="padding-top:24px">
+    <div class="container">
       <div class="articles-grid">
         {sortedPosts.map(post => (
           <ArticleCard
@@ -28,17 +36,3 @@ const sortedPosts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pu
     </div>
   </section>
 </BaseLayout>
-
-<style>
-  .section { padding: 3rem 0; }
-  h1 { margin-bottom: 0.25rem; }
-  .page-subtitle {
-    color: var(--color-text-muted);
-    margin-bottom: 2rem;
-  }
-  .articles-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-    gap: 1.5rem;
-  }
-</style>
