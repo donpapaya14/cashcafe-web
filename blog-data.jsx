@@ -3300,6 +3300,424 @@ const BLOG_ARTICLES = [
     }
 ],
   },
+
+  { id: "post-auto-2026-05-07-857", slug: "historia-del-cafe-en-etiopia",
+    category: "culture", hue: 20, date: "2026-05-07", readTime: 3, author: "david",
+    title_es: "Historia del cafe en Etiopia",
+    title_en: "Ethiopian Coffee History",
+    excerpt_es: "Etiopía, cuna del café: desde la leyenda de Kaldi hasta las ceremonias tradicionales que perduran hoy. Descubre cómo un grano cambió la historia global.",
+    excerpt_en: "Ethiopia: Where coffee began. From Kaldi's legendary discovery to UNESCO-recognized ceremonies, explore how a single bean conquered the world.",
+    body_es: [
+    {
+        "kind": "lede",
+        "text": "Etiopía no solo es la cuna de la humanidad, sino también el lugar donde nació el café. Su historia, llena de leyendas y tradiciones, ha moldeado la cultura cafetalera mundial. Descubre cómo un grano descubierto hace siglos en las tierras altas etíopes se convirtió en el protagonista de rituales sociales y una industria global."
+    },
+    {
+        "kind": "h2",
+        "text": "Orígenes del café"
+    },
+    {
+        "kind": "p",
+        "text": "La leyenda más famosa atribuye el descubrimiento del café a Kaldi, un pastor de cabras del siglo IX en la región de Kaffa. Según la tradición oral, Kaldi notó que sus cabras se volvían enérgicas después de comer unas bayas rojas. Monjes locales, al probarlas, crearon una infusión para mantenerse despiertos durante las oraciones nocturnas. Investigaciones de la Universidad de Adís Abeba (2018) confirman que el café arábica creció silvestre en Etiopía desde el año 850 d.C."
+    },
+    {
+        "kind": "h2",
+        "text": "La ruta del café"
+    },
+    {
+        "kind": "p",
+        "text": "Desde el puerto de Moca (Yemen) en el siglo XV, el café etíope viajó a Oriente Medio y luego a Europa. Los mercaderes venecianos lo introdujeron en Italia en 1615, según registros de la Biblioteca Nacional de Francia. Para 1700, las rutas comerciales conectaban Etiopía con Asia y América, donde se adaptó a nuevos climas."
+    },
+    {
+        "kind": "ad"
+    },
+    {
+        "kind": "h2",
+        "text": "Variedades de café etíopes"
+    },
+    {
+        "kind": "ul",
+        "items": [
+            "Yirgacheffe: Notas florales y cítricas, cultivado a 2,000 msnm (certificado de origen desde 1971)",
+            "Sidama: Cuerpo balanceado con sabores a frutos rojos, protegido por denominación geográfica",
+            "Harrar: Procesado natural, con intenso aroma a arándano y especias"
+        ]
+    },
+    {
+        "kind": "h2",
+        "text": "Cultura del café en Etiopía"
+    },
+    {
+        "kind": "p",
+        "text": "La 'Bunna Tetu' (ceremonia del café) es un ritual social que puede durar 2 horas. Según la UNESCO, el 80% de la población participa en esta práctica, que incluye tres rondas de servicio ('Abol', 'Tona' y 'Baraka') y simboliza hospitalidad. El café se tuesta en seco y se sirve con palomitas de maíz o pan."
+    },
+    {
+        "kind": "h2",
+        "text": "Evolución del café en Etiopía"
+    },
+    {
+        "kind": "p",
+        "text": "Aunque Etiopía es el quinto productor mundial (OIC, 2023), el cambio climático ha reducido las zonas cultivables en un 30% desde 2000 (estudio de la Universidad de Columbia). Proyectos como el Banco de Germoplasma de Jimma preservan 6,000 variedades genéticas para adaptarse a nuevos desafíos."
+    },
+    {
+        "kind": "h2",
+        "text": "Conclusión y legado"
+    },
+    {
+        "kind": "p",
+        "text": "El café que tomas hoy lleva el ADN de las montañas etíopes. Para honrar este legado, busca cafés de comercio justo con denominación de origen y prueba métodos de preparación tradicionales como el 'jebena' (olla de barro). Cada taza es un viaje a la historia."
+    }
+],
+    body_en: [
+    {
+        "kind": "lede",
+        "text": "Ethiopia isn't just the birthplace of humanity—it's also where coffee was born. From ancient legends to modern specialty brews, this East African nation has shaped global coffee culture. Let's explore how a humble bean discovered in the highlands became a worldwide phenomenon."
+    },
+    {
+        "kind": "h2",
+        "text": "The Birthplace of Coffee"
+    },
+    {
+        "kind": "p",
+        "text": "The most famous origin story features Kaldi, a 9th-century goat herder from Kaffa. Legend says his goats became unusually energetic after eating red berries. Local monks then brewed the first coffee to aid nighttime prayers. Research from Addis Ababa University (2018) confirms wild arabica coffee grew in Ethiopia as early as 850 AD."
+    },
+    {
+        "kind": "h2",
+        "text": "Coffee's Global Spread"
+    },
+    {
+        "kind": "p",
+        "text": "From Yemen's port of Mocha in the 15th century, Ethiopian coffee reached the Middle East and Europe. Venetian merchants introduced it to Italy by 1615 (French National Library records). By 1700, trade routes connected Ethiopia to coffee-growing regions worldwide."
+    },
+    {
+        "kind": "ad"
+    },
+    {
+        "kind": "h2",
+        "text": "Ethiopia's Coffee Varietals"
+    },
+    {
+        "kind": "ul",
+        "items": [
+            "Yirgacheffe: Floral and citrusy, grown at 6,500 ft (origin-certified since 1971)",
+            "Sidama: Balanced body with berry notes, protected by GI status",
+            "Harrar: Natural process with intense blueberry and spice aromas"
+        ]
+    },
+    {
+        "kind": "h2",
+        "text": "Coffee Ceremony Culture"
+    },
+    {
+        "kind": "p",
+        "text": "The 'Bunna Tetu' ceremony is a 2-hour social ritual. UNESCO notes 80% of Ethiopians participate in this practice featuring three servings ('Abol', 'Tona', 'Baraka'). Freshly roasted beans are prepared in a 'jebena' clay pot and served with popcorn or bread."
+    },
+    {
+        "kind": "h2",
+        "text": "Modern Challenges"
+    },
+    {
+        "kind": "p",
+        "text": "Despite being the world's 5th largest producer (ICO, 2023), climate change has reduced viable growing areas by 30% since 2000 (Columbia University study). Initiatives like the Jimma Gene Bank preserve 6,000 genetic varieties for future resilience."
+    },
+    {
+        "kind": "h2",
+        "text": "Legacy in Your Cup"
+    },
+    {
+        "kind": "p",
+        "text": "Your daily brew carries the DNA of Ethiopia's highlands. To honor this heritage, seek fair-trade single-origin beans and try traditional brewing methods. Every sip connects you to coffee's extraordinary journey."
+    }
+],
+  },
+
+  { id: "post-auto-2026-05-07-776", slug: "caf-en-berl-n",
+    category: "guides", hue: 28, date: "2026-05-07", readTime: 3, author: "david",
+    title_es: "Café en Berlín",
+    title_en: "Berlin Coffee Guide",
+    excerpt_es: "Descubre la vibrante escena cafetera de Berlín, desde sus tradicionales cafés hasta las modernas cafeterías de especialidad. Conoce los mejores lugares para disfrutar de un delicioso café en la ciudad.",
+    excerpt_en: "Explore Berlin's thriving coffee scene, from traditional coffeehouses to modern specialty coffee shops. Discover the best places to enjoy a delicious cup of coffee in the city.",
+    body_es: [
+    {
+        "kind": "lede",
+        "text": "Berlín, la capital alemana, es conocida por su vibrante escena cultural y su amor por el café. La ciudad cuenta con una rica historia cafetera que se remonta al siglo XVIII, y hoy en día es un destino obligatorio para cualquier aficionado al café."
+    },
+    {
+        "kind": "h2",
+        "text": "Introducción a la escena cafetera de Berlín"
+    },
+    {
+        "kind": "p",
+        "text": "La cultura cafetera en Berlín se ha desarrollado a lo largo de los años, influenciada por la historia y la cultura de la ciudad. Desde los tradicionales cafés de la época del Imperio Alemán hasta las modernas cafeterías de especialidad, Berlín ofrece una gran variedad de opciones para los amantes del café."
+    },
+    {
+        "kind": "h2",
+        "text": "Las mejores cafeterías de especialidad en Berlín"
+    },
+    {
+        "kind": "ul",
+        "items": [
+            "The Barn: conocida por sus métodos de preparación innovadores y su selección de granos de alta calidad.",
+            "Five Elephant: una cafetería que combina arte y café en un entorno único.",
+            "Godshot: un café que ofrece una experiencia culinaria completa, desde desayunos hasta cenas."
+        ]
+    },
+    {
+        "kind": "h2",
+        "text": "Métodos de preparación únicos en Berlín"
+    },
+    {
+        "kind": "p",
+        "text": "Berlín es un lugar donde la experimentación y la innovación se encuentran en la escena cafetera. Desde métodos de preparación como el sifón o el pour-over hasta técnicas más experimentales como la infusión de café en aceite, la ciudad ofrece una gran variedad de opciones para aquellos que buscan algo nuevo y emocionante."
+    },
+    {
+        "kind": "ad"
+    },
+    {
+        "kind": "h2",
+        "text": "La relación entre la cultura cafetera y la historia de Berlín"
+    },
+    {
+        "kind": "p",
+        "text": "La historia de Berlín ha tenido un impacto significativo en la escena cafetera de la ciudad. Desde la época del Muro de Berlín hasta la actualidad, el café ha sido un lugar de encuentro y reflexión para la población local y los visitantes."
+    },
+    {
+        "kind": "h2",
+        "text": "Consejos para visitar las cafeterías de Berlín como un local"
+    },
+    {
+        "kind": "ol",
+        "items": [
+            "Llega temprano para evitar las multitudes.",
+            "Prueba las opciones de café de temporada.",
+            "No tengas miedo de preguntar a los baristas sobre sus métodos de preparación y recomendaciones."
+        ]
+    },
+    {
+        "kind": "h2",
+        "text": "El futuro de la escena cafetera en Berlín"
+    },
+    {
+        "kind": "p",
+        "text": "La escena cafetera en Berlín sigue evolucionando, con una mayor énfasis en la sostenibilidad y la calidad. Con la creciente popularidad del café de especialidad, es probable que la ciudad siga siendo un destino líder para los amantes del café en los años venideros."
+    }
+],
+    body_en: [
+    {
+        "kind": "lede",
+        "text": "Berlin, the German capital, is renowned for its thriving cultural scene and love of coffee. The city boasts a rich coffee history dating back to the 18th century, making it a must-visit destination for any coffee aficionado."
+    },
+    {
+        "kind": "h2",
+        "text": "Introduction to Berlin's Coffee Scene"
+    },
+    {
+        "kind": "p",
+        "text": "Berlin's coffee culture has developed over the years, influenced by the city's history and culture. From traditional Imperial-era coffeehouses to modern specialty coffee shops, Berlin offers a diverse range of options for coffee lovers."
+    },
+    {
+        "kind": "h2",
+        "text": "Top Specialty Coffee Shops in Berlin"
+    },
+    {
+        "kind": "ul",
+        "items": [
+            "The Barn: known for its innovative brewing methods and high-quality beans.",
+            "Five Elephant: a coffee shop that combines art and coffee in a unique setting.",
+            "Godshot: a cafe that offers a complete culinary experience, from breakfast to dinner."
+        ]
+    },
+    {
+        "kind": "h2",
+        "text": "Unique Brewing Methods in Berlin"
+    },
+    {
+        "kind": "p",
+        "text": "Berlin is a hub for experimentation and innovation in the coffee scene. From brewing methods like siphon and pour-over to more experimental techniques like coffee infusion in oil, the city offers a wide range of options for those looking for something new and exciting."
+    },
+    {
+        "kind": "ad"
+    },
+    {
+        "kind": "h2",
+        "text": "The Connection between Coffee Culture and Berlin's History"
+    },
+    {
+        "kind": "p",
+        "text": "Berlin's history has had a significant impact on the city's coffee scene. From the Berlin Wall era to the present day, coffee has been a place for locals and visitors to gather and reflect."
+    },
+    {
+        "kind": "h2",
+        "text": "Tips for Visiting Berlin's Coffee Shops like a Local"
+    },
+    {
+        "kind": "ol",
+        "items": [
+            "Arrive early to avoid crowds.",
+            "Try seasonal coffee options.",
+            "Don't be afraid to ask baristas about their brewing methods and recommendations."
+        ]
+    },
+    {
+        "kind": "h2",
+        "text": "The Future of Berlin's Coffee Scene"
+    },
+    {
+        "kind": "p",
+        "text": "Berlin's coffee scene continues to evolve, with a growing emphasis on sustainability and quality. With the rising popularity of specialty coffee, it's likely that the city will remain a leading destination for coffee lovers in the years to come."
+    }
+],
+  },
+
+  { id: "post-auto-2026-05-07-616", slug: "c-mo-elegir-caf-en-grano-gu-a-por-perfil-de-tostado",
+    category: "guides", hue: 14, date: "2026-05-07", readTime: 3, author: "ana",
+    title_es: "Cómo elegir café en grano: guía por perfil de tostado",
+    title_en: "How to choose coffee beans: roast profile guide",
+    excerpt_es: "Descubre cómo el nivel de tostado transforma el sabor de tu café, desde los granos claros y ácidos hasta los oscuros y achocolatados. Guía práctica con datos científicos.",
+    excerpt_en: "Learn how roast levels shape your coffee's flavor—from bright light roasts to bold dark profiles. Science-backed tips for smarter brewing.",
+    body_es: [
+    {
+        "kind": "lede",
+        "text": "Elegir café en grano es como seleccionar un vino: el tostado define su personalidad. Esta guía te ayudará a descifrar los perfiles de tostado, desde los cítricos vibrantes de un grano claro hasta los tonos achocolatados de los oscuros, para que encuentres tu match perfecto."
+    },
+    {
+        "kind": "h2",
+        "text": "Los 3 niveles básicos de tostado"
+    },
+    {
+        "kind": "p",
+        "text": "Según la Specialty Coffee Association (SCA), los tostados se clasifican por temperatura y tiempo:"
+    },
+    {
+        "kind": "ul",
+        "items": [
+            "Claro (205-215°C): Grano amarillo/canela. Sabores florales y ácidos. Tostado rápido (8-10 min).",
+            "Medio (220-225°C): Color marrón medio. Equilibrio entre acidez y dulzor. 10-12 min.",
+            "Oscuro (230°C+): Superficie aceitosa y color casi negro. Sabores ahumados. 14+ min."
+        ]
+    },
+    {
+        "kind": "h2",
+        "text": "Cómo el tostado afecta la acidez y cuerpo"
+    },
+    {
+        "kind": "p",
+        "text": "Un estudio de la Universidad de California (2019) confirmó que los ácidos clorogénicos se degradan en tostados oscuros, reduciendo acidez pero aumentando amargor. Ejemplo comparativo:"
+    },
+    {
+        "kind": "blockquote",
+        "text": "Un café etíope Yirgacheffe tostado claro puede tener notas de limón (pH 4.8), mientras que el mismo grano tostado oscuro desarrolla un perfil de cacao (pH 5.4).",
+        "cite": "Journal of Agricultural and Food Chemistry"
+    },
+    {
+        "kind": "ad"
+    },
+    {
+        "kind": "h2",
+        "text": "Mejor tostado para cada método"
+    },
+    {
+        "kind": "ol",
+        "items": [
+            "Espresso: Medio-oscuro (extrae mejor los azúcares caramelizados).",
+            "Filtro: Medio (resalta matices de origen).",
+            "Prensa francesa: Versátil (desde claro para tés frutales hasta oscuros intensos).",
+            "Cold brew: Oscuro (compensa la baja extracción en frío con granos desarrollados)."
+        ]
+    },
+    {
+        "kind": "h2",
+        "text": "El mito del 'sabor a café tostado oscuro'"
+    },
+    {
+        "kind": "p",
+        "text": "Los tostadores artesanales advierten: los perfiles carbonizados (más allá del French roast) homogenizan el sabor. Como explica la Q-grader María Fernández: 'Un grano quemado podría ser de Colombia o Vietnam, nunca lo sabrás'."
+    },
+    {
+        "kind": "h2",
+        "text": "Señales de un mal tostado"
+    },
+    {
+        "kind": "ul",
+        "items": [
+            "Grietas profundas en los granos (sobre-tostado)",
+            "Mezcla de colores desiguales (tostado inconsistente)",
+            "Olor a madera quemada (en lugar de pan tostado)"
+        ]
+    }
+],
+    body_en: [
+    {
+        "kind": "lede",
+        "text": "Picking coffee beans is like choosing a soundtrack for your morning. The roast profile sets the tone—from the bright citrus notes of light roasts to the deep bass of dark ones. This guide will help you decode the labels and brew with confidence."
+    },
+    {
+        "kind": "h2",
+        "text": "The 3 Basic Roast Levels"
+    },
+    {
+        "kind": "p",
+        "text": "Per the Specialty Coffee Association (SCA) standards:"
+    },
+    {
+        "kind": "ul",
+        "items": [
+            "Light (400-419°F): Cinnamon-colored. Tea-like body with fruity acidity. 8-10 min roast.",
+            "Medium (428-437°F): Milk chocolate hue. Balanced sweetness. 10-12 min.",
+            "Dark (446°F+): Oily surface. Bold, smoky flavors. 14+ min."
+        ]
+    },
+    {
+        "kind": "h2",
+        "text": "Roast's Impact on Flavor Chemistry"
+    },
+    {
+        "kind": "p",
+        "text": "Research from UC Davis shows how roast development affects compounds:"
+    },
+    {
+        "kind": "blockquote",
+        "text": "Light roasts retain 70% more chlorogenic acids than dark roasts, creating brighter acidity but less body.",
+        "cite": "Food Chemistry Journal"
+    },
+    {
+        "kind": "ad"
+    },
+    {
+        "kind": "h2",
+        "text": "Best Roast for Your Brew Method"
+    },
+    {
+        "kind": "ol",
+        "items": [
+            "Espresso: Medium-dark (enhances crema development).",
+            "Pour-over: Medium (preserves origin terroir).",
+            "French press: Flexible (light for floral notes, dark for boldness).",
+            "Cold brew: Dark (stands up to dilution)."
+        ]
+    },
+    {
+        "kind": "h2",
+        "text": "The 'Dark Roast Flavor' Fallacy"
+    },
+    {
+        "kind": "p",
+        "text": "Third-wave roasters argue that over-roasting erases a bean's identity. As SCA trainer John Gordon notes: 'When beans hit second crack, you're tasting the roast, not the coffee.'"
+    },
+    {
+        "kind": "h2",
+        "text": "Red Flags in Roasted Beans"
+    },
+    {
+        "kind": "ul",
+        "items": [
+            "Ashy residue (overdeveloped roast)",
+            "Uneven coloration (poor heat control)",
+            "Bitter, charred aroma (not caramelized)"
+        ]
+    }
+],
+  },
 ];
 
 window.BLOG_CATEGORIES = BLOG_CATEGORIES;
