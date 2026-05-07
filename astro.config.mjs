@@ -12,7 +12,7 @@ export default defineConfig({
       filter: (page) =>
         !page.includes('/legal-notice') &&
         !page.includes('/privacy-policy') &&
-        !page.includes('/cookies-policy'),
+        !page.includes('/cookie-policy'),
       i18n: { defaultLocale: 'en', locales: { en: 'en-US' } },
     }),
     mdx(),
