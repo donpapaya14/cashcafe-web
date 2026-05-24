@@ -55,9 +55,9 @@ To achieve a balanced flavor, stop the roasting process between the first and se
 ### What is the recommended roast level for espresso?
 The recommended roast level for espresso is a **City roast** or **Vienna roast**.
 ### Can I use a home coffee roaster?
-Yes, you can use a home coffee roaster like the [Gene Cafe CBR-101 Home Coffee Roaster](https://www.amazon.com/Gene-Cafe-CBR-101-Home-Coffee-Roaster) to achieve professional-grade roasts.
+Yes, you can use a home coffee roaster like the [Gene Cafe CBR-101 Home Coffee Roaster](https://www.amazon.com/Gene-Cafe-CBR-101-Home-Coffee-Roaster?tag=vds96-20) to achieve professional-grade roasts.
 ### What are the benefits of using a coffee roaster with a temperature control?
-Using a coffee roaster with temperature control, such as the [Behmor 1600 Plus Coffee Roaster](https://www.amazon.com/Behmor-1600-Plus-Coffee-Roaster), allows for precise control over the roasting process.
+Using a coffee roaster with temperature control, such as the [Behmor 1600 Plus Coffee Roaster](https://www.amazon.com/Behmor-1600-Plus-Coffee-Roaster?tag=vds96-20), allows for precise control over the roasting process.
 
 ## My Take
 As an app developer and trained chef who brews coffee daily, I can attest to the importance of understanding the roasting process. My personal experience with the Gene Cafe CBR-101 Home Coffee Roaster has allowed me to experiment with different roast levels and flavor profiles. I find that the key to achieving a great cup of coffee is to carefully monitor the roasting process and adjust the temperature and time accordingly.

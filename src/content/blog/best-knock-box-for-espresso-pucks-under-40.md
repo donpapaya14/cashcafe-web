@@ -26,10 +26,10 @@ A knock box is crucial in espresso brewing, as it helps to prevent mess and dama
 Here are our top picks for knock boxes under $40, including features and customer reviews:
 | Product | Price | Material | Customer Review |
 | --- | --- | --- | --- |
-| [Utopia Kitchen Stainless Steel Knock Box](https://www.amazon.com/Utopia-Kitchen-Stainless-Steel-Knock/dp/B076MX9RYG) | $25 | Stainless Steel | 4.5/5 |
+| [Utopia Kitchen Stainless Steel Knock Box](https://www.amazon.com/Utopia-Kitchen-Stainless-Steel-Knock/dp/B076MX9RYG?tag=vds96-20) | $25 | Stainless Steel | 4.5/5 |
 | [Barista Hustle Knock Box](https://www.baristahustle.com/products/knock-box) | $30 | Polymer | 4.5/5 |
 | [Espro Knock Box](https://www.espro.com/products/knock-box) | $35 | Stainless Steel | 4.5/5 |
-These knock boxes have received excellent customer reviews on [Amazon](https://www.amazon.com/), 2022, with an average rating of 4.5/5 stars.
+These knock boxes have received excellent customer reviews on [Amazon](https://www.amazon.com/?tag=vds96-20), 2022, with an average rating of 4.5/5 stars.
 
 ## Material and Durability
 When it comes to knock boxes, material and durability are essential considerations. According to the [Barista Guild of America](https://www.baristaguildofamerica.org/), 2019, stainless steel and polymer construction are the most common materials used for knock boxes. The **Utopia Kitchen Stainless Steel Knock Box** features a removable rubber bar for impact absorption, making it a durable and long-lasting option.
@@ -47,9 +47,9 @@ Stainless steel and polymer are the most common materials used for knock boxes, 
 ### Can I use a knock box for other types of coffee?
 Yes, you can use a knock box for other types of coffee, such as pour-over or French press, according to [The Sprudge Coffee Guide](https://sprudge.com/), 2021.
 ### How much does a knock box cost?
-The cost of a knock box can vary, but most knock boxes under $40, according to [Amazon](https://www.amazon.com/), 2022.
+The cost of a knock box can vary, but most knock boxes under $40, according to [Amazon](https://www.amazon.com/?tag=vds96-20), 2022.
 ### What is the best knock box for espresso pucks?
-The **Utopia Kitchen Stainless Steel Knock Box** is a great option for espresso pucks, according to [Amazon](https://www.amazon.com/), 2022.
+The **Utopia Kitchen Stainless Steel Knock Box** is a great option for espresso pucks, according to [Amazon](https://www.amazon.com/?tag=vds96-20), 2022.
 
 ## My Take
 As an app developer and trained chef who brews coffee daily, I can attest to the importance of a good knock box. I've tried several knock boxes in the past, but the **Utopia Kitchen Stainless Steel Knock Box** is my favorite. It's durable, easy to clean, and has a removable rubber bar for impact absorption. I've been using it for months now, and it's been a game-changer for my espresso brewing routine.

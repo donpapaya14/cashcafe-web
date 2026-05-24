@@ -59,7 +59,7 @@ Yes, the AeroPress can be used to make other beverages, such as tea and cold bre
 ### How do I troubleshoot common issues with my AeroPress?
 Common issues with the AeroPress include clogged filters and uneven extraction. According to the [AeroPress official website](https://aeropress.com/), these issues can be resolved by cleaning the filter and adjusting the grind size.
 ### What are some related products to the AeroPress?
-Some related products to the AeroPress include the [AeroPress Coffee Maker](https://www.amazon.com/AeroPress-Coffee-Maker/dp/B0002QQLSQ) and the [AeroPress Filter Cap](https://www.amazon.com/AeroPress-Filter-Cap/dp/B07B9R7RYG).
+Some related products to the AeroPress include the [AeroPress Coffee Maker](https://www.amazon.com/AeroPress-Coffee-Maker/dp/B0002QQLSQ?tag=vds96-20) and the [AeroPress Filter Cap](https://www.amazon.com/AeroPress-Filter-Cap/dp/B07B9R7RYG?tag=vds96-20).
 
 ## My Take
 As a trained chef and app developer who brews coffee daily, I can attest to the importance of using high-quality coffee beans and experimenting with different ratios and steeping times. My personal favorite **aeropress recipe** involves a ratio of 1:12 and a steeping time of 2 minutes. I also appreciate the versatility of the AeroPress and the fact that it can be used to make other beverages, such as tea and cold brew coffee.
@@ -82,7 +82,7 @@ Here are some concrete action bullets to summarize the article:
 * Optimize the brewing temperature to 80°C (176°F) for a more balanced extraction.
 * Use fresh, high-quality coffee beans for the best flavor.
 * Clean the AeroPress regularly to maintain its quality.
-* Consider using related products, such as the [AeroPress Filter Cap](https://www.amazon.com/AeroPress-Filter-Cap/dp/B07B9R7RYG), to enhance your brewing experience.
+* Consider using related products, such as the [AeroPress Filter Cap](https://www.amazon.com/AeroPress-Filter-Cap/dp/B07B9R7RYG?tag=vds96-20), to enhance your brewing experience.
 * Try the **inverted method** for a longer steep time and a more flavorful cup of coffee.
 
 

@@ -45,9 +45,9 @@ The ideal pitcher height for pouring latte art is **4-6 inches** above the cup.
 ### How do I avoid common mistakes when pouring latte art?
 To avoid common mistakes when pouring latte art, you need to practice regularly and pay attention to the pitcher height, pour speed, and milk quality.
 ### What is the best way to improve my latte art skills?
-The best way to improve your latte art skills is to practice regularly and watch videos of professional baristas. You can also use **[ Breville Bambino Plus on Amazon](https://www.amazon.com/s?k=+Breville+Bambino+Plus&tag=vds96-20)(https://www.amazon.com/Breville-Bambino-Plus-Espresso-Machine)** to practice your skills.
+The best way to improve your latte art skills is to practice regularly and watch videos of professional baristas. You can also use **[ Breville Bambino Plus on Amazon](https://www.amazon.com/s?k=+Breville+Bambino+Plus&tag=vds96-20)(https://www.amazon.com/Breville-Bambino-Plus-Espresso-Machine?tag=vds96-20)** to practice your skills.
 ### Can I use any type of coffee machine to make latte art?
-No, not all coffee machines are suitable for making latte art. You need a machine that can produce high-quality espresso and steam, such as **[ De'Longhi EC155 on Amazon](https://www.amazon.com/s?k=+De'Longhi+EC155&tag=vds96-20)(https://www.amazon.com/DeLonghi-EC155-Espresso-Machine)**.
+No, not all coffee machines are suitable for making latte art. You need a machine that can produce high-quality espresso and steam, such as **[ De'Longhi EC155 on Amazon](https://www.amazon.com/s?k=+De'Longhi+EC155&tag=vds96-20)(https://www.amazon.com/DeLonghi-EC155-Espresso-Machine?tag=vds96-20)**.
 
 ## My Take
 As an app developer and trained chef who brews coffee daily, I can attest to the importance of practice and patience when it comes to latte art. I remember my first attempts at pouring latte art - they were disastrous! But with time and practice, I was able to create beautiful designs that impressed my friends and family.
