@@ -44,3 +44,9 @@ Third-wave roasters argue that over-roasting erases a bean's identity. As SCA tr
 - Ashy residue (overdeveloped roast)
 - Uneven coloration (poor heat control)
 - Bitter, charred aroma (not caramelized)
+
+## 📚 Continue reading
+
+- [Good decaf exists. It](/blog/descafeinado-bueno)
+- [Berlin Coffee Guide](/blog/caf-en-berl-n)
+- [French press: the complete step-by-step guide](/blog/french-press-guia-completa)

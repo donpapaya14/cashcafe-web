@@ -39,3 +39,9 @@ It's not 'which is better?' but 'how many cups do I make and how much effort do 
 ## Our recommendation
 
 Start with a mid-range manual. If after three months you're tired of hand-grinding, sell it (they hold value well) and buy an electric. That way you don't overspend upfront and you discover your real tolerance.
+
+## 📚 Continue reading
+
+- [Gooseneck kettle: the tool that changes everything](/blog/hervidor-cuello-cisne-guia)
+- [7 barista accessories for under €50](/blog/accesorios-barista-esenciales)
+- [Best Espresso Machine for Beginners 2026: Sub $400 Picks](/blog/best-espresso-machine-for-beginners-2026-sub-400-picks)

@@ -80,3 +80,9 @@ Here are some practical tips for choosing the best knock box for espresso pucks 
 ---
 
 *Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+
+## 📚 Continue reading
+
+- [The 5 best coffee shops in Madrid in 2026](/blog/mejores-cafeterias-madrid-2026)
+- [The best coffee shops in Seville in 2026](/blog/mejores-cafeterias-sevilla)
+- [French press: the complete step-by-step guide](/blog/french-press-guia-completa)

@@ -46,3 +46,9 @@ We've spent a month testing the combination we recommend below. It's the setup w
 ## Next steps
 
 Once you can pull three shots in a row you actually like, start playing with pressure and temperature. If this guide helped you, subscribe to the newsletter — every Saturday we send a fresh recipe.
+
+## 📚 Continue reading
+
+- [French press: the complete step-by-step guide](/blog/french-press-guia-completa)
+- [Berlin Coffee Guide](/blog/caf-en-berl-n)
+- [How to choose coffee beans: roast profile guide](/blog/c-mo-elegir-caf-en-grano-gu-a-por-perfil-de-tostado)

@@ -77,3 +77,9 @@ Here are some concrete action bullets to help you get started with espresso vari
 ---
 
 *Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+
+## 📚 Continue reading
+
+- [Coffee Grind Size Chart: From Espresso Fine to French Press](/blog/coffee-grind-size-chart-from-espresso-fine-to-french-press)
+- [Best Glass Coffee Pot for Pour Over: 5 Server Picks](/blog/best-glass-coffee-pot-for-pour-over-5-server-picks)
+- [Chemex vs V60: Which Pour Over Brewer Should You Buy?](/blog/chemex-vs-v60-which-pour-over-brewer-should-you-buy)

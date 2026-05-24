@@ -36,3 +36,9 @@ Norway and Denmark pioneered the third wave in Europe. Tim Wendelboe (Oslo), Cof
 ## Are the two worlds converging?
 
 Yes. Specialty shops in southern Europe serve more and more filter, and Nordics are starting to appreciate quality espresso. The third wave is blurring the line, but the baseline culture — big cup vs small cup — remains intact.
+
+## 📚 Continue reading
+
+- [Turkish coffee: the world](/blog/cafe-turco-metodo-ancestral)
+- [Coffee in Italy vs coffee in Spain: customs that clash](/blog/cultura-cafe-italia-espana)
+- [La Colombe Cafe](/blog/cafeter-a-la-colombe)

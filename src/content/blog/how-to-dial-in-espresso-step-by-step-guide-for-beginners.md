@@ -92,3 +92,9 @@ Dialing in espresso is an art that requires patience, practice, and attention to
 ---
 
 *Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+
+## 📚 Continue reading
+
+- [Berlin Coffee Guide](/blog/caf-en-berl-n)
+- [Third wave: what it means and why it matters](/blog/tercera-ola-explicada)
+- [How to choose coffee beans: roast profile guide](/blog/c-mo-elegir-caf-en-grano-gu-a-por-perfil-de-tostado)

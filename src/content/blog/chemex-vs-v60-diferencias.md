@@ -35,3 +35,9 @@ In side-by-side cuppings with the same coffee (washed Ethiopian, light roast), t
 ## The verdict
 
 If you brew for multiple people and value cup clarity, go Chemex. If you're a solo explorer who enjoys fine-tuning every variable, go V60. And if you can, get both: coffee changes so much between them that it's worth it.
+
+## 📚 Continue reading
+
+- [Good decaf exists. It](/blog/descafeinado-bueno)
+- [Colombia](/blog/viaje-cafetero-colombia)
+- [The best coffee shops in Barcelona: updated guide](/blog/mejores-cafeterias-barcelona)

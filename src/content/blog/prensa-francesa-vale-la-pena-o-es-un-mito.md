@@ -37,3 +37,9 @@ SCA research shows French press extraction is less even than V60 due to full imm
 ## Who should actually buy one?
 
 Great for budget drinkers who don't mind sediment. For clarity, dual-filter presses (from $25) or Aeropress offer similar pricing. Complexity seekers should explore other brewers.
+
+## 📚 Continue reading
+
+- [Tamper, distributor and WDT: what each one does](/blog/tamper-distribuidor-wdt)
+- [7 barista accessories for under €50](/blog/accesorios-barista-esenciales)
+- [Water Filters for Coffee](/blog/filtros-de-agua-para-cafe)

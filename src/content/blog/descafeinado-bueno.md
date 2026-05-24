@@ -27,3 +27,8 @@ In the meantime, browse our full [coffee blog](/blog) for ready-to-read brewing 
 
 > Subscribe to the [newsletter](/newsletter) to get notified when this guide is updated.
 
+## 📚 Continue reading
+
+- [Colombia](/blog/viaje-cafetero-colombia)
+- [The best coffee shops in Valencia in 2026](/blog/mejores-cafeterias-valencia)
+- [The best coffee shops in Seville in 2026](/blog/mejores-cafeterias-sevilla)

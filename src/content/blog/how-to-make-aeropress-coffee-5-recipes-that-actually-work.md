@@ -89,3 +89,9 @@ Here are some concrete action bullets to summarize the article:
 ---
 
 *Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+
+## 📚 Continue reading
+
+- [Homemade nitro coffee: how to make it without professional gear](/blog/nitro-coffee-casero)
+- [Matcha latte vs coffee latte: preparation and differences](/blog/matcha-latte-vs-cafe-latte)
+- [AeroPress guide for beginners: your first specialty coffee](/blog/guia-aeropress-principiantes)

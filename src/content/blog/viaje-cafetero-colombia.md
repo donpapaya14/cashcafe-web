@@ -38,3 +38,9 @@ Nariño's coffee grows at up to 2,300 masl — among the highest in the world fo
 2. Book farm tours in advance — many are small and don't accept walk-ins.
 3. Bring cash: rural farms rarely take cards.
 4. Buy dried parchment coffee directly from the producer. It's cheaper and fresher.
+
+## 📚 Continue reading
+
+- [Specialty coffee shops in Lisbon: updated guide](/blog/cafeterias-lisboa-guia)
+- [Grinder or machine: where to put your first euro](/blog/molinillo-o-cafetera)
+- [Best Knock Box for Espresso Pucks Under $40](/blog/best-knock-box-for-espresso-pucks-under-40)

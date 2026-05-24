@@ -29,3 +29,9 @@ Manual grinders typically have a range of micrometric adjustments that allow for
 ## Who is Each Option Best For?
 
 Manual grinders are ideal for those who seek precise control over the grind and are willing to invest a bit of time and effort into the process. Electric grinders, on the other hand, are ideal for those who prioritize convenience and speed, and are willing to accept a bit less control over the grind.
+
+## 📚 Continue reading
+
+- [7 barista accessories for under €50](/blog/accesorios-barista-esenciales)
+- [The 3 best espresso machines under €300 in 2026](/blog/cafetera-espresso-300-euros)
+- [Manual vs electric grinder: the real advantages of each](/blog/molinillo-manual-vs-electrico)

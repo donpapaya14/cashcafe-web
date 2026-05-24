@@ -27,3 +27,8 @@ In the meantime, browse our full [coffee blog](/blog) for ready-to-read brewing 
 
 > Subscribe to the [newsletter](/newsletter) to get notified when this guide is updated.
 
+## 📚 Continue reading
+
+- [First Crack vs Second Crack in Coffee Roasting: A Beginner Guide](/blog/first-crack-vs-second-crack-in-coffee-roasting-a-beginner-guide)
+- [The best coffee shops in Valencia in 2026](/blog/mejores-cafeterias-valencia)
+- [Good decaf exists. It](/blog/descafeinado-bueno)

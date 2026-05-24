@@ -98,3 +98,9 @@ Overall, pre-infusion is a vital component of the espresso-brewing process, and 
 ---
 
 *Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+
+## 📚 Continue reading
+
+- [Best Glass Coffee Pot for Pour Over: 5 Server Picks](/blog/best-glass-coffee-pot-for-pour-over-5-server-picks)
+- [What Is a Ristretto? Espresso Variants Explained](/blog/what-is-a-ristretto-espresso-variants-explained)
+- [Coffee Grind Size Chart: From Espresso Fine to French Press](/blog/coffee-grind-size-chart-from-espresso-fine-to-french-press)

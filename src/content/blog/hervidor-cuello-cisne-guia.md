@@ -38,3 +38,9 @@ Electric kettles with temperature control are ideal: set 93 °C and the water ho
 ## Practice before seeking perfection
 
 Your first gooseneck pours will be uneven. That's normal. Practice with plain water over an empty container: slow spirals, steady flow, relaxed wrist. Within a week you'll notice the difference in your V60.
+
+## 📚 Continue reading
+
+- [Best Manual Coffee Grinder Under $100: Travel and Pour Over](/blog/best-manual-coffee-grinder-under-100-travel-and-pour-over)
+- [French Press: Worth It or Overrated?](/blog/prensa-francesa-vale-la-pena-o-es-un-mito)
+- [Comparison: Bialetti vs other Italian stovetop brewers](/blog/comparativa-cafeteras-italianas)

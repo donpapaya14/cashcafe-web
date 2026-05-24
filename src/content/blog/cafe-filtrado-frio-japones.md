@@ -36,3 +36,9 @@ The resulting concentrate is silky, with juicy acidity and notes ranging from tr
 ## Differences from cold brew
 
 Cold brew submerges (immersion) and produces dense body with low acidity. Kyoto drip percolates (drip) and produces clarity, complexity, and bright acidity. They're complementary methods, not competitors.
+
+## 📚 Continue reading
+
+- [Irish Coffee: the original recipe and why you](/blog/receta-irish-coffee-original)
+- [Flat white at home, without a pro pitcher](/blog/flat-white-en-casa)
+- [The V60 method the baristas we interviewed actually use](/blog/metodo-v60)

@@ -35,3 +35,9 @@ Opened in 2024, already competing with the big names. Soft Nordic roast, minimal
 > Madrid stopped being a watered-down café con leche city. It's now a European reference.
 > 
 > — Ana Rivero, editor
+
+## 📚 Continue reading
+
+- [French press: the complete step-by-step guide](/blog/french-press-guia-completa)
+- [Specialty coffee shops in Lisbon: updated guide](/blog/cafeterias-lisboa-guia)
+- [Set up a coffee corner at the office for under €100](/blog/cafe-para-oficina-sin-gastar)

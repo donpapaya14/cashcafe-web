@@ -35,3 +35,9 @@ Numbers help: a 10-person office spends about €100 a month on pods. With whole
 ## Zero-stress maintenance
 
 Rinse the French press with hot water after every use. Dump grounds in organic waste. Descale the kettle once a month with white vinegar. Total maintenance: 2 minutes a day.
+
+## 📚 Continue reading
+
+- [The best coffee shops in Seville in 2026](/blog/mejores-cafeterias-sevilla)
+- [French press: the complete step-by-step guide](/blog/french-press-guia-completa)
+- [Good decaf exists. It](/blog/descafeinado-bueno)

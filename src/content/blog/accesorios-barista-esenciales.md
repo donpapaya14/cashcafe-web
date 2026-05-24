@@ -37,3 +37,9 @@ Online specialty coffee stores usually offer better selection and prices than bi
 ## The missing accessory: knowledge
 
 The best accessory is free: understanding what each variable does. Read, experiment, note your results. A €1 notebook where you record dose, time, and flavor does more for your coffee than any €50 gadget.
+
+## 📚 Continue reading
+
+- [French Press: Worth It or Overrated?](/blog/prensa-francesa-vale-la-pena-o-es-un-mito)
+- [Best Espresso Machine Under $500 for Home Baristas in 2026](/blog/best-espresso-machine-under-500-for-home-baristas-in-2026)
+- [Upgrade Your V60](/blog/mejora-tu-v60-con-agua)

@@ -37,3 +37,9 @@ Despite being the world's 5th largest producer (ICO, 2023), climate change has r
 ## Legacy in Your Cup
 
 Your daily brew carries the DNA of Ethiopia's highlands. To honor this heritage, seek fair-trade single-origin beans and try traditional brewing methods. Every sip connects you to coffee's extraordinary journey.
+
+## 📚 Continue reading
+
+- [Fair Trade, Rainforest, UTZ: what coffee certifications actually mean](/blog/certificaciones-cafe-explicadas)
+- [Turkish coffee: the world](/blog/cafe-turco-metodo-ancestral)
+- [Kissaten: the Japanese coffeehouses that inspire the third wave](/blog/cafe-japones-kissaten)

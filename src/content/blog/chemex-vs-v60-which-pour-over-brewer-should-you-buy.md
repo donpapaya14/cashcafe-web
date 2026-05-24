@@ -85,3 +85,9 @@ Here are some concrete action bullets to get you started:
 ---
 
 *Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+
+## 📚 Continue reading
+
+- [Coffee Brewing for Beginners: Your First 30 Days Guide](/blog/coffee-brewing-for-beginners-your-first-30-days-guide)
+- [Best Glass Coffee Pot for Pour Over: 5 Server Picks](/blog/best-glass-coffee-pot-for-pour-over-5-server-picks)
+- [Caffeine Content by Brew Method: Espresso to Cold Brew](/blog/caffeine-content-by-brew-method-espresso-to-cold-brew)

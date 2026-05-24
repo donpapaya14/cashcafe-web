@@ -27,3 +27,8 @@ In the meantime, browse our full [coffee blog](/blog) for ready-to-read brewing 
 
 > Subscribe to the [newsletter](/newsletter) to get notified when this guide is updated.
 
+## 📚 Continue reading
+
+- [Turkish coffee: the world](/blog/cafe-turco-metodo-ancestral)
+- [Why northern Europe drinks filter coffee (and the south espresso)](/blog/cafe-filtro-europa-norte)
+- [Fair Trade, Rainforest, UTZ: what coffee certifications actually mean](/blog/certificaciones-cafe-explicadas)

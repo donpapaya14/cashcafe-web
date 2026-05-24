@@ -39,3 +39,9 @@ Berlin's history has had a significant impact on the city's coffee scene. From t
 ## The Future of Berlin's Coffee Scene
 
 Berlin's coffee scene continues to evolve, with a growing emphasis on sustainability and quality. With the rising popularity of specialty coffee, it's likely that the city will remain a leading destination for coffee lovers in the years to come.
+
+## 📚 Continue reading
+
+- [Good decaf exists. It](/blog/descafeinado-bueno)
+- [Set up a coffee corner at the office for under €100](/blog/cafe-para-oficina-sin-gastar)
+- [How to read a coffee label (and stop buying garbage)](/blog/como-leer-etiqueta-cafe)

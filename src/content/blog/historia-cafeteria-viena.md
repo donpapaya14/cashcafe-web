@@ -35,3 +35,9 @@ In a classic Viennese coffeehouse, coffee is served on a silver tray with a glas
 ## Visiting them today
 
 The great historic coffeehouses are still open, serving Melange, Einspänner, and Turkish coffee alongside Sachertorte and strudel. They're touristy, yes, but the culture is still real. The trick is to go on a weekday morning, when local regulars still outnumber tourists.
+
+## 📚 Continue reading
+
+- [Third wave: what it means and why it matters](/blog/tercera-ola-explicada)
+- [The 10 largest coffee producers in the world (and what makes them unique)](/blog/mejores-paises-productores-cafe)
+- [La Colombe Cafe](/blog/cafeter-a-la-colombe)

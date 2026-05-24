@@ -38,3 +38,9 @@ Use medium-roast coffee with chocolate or caramel notes — they work best with 
 ## Difference from real nitro
 
 Café nitro uses pure nitrogen (N2), which creates finer bubbles. N2O from a cream dispenser produces slightly larger bubbles, but the visual and mouthfeel is about 80% comparable. For home use, it's more than enough.
+
+## 📚 Continue reading
+
+- [Japanese cold drip coffee (Kyoto drip method)](/blog/cafe-filtrado-frio-japones)
+- [Latte art for beginners: your first heart](/blog/latte-art-principiantes)
+- [Espresso Martini: the recipe Madrid cocktail bars actually use](/blog/receta-espresso-martini)

@@ -38,3 +38,9 @@ The emerging neighborhoods north of the center are where the scene is growing fa
 2. Then head up to Príncipe Real for the contrast with a light-roast V60.
 3. Buy locally roasted coffee as a souvenir — Lisbon roasters carry beans you won't find in Spain.
 4. Pair coffee with a fresh pastel de nata. It's not a lack of purism — it's local culture.
+
+## 📚 Continue reading
+
+- [The best coffee shops in Seville in 2026](/blog/mejores-cafeterias-sevilla)
+- [Berlin Coffee Guide](/blog/caf-en-berl-n)
+- [First Crack vs Second Crack in Coffee Roasting: A Beginner Guide](/blog/first-crack-vs-second-crack-in-coffee-roasting-a-beginner-guide)

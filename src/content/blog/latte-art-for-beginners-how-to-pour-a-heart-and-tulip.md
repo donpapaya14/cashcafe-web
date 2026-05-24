@@ -77,3 +77,9 @@ Here are some concrete steps you can take to improve your latte art skills:
 ---
 
 *Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+
+## 📚 Continue reading
+
+- [Irish Coffee: the original recipe and why you](/blog/receta-irish-coffee-original)
+- [4 spiced coffees you can make at home](/blog/cafe-con-especias-recetas)
+- [The V60 method the baristas we interviewed actually use](/blog/metodo-v60)

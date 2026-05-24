@@ -27,3 +27,8 @@ In the meantime, browse our full [coffee blog](/blog) for ready-to-read brewing 
 
 > Subscribe to the [newsletter](/newsletter) to get notified when this guide is updated.
 
+## 📚 Continue reading
+
+- [From Ethiopia to the world: the history of coffee in 5 minutes](/blog/origen-cafe-etiopia-mundo)
+- [Why northern Europe drinks filter coffee (and the south espresso)](/blog/cafe-filtro-europa-norte)
+- [La Colombe Cafe](/blog/cafeter-a-la-colombe)

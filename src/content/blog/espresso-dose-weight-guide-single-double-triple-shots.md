@@ -85,3 +85,9 @@ Here are some concrete action bullets to improve your espresso game:
 ---
 
 *Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+
+## 📚 Continue reading
+
+- [First, second and third wave of coffee: the full history](/blog/cafe-segunda-ola-tercera-ola)
+- [Cold brew vs iced coffee: they](/blog/cold-brew-vs-cafe-frio)
+- [The V60 method the baristas we interviewed actually use](/blog/metodo-v60)

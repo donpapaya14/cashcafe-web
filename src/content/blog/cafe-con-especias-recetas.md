@@ -35,3 +35,9 @@ Stick 3-4 whole cloves into an orange slice and place it at the bottom of the cu
 ## The golden rule
 
 Always use whole, fresh spices. Powdered spices from the back of the cupboard add nothing. And start with small amounts: it's easier to add than to take away.
+
+## 📚 Continue reading
+
+- [Latte Art for Beginners: How to Pour a Heart and Tulip](/blog/latte-art-for-beginners-how-to-pour-a-heart-and-tulip)
+- [The V60 method the baristas we interviewed actually use](/blog/metodo-v60)
+- [Cold brew vs iced coffee: they](/blog/cold-brew-vs-cafe-frio)

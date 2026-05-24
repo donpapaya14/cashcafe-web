@@ -95,3 +95,9 @@ Here are some concrete action bullets to help you brew coffee with high **caffei
 ---
 
 *Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+
+## 📚 Continue reading
+
+- [Coffee Grind Size Chart: From Espresso Fine to French Press](/blog/coffee-grind-size-chart-from-espresso-fine-to-french-press)
+- [Coffee Cupping at Home: How to Taste Like a Q Grader](/blog/coffee-cupping-at-home-how-to-taste-like-a-q-grader)
+- [What Is a Ristretto? Espresso Variants Explained](/blog/what-is-a-ristretto-espresso-variants-explained)

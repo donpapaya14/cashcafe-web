@@ -75,3 +75,9 @@ Here are the key takeaways for choosing the best coffee server for pour-over bre
 ---
 
 *Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+
+## 📚 Continue reading
+
+- [Pre-Infusion in Espresso: What It Is and Why It Matters](/blog/pre-infusion-in-espresso-what-it-is-and-why-it-matters)
+- [Coffee Brewing for Beginners: Your First 30 Days Guide](/blog/coffee-brewing-for-beginners-your-first-30-days-guide)
+- [Chemex vs V60: Which Pour Over Brewer Should You Buy?](/blog/chemex-vs-v60-which-pour-over-brewer-should-you-buy)

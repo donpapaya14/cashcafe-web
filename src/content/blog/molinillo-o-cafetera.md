@@ -31,3 +31,9 @@ Then your entire budget goes to the grinder. A Baratza Encore or mid-range manua
 > I've tried €2,000 machines. What changed my coffee most was a €180 grinder.
 > 
 > — Ana Rivero, Cash Café editor
+
+## 📚 Continue reading
+
+- [The 5 best coffee shops in Madrid in 2026](/blog/mejores-cafeterias-madrid-2026)
+- [Best Knock Box for Espresso Pucks Under $40](/blog/best-knock-box-for-espresso-pucks-under-40)
+- [The best coffee shops in Barcelona: updated guide](/blog/mejores-cafeterias-barcelona)

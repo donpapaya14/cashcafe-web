@@ -31,3 +31,9 @@ There are water filter options available for different budgets. Activated carbon
 > The right water filter can make a significant difference in the taste of your coffee. By choosing a filter that meets your needs and budget, you can enjoy a better-tasting cup of coffee every time.
 > 
 > — Coffee Connoisseur Magazine
+
+## 📚 Continue reading
+
+- [Gooseneck kettle: the tool that changes everything](/blog/hervidor-cuello-cisne-guia)
+- [7 barista accessories for under €50](/blog/accesorios-barista-esenciales)
+- [Best Espresso Machine for Beginners 2026: Sub $400 Picks](/blog/best-espresso-machine-for-beginners-2026-sub-400-picks)

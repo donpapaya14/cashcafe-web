@@ -31,3 +31,9 @@ Coffee stopped being an anonymous commodity. Today we know the farm, variety, al
 > Every cup of coffee connects the Ethiopian farmer to the barista on your corner. No other drink does that.
 > 
 > — Lucía Pardo, Q grader
+
+## 📚 Continue reading
+
+- [Kissaten: the Japanese coffeehouses that inspire the third wave](/blog/cafe-japones-kissaten)
+- [Coffee and health: what science says in 2026](/blog/cafe-y-salud-ciencia)
+- [Third wave: what it means and why it matters](/blog/tercera-ola-explicada)

@@ -40,3 +40,9 @@ Avoid gimmicks like 'crema gauges' or automatic frothers without scientific back
 ## Final Tip: Less Is More
 
 The right tools, used correctly, turn good coffee into extraordinary. Focus on proven gear (grinder, tamper) and skip the hype. Your taste buds—and wallet—will thank you.
+
+## 📚 Continue reading
+
+- [The 3 best espresso machines under €300 in 2026](/blog/cafetera-espresso-300-euros)
+- [Tested: 5 grinders under €200](/blog/comparativa-molinillos-200)
+- [Best Burr Grinder Under $200 for Pour Over and Drip](/blog/best-burr-grinder-under-200-for-pour-over-and-drip)

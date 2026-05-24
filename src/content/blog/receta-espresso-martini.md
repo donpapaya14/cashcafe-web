@@ -35,3 +35,9 @@ Some Madrid bars swap vodka for mezcal for a smoky twist. Others use hazelnut li
 ## The right coffee
 
 Use a medium-dark roast espresso with chocolate notes. Fruity, acidic coffees don't work well in cocktails — you need body and sweetness. And please, pull it fresh. The espresso crema is what generates the cocktail's foam.
+
+## 📚 Continue reading
+
+- [4 spiced coffees you can make at home](/blog/cafe-con-especias-recetas)
+- [Coffee for productivity](/blog/caf-perfecto-para-trabajar)
+- [AeroPress guide for beginners: your first specialty coffee](/blog/guia-aeropress-principiantes)

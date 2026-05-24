@@ -34,3 +34,9 @@ Finca La Esperanza · Huila, Colombia · Caturra variety · Washed process · Me
 > If the roaster won't print the roast date, ask yourself what else they're hiding.
 > 
 > — David Aguilar, roaster
+
+## 📚 Continue reading
+
+- [The best coffee shops in Seville in 2026](/blog/mejores-cafeterias-sevilla)
+- [Specialty coffee shops in Lisbon: updated guide](/blog/cafeterias-lisboa-guia)
+- [Chemex vs V60: which to choose and why](/blog/chemex-vs-v60-diferencias)

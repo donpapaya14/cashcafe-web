@@ -27,3 +27,8 @@ In the meantime, browse our full [coffee blog](/blog) for ready-to-read brewing 
 
 > Subscribe to the [newsletter](/newsletter) to get notified when this guide is updated.
 
+## 📚 Continue reading
+
+- [Roasting coffee at home in a skillet: a guide for the brave](/blog/tostado-casero-sarten)
+- [Coffee for productivity](/blog/caf-perfecto-para-trabajar)
+- [AeroPress guide for beginners: your first specialty coffee](/blog/guia-aeropress-principiantes)

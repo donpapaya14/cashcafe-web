@@ -78,3 +78,9 @@ In my daily routine, I make sure to grind my coffee beans just before brewing an
 ---
 
 *Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+
+## 📚 Continue reading
+
+- [Coffee Cupping at Home: How to Taste Like a Q Grader](/blog/coffee-cupping-at-home-how-to-taste-like-a-q-grader)
+- [What Is a Ristretto? Espresso Variants Explained](/blog/what-is-a-ristretto-espresso-variants-explained)
+- [Chemex vs V60: Which Pour Over Brewer Should You Buy?](/blog/chemex-vs-v60-which-pour-over-brewer-should-you-buy)

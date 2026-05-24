@@ -43,3 +43,9 @@ Those first 45 seconds release CO₂ from freshly roasted coffee. Skip the bloom
 - Boiling water (100 °C) — scorches the coffee, tastes like rubber.
 - Not rinsing the filter — paper taste in every cup.
 - Grind too fine — clogs, over-extraction, bitterness.
+
+## 📚 Continue reading
+
+- [Cold brew vs iced coffee: they](/blog/cold-brew-vs-cafe-frio)
+- [AeroPress guide for beginners: your first specialty coffee](/blog/guia-aeropress-principiantes)
+- [Flat white at home, without a pro pitcher](/blog/flat-white-en-casa)

@@ -36,3 +36,9 @@ The Western third wave owes a lot to kissaten. Manual pouring, siphon brewing, a
 ## Where to find them
 
 Tokyo still has hundreds of kissaten, especially in neighborhoods like Ginza, Shinjuku, and Kanda. Many are disappearing as their masters age without successors. If you visit Japan, seek out those that have been open for over 40 years. They're cultural treasures that might not be there next time.
+
+## 📚 Continue reading
+
+- [First, second and third wave of coffee: the full history](/blog/cafe-segunda-ola-tercera-ola)
+- [La Colombe Cafe](/blog/cafeter-a-la-colombe)
+- [Pairing: coffee + pastry, the combos that actually work](/blog/maridaje-cafe-reposteria)

@@ -36,3 +36,9 @@ Certification costs can be prohibitive for small producers. Many excellent farms
 ## What to do as a consumer
 
 Look for roasters that publish prices paid to producers (green price transparency). It's more reliable than any seal. If you're buying from a supermarket, choose Fair Trade or Rainforest Alliance over nothing — but don't assume a seal tells the whole story.
+
+## 📚 Continue reading
+
+- [From Ethiopia to the world: the history of coffee in 5 minutes](/blog/origen-cafe-etiopia-mundo)
+- [Coffee and health: what science says in 2026](/blog/cafe-y-salud-ciencia)
+- [La Colombe Cafe](/blog/cafeter-a-la-colombe)

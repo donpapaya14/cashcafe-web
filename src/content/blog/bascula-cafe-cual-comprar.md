@@ -38,3 +38,9 @@ For €15-20 you'll find generic 0.1 g scales that work well for filter. At €3
 ## Final tip
 
 You don't need the most expensive scale. You need to use it every time. Weigh the coffee, weigh the water, note what works, and repeat. Consistency is the best recipe.
+
+## 📚 Continue reading
+
+- [Hand grinder vs electric: which to choose for your coffee](/blog/molinillo-manual-vs-el-ctrico-cu-l-elegir-seg-n-tu-caf)
+- [Gooseneck kettle: the tool that changes everything](/blog/hervidor-cuello-cisne-guia)
+- [7 barista accessories for under €50](/blog/accesorios-barista-esenciales)

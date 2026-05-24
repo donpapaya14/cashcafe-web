@@ -79,3 +79,9 @@ Here are some concrete action bullets to help you find the best burr grinder und
 ---
 
 *Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+
+## 📚 Continue reading
+
+- [Upgrade Your V60](/blog/mejora-tu-v60-con-agua)
+- [Best Manual Coffee Grinder Under $100: Travel and Pour Over](/blog/best-manual-coffee-grinder-under-100-travel-and-pour-over)
+- [Best Espresso Machine for Beginners 2026: Sub $400 Picks](/blog/best-espresso-machine-for-beginners-2026-sub-400-picks)

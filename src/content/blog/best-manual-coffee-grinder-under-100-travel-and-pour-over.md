@@ -82,3 +82,9 @@ Here are some concrete action bullets to improve your coffee game:
 ---
 
 *Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+
+## 📚 Continue reading
+
+- [Upgrade Your Coffee Game](/blog/mejora-tu-caf-con-accesorios)
+- [Comparison: Bialetti vs other Italian stovetop brewers](/blog/comparativa-cafeteras-italianas)
+- [Best Espresso Machine Under $500 for Home Baristas in 2026](/blog/best-espresso-machine-under-500-for-home-baristas-in-2026)

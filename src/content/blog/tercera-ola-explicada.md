@@ -27,3 +27,8 @@ In the meantime, browse our full [coffee blog](/blog) for ready-to-read brewing 
 
 > Subscribe to the [newsletter](/newsletter) to get notified when this guide is updated.
 
+## 📚 Continue reading
+
+- [Kissaten: the Japanese coffeehouses that inspire the third wave](/blog/cafe-japones-kissaten)
+- [The 10 largest coffee producers in the world (and what makes them unique)](/blog/mejores-paises-productores-cafe)
+- [Why northern Europe drinks filter coffee (and the south espresso)](/blog/cafe-filtro-europa-norte)

@@ -43,3 +43,9 @@ A 2021 study in the 'Journal of Coffee Research' blind-tasted V60 brews made wit
 ## Wrapping Up
 
 Great water is as vital as great beans. Dive deeper with SCA’s water standards or Maxwell Colonna-Dashwood’s 'Water for Coffee'. Your taste buds—and your V60—will thank you.
+
+## 📚 Continue reading
+
+- [Best Manual Coffee Grinder Under $100: Travel and Pour Over](/blog/best-manual-coffee-grinder-under-100-travel-and-pour-over)
+- [Water Filters for Coffee](/blog/filtros-de-agua-para-cafe)
+- [The ingredient almost everyone ignores: water](/blog/agua-para-cafe)

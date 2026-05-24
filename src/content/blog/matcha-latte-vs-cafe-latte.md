@@ -34,3 +34,9 @@ The matcha latte tastes vegetal, umami, with a sweet, creamy finish. The coffee 
 ## When to choose each one
 
 Matcha in the afternoon, when you need focus without anxiety. Coffee in the morning, when you need the energy hit. And if you want both, have the coffee first and the matcha after lunch. Your body will thank you.
+
+## 📚 Continue reading
+
+- [Japanese cold drip coffee (Kyoto drip method)](/blog/cafe-filtrado-frio-japones)
+- [Moka pot: 5 mistakes everyone makes](/blog/moka-italiana-errores-comunes)
+- [Flat white at home, without a pro pitcher](/blog/flat-white-en-casa)

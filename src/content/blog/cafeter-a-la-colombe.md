@@ -27,3 +27,9 @@ La Colombe has been a pioneer in innovation in the coffee industry, collaboratin
 ## Coffee Shop Experience
 
 The experience at La Colombe is unique, with a cozy atmosphere and attentive, knowledgeable customer service. The variety of coffee options is extensive, ranging from classics like espresso and cappuccino to more innovative options like 'Corsica' and 'Kersting'. The accompanying menu offers delicious options like pastries and sandwiches.
+
+## 📚 Continue reading
+
+- [Fair Trade, Rainforest, UTZ: what coffee certifications actually mean](/blog/certificaciones-cafe-explicadas)
+- [First, second and third wave of coffee: the full history](/blog/cafe-segunda-ola-tercera-ola)
+- [Why northern Europe drinks filter coffee (and the south espresso)](/blog/cafe-filtro-europa-norte)

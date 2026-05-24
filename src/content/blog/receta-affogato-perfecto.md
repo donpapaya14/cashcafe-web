@@ -36,3 +36,9 @@ Swap vanilla for hazelnut or pistachio ice cream. Add a splash of amaretto or Ba
 ## Mistakes to avoid
 
 Don't use filter coffee — you need the concentration and crema of espresso. Don't use melted ice cream or ice cream that's too hard. And don't let it sit: the affogato is eaten in the moment, while the temperature contrast is at its peak.
+
+## 📚 Continue reading
+
+- [Espresso Martini: the recipe Madrid cocktail bars actually use](/blog/receta-espresso-martini)
+- [Latte art for beginners: your first heart](/blog/latte-art-principiantes)
+- [Japanese cold drip coffee (Kyoto drip method)](/blog/cafe-filtrado-frio-japones)

@@ -86,3 +86,9 @@ I prefer to roast my coffee beans to a City roast level, as it provides a balanc
 ---
 
 *Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+
+## 📚 Continue reading
+
+- [French press: the complete step-by-step guide](/blog/french-press-guia-completa)
+- [The best coffee shops in Valencia in 2026](/blog/mejores-cafeterias-valencia)
+- [The best coffee shops in Seville in 2026](/blog/mejores-cafeterias-sevilla)

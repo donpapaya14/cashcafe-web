@@ -32,3 +32,9 @@ Some baristas mix distilled water with measured minerals (Third Wave Water recip
 > I changed my water and my espresso improved more than when I changed machines. No exaggeration.
 > 
 > — Lucía Pardo, Q grader
+
+## 📚 Continue reading
+
+- [Best Espresso Machine for Beginners 2026: Sub $400 Picks](/blog/best-espresso-machine-for-beginners-2026-sub-400-picks)
+- [Comparison: Bialetti vs other Italian stovetop brewers](/blog/comparativa-cafeteras-italianas)
+- [French Press: Worth It or Overrated?](/blog/prensa-francesa-vale-la-pena-o-es-un-mito)

@@ -36,3 +36,9 @@ Pull your espresso. Pour the milk from about 5 cm high, slow at first. When the 
 1. Milk too hot — burns proteins and loses sweetness.
 2. Large bubbles — that's a cappuccino, not a flat white.
 3. Cup too big — a flat white is concentrated, 180 ml max.
+
+## 📚 Continue reading
+
+- [Latte Art for Beginners: How to Pour a Heart and Tulip](/blog/latte-art-for-beginners-how-to-pour-a-heart-and-tulip)
+- [Perfect affogato: espresso + ice cream in 2 minutes](/blog/receta-affogato-perfecto)
+- [Espresso Martini: the recipe Madrid cocktail bars actually use](/blog/receta-espresso-martini)

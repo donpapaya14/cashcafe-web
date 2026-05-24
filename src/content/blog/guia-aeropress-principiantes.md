@@ -38,3 +38,9 @@ It combines immersion (like French press) with pressure (like espresso). The res
 - Too sour → grind finer or raise temp to 90 °C.
 - Too bitter → grind coarser or lower to 80 °C.
 - Too watery → use 17 g coffee instead of 15 g.
+
+## 📚 Continue reading
+
+- [Cold brew vs iced coffee: they](/blog/cold-brew-vs-cafe-frio)
+- [Coffee for productivity](/blog/caf-perfecto-para-trabajar)
+- [Irish Coffee: the original recipe and why you](/blog/receta-irish-coffee-original)

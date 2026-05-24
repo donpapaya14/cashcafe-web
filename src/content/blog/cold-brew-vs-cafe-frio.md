@@ -34,3 +34,9 @@ Pull a double espresso (or strong moka), pour over a glass full of ice. Quick, i
 > I prep my summer cold brew on Sunday and it lasts all week. It's the most practical coffee there is.
 > 
 > — David Aguilar, roaster
+
+## 📚 Continue reading
+
+- [Moka pot: 5 mistakes everyone makes](/blog/moka-italiana-errores-comunes)
+- [How to Make AeroPress Coffee: 5 Recipes That Actually Work](/blog/how-to-make-aeropress-coffee-5-recipes-that-actually-work)
+- [Irish Coffee: the original recipe and why you](/blog/receta-irish-coffee-original)

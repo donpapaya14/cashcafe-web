@@ -40,3 +40,9 @@ Outside Ruzafa, the old town and Cabanyal hide gems. The scene keeps growing, an
 ## The scene is growing
 
 Valencia isn't trying to be Melbourne or Copenhagen. It has its own pace — more Mediterranean, more relaxed — and you feel it at the counter. Coffee here is drunk without rushing, often with a tomato toast on the side. And that's just fine.
+
+## 📚 Continue reading
+
+- [Colombia](/blog/viaje-cafetero-colombia)
+- [First Crack vs Second Crack in Coffee Roasting: A Beginner Guide](/blog/first-crack-vs-second-crack-in-coffee-roasting-a-beginner-guide)
+- [How to choose whole bean coffee: origin, roast and freshness](/blog/como-elegir-cafe-en-grano)

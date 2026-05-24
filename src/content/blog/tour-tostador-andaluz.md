@@ -27,3 +27,8 @@ In the meantime, browse our full [coffee blog](/blog) for ready-to-read brewing 
 
 > Subscribe to the [newsletter](/newsletter) to get notified when this guide is updated.
 
+## 📚 Continue reading
+
+- [La Colombe Cafe](/blog/cafeter-a-la-colombe)
+- [The 10 largest coffee producers in the world (and what makes them unique)](/blog/mejores-paises-productores-cafe)
+- [Turkish coffee: the world](/blog/cafe-turco-metodo-ancestral)

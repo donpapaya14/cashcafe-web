@@ -78,3 +78,9 @@ Here are some concrete actions you can take to improve your espresso game:
 ---
 
 *Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+
+## 📚 Continue reading
+
+- [French Press: Worth It or Overrated?](/blog/prensa-francesa-vale-la-pena-o-es-un-mito)
+- [Tested: 5 grinders under €200](/blog/comparativa-molinillos-200)
+- [The ingredient almost everyone ignores: water](/blog/agua-para-cafe)

@@ -39,3 +39,9 @@ Hoffmann's method adds a long rest after the initial 4 minutes and removes the f
 ## Common mistakes
 
 Grinding too fine, using boiling water, and forcing the plunger down are the three deadly sins. Also: pouring a cup and leaving coffee sitting in the press. If you're not drinking that second cup now, decant into a carafe. Coffee keeps extracting as long as it touches water.
+
+## 📚 Continue reading
+
+- [The best coffee shops in Barcelona: updated guide](/blog/mejores-cafeterias-barcelona)
+- [The 5 best coffee shops in Madrid in 2026](/blog/mejores-cafeterias-madrid-2026)
+- [How to choose whole bean coffee: origin, roast and freshness](/blog/como-elegir-cafe-en-grano)

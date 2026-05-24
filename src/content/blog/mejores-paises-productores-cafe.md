@@ -34,3 +34,9 @@ Honduras is Central America's largest producer; India grows robusta in the south
 ## And the best?
 
 There's no 'best coffee country' — there's an ideal coffee for every palate and every method. Brazil for espresso, Ethiopia for filter, Colombia for everything. What matters is trying diverse origins and discovering which terroir speaks your language.
+
+## 📚 Continue reading
+
+- [From Ethiopia to the world: the history of coffee in 5 minutes](/blog/origen-cafe-etiopia-mundo)
+- [A day at an Andalusian roastery: from sack to portafilter](/blog/tour-tostador-andaluz)
+- [La Colombe Cafe](/blog/cafeter-a-la-colombe)

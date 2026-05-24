@@ -87,3 +87,9 @@ Here are some concrete action bullets to get you started with coffee cupping at 
 ---
 
 *Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+
+## 📚 Continue reading
+
+- [Coffee Brewing for Beginners: Your First 30 Days Guide](/blog/coffee-brewing-for-beginners-your-first-30-days-guide)
+- [Coffee Grind Size Chart: From Espresso Fine to French Press](/blog/coffee-grind-size-chart-from-espresso-fine-to-french-press)
+- [Pre-Infusion in Espresso: What It Is and Why It Matters](/blog/pre-infusion-in-espresso-what-it-is-and-why-it-matters)

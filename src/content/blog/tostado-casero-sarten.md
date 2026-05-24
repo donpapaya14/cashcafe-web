@@ -40,3 +40,9 @@ Your first roast will be uneven: dark beans next to light ones. That's normal. W
 ## Precautions
 
 The smoke is real and plentiful. Don't do this without ventilation. Beans get very hot — careful when handling them. And you won't roast more than 100-150 g per batch in a skillet: this is an artisan process for small lots.
+
+## 📚 Continue reading
+
+- [4 spiced coffees you can make at home](/blog/cafe-con-especias-recetas)
+- [Moka pot: 5 mistakes everyone makes](/blog/moka-italiana-errores-comunes)
+- [Matcha latte vs coffee latte: preparation and differences](/blog/matcha-latte-vs-cafe-latte)

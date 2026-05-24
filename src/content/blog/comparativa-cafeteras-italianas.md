@@ -34,3 +34,9 @@ Aluminum transfers heat faster and costs less, but can impart metallic flavor wi
 ## Our verdict
 
 For gas and a tight budget: classic Bialetti Moka Express. For induction and clean flavor: Bialetti Venus or Giannina. For a gift or design piece: Alessi. And for all of them: buy a spare gasket, because it's the part that always fails first.
+
+## 📚 Continue reading
+
+- [Tamper, distributor and WDT: what each one does](/blog/tamper-distribuidor-wdt)
+- [Best Manual Coffee Grinder Under $100: Travel and Pour Over](/blog/best-manual-coffee-grinder-under-100-travel-and-pour-over)
+- [Coffee scale: why you need one and which to buy](/blog/bascula-cafe-cual-comprar)

@@ -40,3 +40,9 @@ To start, the tamper that comes with your machine (if it's the right size) and a
 ## Tamping mistakes
 
 You don't need brute force: 15-20 kg of pressure is enough. What matters is that it's level and consistent. Tamping at an angle creates one side denser than the other, and water always takes the easy path. Practice with a scale under the portafilter until you calibrate the pressure.
+
+## 📚 Continue reading
+
+- [Upgrade Your V60](/blog/mejora-tu-v60-con-agua)
+- [Manual vs electric grinder: the real advantages of each](/blog/molinillo-manual-vs-electrico)
+- [Hand grinder vs electric: which to choose for your coffee](/blog/molinillo-manual-vs-el-ctrico-cu-l-elegir-seg-n-tu-caf)

@@ -39,3 +39,9 @@ Seville is where Madrid was five years ago. The scene is small but growing fast,
 1. Visit Alameda mid-morning, when the neighborhood is alive but not packed.
 2. Order a specialty cortado: it's the bridge between classic Sevillian coffee and the third wave.
 3. Ask about the coffee of the day — Seville's baristas are eager to tell the story behind every bean.
+
+## 📚 Continue reading
+
+- [How to read a coffee label (and stop buying garbage)](/blog/como-leer-etiqueta-cafe)
+- [Specialty coffee shops in Lisbon: updated guide](/blog/cafeterias-lisboa-guia)
+- [Best Knock Box for Espresso Pucks Under $40](/blog/best-knock-box-for-espresso-pucks-under-40)

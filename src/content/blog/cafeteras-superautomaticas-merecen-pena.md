@@ -27,3 +27,8 @@ In the meantime, browse our full [coffee blog](/blog) for ready-to-read brewing 
 
 > Subscribe to the [newsletter](/newsletter) to get notified when this guide is updated.
 
+## 📚 Continue reading
+
+- [Manual vs electric grinder: the real advantages of each](/blog/molinillo-manual-vs-electrico)
+- [Upgrade Your Coffee Game](/blog/mejora-tu-caf-con-accesorios)
+- [French Press: Worth It or Overrated?](/blog/prensa-francesa-vale-la-pena-o-es-un-mito)

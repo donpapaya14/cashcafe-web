@@ -87,3 +87,9 @@ Here are some concrete action bullets to get you started:
 ---
 
 *Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+
+## 📚 Continue reading
+
+- [Hand grinder vs electric: which to choose for your coffee](/blog/molinillo-manual-vs-el-ctrico-cu-l-elegir-seg-n-tu-caf)
+- [Tested: 5 grinders under €200](/blog/comparativa-molinillos-200)
+- [Best Manual Coffee Grinder Under $100: Travel and Pour Over](/blog/best-manual-coffee-grinder-under-100-travel-and-pour-over)

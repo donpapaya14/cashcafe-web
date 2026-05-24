@@ -27,3 +27,8 @@ In the meantime, browse our full [coffee blog](/blog) for ready-to-read brewing 
 
 > Subscribe to the [newsletter](/newsletter) to get notified when this guide is updated.
 
+## 📚 Continue reading
+
+- [Roasting coffee at home in a skillet: a guide for the brave](/blog/tostado-casero-sarten)
+- [The V60 method the baristas we interviewed actually use](/blog/metodo-v60)
+- [Matcha latte vs coffee latte: preparation and differences](/blog/matcha-latte-vs-cafe-latte)

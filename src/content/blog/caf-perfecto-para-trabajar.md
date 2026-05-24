@@ -33,3 +33,9 @@ Water at 195–205°F (90–96°C) extracts flavors optimally without scorching.
 ## Make It Your Own
 
 Cream or sugar? University of Barcelona research shows whole milk slows caffeine absorption for sustained energy. But refined sugar? It may lead to energy crashes post-spike.
+
+## 📚 Continue reading
+
+- [Espresso Martini: the recipe Madrid cocktail bars actually use](/blog/receta-espresso-martini)
+- [The V60 method the baristas we interviewed actually use](/blog/metodo-v60)
+- [Perfect affogato: espresso + ice cream in 2 minutes](/blog/receta-affogato-perfecto)

@@ -35,3 +35,9 @@ Use medium-dark roast coffee, brewed strong. A lungo espresso or a concentrated 
 ## The glass matters
 
 The traditional Irish Coffee glass has a handle and is made of clear glass. The handle lets you hold it when it's hot; the glass lets you see the layers of coffee and cream. It's not aesthetics — it's function.
+
+## 📚 Continue reading
+
+- [The V60 method the baristas we interviewed actually use](/blog/metodo-v60)
+- [How to Make AeroPress Coffee: 5 Recipes That Actually Work](/blog/how-to-make-aeropress-coffee-5-recipes-that-actually-work)
+- [Homemade nitro coffee: how to make it without professional gear](/blog/nitro-coffee-casero)

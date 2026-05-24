@@ -41,3 +41,9 @@ Whole bean coffee starts losing aromatics from the moment it's roasted. The opti
 ## Your buying checklist
 
 Look for: visible roast date, specific origin (country + region or farm), stated roast profile, and an identifiable roaster. If the bag ticks all four boxes, you're probably looking at coffee worth your grinder.
+
+## 📚 Continue reading
+
+- [Specialty coffee shops in Lisbon: updated guide](/blog/cafeterias-lisboa-guia)
+- [Good decaf exists. It](/blog/descafeinado-bueno)
+- [Colombia](/blog/viaje-cafetero-colombia)

@@ -35,3 +35,9 @@ The third wave treats coffee as an artisan product, similar to wine. Specific or
 ## Is there a fourth wave?
 
 Some talk about a fourth wave focused on coffee science: variable control with refractometers, formulated water, and roasters with digital profiles. Others associate it with radical sustainability and fair pricing for producers. Probably both at once.
+
+## 📚 Continue reading
+
+- [La Colombe Cafe](/blog/cafeter-a-la-colombe)
+- [Ethiopian Coffee History](/blog/historia-del-cafe-en-etiopia)
+- [Why northern Europe drinks filter coffee (and the south espresso)](/blog/cafe-filtro-europa-norte)
