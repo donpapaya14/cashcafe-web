@@ -1,43 +1,39 @@
 ---
-title: "Espresso Martini: the recipe Madrid cocktail bars actually use"
-description: "The most ordered cocktail of the past three years. This is how bars that do it right make it — and why yours doesn't taste the same."
+title: "Espresso Martini: la receta que usan de verdad en las coctelerías de Madrid"
+description: "El cóctel más pedido de los últimos tres años. Así lo preparan los bares que lo bordan, y por qué el tuyo no sabe igual."
 pubDate: 2026-04-29
 category: "recipes"
-tags: ["recipes","coffee"]
-author: "Marcos Llovera"
+tags: ["recetas","café"]
+author: "Cash Café"
 readingTime: 6
 sources: []
 draft: false
 image: https://images.pexels.com/photos/773958/pexels-photo-773958.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-The Espresso Martini was invented by Dick Bradsell in London in the 1980s when a model asked him for a cocktail that would 'wake me up.' Since then it has become the most ordered cocktail in bars around the world. The recipe is simple, but the details matter.
+El Espresso Martini lo inventó Dick Bradsell en Londres en los años 80, cuando una modelo le pidió un cóctel que la «despertara». Desde entonces se ha convertido en uno de los cócteles más pedidos en bares de todo el mundo. La receta es sencilla, pero los detalles lo son todo.
 
-## The bar recipe
+## La receta de coctelería
 
-1. Pull a fresh double espresso (30 ml) and let it cool 2 minutes.
-2. In a shaker with ice: 30 ml espresso, 40 ml vodka, 20 ml coffee liqueur (Kahlúa or Mr. Black), 10 ml simple syrup.
-3. Shake hard for 15 seconds — you need to build foam.
-4. Double-strain (hawthorne + fine mesh) into a chilled martini glass.
-5. Garnish with three coffee beans on the foam.
+1. Saca un espresso doble recién hecho (30 ml) y déjalo enfriar 2 minutos.
+2. En una coctelera con hielo: 30 ml de espresso, 40 ml de vodka, 20 ml de licor de café (Kahlúa o Mr. Black) y 10 ml de almíbar.
+3. Agita con fuerza durante 15 segundos: necesitas montar la espuma.
+4. Cuela dos veces (colador de gusanillo + colador fino) sobre una copa de martini bien fría.
+5. Decora con tres granos de café sobre la espuma.
 
-## Why yours doesn't taste the same
+## Por qué el tuyo no sabe igual
 
-Three common mistakes: using old or pod coffee instead of fresh espresso (the crema is what creates the foam), not shaking long enough (minimum 15 seconds, with force), and using vodka that's too cheap. The vodka doesn't need to be expensive, but it needs to be clean.
+Tres errores muy habituales: usar café viejo o de cápsula en vez de espresso recién hecho (la crema es la que crea la espuma), no agitar el tiempo suficiente (mínimo 15 segundos y con energía) y tirar de un vodka demasiado barato. El vodka no tiene por qué ser caro, pero sí limpio.
 
-> An Espresso Martini is only as good as its espresso. If you wouldn't drink that shot on its own, don't put it in the cocktail.
-> 
-> — Marcos Llovera, head barista
+## Variantes modernas
 
-## Modern variations
+Algunas coctelerías de Madrid cambian el vodka por mezcal para darle un toque ahumado. Otras usan licor de avellana en lugar de licor de café. Y las más atrevidas añaden una pizca de sal en escamas al agitar, que realza el dulzor del café.
 
-Some Madrid bars swap vodka for mezcal for a smoky twist. Others use hazelnut liqueur instead of coffee liqueur. And the boldest add a pinch of flaky salt when shaking, which highlights the coffee's sweetness.
+## El café adecuado
 
-## The right coffee
+Usa un espresso de tueste medio-oscuro con notas a chocolate. Los cafés afrutados y ácidos no funcionan bien en coctelería: aquí buscas cuerpo y dulzor. Y, por favor, hazlo recién sacado. La crema del espresso es la que genera la espuma del cóctel.
 
-Use a medium-dark roast espresso with chocolate notes. Fruity, acidic coffees don't work well in cocktails — you need body and sweetness. And please, pull it fresh. The espresso crema is what generates the cocktail's foam.
+## 📚 Sigue leyendo
 
-## 📚 Continue reading
-
-- [4 spiced coffees you can make at home](/blog/cafe-con-especias-recetas)
-- [Coffee for productivity](/blog/caf-perfecto-para-trabajar)
-- [AeroPress guide for beginners: your first specialty coffee](/blog/guia-aeropress-principiantes)
+- [4 cafés con especias que puedes hacer en casa](/blog/cafe-con-especias-recetas)
+- [Café para la productividad](/blog/caf-perfecto-para-trabajar)
+- [Guía de AeroPress para principiantes: tu primer café de especialidad](/blog/guia-aeropress-principiantes)

@@ -1,34 +1,34 @@
 ---
-title: "Pairing: coffee + pastry, the combos that actually work"
-description: "Espresso with butter croissant. African filter with lemon tart. The basic rules of coffee pairing."
+title: "Maridaje: café y repostería, las combinaciones que funcionan de verdad"
+description: "Espresso con cruasán de mantequilla. Filtrado africano con tarta de limón. Las reglas básicas para maridar café."
 pubDate: 2026-01-10
 category: "culture"
-tags: ["culture","coffee"]
-author: "Marcos Llovera"
+tags: ["cultura","café"]
+author: "Cash Café"
 readingTime: 5
 sources: []
 draft: false
 image: https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-Espresso with butter croissant. African filter with lemon tart. The basic rules of coffee pairing.
+Espresso con cruasán de mantequilla. Filtrado africano con tarta de limón. Las reglas básicas para maridar café.
 
-## Coming up
+## Próximamente
 
-This guide is being expanded. We're adding measured ratios, gear we tested, and the science behind each method.
+Estamos ampliando esta guía. Vamos a añadir proporciones medidas, los utensilios que hemos probado y la ciencia que hay detrás de cada método.
 
-In the meantime, browse our full [coffee blog](/blog) for ready-to-read brewing guides and gear notes.
+Mientras tanto, échale un vistazo a nuestro [blog de café](/blog) completo, con guías de preparación listas para leer y notas sobre equipo.
 
-## What we'll cover
+## Qué vamos a ver
 
-- Method or topic overview with measurable steps
-- Gear recommendations at multiple price tiers
-- Common mistakes and how to fix them
-- Tips from working baristas
+- Un repaso al método o tema con pasos que puedes medir
+- Recomendaciones de equipo en varias franjas de precio
+- Errores habituales y cómo corregirlos
+- Trucos de baristas en activo
 
-> Subscribe to the [newsletter](/newsletter) to get notified when this guide is updated.
+> Suscríbete a la [newsletter](/newsletter) para que te avisemos cuando actualicemos esta guía.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [Turkish coffee: the world](/blog/cafe-turco-metodo-ancestral)
-- [Why northern Europe drinks filter coffee (and the south espresso)](/blog/cafe-filtro-europa-norte)
-- [Fair Trade, Rainforest, UTZ: what coffee certifications actually mean](/blog/certificaciones-cafe-explicadas)
+- [Café turco: el mundo](/blog/cafe-turco-metodo-ancestral)
+- [Por qué el norte de Europa toma café de filtro (y el sur, espresso)](/blog/cafe-filtro-europa-norte)
+- [Fair Trade, Rainforest, UTZ: qué significan de verdad las certificaciones del café](/blog/certificaciones-cafe-explicadas)

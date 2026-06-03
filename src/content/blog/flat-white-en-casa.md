@@ -1,44 +1,42 @@
 ---
-title: "Flat white at home, without a pro pitcher"
-description: "Milk texture is 80% of a flat white. Here's how to get it with home gear."
+title: "Flat white en casa, sin jarra profesional"
+description: "La textura de la leche es el 80% de un flat white. Así la consigues con utensilios de andar por casa."
 pubDate: 2026-04-15
 category: "recipes"
-tags: ["recipes","coffee"]
-author: "Marcos Llovera"
+tags: ["recetas","café"]
+author: "Cash Café"
 readingTime: 4
 sources: []
 draft: false
 image: https://images.pexels.com/photos/1233528/pexels-photo-1233528.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-A flat white isn't a small latte. It's milk with perfect microfoam poured over a double espresso. The difference is all texture — and yes, you can nail it without bar equipment.
+Un flat white no es un latte pequeño. Es leche con microespuma perfecta vertida sobre un espresso doble. La diferencia está toda en la textura, y sí, puedes clavarlo sin equipo de cafetería.
 
-## What you need
+## Qué necesitas
 
-- Double espresso (or very concentrated moka coffee).
-- 150 ml cold whole milk (fat is key for texture).
-- Handheld frother or small French press.
-- 150–180 ml cup, preheated.
+- Un espresso doble (o un café de moka bien concentrado).
+- 150 ml de leche entera fría (la grasa es clave para la textura).
+- Espumador de mano o una prensa francesa pequeña.
+- Una taza de 150-180 ml, precalentada.
 
-## The French press trick
+## El truco de la prensa francesa
 
-Heat milk to 65 °C (when the pan starts steaming but before boiling). Pour into a small French press and pump 15–20 times quickly. Tap the base on the counter to break large bubbles. What's left is silky microfoam.
+Calienta la leche a 65 °C (cuando el cazo empieza a humear pero antes de que hierva). Échala en una prensa francesa pequeña y bombea 15-20 veces rápido. Golpea la base contra la encimera para romper las burbujas grandes. Lo que queda es una microespuma sedosa.
 
-## The pour
+## El vertido
 
-Pull your espresso. Pour the milk from about 5 cm high, slow at first. When the cup is 60% full, lower the pitcher almost to the surface and speed up. The crema rises and blends with the microfoam. Result: velvety texture from start to finish.
+Saca tu espresso. Vierte la leche desde unos 5 cm de altura, despacio al principio. Cuando la taza esté al 60%, baja la jarra casi hasta rozar la superficie y acelera. La crema sube y se mezcla con la microespuma. Resultado: textura aterciopelada de principio a fin.
 
-> A mediocre flat white is milk with coffee. A good one is a tactile experience.
-> 
-> — Marcos Llovera, head barista
+> Un flat white mediocre es leche con café. Uno bueno es una experiencia para el paladar.
 
-## Common mistakes
+## Errores típicos
 
-1. Milk too hot — burns proteins and loses sweetness.
-2. Large bubbles — that's a cappuccino, not a flat white.
-3. Cup too big — a flat white is concentrated, 180 ml max.
+1. Leche demasiado caliente: quema las proteínas y pierde el dulzor.
+2. Burbujas grandes: eso es un capuchino, no un flat white.
+3. Taza demasiado grande: un flat white va concentrado, 180 ml como mucho.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [Latte Art for Beginners: How to Pour a Heart and Tulip](/blog/latte-art-for-beginners-how-to-pour-a-heart-and-tulip)
-- [Perfect affogato: espresso + ice cream in 2 minutes](/blog/receta-affogato-perfecto)
-- [Espresso Martini: the recipe Madrid cocktail bars actually use](/blog/receta-espresso-martini)
+- [Latte Art para principiantes: cómo verter un corazón y un tulipán](/blog/latte-art-for-beginners-how-to-pour-a-heart-and-tulip)
+- [Affogato perfecto: espresso + helado en 2 minutos](/blog/receta-affogato-perfecto)
+- [Espresso Martini: la receta que usan de verdad las coctelerías de Madrid](/blog/receta-espresso-martini)

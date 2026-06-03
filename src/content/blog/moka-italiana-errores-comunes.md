@@ -1,34 +1,34 @@
 ---
-title: "Moka pot: 5 mistakes everyone makes"
-description: "Don't fill with boiling water, don't tamp, don't let it gurgle. Your moka can do so much better."
+title: "Cafetera moka: los 5 errores que comete casi todo el mundo"
+description: "No la llenes con agua hirviendo, no aprietes el café y no dejes que borbotee. Tu moka puede dar mucho más de sí."
 pubDate: 2026-01-30
 category: "recipes"
-tags: ["recipes","coffee"]
-author: "David Aguilar"
+tags: ["recetas","café"]
+author: "Cash Café"
 readingTime: 4
 sources: []
 draft: false
 image: https://images.pexels.com/photos/1304538/pexels-photo-1304538.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-Don't fill with boiling water, don't tamp, don't let it gurgle. Your moka can do so much better.
+No la llenes con agua hirviendo, no aprietes el café y no dejes que borbotee. Tu moka puede dar mucho más de sí.
 
-## Coming up
+## Lo que viene
 
-This guide is being expanded. We're adding measured ratios, gear we tested, and the science behind each method.
+Esta guía está en plena ampliación. Estamos añadiendo proporciones medidas, los cacharros que hemos probado y la ciencia que hay detrás de cada método.
 
-In the meantime, browse our full [coffee blog](/blog) for ready-to-read brewing guides and gear notes.
+Mientras tanto, échale un vistazo a nuestro [blog de café](/blog) completo, con guías de preparación listas para leer y notas sobre material.
 
-## What we'll cover
+## Lo que vamos a ver
 
-- Method or topic overview with measurable steps
-- Gear recommendations at multiple price tiers
-- Common mistakes and how to fix them
-- Tips from working baristas
+- Resumen del método o el tema con pasos medibles
+- Recomendaciones de material en varios rangos de precio
+- Errores típicos y cómo solucionarlos
+- Consejos de baristas en activo
 
-> Subscribe to the [newsletter](/newsletter) to get notified when this guide is updated.
+> Suscríbete a la [newsletter](/newsletter) para enterarte en cuanto actualicemos esta guía.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [Roasting coffee at home in a skillet: a guide for the brave](/blog/tostado-casero-sarten)
-- [The V60 method the baristas we interviewed actually use](/blog/metodo-v60)
-- [Matcha latte vs coffee latte: preparation and differences](/blog/matcha-latte-vs-cafe-latte)
+- [Tostar café en casa en una sartén: una guía para los valientes](/blog/tostado-casero-sarten)
+- [El método V60 que usan de verdad los baristas que entrevistamos](/blog/metodo-v60)
+- [Matcha latte vs café latte: preparación y diferencias](/blog/matcha-latte-vs-cafe-latte)

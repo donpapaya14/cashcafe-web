@@ -1,43 +1,41 @@
 ---
-title: "First, second and third wave of coffee: the full history"
-description: "From supermarket tins to direct-trade single origins. How coffee went from commodity to experience in three waves."
+title: "Primera, segunda y tercera ola del café: la historia completa"
+description: "De la lata de supermercado a los orígenes únicos de comercio directo. Cómo el café pasó de ser una materia prima a una experiencia en tres olas."
 pubDate: 2026-04-29
 category: "culture"
-tags: ["culture","coffee"]
-author: "Lucía Pardo"
+tags: ["cultura","café"]
+author: "Cash Café"
 readingTime: 9
 sources: []
 draft: false
 image: https://images.pexels.com/photos/1144176/pexels-photo-1144176.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-Modern coffee history is told in three waves. Each one changed what we drink, how we brew, and how much we value the cup. Understanding these waves explains why your grandparents drank Nescafé, your parents went to Starbucks, and you're making V60 at home.
+La historia del café moderno se cuenta en tres olas. Cada una cambió lo que bebemos, cómo lo preparamos y cuánto valoramos la taza. Entender estas olas explica por qué tus abuelos tomaban Nescafé, tus padres iban a Starbucks y tú te preparas un V60 en casa.
 
-## First wave: coffee as product (1800s-1960s)
+## Primera ola: el café como producto (1800-1960)
 
-The first wave made coffee accessible and universal. Brands like Folgers, Maxwell House and Nescafé industrialized instant and pre-ground coffee. The goal was convenience and price, not flavor. Coffee was a commodity: the same everywhere, no origin, no nuance.
+La primera ola hizo que el café fuera accesible y universal. Marcas como Folgers, Maxwell House y Nescafé industrializaron el café soluble y el molido. El objetivo era la comodidad y el precio, no el sabor. El café era una materia prima: el mismo en todas partes, sin origen, sin matices.
 
-## Second wave: coffee as experience (1970s-2000s)
+## Segunda ola: el café como experiencia (1970-2000)
 
-Starbucks, Peet's, and European chains introduced the idea that coffee could be an experience, not just a functional drink. Lattes, cappuccinos, and the notion of 'origin' (however vaguely) appeared. Coffee went up in price and social status.
+Starbucks, Peet's y las cadenas europeas introdujeron la idea de que el café podía ser una experiencia, y no solo una bebida funcional. Aparecieron los lattes, los capuchinos y la noción de «origen» (por difusa que fuera). El café subió de precio y de estatus social.
 
-- First wave: 'I want coffee.'
-- Second wave: 'I want a grande vanilla latte.'
-- Third wave: 'I want a washed Ethiopian Yirgacheffe, brewed on a V60.'
+- Primera ola: «Quiero un café».
+- Segunda ola: «Quiero un latte grande de vainilla».
+- Tercera ola: «Quiero un Yirgacheffe etíope lavado, preparado en V60».
 
-> Each wave of coffee doesn't replace the previous one — it stacks on top. Plenty of first-wave coffee still exists.
-> 
-> — Trish Rothgeb, who coined the term 'third wave'
+> Cada ola del café no reemplaza a la anterior, se suma encima. Todavía existe muchísimo café de primera ola.
 
-## Third wave: coffee as craft (2000s-present)
+## Tercera ola: el café como artesanía (2000-actualidad)
 
-The third wave treats coffee as an artisan product, similar to wine. Specific origin matters (country, region, farm, lot), as does process (washed, natural, honey), roast (light to highlight terroir), and brew method. Baristas train as cuppers and roasters build direct relationships with producers.
+La tercera ola trata el café como un producto artesanal, parecido al vino. Importa el origen concreto (país, región, finca, lote), pero también el proceso (lavado, natural, honey), el tueste (claro para resaltar el terruño) y el método de preparación. Los baristas se forman como catadores y los tostadores construyen relaciones directas con los productores.
 
-## Is there a fourth wave?
+## ¿Existe una cuarta ola?
 
-Some talk about a fourth wave focused on coffee science: variable control with refractometers, formulated water, and roasters with digital profiles. Others associate it with radical sustainability and fair pricing for producers. Probably both at once.
+Hay quien habla de una cuarta ola centrada en la ciencia del café: control de variables con refractómetros, agua formulada y tostadores con perfiles digitales. Otros la asocian con una sostenibilidad radical y precios justos para los productores. Seguramente sean las dos cosas a la vez.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
 - [La Colombe Cafe](/blog/cafeter-a-la-colombe)
-- [Ethiopian Coffee History](/blog/historia-del-cafe-en-etiopia)
-- [Why northern Europe drinks filter coffee (and the south espresso)](/blog/cafe-filtro-europa-norte)
+- [Historia del café en Etiopía](/blog/historia-del-cafe-en-etiopia)
+- [Por qué el norte de Europa toma café de filtro (y el sur, espresso)](/blog/cafe-filtro-europa-norte)

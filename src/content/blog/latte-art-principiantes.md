@@ -1,34 +1,34 @@
 ---
-title: "Latte art for beginners: your first heart"
-description: "You don't need artistic talent. You need cold milk, the right pitcher, and 20 minutes of practice a day."
+title: "Latte art para principiantes: tu primer corazón"
+description: "No necesitas talento artístico. Necesitas leche fría, la jarra adecuada y 20 minutos de práctica al día."
 pubDate: 2026-02-20
 category: "recipes"
-tags: ["recipes","coffee"]
-author: "Marcos Llovera"
+tags: ["recetas","café"]
+author: "Cash Café"
 readingTime: 5
 sources: []
 draft: false
 image: https://images.pexels.com/photos/414645/pexels-photo-414645.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-You don't need artistic talent. You need cold milk, the right pitcher, and 20 minutes of practice a day.
+No necesitas talento artístico. Necesitas leche fría, la jarra adecuada y 20 minutos de práctica al día.
 
-## Coming up
+## Próximamente
 
-This guide is being expanded. We're adding measured ratios, gear we tested, and the science behind each method.
+Estamos ampliando esta guía. Vamos a añadir proporciones medidas, el equipo que hemos probado y la ciencia que hay detrás de cada método.
 
-In the meantime, browse our full [coffee blog](/blog) for ready-to-read brewing guides and gear notes.
+Mientras tanto, échale un vistazo a nuestro [blog de café](/blog), donde encontrarás guías de preparación listas para leer y notas sobre material.
 
-## What we'll cover
+## Lo que vamos a ver
 
-- Method or topic overview with measurable steps
-- Gear recommendations at multiple price tiers
-- Common mistakes and how to fix them
-- Tips from working baristas
+- Resumen del método o tema con pasos medibles
+- Recomendaciones de equipo en varias gamas de precio
+- Errores habituales y cómo solucionarlos
+- Consejos de baristas en activo
 
-> Subscribe to the [newsletter](/newsletter) to get notified when this guide is updated.
+> Suscríbete a la [newsletter](/newsletter) para que te avisemos cuando actualicemos esta guía.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [Roasting coffee at home in a skillet: a guide for the brave](/blog/tostado-casero-sarten)
-- [Coffee for productivity](/blog/caf-perfecto-para-trabajar)
-- [AeroPress guide for beginners: your first specialty coffee](/blog/guia-aeropress-principiantes)
+- [Tostar café en casa con una sartén: guía para los valientes](/blog/tostado-casero-sarten)
+- [Café para la productividad](/blog/caf-perfecto-para-trabajar)
+- [Guía de AeroPress para principiantes: tu primer café de especialidad](/blog/guia-aeropress-principiantes)

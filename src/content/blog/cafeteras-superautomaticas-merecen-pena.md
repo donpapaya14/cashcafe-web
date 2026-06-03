@@ -1,34 +1,34 @@
 ---
-title: "Super-automatic machines: are they worth it?"
-description: "Maximum convenience, minimum control. Who they're for and who they're not. With data, not snobbery."
+title: "Cafeteras superautomáticas: ¿merecen la pena?"
+description: "Máxima comodidad, mínimo control. Para quién son y para quién no. Con datos, no con esnobismo."
 pubDate: 2026-01-20
 category: "gear"
-tags: ["gear","coffee"]
-author: "Ana Rivero"
+tags: ["equipo","café"]
+author: "Cash Café"
 readingTime: 8
 sources: []
 draft: false
 image: https://images.pexels.com/photos/1187762/pexels-photo-1187762.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-Maximum convenience, minimum control. Who they're for and who they're not. With data, not snobbery.
+Máxima comodidad, mínimo control. Para quién son y para quién no. Con datos, no con esnobismo.
 
-## Coming up
+## Próximamente
 
-This guide is being expanded. We're adding measured ratios, gear we tested, and the science behind each method.
+Esta guía está en plena ampliación. Estamos añadiendo proporciones medidas, equipo que hemos probado y la ciencia que hay detrás de cada método.
 
-In the meantime, browse our full [coffee blog](/blog) for ready-to-read brewing guides and gear notes.
+Mientras tanto, échale un vistazo a nuestro [blog de café](/blog) completo, con guías de preparación listas para leer y notas sobre equipo.
 
-## What we'll cover
+## Qué vamos a ver
 
-- Method or topic overview with measurable steps
-- Gear recommendations at multiple price tiers
-- Common mistakes and how to fix them
-- Tips from working baristas
+- Un repaso al método o tema con pasos medibles
+- Recomendaciones de equipo en varios rangos de precio
+- Errores habituales y cómo solucionarlos
+- Consejos de baristas en activo
 
-> Subscribe to the [newsletter](/newsletter) to get notified when this guide is updated.
+> Suscríbete a la [newsletter](/newsletter) y te avisaremos cuando actualicemos esta guía.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [Manual vs electric grinder: the real advantages of each](/blog/molinillo-manual-vs-electrico)
-- [Upgrade Your Coffee Game](/blog/mejora-tu-caf-con-accesorios)
-- [French Press: Worth It or Overrated?](/blog/prensa-francesa-vale-la-pena-o-es-un-mito)
+- [Molinillo manual vs. eléctrico: las ventajas reales de cada uno](/blog/molinillo-manual-vs-electrico)
+- [Mejora tu café con accesorios](/blog/mejora-tu-caf-con-accesorios)
+- [Prensa francesa: ¿vale la pena o es un mito?](/blog/prensa-francesa-vale-la-pena-o-es-un-mito)

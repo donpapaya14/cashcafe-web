@@ -1,43 +1,41 @@
 ---
-title: "The 5 best coffee shops in Madrid in 2026"
-description: "Hola Coffee, Toma Café, Ambu and two surprises. We visited our five favorites and tell you why."
+title: "Las 5 mejores cafeterías de Madrid en 2026"
+description: "Hola Coffee, Toma Café, Ambu y dos sorpresas. Hemos visitado nuestras cinco favoritas y te contamos por qué."
 pubDate: 2026-05-01
 category: "guides"
-tags: ["guides","coffee"]
-author: "Ana Rivero"
+tags: ["guías","café"]
+author: "Cash Café"
 readingTime: 8
 sources: []
 draft: false
 image: https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-Madrid has become one of Europe's specialty coffee capitals. These five spots aren't seasonal trends — they've been proving for years that Madrid drinks real coffee.
+Madrid se ha convertido en una de las capitales del café de especialidad en Europa. Estos cinco sitios no son una moda pasajera: llevan años demostrando que en Madrid se bebe café de verdad.
 
-## 1. Hola Coffee — The benchmark roaster
+## 1. Hola Coffee — El tostador de referencia
 
-Top 19 worldwide per Best Coffee Shops. Precision in-house roasting, direct sourcing, and a team that can explain every bean. If you can only visit one, make it this one.
+Entre los 19 mejores del mundo según Best Coffee Shops. Tueste propio de precisión, compra directa en origen y un equipo capaz de explicarte cada grano. Si solo puedes ir a una, que sea esta.
 
-## 2. Toma Café — The pioneer
+## 2. Toma Café — El pionero
 
-Teaching Madrid what real espresso is since 2011. Artisan roasting and commitment to origin make it essential.
+Enseñando a Madrid lo que es un buen espresso desde 2011. Su tueste artesanal y su apuesta por el origen lo hacen imprescindible.
 
-## 3. Ambu Coffee — Café + coworking
+## 3. Ambu Coffee — Café y coworking
 
-Best café in Madrid 2026. Fast wifi, outlets at every table, and competition-grade coffee. If you work remotely, this is your spot.
+Elegida mejor cafetería de Madrid 2026. Wifi rápido, enchufes en cada mesa y un café de nivel de competición. Si trabajas en remoto, este es tu sitio.
 
-## 4. Misión Café — Madrid's hidden gem
+## 4. Misión Café — La joya escondida de Madrid
 
-Tucked in the Barrio de las Letras. Flawless filters, seasonal menu, and a young team that nails latte art. Weekend brunch is spectacular.
+Escondida en el Barrio de las Letras. Filtros impecables, carta de temporada y un equipo joven que borda el latte art. El brunch de fin de semana es espectacular.
 
-## 5. Hanso Café — The revelation
+## 5. Hanso Café — La revelación
 
-Opened in 2024, already competing with the big names. Soft Nordic roast, minimalist space, and a flat white worth the trip from any neighborhood.
+Abrió en 2024 y ya compite con los grandes. Tueste nórdico suave, espacio minimalista y un flat white que merece el viaje desde cualquier barrio.
 
-> Madrid stopped being a watered-down café con leche city. It's now a European reference.
-> 
-> — Ana Rivero, editor
+> Madrid dejó de ser la ciudad del café con leche aguado. Ahora es una referencia europea.
 
-## 📚 Continue reading
+## 📚 Seguir leyendo
 
-- [French press: the complete step-by-step guide](/blog/french-press-guia-completa)
-- [Specialty coffee shops in Lisbon: updated guide](/blog/cafeterias-lisboa-guia)
-- [Set up a coffee corner at the office for under €100](/blog/cafe-para-oficina-sin-gastar)
+- [Prensa francesa: la guía completa paso a paso](/blog/french-press-guia-completa)
+- [Cafeterías de especialidad en Lisboa: guía actualizada](/blog/cafeterias-lisboa-guia)
+- [Monta un rincón de café en la oficina por menos de 100 €](/blog/cafe-para-oficina-sin-gastar)

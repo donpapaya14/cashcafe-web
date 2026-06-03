@@ -1,47 +1,45 @@
 ---
-title: "French press: the complete step-by-step guide"
-description: "The world's simplest brewer hides more technique than you'd think. Here's everything you need to get the most out of it."
+title: "French press: la guía completa paso a paso"
+description: "La cafetera más sencilla del mundo esconde más técnica de la que parece. Aquí tienes todo lo que necesitas para sacarle el máximo partido."
 pubDate: 2026-04-21
 category: "guides"
-tags: ["guides","coffee"]
-author: "Marcos Llovera"
+tags: ["guías","café"]
+author: "Cash Café"
 readingTime: 7
 sources: []
 draft: false
 image: https://images.pexels.com/photos/1170650/pexels-photo-1170650.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-The French press has been in kitchens worldwide for over 80 years. It's cheap, needs no paper filters, and produces a full-bodied, silky coffee. But most people use it wrong. Let's fix that.
+La French press lleva más de 80 años en las cocinas de medio mundo. Es barata, no necesita filtros de papel y prepara un café con mucho cuerpo y una textura sedosa. El problema es que casi todo el mundo la usa mal. Vamos a ponerle remedio.
 
-## Gear and ratios
+## Equipo y proporciones
 
-You need the press, coarsely ground coffee (sea-salt texture), water at 93-96 °C, and a scale. The standard ratio is 1:15 — 30 g of coffee to 450 ml of water. Adjust to taste, but start there.
+Necesitas la cafetera, café molido grueso (textura de sal marina), agua a 93-96 °C y una báscula. La proporción estándar es 1:15, es decir, 30 g de café por cada 450 ml de agua. Luego ajustas a tu gusto, pero empieza por ahí.
 
-- Coarse, uniform grind — burrs matter here too.
-- Water just below boiling, never fully boiling.
-- Preheat the press with hot water before brewing.
+- Molido grueso y uniforme: aquí también marca la diferencia un molinillo de muelas.
+- Agua justo por debajo de la ebullición, nunca hirviendo del todo.
+- Precalienta la cafetera con agua caliente antes de preparar el café.
 
-## The step-by-step method
+## El método paso a paso
 
-1. Add ground coffee to the preheated press.
-2. Pour all the water at once and start your timer.
-3. At 4 minutes, break the crust with a spoon and skim off the foam.
-4. Place the plunger but DON'T press down yet. Wait 5-8 more minutes.
-5. Press the plunger down gently — no force — and serve immediately.
+1. Echa el café molido en la cafetera precalentada.
+2. Vierte toda el agua de golpe y pon en marcha el cronómetro.
+3. A los 4 minutos, rompe la costra con una cuchara y retira la espuma de la superficie.
+4. Coloca el émbolo, pero NO presiones todavía. Espera entre 5 y 8 minutos más.
+5. Baja el émbolo con suavidad, sin forzar, y sirve de inmediato.
 
-> The French press isn't a brewer for people in a rush. Give it time and it rewards you with body and clarity you don't expect.
-> 
-> — James Hoffmann, The World Atlas of Coffee
+> La French press no es una cafetera para gente con prisa. Dale tiempo y te recompensa con un cuerpo y una claridad que no esperas.
 
-## The James Hoffmann trick
+## El truco de James Hoffmann
 
-Hoffmann's method adds a long rest after the initial 4 minutes and removes the foam before pressing. The result is a much cleaner cup, without the sludge people associate with the French press. Trying it changes anyone's perspective on this brewer.
+El método de Hoffmann añade un reposo largo después de los 4 minutos iniciales y retira la espuma antes de presionar. El resultado es una taza mucho más limpia, sin esos posos que tanta gente asocia a la French press. Probarlo cambia la forma de ver esta cafetera.
 
-## Common mistakes
+## Errores habituales
 
-Grinding too fine, using boiling water, and forcing the plunger down are the three deadly sins. Also: pouring a cup and leaving coffee sitting in the press. If you're not drinking that second cup now, decant into a carafe. Coffee keeps extracting as long as it touches water.
+Moler demasiado fino, usar agua hirviendo y bajar el émbolo a la fuerza son los tres pecados capitales. Y uno más: servirte una taza y dejar el resto del café reposando dentro de la cafetera. Si no vas a beberte esa segunda taza ahora mismo, pásalo a una jarra. El café sigue extrayéndose mientras siga en contacto con el agua.
 
-## 📚 Continue reading
+## 📚 Seguir leyendo
 
-- [The best coffee shops in Barcelona: updated guide](/blog/mejores-cafeterias-barcelona)
-- [The 5 best coffee shops in Madrid in 2026](/blog/mejores-cafeterias-madrid-2026)
-- [How to choose whole bean coffee: origin, roast and freshness](/blog/como-elegir-cafe-en-grano)
+- [Las mejores cafeterías de Barcelona: guía actualizada](/blog/mejores-cafeterias-barcelona)
+- [Las 5 mejores cafeterías de Madrid en 2026](/blog/mejores-cafeterias-madrid-2026)
+- [Cómo elegir café en grano: origen, tueste y frescura](/blog/como-elegir-cafe-en-grano)

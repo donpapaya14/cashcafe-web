@@ -1,41 +1,41 @@
 ---
-title: "Coffee for productivity"
-description: "Learn how science and technique combine to brew the perfect productivity-boosting coffee, from ideal ratios to optimal temperatures."
+title: "Café para rendir más en el trabajo"
+description: "Descubre cómo la ciencia y la técnica se unen para preparar el café perfecto que dispara tu productividad: desde las proporciones ideales hasta la temperatura óptima."
 pubDate: 2026-05-06
 category: "recipes"
-tags: ["recipes","coffee"]
-author: "Marcos Llovera"
+tags: ["recetas","café"]
+author: "Cash Café"
 readingTime: 3
 sources: []
 draft: false
 image: https://images.pexels.com/photos/2074130/pexels-photo-2074130.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-Coffee isn’t just a morning ritual—it’s a science-backed productivity booster. Finding your perfect brew can turn a sluggish day into one fueled by focus and energy. Here’s how to craft it.
+El café no es solo un ritual de buenos días: es un empujón a la productividad respaldado por la ciencia. Dar con tu taza perfecta puede convertir una mañana espesa en un día de pura concentración y energía. Aquí tienes cómo lograrlo.
 
-## The Science of Productive Coffee
+## La ciencia del café que rinde
 
-Research from Harvard University shows caffeine blocks adenosine receptors in the brain, reducing fatigue and sharpening focus. Plus, antioxidants like chlorogenic acid (abundant in coffee) may enhance cognitive function, per NIH studies.
+Investigaciones de la Universidad de Harvard apuntan a que la cafeína bloquea los receptores de adenosina en el cerebro, reduciendo la sensación de fatiga y afinando la concentración. Además, antioxidantes como el ácido clorogénico (muy presente en el café) podrían favorecer la función cognitiva, según estudios de los NIH.
 
-## The Goldilocks Ratio: Coffee to Water
+## La proporción justa: café y agua
 
-The Specialty Coffee Association recommends a 1:16 to 1:18 coffee-to-water ratio for balanced extraction. Example: 20g coffee for 320ml water. Stronger ratios (e.g., 1:15) pack more caffeine but risk bitterness.
+La Specialty Coffee Association recomienda una proporción de café y agua de 1:16 a 1:18 para lograr una extracción equilibrada. Por ejemplo: 20 g de café para 320 ml de agua. Las proporciones más cargadas (como 1:15) aportan más cafeína, pero corren el riesgo de amargar.
 
-## Temperature Matters
+## La temperatura importa
 
-Water at 195–205°F (90–96°C) extracts flavors optimally without scorching. A study in the Journal of Agricultural and Food Chemistry found lower temps (175°F/80°C) reduce caffeine extraction by 20%.
+El agua entre 90 y 96 °C (195–205 °F) extrae los sabores de forma óptima sin quemar el café. Un estudio publicado en el Journal of Agricultural and Food Chemistry observó que con temperaturas más bajas (80 °C / 175 °F) la extracción de cafeína se reduce alrededor de un 20 %.
 
-## Brew Methods Decoded
+## Los métodos de preparación, al descubierto
 
-- V60: Bright, clean flavors—perfect for fruity notes.
-- French Press: Bold body with more oils (and caffeine).
-- Pour-over: Precision control, but mastering flow is key.
+- V60: sabores limpios y vivos, perfecto para realzar las notas afrutadas.
+- Prensa francesa: cuerpo intenso y más aceites (y más cafeína).
+- Pour-over (vertido manual): control milimétrico, aunque dominar el flujo tiene su técnica.
 
-## Make It Your Own
+## Hazlo a tu manera
 
-Cream or sugar? University of Barcelona research shows whole milk slows caffeine absorption for sustained energy. But refined sugar? It may lead to energy crashes post-spike.
+¿Leche o azúcar? Una investigación de la Universidad de Barcelona indica que la leche entera ralentiza la absorción de la cafeína, lo que prolonga la energía. ¿Y el azúcar refinado? Puede provocarte un bajón después del subidón inicial.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [Espresso Martini: the recipe Madrid cocktail bars actually use](/blog/receta-espresso-martini)
-- [The V60 method the baristas we interviewed actually use](/blog/metodo-v60)
-- [Perfect affogato: espresso + ice cream in 2 minutes](/blog/receta-affogato-perfecto)
+- [Espresso Martini: la receta que usan de verdad las coctelerías de Madrid](/blog/receta-espresso-martini)
+- [El método V60 que usan de verdad los baristas que entrevistamos](/blog/metodo-v60)
+- [Affogato perfecto: espresso + helado en 2 minutos](/blog/receta-affogato-perfecto)

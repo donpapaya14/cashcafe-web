@@ -1,44 +1,40 @@
 ---
-title: "The 3 best espresso machines under €300 in 2026"
-description: "You don't need to spend €1,000 for home espresso. These three machines pull bar-worthy shots for less than you think."
+title: "Las 3 mejores cafeteras espresso por menos de 300 € en 2026"
+description: "No hace falta gastarse 1.000 € para tomar un buen espresso en casa. Estas tres cafeteras sacan tazas de nivel barista por mucho menos de lo que crees."
 pubDate: 2026-05-04
 category: "gear"
-tags: ["gear","coffee"]
-author: "Ana Rivero"
+tags: ["equipo","café"]
+author: "Cash Café"
 readingTime: 8
 sources: []
 draft: false
 image: https://images.pexels.com/photos/324028/pexels-photo-324028.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-The entry-level espresso machine market has improved enormously in recent years. Machines that used to cost €500 now have functional equivalents under €300. We've tested the three that convinced us most this year.
+El mercado de las cafeteras espresso de gama de entrada ha mejorado muchísimo en los últimos años. Máquinas que antes costaban 500 € tienen hoy equivalentes muy capaces por menos de 300 €. Hemos probado las tres que más nos han convencido este año.
 
-## What we looked for
+## Qué hemos buscado
 
-For this selection we evaluated: temperature stability, portafilter quality, actual pressure (not just what the label says), boiler capacity, and ease of maintenance. We weren't looking for perfect machines — we were looking for the ones that get the most out of €300.
+Para esta selección valoramos: la estabilidad de temperatura, la calidad del portafiltros, la presión real (no solo la que pone en la etiqueta), la capacidad de la caldera y la facilidad de mantenimiento. No buscábamos máquinas perfectas, sino las que mejor aprovechan cada euro de esos 300.
 
-- 58 mm portafilter: the professional standard. Allows quality baskets.
-- Steel or thick aluminum boiler: thermal stability during extraction.
-- Functional steam wand: capable of texturing milk for basic latte art.
-- Removable drip tray: hassle-free daily cleaning.
+- Portafiltros de 58 mm: el estándar profesional. Permite usar cestas de calidad.
+- Caldera de acero o aluminio grueso: estabilidad térmica durante la extracción.
+- Lanceta de vapor funcional: capaz de texturizar la leche para hacer latte art básico.
+- Bandeja antigoteo extraíble: limpieza diaria sin complicaciones.
 
-## The three contenders
+## Las tres candidatas
 
-The three machines that best balance price and performance in 2026 are semi-automatics with both pressurized and non-pressurized portafilter baskets included. This lets you start with pressurized (easier) and switch to non-pressurized as your grind improves.
+Las tres cafeteras que mejor equilibran precio y prestaciones en 2026 son semiautomáticas y vienen con cestas de portafiltros presurizadas y no presurizadas. Esto te permite empezar con la presurizada (más fácil) y pasarte a la no presurizada a medida que mejoras la molienda.
 
-> A €300 machine with a good grinder outperforms an €800 machine with pre-ground coffee. Always. No exceptions.
-> 
-> — Ana Rivero, editor
+## El molinillo es lo que marca la diferencia
 
-## The grinder matters
+Ninguna máquina de este rango saca un buen espresso con café premolido. Necesitas un molinillo capaz de moler a la finura del espresso, con ajuste fino entre pasos. Si tu presupuesto total son 300 €, pon 150 € en la cafetera y 150 € en un buen molinillo manual.
 
-No machine in this range produces good espresso with pre-ground coffee. You need a grinder capable of espresso-fine grinding — with fine adjustment between steps. If your total budget is €300, put €150 on the machine and €150 on a quality manual grinder.
+## Nuestra recomendación
 
-## Our recommendation
+Empieza con la cesta presurizada para aprender sin frustrarte. Cuando ya saques tazas consistentes, pásate a la no presurizada y afina la molienda. El salto de calidad es enorme, pero hace falta un molinillo que esté a la altura.
 
-Start with the pressurized basket to learn without frustration. When you're pulling consistent shots, switch to non-pressurized and dial in the grind. The quality leap is huge, but it requires a grinder that can keep up.
-
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
 - [Best Espresso Machine for Beginners 2026: Sub $400 Picks](/blog/best-espresso-machine-for-beginners-2026-sub-400-picks)
-- [Tested: 5 grinders under €200](/blog/comparativa-molinillos-200)
+- [Probadas: 5 molinillos por menos de 200 €](/blog/comparativa-molinillos-200)
 - [Best Burr Grinder Under $200 for Pour Over and Drip](/blog/best-burr-grinder-under-200-for-pour-over-and-drip)

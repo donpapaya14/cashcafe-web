@@ -1,10 +1,10 @@
 ---
-title: "Chemex vs V60: Which Pour Over Brewer Should You Buy?"
-description: "Compare Chemex and V60 pour over brewers"
+title: "Chemex vs V60: ¿qué cafetera de filtro deberías comprar?"
+description: "Comparativa entre las cafeteras de filtro Chemex y V60"
 pubDate: 2026-05-11
 category: "brewing"
-tags: ["chemex vs v60", "chemex pour over comparison", "v60 alternative", "pour over comparison", "coffee brewing", "specialty coffee", "barista guild of america", "james hoffmann"]
-author: "Vladys Z."
+tags: ["chemex vs v60", "comparativa chemex pour over", "alternativa v60", "comparativa pour over", "preparación de café", "café de especialidad", "barista guild of america", "james hoffmann"]
+author: "Cash Café"
 readingTime: 3
 
 sources:
@@ -16,78 +16,79 @@ sources:
 draft: false
 ---
 
-## Introduction to Chemex vs V60
-When it comes to pour-over brewing, two names stand out: **Chemex** and **V60**. The question of **Chemex vs V60** has been a topic of debate among coffee enthusiasts. To answer this, let's delve into their design, filter thickness, cup profile, and grind size requirements. According to the [Specialty Coffee Association](https://sca.coffee/), the key to a perfect cup lies in the nuances of these brewing methods.
+## Introducción al duelo Chemex vs V60
+Cuando hablamos de café de filtro por goteo, hay dos nombres que destacan por encima del resto: la **Chemex** y la **V60**. El debate **Chemex vs V60** lleva años dando que hablar entre los aficionados al café. Para resolverlo, vamos a meternos de lleno en su diseño, el grosor del filtro, el perfil en taza y el tipo de molienda que pide cada una. Según la [Specialty Coffee Association](https://sca.coffee/), la clave de una taza perfecta está precisamente en los matices de cada método de preparación.
 
-## Design and Capacity Differences
-The **Chemex**, invented by **Peter Schlumbohm** in 1941, is known for its sleek design and large capacity, ranging from 3 to 13 cups. On the other hand, the **V60**, designed by **Hario** in 2004, offers a more versatile brewing experience with various size options. For more information, visit the [Hario](https://www.hario.co.jp/) and [Chemex](https://www.chemex.com/) official websites.
+## Diferencias de diseño y capacidad
+La **Chemex**, inventada por **Peter Schlumbohm** en 1941, es conocida por su diseño elegante y su gran capacidad, que va de 3 a 13 tazas. La **V60**, por su parte, diseñada por **Hario** en 2004, ofrece una experiencia de preparación más versátil con distintas opciones de tamaño. Si quieres más información, puedes visitar las webs oficiales de [Hario](https://www.hario.co.jp/) y [Chemex](https://www.chemex.com/).
 
-## Filter Thickness Comparison
-**Chemex filters** are 20-30% heavier than standard pour-over filters, which affects the brewing process. A study by the [SCA](https://sca.coffee/research) found that filter thickness plays a significant role in the extraction yield. The **V60 filter** thickness is thinner, resulting in a different brewing dynamic. For a deeper understanding, refer to a [peer-reviewed study on pour-over brewing](https://www.sciencedirect.com/science/article/pii/S0023643815000455).
+## Comparativa del grosor del filtro
+Los **filtros de la Chemex** son entre un 20 y un 30 % más gruesos que los filtros de filtro estándar, y eso afecta de lleno al proceso de extracción. Un estudio de la [SCA](https://sca.coffee/research) concluyó que el grosor del filtro tiene un papel importante en el rendimiento de la extracción. El **filtro de la V60** es más fino, lo que da lugar a una dinámica de preparación distinta. Para profundizar, puedes consultar este [estudio revisado por pares sobre el café de filtro](https://www.sciencedirect.com/science/article/pii/S0023643815000455).
 
-## Resulting Cup Profile
-The **Chemex** produces a cleaner, tea-like cup due to its thick filters, as noted by **James Hoffmann**, World Barista Champion. In contrast, the **V60** cup profile is more nuanced, with a heavier body and more pronounced flavors. To learn more about cup profiles, visit [James Hoffmann's](https://www.jimseven.com/) website.
+## El perfil en taza resultante
+La **Chemex** produce una taza más limpia, con un cuerpo casi de té, gracias a sus filtros gruesos, como ha señalado **James Hoffmann**, campeón del mundo de baristas. En cambio, el perfil en taza de la **V60** es más matizado, con más cuerpo y sabores más marcados. Para saber más sobre perfiles en taza, puedes visitar la web de [James Hoffmann](https://www.jimseven.com/).
 
-## Grind Size Requirements
-The grind size requirements for **Chemex** and **V60** differ. The **Barista Guild of America** recommends a medium-coarse grind for **Chemex** and a medium-fine grind for **V60**. The grind size significantly affects the brewing process, so it's essential to get it right. Check out the [Barista Guild of America](https://www.baristaguildofamerica.org/) for more information.
+## Tipo de molienda que necesita cada una
+La molienda que pide la **Chemex** y la **V60** no es la misma. La **Barista Guild of America** recomienda una molienda media-gruesa para la **Chemex** y una media-fina para la **V60**. El tamaño de molienda influye muchísimo en el resultado, así que conviene acertar. Echa un vistazo a la [Barista Guild of America](https://www.baristaguildofamerica.org/) para más detalles.
 
-## Step-by-Step Brewing Guide
-Here's a step-by-step guide to brewing with **Chemex** and **V60**:
-1. Heat water to **200°F (93°C)**.
-2. Measure **30-40 grams** of coffee for every **500 grams** of water.
-3. Pour the water over the grounds in a circular motion.
-4. Steep for **3-4 minutes** for **Chemex** and **2-3 minutes** for **V60**.
+## Guía de preparación paso a paso
+Aquí tienes una guía paso a paso para preparar café con la **Chemex** y la **V60**:
+1. Calienta el agua a **93 °C (200 °F)**.
+2. Mide **30-40 gramos** de café por cada **500 gramos** de agua.
+3. Vierte el agua sobre el café molido haciendo movimientos circulares.
+4. Deja infusionar **3-4 minutos** con la **Chemex** y **2-3 minutos** con la **V60**.
 
-## Comparison Table
-| Brewer | Filter Thickness | Cup Profile | Grind Size |
+## Tabla comparativa
+| Cafetera | Grosor del filtro | Perfil en taza | Molienda |
 | --- | --- | --- | --- |
-| Chemex | Thick | Clean, tea-like | Medium-coarse |
-| V60 | Thin | Nuanced, heavy body | Medium-fine |
+| Chemex | Grueso | Limpia, tipo té | Media-gruesa |
+| V60 | Fino | Matizada, con cuerpo | Media-fina |
 
-## Frequently Asked Questions
-### What is the difference between Chemex and V60?
-The main difference lies in their design, filter thickness, and resulting cup profile. **Chemex** is known for its clean, tea-like cup, while **V60** offers a more nuanced flavor profile.
-### Can I use Chemex filters in a V60?
-No, **Chemex filters** are specifically designed for the **Chemex** brewer and won't fit a **V60**.
-### How often should I clean my Chemex or V60?
-Clean your **Chemex** or **V60** after every use to prevent any buildup of old coffee oils and residue. For a deeper clean, use a mixture of equal parts water and white vinegar.
-### What is the ideal water temperature for brewing?
-The ideal water temperature for brewing is between **195°F (90°C)** and **205°F (96°C)**.
-### Can I brew a single cup with Chemex or V60?
-The **V60** is ideal for brewing a single cup, while the **Chemex** can brew multiple cups at once.
-### What are some popular pour-over coffee makers?
-Some popular pour-over coffee makers include the **Chemex Pour-Over Glass Coffeemaker**, [ Chemex Pour-Over Glass Coffeemaker on Amazon](https://www.amazon.com/s?k=+Chemex+Pour-Over+Glass+Coffeemaker&tag=vds96-20), and the **Hario V60 Pour-Over Coffee Maker**.
+## Preguntas frecuentes
+### ¿Cuál es la diferencia entre la Chemex y la V60?
+La diferencia principal está en su diseño, el grosor del filtro y el perfil en taza que producen. La **Chemex** es conocida por una taza limpia y tipo té, mientras que la **V60** ofrece un perfil de sabor más matizado.
+### ¿Puedo usar filtros de Chemex en una V60?
+No. Los **filtros de Chemex** están diseñados específicamente para la **Chemex** y no encajan en una **V60**.
+### ¿Cada cuánto debo limpiar mi Chemex o mi V60?
+Limpia tu **Chemex** o tu **V60** después de cada uso para evitar que se acumulen aceites y residuos del café. Para una limpieza más a fondo, usa una mezcla a partes iguales de agua y vinagre blanco.
+### ¿Cuál es la temperatura ideal del agua para preparar café?
+La temperatura ideal del agua está entre **90 °C (195 °F)** y **96 °C (205 °F)**.
+### ¿Puedo preparar una sola taza con la Chemex o la V60?
+La **V60** es ideal para preparar una sola taza, mientras que la **Chemex** puede preparar varias a la vez.
+### ¿Cuáles son algunas cafeteras de filtro populares?
+Entre las cafeteras de filtro más populares están la **Chemex Pour-Over Glass Coffeemaker**, [la Chemex Pour-Over Glass Coffeemaker en Amazon](https://www.amazon.com/s?k=+Chemex+Pour-Over+Glass+Coffeemaker&tag=vds96-20), y la **Hario V60 Pour-Over Coffee Maker**.
 
-## My Take
-As an app developer and trained chef who brews coffee daily, I can attest to the importance of choosing the right brewing method. My personal preference is the **Chemex**, as I enjoy the clean, tea-like cup it produces. However, I also appreciate the versatility of the **V60** and the nuanced flavors it offers.
-I remember the first time I tried brewing with a **Chemex**. I was amazed by the simplicity and elegance of the design. Since then, I've experimented with various brewing methods, but the **Chemex** remains my go-to.
-In conclusion, the choice between **Chemex** and **V60** ultimately comes down to personal preference. Both brewing methods have their unique characteristics, and it's essential to understand these differences to make an informed decision.
+## Nuestra opinión
+Elegir bien el método de preparación marca la diferencia en la taza. Si buscas una taza limpia y con ese punto tipo té, la **Chemex** es una apuesta segura. Pero si prefieres jugar con los matices y conseguir más cuerpo, la versatilidad de la **V60** te dará mucho juego.
+La primera vez que preparas un café con una **Chemex** suele sorprender por lo sencillo y elegante de su diseño. A partir de ahí, lo interesante es experimentar con distintos métodos hasta dar con el que mejor encaja contigo.
+En conclusión, la elección entre la **Chemex** y la **V60** se reduce, al final, a tus preferencias personales. Ambos métodos tienen sus características propias, y entender estas diferencias es lo que te permite tomar una decisión con criterio.
 
 
 
-### You might also like
+### También te puede interesar
 
-- [Kissaten: the Japanese coffeehouses that inspire the third wave](/blog/cafe-japones-kissaten)
-- [How to choose whole bean coffee: origin, roast and freshness](/blog/como-elegir-cafe-en-grano)
-- [The 5 best coffee shops in Madrid in 2026](/blog/mejores-cafeterias-madrid-2026)
-- [The ingredient almost everyone ignores: water](/blog/agua-para-cafe)
+- [Kissaten: las cafeterías japonesas que inspiraron la tercera ola](/blog/cafe-japones-kissaten)
+- [Cómo elegir café en grano: origen, tueste y frescura](/blog/como-elegir-cafe-en-grano)
+- [Las 5 mejores cafeterías de Madrid en 2026](/blog/mejores-cafeterias-madrid-2026)
+- [El ingrediente que casi todo el mundo ignora: el agua](/blog/agua-para-cafe)
 
-## Practical Summary
-Here are some concrete action bullets to get you started:
-* Choose the right brewing method based on your flavor preferences.
-* Invest in a high-quality **Chemex** or **V60** brewer.
-* Experiment with different grind sizes and brewing times to find your perfect cup.
-* Clean your brewer regularly to prevent any buildup of old coffee oils and residue.
-* Try brewing with different coffee-to-water ratios to find your ideal balance.
-* Consider investing in a **Chemex Pour-Over Glass Coffeemaker** or a **Hario V60 Pour-Over Coffee Maker** for a high-quality brewing experience.
+## Resumen práctico
+Aquí tienes algunos puntos de acción concretos para empezar:
+* Elige el método de preparación según tus preferencias de sabor.
+* Hazte con una **Chemex** o una **V60** de buena calidad.
+* Experimenta con distintos tamaños de molienda y tiempos de preparación hasta dar con tu taza perfecta.
+* Limpia la cafetera con regularidad para evitar que se acumulen aceites y residuos del café.
+* Prueba distintas proporciones de café y agua hasta encontrar tu equilibrio ideal.
+* Plantéate hacerte con una **Chemex Pour-Over Glass Coffeemaker** o una **Hario V60 Pour-Over Coffee Maker** para una experiencia de preparación de calidad.
+
 
 
 ---
 
-*Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+*Escrito por **Cash Café**. CashCafe es contenido editorial sobre café basado en pruebas reales y ciencia citada. Aviso de afiliación en el [aviso legal](/legal-notice).*
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [Coffee Brewing for Beginners: Your First 30 Days Guide](/blog/coffee-brewing-for-beginners-your-first-30-days-guide)
-- [Best Glass Coffee Pot for Pour Over: 5 Server Picks](/blog/best-glass-coffee-pot-for-pour-over-5-server-picks)
-- [Caffeine Content by Brew Method: Espresso to Cold Brew](/blog/caffeine-content-by-brew-method-espresso-to-cold-brew)
+- [Preparar café para principiantes: guía para tus primeros 30 días](/blog/coffee-brewing-for-beginners-your-first-30-days-guide)
+- [La mejor jarra de cristal para café de filtro: 5 opciones de servidor](/blog/best-glass-coffee-pot-for-pour-over-5-server-picks)
+- [Contenido de cafeína por método de preparación: del espresso al cold brew](/blog/caffeine-content-by-brew-method-espresso-to-cold-brew)

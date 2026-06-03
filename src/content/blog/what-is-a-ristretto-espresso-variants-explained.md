@@ -1,10 +1,10 @@
 ---
-title: "What Is a Ristretto? Espresso Variants Explained"
-description: "Unlock the secrets of espresso variants"
+title: "¿Qué es un ristretto? Las variantes del espresso explicadas"
+description: "Descubre las claves de las variantes del espresso"
 pubDate: 2026-05-19
 category: "brewing"
-tags: ["what is a ristretto", "ristretto vs espresso", "ristretto recipe", "lungo vs ristretto", "espresso variants", "coffee brewing", "specialty coffee", "barista"]
-author: "Vladys Z."
+tags: ["qué es un ristretto", "ristretto vs espresso", "receta de ristretto", "lungo vs ristretto", "variantes del espresso", "preparación de café", "café de especialidad", "barista"]
+author: "Cash Café"
 readingTime: 3
 
 sources:
@@ -17,69 +17,64 @@ draft: false
 ---
 
 
-## Espresso shot variants overview
-When it comes to **espresso**, there are several variants that can elevate your coffee experience. According to the **Specialty Coffee Association (2020)**, espresso variants include **ristretto**, **lungo**, and standard espresso. Each variant has its unique characteristics, and understanding them can help you choose the perfect shot for your taste preferences.
+## Las variantes del espresso de un vistazo
+Cuando hablamos de **espresso**, hay varias variantes capaces de llevar tu café a otro nivel. Según la **Specialty Coffee Association (2020)**, entre las variantes del espresso encontramos el **ristretto**, el **lungo** y el espresso estándar. Cada una tiene sus propias características, y entenderlas te ayuda a elegir el shot perfecto para tu paladar.
 
-## Ristretto definition
-A **ristretto** is a type of espresso that is defined as 'restricted' or 'shortened' in Italian. The standard **ristretto ratio** is 1:1 to 1:1.5 dose to yield, as per the **INEI (Italian National Espresso Institute) guidelines**. This means that for every 1 gram of coffee, you should aim for 1-1.5 grams of espresso.
+## Qué es un ristretto
+Un **ristretto** es un tipo de espresso cuyo nombre en italiano significa "restringido" o "corto". La **proporción habitual del ristretto** va de 1:1 a 1:1,5 (dosis respecto a la bebida obtenida), según las **directrices del INEI (Italian National Espresso Institute)**. Es decir, por cada gramo de café molido buscas obtener entre 1 y 1,5 gramos de espresso en taza.
 
-## Lungo definition
-On the other hand, a **lungo** is a type of espresso that has a longer extraction time. The **lungo ratio** is typically 1:3 to 1:4, according to the **SCA (Specialty Coffee Association) brewing guide (2019)**. This results in a more diluted espresso with a different flavor profile.
+## Qué es un lungo
+En el otro extremo, el **lungo** es un espresso con un tiempo de extracción más largo. Su **proporción** suele situarse entre 1:3 y 1:4, según la **guía de extracción de la SCA (Specialty Coffee Association) de 2019**. El resultado es un espresso más diluido y con un perfil de sabor distinto.
 
-## When to choose each
-So, when should you choose a **ristretto**, **lungo**, or standard espresso? According to **James Hoffmann, World Barista Champion (2017)**, the choice ultimately depends on your personal taste preferences and brewing methods. Here are some guidelines to help you decide:
-1. **Ristretto**: Choose a ristretto if you prefer a stronger, more concentrated espresso with a richer flavor.
-2. **Lungo**: Opt for a lungo if you prefer a more diluted espresso with a lighter flavor.
-3. **Standard espresso**: Go for a standard espresso if you want a balanced flavor with a medium body.
+## Cuándo elegir cada uno
+¿Y cuándo conviene un **ristretto**, un **lungo** o un espresso estándar? Según **James Hoffmann, campeón del mundo de baristas (2017)**, la elección depende al final de tu gusto personal y del método de preparación. Estas pautas te ayudarán a decidir:
+1. **Ristretto**: elígelo si prefieres un espresso más fuerte y concentrado, con un sabor más intenso.
+2. **Lungo**: opta por él si te gusta un espresso más diluido y de sabor más suave.
+3. **Espresso estándar**: ve a por él si buscas un sabor equilibrado y un cuerpo medio.
 
-## FAQ
-### What is the difference between ristretto and espresso?
-Ristretto and espresso differ in their extraction times and ratios. Ristretto has a shorter extraction time and a higher dose-to-yield ratio, resulting in a stronger flavor.
-### How do I make a ristretto at home?
-To make a ristretto at home, use a high-quality espresso machine like the **Breville Bambino Plus Espresso Machine** and follow these steps:
-1. Use 1-1.5 grams of coffee for every 1 gram of espresso.
-2. Adjust the grind and tamping to ensure the perfect shot.
-3. Extract the espresso for 20-25 seconds.
-### What is the caffeine content of a ristretto?
-The caffeine content of a ristretto is typically higher than that of a standard espresso due to its shorter extraction time and higher dose-to-yield ratio.
-### Can I use a lungo ratio for a ristretto?
-No, using a lungo ratio for a ristretto will result in a more diluted espresso with a lighter flavor, which defeats the purpose of a ristretto.
-### How does the flavor profile of a ristretto compare to a lungo?
-The flavor profile of a ristretto is richer and more concentrated than that of a lungo, which is more diluted and lighter.
-### What is the best brewing method for a ristretto?
-The best brewing method for a ristretto is using a high-quality espresso machine, as it allows for precise control over the extraction time and ratio.
-
-## My Take
-As an app developer and trained chef who brews coffee daily, I can attest to the importance of understanding espresso variants. My personal favorite is the ristretto, as it provides a rich and concentrated flavor that is perfect for my morning routine. I use the **Breville Bambino Plus Espresso Machine** to make my ristretto, and I highly recommend it to anyone looking to elevate their coffee experience.
+## Preguntas frecuentes
+### ¿Cuál es la diferencia entre un ristretto y un espresso?
+El ristretto y el espresso se diferencian en el tiempo de extracción y en la proporción. El ristretto tiene una extracción más corta y una mayor relación dosis-bebida, lo que da un sabor más intenso.
+### ¿Cómo preparo un ristretto en casa?
+Para preparar un ristretto en casa con una máquina de espresso, sigue estos pasos:
+1. Usa de 1 a 1,5 gramos de café por cada gramo de espresso en taza.
+2. Ajusta la molienda y el prensado para conseguir el shot perfecto.
+3. Extrae el espresso durante 20-25 segundos.
+### ¿Cuánta cafeína tiene un ristretto?
+El contenido de cafeína de un ristretto suele ser mayor que el de un espresso estándar, debido a su extracción más corta y a su mayor relación dosis-bebida.
+### ¿Puedo usar la proporción del lungo para un ristretto?
+No. Usar la proporción de un lungo para un ristretto da como resultado un espresso más diluido y de sabor más suave, lo que va en contra de la idea misma del ristretto.
+### ¿En qué se diferencia el perfil de sabor de un ristretto y el de un lungo?
+El perfil del ristretto es más rico y concentrado que el del lungo, que resulta más diluido y ligero.
+### ¿Cuál es el mejor método para preparar un ristretto?
+La mejor forma de preparar un ristretto es con una máquina de espresso, ya que permite controlar con precisión el tiempo de extracción y la proporción.
 
 
 
-### You might also like
+### También te puede interesar
 
-- [The best coffee shops in Seville in 2026](/blog/mejores-cafeterias-sevilla)
-- [Upgrade Your V60](/blog/mejora-tu-v60-con-agua)
-- [The 5 best coffee shops in Madrid in 2026](/blog/mejores-cafeterias-madrid-2026)
-- [Flat white at home, without a pro pitcher](/blog/flat-white-en-casa)
+- [Las mejores cafeterías de Sevilla en 2026](/blog/mejores-cafeterias-sevilla)
+- [Mejora tu V60](/blog/mejora-tu-v60-con-agua)
+- [Las 5 mejores cafeterías de Madrid en 2026](/blog/mejores-cafeterias-madrid-2026)
+- [Flat white en casa, sin jarra profesional](/blog/flat-white-en-casa)
 
-## Practical Summary
-Here are some concrete action bullets to help you get started with espresso variants:
-* Use a high-quality espresso machine like the **Breville Bambino Plus Espresso Machine** to make ristretto, lungo, and standard espresso.
-* Adjust the grind and tamping to ensure the perfect shot.
-* Experiment with different ratios and extraction times to find your perfect flavor.
-* Use 1-1.5 grams of coffee for every 1 gram of espresso for a ristretto.
-* Opt for a lungo ratio of 1:3 to 1:4 for a more diluted espresso.
-* Choose a standard espresso for a balanced flavor with a medium body.
-* Consider investing in a **[ Breville Bambino Plus Espresso Machine on Amazon](https://www.amazon.com/s?k=+Breville+Bambino+Plus+Espresso+Machine&tag=vds96-20)** or a **[ Nespresso Expert on Amazon](https://www.amazon.com/s?k=+Nespresso+Expert&tag=vds96-20)** for a high-quality espresso experience.
-* Don't forget to check out the **[ Baratza Encore Conical Burr Coffee Grinder on Amazon](https://www.amazon.com/s?k=+Baratza+Encore+Conical+Burr+Coffee+Grinder&tag=vds96-20)** for a precise grind every time.
-   
+## Resumen práctico
+Algunas pautas concretas para empezar a explorar las variantes del espresso:
+* Usa una buena máquina de espresso para preparar ristretto, lungo y espresso estándar.
+* Ajusta la molienda y el prensado para conseguir el shot perfecto.
+* Experimenta con distintas proporciones y tiempos de extracción hasta dar con tu sabor ideal.
+* Usa de 1 a 1,5 gramos de café por cada gramo de espresso para un ristretto.
+* Tira hacia una proporción de 1:3 a 1:4 si buscas un lungo más diluido.
+* Elige un espresso estándar cuando quieras un sabor equilibrado y un cuerpo medio.
+
 
 
 ---
 
-*Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+*CashCafe es contenido editorial sobre café basado en pruebas reales y ciencia citada. Aviso de afiliados en el [aviso legal](/legal-notice).*
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [Coffee Grind Size Chart: From Espresso Fine to French Press](/blog/coffee-grind-size-chart-from-espresso-fine-to-french-press)
-- [Best Glass Coffee Pot for Pour Over: 5 Server Picks](/blog/best-glass-coffee-pot-for-pour-over-5-server-picks)
-- [Chemex vs V60: Which Pour Over Brewer Should You Buy?](/blog/chemex-vs-v60-which-pour-over-brewer-should-you-buy)
+- [Tabla de tamaños de molienda: del espresso fino a la prensa francesa](/blog/coffee-grind-size-chart-from-espresso-fine-to-french-press)
+- [La mejor jarra de cristal para pour over: 5 opciones de servidor](/blog/best-glass-coffee-pot-for-pour-over-5-server-picks)
+- [Chemex vs V60: ¿qué cafetera de pour over deberías comprar?](/blog/chemex-vs-v60-which-pour-over-brewer-should-you-buy)

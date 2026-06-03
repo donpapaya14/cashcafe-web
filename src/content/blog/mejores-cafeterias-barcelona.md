@@ -1,34 +1,34 @@
 ---
-title: "The best coffee shops in Barcelona: updated guide"
-description: "Nømad, Right Side and three finds that aren't in tourist guides. Barcelona tastes like real coffee."
+title: "Las mejores cafeterías de Barcelona: guía actualizada"
+description: "Nømad, Right Side y tres hallazgos que no salen en las guías turísticas. Barcelona sabe a café de verdad."
 pubDate: 2026-02-28
 category: "guides"
-tags: ["guides","coffee"]
-author: "Ana Rivero"
+tags: ["guías","café"]
+author: "Cash Café"
 readingTime: 7
 sources: []
 draft: false
 image: https://images.pexels.com/photos/1417945/pexels-photo-1417945.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-Nømad, Right Side and three finds that aren't in tourist guides. Barcelona tastes like real coffee.
+Nømad, Right Side y tres hallazgos que no salen en las guías turísticas. Barcelona sabe a café de verdad.
 
-## Coming up
+## Próximamente
 
-This guide is being expanded. We're adding measured ratios, gear we tested, and the science behind each method.
+Estamos ampliando esta guía. Vamos a añadir ratios medidos, el equipo que hemos probado y la ciencia que hay detrás de cada método.
 
-In the meantime, browse our full [coffee blog](/blog) for ready-to-read brewing guides and gear notes.
+Mientras tanto, échale un vistazo a nuestro [blog de café](/blog) completo, con guías de preparación listas para leer y notas sobre equipos.
 
-## What we'll cover
+## Lo que vamos a ver
 
-- Method or topic overview with measurable steps
-- Gear recommendations at multiple price tiers
-- Common mistakes and how to fix them
-- Tips from working baristas
+- Una visión general del método o tema con pasos medibles
+- Recomendaciones de equipo en distintas franjas de precio
+- Errores habituales y cómo solucionarlos
+- Consejos de baristas en activo
 
-> Subscribe to the [newsletter](/newsletter) to get notified when this guide is updated.
+> Suscríbete a la [newsletter](/newsletter) para que te avisemos cuando actualicemos esta guía.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [First Crack vs Second Crack in Coffee Roasting: A Beginner Guide](/blog/first-crack-vs-second-crack-in-coffee-roasting-a-beginner-guide)
-- [The best coffee shops in Valencia in 2026](/blog/mejores-cafeterias-valencia)
-- [Good decaf exists. It](/blog/descafeinado-bueno)
+- [First Crack vs Second Crack en el tueste del café: guía para principiantes](/blog/first-crack-vs-second-crack-in-coffee-roasting-a-beginner-guide)
+- [Las mejores cafeterías de Valencia en 2026](/blog/mejores-cafeterias-valencia)
+- [El descafeinado bueno existe](/blog/descafeinado-bueno)

@@ -1,34 +1,34 @@
 ---
-title: "Turkish coffee: the world's oldest brewing method"
-description: "A cezve, coffee ground to powder, and patience. Turkish coffee is UNESCO heritage and tastes like history."
+title: "Café turco: el método de preparación más antiguo del mundo"
+description: "Un cezve, café molido como polvo y paciencia. El café turco es patrimonio de la UNESCO y sabe a historia."
 pubDate: 2026-02-10
 category: "culture"
-tags: ["culture","coffee"]
-author: "Lucía Pardo"
+tags: ["cultura","café"]
+author: "Cash Café"
 readingTime: 6
 sources: []
 draft: false
 image: https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-A cezve, coffee ground to powder, and patience. Turkish coffee is UNESCO heritage and tastes like history.
+Un cezve, café molido tan fino que parece polvo y una buena dosis de paciencia. El café turco es patrimonio de la UNESCO y sabe a historia.
 
-## Coming up
+## Lo que viene
 
-This guide is being expanded. We're adding measured ratios, gear we tested, and the science behind each method.
+Estamos ampliando esta guía. Le añadiremos proporciones medidas, el equipo que hemos probado y la ciencia que hay detrás de cada método.
 
-In the meantime, browse our full [coffee blog](/blog) for ready-to-read brewing guides and gear notes.
+Mientras tanto, échale un vistazo a nuestro [blog de café](/blog), donde encontrarás guías de preparación listas para leer y notas sobre equipo.
 
-## What we'll cover
+## Qué vamos a ver
 
-- Method or topic overview with measurable steps
-- Gear recommendations at multiple price tiers
-- Common mistakes and how to fix them
-- Tips from working baristas
+- Resumen del método o tema con pasos que se pueden medir
+- Recomendaciones de equipo en distintos rangos de precio
+- Errores habituales y cómo solucionarlos
+- Consejos de baristas en activo
 
-> Subscribe to the [newsletter](/newsletter) to get notified when this guide is updated.
+> Suscríbete a la [newsletter](/newsletter) y te avisamos cuando actualicemos esta guía.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [From Ethiopia to the world: the history of coffee in 5 minutes](/blog/origen-cafe-etiopia-mundo)
-- [Why northern Europe drinks filter coffee (and the south espresso)](/blog/cafe-filtro-europa-norte)
+- [De Etiopía al mundo: la historia del café en 5 minutos](/blog/origen-cafe-etiopia-mundo)
+- [Por qué el norte de Europa toma café de filtro (y el sur, espresso)](/blog/cafe-filtro-europa-norte)
 - [La Colombe Cafe](/blog/cafeter-a-la-colombe)

@@ -1,48 +1,46 @@
 ---
-title: "Tamper, distributor and WDT: what each one does"
-description: "Three espresso tools that look alike but do very different things. We explain when to use each and which you actually need."
+title: "Tamper, distribuidor y WDT: qué hace cada uno"
+description: "Tres accesorios de espresso que se parecen pero hacen cosas muy distintas. Te explicamos cuándo usar cada uno y cuál necesitas de verdad."
 pubDate: 2026-05-04
 category: "gear"
-tags: ["gear","coffee"]
-author: "David Aguilar"
+tags: ["accesorios","café"]
+author: "Cash Café"
 readingTime: 7
 sources: []
 draft: false
 image: https://images.pexels.com/photos/1233528/pexels-photo-1233528.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-If you're starting out with espresso, it's easy to confuse the tamper, distributor, and WDT tool. All three act on the coffee in the portafilter, but at different stages and with different functions. Clarifying them saves you money and frustration.
+Si estás empezando con el espresso, es fácil confundir el tamper, el distribuidor y la herramienta WDT. Los tres actúan sobre el café en el portafiltros, pero en momentos distintos y con funciones distintas. Aclararlo te ahorra dinero y frustraciones.
 
-## WDT tool: breaking up clumps
+## Herramienta WDT: deshacer los grumos
 
-WDT stands for Weiss Distribution Technique. It's a tool with fine needles (0.3-0.4 mm) used to stir the ground coffee inside the portafilter BEFORE compacting. Its function is to break up clumps and distribute particles evenly, preventing channels where water passes too quickly.
+WDT son las siglas de Weiss Distribution Technique. Es una herramienta con agujas finas (de 0,3 a 0,4 mm) que sirve para remover el café molido dentro del portafiltros ANTES de compactarlo. Su función es deshacer los grumos y repartir las partículas de forma uniforme, evitando esos canales por donde el agua se cuela demasiado rápido.
 
-## Distributor: leveling the surface
+## Distribuidor: nivelar la superficie
 
-The distributor (or leveler) is a disc with fins that spins over the coffee in the portafilter to level the surface. It goes AFTER WDT and BEFORE the tamper. It creates a flat top layer that allows for uniform compaction. It doesn't compress the coffee — it only levels it.
+El distribuidor (o nivelador) es un disco con aspas que gira sobre el café del portafiltros para nivelar la superficie. Va DESPUÉS del WDT y ANTES del tamper. Crea una capa superior plana que permite compactar de forma uniforme. No prensa el café, solo lo nivela.
 
-## Tamper: compressing
+## Tamper: prensar
 
-The tamper is the final piece: it compresses the ground, leveled coffee into a dense, uniform disc that resists water. Without proper tamping, water finds paths of least resistance and extraction is uneven.
+El tamper es la pieza final: prensa el café molido y nivelado hasta formar un disco denso y uniforme que ofrece resistencia al agua. Sin un prensado correcto, el agua busca los caminos de menor resistencia y la extracción sale desigual.
 
-- Correct order: grind → WDT → distributor → tamper → extract.
-- If you can only have one: tamper. It's essential.
-- If you can have two: tamper + WDT. The distributor is the most dispensable.
-- Size: make sure they match your portafilter diameter (58 mm, 54 mm, 51 mm).
+- Orden correcto: moler → WDT → distribuidor → tamper → extraer.
+- Si solo puedes tener uno: el tamper. Es imprescindible.
+- Si puedes tener dos: tamper + WDT. El distribuidor es el más prescindible.
+- Tamaño: asegúrate de que coincidan con el diámetro de tu portafiltros (58 mm, 54 mm, 51 mm).
 
-> The most effective homemade WDT tool is a wine cork with acupuncture needles stuck in it. Costs €2 and works just as well as a €30 one.
-> 
-> — David Aguilar, roaster
+> La herramienta WDT casera más eficaz es un corcho de vino con agujas de acupuntura clavadas. Cuesta 2 € y funciona igual de bien que una de 30 €.
 
-## Do you need all three?
+## ¿Necesitas los tres?
 
-To start, the tamper that comes with your machine (if it's the right size) and a DIY WDT are enough. The distributor is a luxury that adds consistency but isn't essential. Invest in a good grinder first — it influences the result more than any of these three tools.
+Para empezar, basta con el tamper que viene con tu máquina (si es del tamaño correcto) y un WDT casero. El distribuidor es un lujo que aporta consistencia, pero no es esencial. Invierte antes en un buen molinillo: influye en el resultado más que cualquiera de estos tres accesorios.
 
-## Tamping mistakes
+## Errores al prensar
 
-You don't need brute force: 15-20 kg of pressure is enough. What matters is that it's level and consistent. Tamping at an angle creates one side denser than the other, and water always takes the easy path. Practice with a scale under the portafilter until you calibrate the pressure.
+No hace falta fuerza bruta: con 15-20 kg de presión es suficiente. Lo que importa es que quede nivelado y constante. Si prensas torcido, un lado queda más denso que el otro, y el agua siempre tira por el camino fácil. Practica con una báscula bajo el portafiltros hasta que calibres la presión.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [Upgrade Your V60](/blog/mejora-tu-v60-con-agua)
-- [Manual vs electric grinder: the real advantages of each](/blog/molinillo-manual-vs-electrico)
-- [Hand grinder vs electric: which to choose for your coffee](/blog/molinillo-manual-vs-el-ctrico-cu-l-elegir-seg-n-tu-caf)
+- [Mejora tu V60 con agua](/blog/mejora-tu-v60-con-agua)
+- [Molinillo manual vs eléctrico: las ventajas reales de cada uno](/blog/molinillo-manual-vs-electrico)
+- [Molinillo manual vs eléctrico: cuál elegir según tu café](/blog/molinillo-manual-vs-el-ctrico-cu-l-elegir-seg-n-tu-caf)

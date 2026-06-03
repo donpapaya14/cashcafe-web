@@ -1,10 +1,10 @@
 ---
-title: "Coffee Cupping at Home: How to Taste Like a Q Grader"
-description: "Unlock expert coffee tasting at home"
+title: "Cata de café en casa: cómo catar como un Q Grader"
+description: "Aprende a catar café como un experto sin salir de casa"
 pubDate: 2026-05-10
 category: "brewing"
-tags: ["coffee cupping at home", "how to cup coffee", "coffee tasting protocol", "sca cupping guide", "q grader certification", "specialty coffee association", "coffee quality institute"]
-author: "Vladys Z."
+tags: ["cata de café en casa", "cómo catar café", "protocolo de cata de café", "guía de cata sca", "certificación q grader", "specialty coffee association", "coffee quality institute"]
+author: "Cash Café"
 readingTime: 3
 
 sources:
@@ -17,79 +17,79 @@ draft: false
 ---
 
 
-## Introduction to Coffee Cupping at Home
-To taste like a **Q Grader**, one must understand the basics of **coffee cupping at home**. The **Specialty Coffee Association (SCA)** standard cupping ratio is **8.25g coffee per 150ml water**. This ratio is crucial in evaluating the quality of coffee, and **Q Grader certification**, managed by the **Coffee Quality Institute**, is the benchmark for coffee professionals.
+## Introducción a la cata de café en casa
+Para catar como un **Q Grader**, primero hay que entender lo básico de la **cata de café en casa**. La proporción de cata estándar de la **Specialty Coffee Association (SCA)** es de **8,25 g de café por cada 150 ml de agua**. Esta proporción es clave para evaluar la calidad del café, y la **certificación Q Grader**, gestionada por el **Coffee Quality Institute**, es la referencia para los profesionales del sector.
 
-## SCA Cupping Protocol Basics
-The SCA cupping protocol is based on the standard cupping ratio of **8.25g coffee per 150ml water**. This ratio allows for a balanced extraction of flavors and oils from the coffee beans. According to the **Specialty Coffee Association (2020)**, the SCA standard cupping protocol is designed to evaluate the quality of coffee based on its flavor, aroma, and overall impression.
+## Lo básico del protocolo de cata de la SCA
+El protocolo de cata de la SCA se apoya en esa proporción estándar de **8,25 g de café por cada 150 ml de agua**. Con ella se consigue una extracción equilibrada de los sabores y aceites del grano. Según la **Specialty Coffee Association (2020)**, el protocolo de cata estándar de la SCA está pensado para valorar la calidad del café a partir de su sabor, su aroma y su impresión general.
 
-## Equipment Needed
-To cup coffee at home, you will need the following equipment:
-* A **scale** to measure the coffee and water
-* A **grinder** to grind the coffee beans immediately before brewing
-* A **water heater** to heat the water to the ideal temperature
-As **James Hoffmann (2019)** notes, using the right equipment is essential for accurate cupping results.
+## Equipo que vas a necesitar
+Para catar café en casa necesitarás lo siguiente:
+* Una **báscula** para pesar el café y el agua
+* Un **molinillo** para moler el grano justo antes de preparar la infusión
+* Un **calentador de agua** para llevarla a la temperatura ideal
+Como apunta **James Hoffmann (2019)**, usar el equipo adecuado es fundamental para obtener resultados de cata fiables.
 
-## Step by Step Process
-Here is a step-by-step guide on how to cup coffee:
-1. Measure **8.25g of coffee** and grind it immediately before brewing.
-2. Heat **150ml of water** to the ideal temperature of **200F**.
-3. Pour the water over the coffee grounds in a circular motion.
-4. Allow the coffee to steep for **4 minutes** before breaking the crust.
-5. Evaluate the coffee based on its flavor, aroma, and overall impression.
-According to **World Coffee Research (2018)**, the crust breaking step is crucial in evaluating the coffee's flavor and aroma.
+## Paso a paso
+Esta es la guía paso a paso para catar café:
+1. Pesa **8,25 g de café** y muélelo justo antes de empezar.
+2. Calienta **150 ml de agua** hasta la temperatura ideal de **93 °C (200 °F)**.
+3. Vierte el agua sobre el café molido con un movimiento circular.
+4. Deja que el café repose **4 minutos** antes de romper la costra.
+5. Evalúa el café por su sabor, su aroma y su impresión general.
+Según **World Coffee Research (2018)**, romper la costra es un paso clave para valorar el sabor y el aroma del café.
 
-## Scoring Categories
-The SCA cupping protocol scoring categories include:
-* **Fragrance**: the aroma of the coffee before brewing
-* **Flavor**: the taste of the coffee
-* **Acidity**: the brightness and liveliness of the coffee
-* **Body**: the texture and mouthfeel of the coffee
-* **Overall**: the overall impression of the coffee
-As **Specialty Coffee Association (2020)** notes, the scoring categories are designed to evaluate the coffee's quality and flavor profile.
+## Categorías de puntuación
+Las categorías de puntuación del protocolo de cata de la SCA incluyen:
+* **Fragancia**: el aroma del café antes de prepararlo
+* **Sabor**: el gusto del café
+* **Acidez**: la viveza y el brillo del café
+* **Cuerpo**: la textura y la sensación en boca
+* **Impresión general**: la valoración global del café
+Como señala la **Specialty Coffee Association (2020)**, estas categorías sirven para evaluar la calidad y el perfil de sabor del café.
 
-## Frequently Asked Questions
-### What is the ideal water temperature for coffee cupping?
-The ideal water temperature for coffee cupping is **200F**, according to the **SCA cupping protocol**.
-### How much coffee do I need for cupping?
-You need **8.25g of coffee** for every **150ml of water**, according to the **SCA standard cupping ratio**.
-### What is the purpose of crust breaking in coffee cupping?
-Crust breaking is done to evaluate the coffee's flavor and aroma, and is typically done at **4 minutes** after pouring the water.
-### Can I use a [ Hario V60 Coffee Scale on Amazon](https://www.amazon.com/s?k=+Hario+V60+Coffee+Scale&tag=vds96-20) for coffee cupping?
-Yes, a **Hario V60 Coffee Scale** can be used to measure the coffee and water for cupping.
-### What is the difference between coffee cupping and coffee tasting?
-Coffee cupping is a formal evaluation of coffee's flavor and quality, while coffee tasting is a more informal evaluation of coffee's flavor and aroma.
-### How often should I calibrate my coffee equipment?
-You should calibrate your coffee equipment regularly, ideally every **3-6 months**, to ensure accurate results.
+## Preguntas frecuentes
+### ¿Cuál es la temperatura de agua ideal para la cata de café?
+La temperatura ideal para la cata de café es de **93 °C (200 °F)**, según el **protocolo de cata de la SCA**.
+### ¿Cuánto café necesito para catar?
+Necesitas **8,25 g de café** por cada **150 ml de agua**, según la **proporción de cata estándar de la SCA**.
+### ¿Para qué sirve romper la costra en la cata de café?
+Romper la costra permite valorar el sabor y el aroma del café, y normalmente se hace a los **4 minutos** de haber vertido el agua.
+### ¿Puedo usar una [báscula Hario V60 para café en Amazon](https://www.amazon.com/s?k=+Hario+V60+Coffee+Scale&tag=vds96-20) para catar?
+Sí, una **báscula Hario V60** sirve perfectamente para pesar el café y el agua en la cata.
+### ¿Qué diferencia hay entre catar café (cupping) y simplemente degustarlo?
+La cata (cupping) es una evaluación formal del sabor y la calidad del café, mientras que degustarlo es una valoración más informal de su sabor y su aroma.
+### ¿Cada cuánto debo calibrar mi equipo de café?
+Conviene calibrar el equipo con regularidad, idealmente cada **3-6 meses**, para asegurarte de obtener resultados precisos.
 
-## My Take
-As a trained chef and app developer who brews coffee daily, I can attest to the importance of **coffee cupping at home**. By following the **SCA cupping protocol** and using the right equipment, such as a **[ Baratza Encore Conical Burr Coffee Grinder on Amazon](https://www.amazon.com/s?k=+Baratza+Encore+Conical+Burr+Coffee+Grinder&tag=vds96-20)**, you can evaluate the quality of your coffee and improve your brewing skills.
+## Mi opinión
+Tras preparar café a diario y probar el método, puedo confirmar lo útil que es la **cata de café en casa**. Siguiendo el **protocolo de cata de la SCA** y usando el equipo adecuado, como un **[molinillo de muelas cónicas Baratza Encore en Amazon](https://www.amazon.com/s?k=+Baratza+Encore+Conical+Burr+Coffee+Grinder&tag=vds96-20)**, puedes evaluar la calidad de tu café y mejorar tu técnica de preparación.
 
 
 
-### You might also like
+### También te puede interesar
 
-- [Coffee and health: what science says in 2026](/blog/cafe-y-salud-ciencia)
-- [Water Filters for Coffee](/blog/filtros-de-agua-para-cafe)
-- [Latte art for beginners: your first heart](/blog/latte-art-principiantes)
-- [Moka pot: 5 mistakes everyone makes](/blog/moka-italiana-errores-comunes)
+- [Café y salud: qué dice la ciencia en 2026](/blog/cafe-y-salud-ciencia)
+- [Filtros de agua para café](/blog/filtros-de-agua-para-cafe)
+- [Latte art para principiantes: tu primer corazón](/blog/latte-art-principiantes)
+- [Cafetera moka: 5 errores que todo el mundo comete](/blog/moka-italiana-errores-comunes)
 
-## Practical Summary
-Here are some concrete action bullets to get you started with coffee cupping at home:
-* Invest in a **scale** and **grinder** to measure and grind your coffee beans.
-* Use **150ml of water** and heat it to **200F** for ideal extraction.
-* Evaluate your coffee based on its **flavor**, **aroma**, and **overall impression**.
-* Use a **[ Hario V60 Coffee Scale on Amazon](https://www.amazon.com/s?k=+Hario+V60+Coffee+Scale&tag=vds96-20)** to measure your coffee and water.
-* Calibrate your equipment regularly to ensure accurate results.
-* Practice cupping regularly to develop your palate and improve your brewing skills.
+## Resumen práctico
+Aquí tienes algunas acciones concretas para empezar a catar café en casa:
+* Hazte con una **báscula** y un **molinillo** para pesar y moler el grano.
+* Usa **150 ml de agua** y caliéntala a **93 °C (200 °F)** para una extracción ideal.
+* Evalúa tu café por su **sabor**, su **aroma** y su **impresión general**.
+* Apóyate en una **[báscula Hario V60 para café en Amazon](https://www.amazon.com/s?k=+Hario+V60+Coffee+Scale&tag=vds96-20)** para pesar el café y el agua.
+* Calibra tu equipo con regularidad para garantizar resultados precisos.
+* Cata de forma habitual para entrenar el paladar y mejorar tu técnica.
 
 
 ---
 
-*Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+*Contenido de **Cash Café**, contenido editorial sobre café basado en pruebas reales y ciencia citada. Aviso de afiliación en el [aviso legal](/legal-notice).*
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [Coffee Brewing for Beginners: Your First 30 Days Guide](/blog/coffee-brewing-for-beginners-your-first-30-days-guide)
-- [Coffee Grind Size Chart: From Espresso Fine to French Press](/blog/coffee-grind-size-chart-from-espresso-fine-to-french-press)
-- [Pre-Infusion in Espresso: What It Is and Why It Matters](/blog/pre-infusion-in-espresso-what-it-is-and-why-it-matters)
+- [Café para principiantes: guía de tus primeros 30 días](/blog/coffee-brewing-for-beginners-your-first-30-days-guide)
+- [Tabla de molienda del café: del espresso fino a la prensa francesa](/blog/coffee-grind-size-chart-from-espresso-fine-to-french-press)
+- [Preinfusión en espresso: qué es y por qué importa](/blog/pre-infusion-in-espresso-what-it-is-and-why-it-matters)

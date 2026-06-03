@@ -1,46 +1,42 @@
 ---
-title: "Specialty coffee shops in Lisbon: updated guide"
-description: "Lisbon has built its own coffee scene between azulejos and pastéis de nata. These are the shops you can't miss."
+title: "Cafeterías de especialidad en Lisboa: guía actualizada"
+description: "Lisboa ha construido su propia escena cafetera entre azulejos y pastéis de nata. Estas son las cafeterías que no te puedes perder."
 pubDate: 2026-04-25
 category: "guides"
-tags: ["guides","coffee"]
-author: "Lucía Pardo"
+tags: ["guías","café"]
+author: "Cash Café"
 readingTime: 7
 sources: []
 draft: false
 image: https://images.pexels.com/photos/1144176/pexels-photo-1144176.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-Portugal has a deep relationship with coffee — the bica is part of Lisbon's DNA. But in recent years, a new generation of baristas and roasters has added a specialty layer to that tradition, creating a scene that blends the best of classic Portuguese coffee with the third wave.
+Portugal tiene una relación profunda con el café: la bica forma parte del ADN de Lisboa. Pero en los últimos años, una nueva generación de baristas y tostadores ha sumado una capa de especialidad a esa tradición, creando una escena que combina lo mejor del café portugués clásico con la tercera ola.
 
-## Chiado and Baixa
+## Chiado y Baixa
 
-Downtown Lisbon mixes historic cafés with brand-new spots. In this area you can have a traditional bica and a Nordic-roast flat white on the same block.
+El centro de Lisboa mezcla cafés históricos con locales recién abiertos. En esta zona puedes tomarte una bica tradicional y un flat white de tueste nórdico en la misma manzana.
 
-- Copenhagen Coffee Lab: Lisbon's third-wave reference, with multiple locations and in-house roasting.
-- Fábrica Coffee Roasters: one of the city's first artisan roasters, right in Chiado.
-- Dear Breakfast: brunch with specialty coffee in a design-forward space.
+- Copenhagen Coffee Lab: el referente de la tercera ola en Lisboa, con varios locales y tueste propio.
+- Fábrica Coffee Roasters: uno de los primeros tostadores artesanos de la ciudad, en pleno Chiado.
+- Dear Breakfast: brunch con café de especialidad en un espacio muy cuidado en lo visual.
 
-## Príncipe Real and Santos
+## Príncipe Real y Santos
 
-The uphill neighborhoods offer terrace cafés with views. Príncipe Real is where Lisbon's most coffee-obsessed locals spend their weekends, with options ranging from filter to oat-milk espresso.
+Los barrios en cuesta ofrecen cafeterías con terraza y buenas vistas. Príncipe Real es donde los lisboetas más cafeteros pasan sus fines de semana, con opciones que van del filtrado al espresso con leche de avena.
 
-> Lisbon pulls off something rare: integrating specialty coffee without disowning the bica. Both cultures coexist at the same counter.
-> 
-> — Lucía Pardo, Q grader
+## Intendente y Mouraria
 
-## Intendente and Mouraria
+Los barrios emergentes al norte del centro son donde la escena crece más rápido. Aquí los alquileres permiten que baristas jóvenes abran locales con personalidad y cartas más atrevidas.
 
-The emerging neighborhoods north of the center are where the scene is growing fastest. Rents here let young baristas open shops with personality and adventurous menus.
+## Consejos para tu visita
 
-## Tips for your visit
+1. Empieza con una bica en un café histórico para entender el café portugués clásico.
+2. Después sube a Príncipe Real para notar el contraste con un V60 de tueste claro.
+3. Llévate café tostado localmente como recuerdo: los tostadores de Lisboa tienen granos que no encontrarás en España.
+4. Acompaña el café con un pastel de nata recién hecho. No es falta de purismo, es cultura local.
 
-1. Start with a bica at a historic café to understand classic Portuguese coffee.
-2. Then head up to Príncipe Real for the contrast with a light-roast V60.
-3. Buy locally roasted coffee as a souvenir — Lisbon roasters carry beans you won't find in Spain.
-4. Pair coffee with a fresh pastel de nata. It's not a lack of purism — it's local culture.
+## 📚 Sigue leyendo
 
-## 📚 Continue reading
-
-- [The best coffee shops in Seville in 2026](/blog/mejores-cafeterias-sevilla)
-- [Berlin Coffee Guide](/blog/caf-en-berl-n)
-- [First Crack vs Second Crack in Coffee Roasting: A Beginner Guide](/blog/first-crack-vs-second-crack-in-coffee-roasting-a-beginner-guide)
+- [Las mejores cafeterías de Sevilla en 2026](/blog/mejores-cafeterias-sevilla)
+- [Guía del café en Berlín](/blog/caf-en-berl-n)
+- [First Crack vs Second Crack en el tueste del café: guía para principiantes](/blog/first-crack-vs-second-crack-in-coffee-roasting-a-beginner-guide)

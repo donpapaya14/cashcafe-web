@@ -1,43 +1,41 @@
 ---
-title: "4 spiced coffees you can make at home"
-description: "Cardamom, cinnamon, ginger and clove: four spices that transform your coffee without industrial syrups."
+title: "4 cafés con especias que puedes preparar en casa"
+description: "Cardamomo, canela, jengibre y clavo: cuatro especias que transforman tu café sin necesidad de siropes industriales."
 pubDate: 2026-04-26
 category: "recipes"
-tags: ["recipes","coffee"]
-author: "David Aguilar"
+tags: ["recetas","café"]
+author: "Cash Café"
 readingTime: 7
 sources: []
 draft: false
 image: https://images.pexels.com/photos/1438191/pexels-photo-1438191.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-Spices and coffee have been together for centuries — long before chains invented flavored syrups. These four recipes use whole spices, freshly ground coffee, and nothing else. They're quick, cheap, and surprisingly good.
+Las especias y el café llevan siglos juntos, mucho antes de que las cadenas se inventaran los siropes de sabores. Estas cuatro recetas usan especias enteras, café recién molido y nada más. Son rápidas, baratas y sorprendentemente buenas.
 
-## 1. Cardamom coffee (Arabic style)
+## 1. Café con cardamomo (al estilo árabe)
 
-Grind 2-3 green cardamom pods with your coffee beans. Brew in an ibrik or moka pot. Cardamom adds an intense floral aroma that cuts through bitterness and leaves a mentholated aftertaste. This is the coffee served across the Middle East.
+Muele 2 o 3 vainas de cardamomo verde junto con los granos de café. Prepáralo en un ibrik o en una cafetera moka. El cardamomo aporta un aroma floral intenso que corta el amargor y deja un regusto mentolado. Es el café que se sirve por todo Oriente Medio.
 
-## 2. Cinnamon coffee
+## 2. Café con canela
 
-Add half a Ceylon cinnamon stick to the hot water while brewing filter or French press coffee. Cinnamon adds natural sweetness without sugar, with warm notes that pair well with medium roasts. Don't use ground cinnamon — it clumps and leaves residue.
+Añade media rama de canela de Ceilán al agua caliente mientras preparas el café de filtro o en prensa francesa. La canela aporta dulzor natural sin azúcar, con notas cálidas que casan muy bien con los tuestes medios. No uses canela en polvo: se apelmaza y deja residuos.
 
-## 3. Fresh ginger coffee
+## 3. Café con jengibre fresco
 
-Grate a teaspoon of fresh ginger and add it to your freshly brewed black coffee. Let it steep for 2 minutes, then strain if you prefer. Ginger gives a spicy kick that boosts metabolism and pairs surprisingly well with fruity coffees.
+Ralla una cucharadita de jengibre fresco y añádelo a tu café solo recién hecho. Deja que infusione durante 2 minutos y cuélalo después si lo prefieres. El jengibre da un toque picante que activa el metabolismo y combina sorprendentemente bien con los cafés afrutados.
 
-> Spices don't mask coffee — they contextualize it. That's the difference between a syrup and a real spice.
-> 
-> — David Aguilar, roaster
+> Las especias no enmascaran el café: lo contextualizan. Esa es la diferencia entre un sirope y una especia de verdad.
 
-## 4. Clove and orange coffee
+## 4. Café con clavo y naranja
 
-Stick 3-4 whole cloves into an orange slice and place it at the bottom of the cup before pouring espresso. The essential oils from the orange and cloves blend with the espresso crema, creating a wintry coffee that's both spiced and citrusy.
+Clava 3 o 4 clavos enteros en una rodaja de naranja y colócala en el fondo de la taza antes de verter el espresso. Los aceites esenciales de la naranja y el clavo se mezclan con la crema del espresso y crean un café invernal, especiado y cítrico a la vez.
 
-## The golden rule
+## La regla de oro
 
-Always use whole, fresh spices. Powdered spices from the back of the cupboard add nothing. And start with small amounts: it's easier to add than to take away.
+Usa siempre especias enteras y frescas. Las especias en polvo que llevan meses en el fondo del armario no aportan nada. Y empieza con cantidades pequeñas: siempre es más fácil añadir que quitar.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [Latte Art for Beginners: How to Pour a Heart and Tulip](/blog/latte-art-for-beginners-how-to-pour-a-heart-and-tulip)
-- [The V60 method the baristas we interviewed actually use](/blog/metodo-v60)
-- [Cold brew vs iced coffee: they](/blog/cold-brew-vs-cafe-frio)
+- [Latte Art para principiantes: cómo verter un corazón y un tulipán](/blog/latte-art-for-beginners-how-to-pour-a-heart-and-tulip)
+- [El método V60 que usan de verdad los baristas que entrevistamos](/blog/metodo-v60)
+- [Cold brew vs café frío: en qué se diferencian](/blog/cold-brew-vs-cafe-frio)

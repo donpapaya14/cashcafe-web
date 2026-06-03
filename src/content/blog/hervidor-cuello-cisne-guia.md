@@ -1,45 +1,41 @@
 ---
-title: "Gooseneck kettle: the tool that changes everything"
-description: "For filter coffee, the kettle matters as much as the grinder. A gooseneck gives you flow control that a regular kettle can't offer."
+title: "Hervidor de cuello de cisne: el utensilio que lo cambia todo"
+description: "Para el café de filtro, el hervidor importa tanto como el molinillo. Un cuello de cisne te da un control del caudal que un hervidor normal no puede ofrecer."
 pubDate: 2026-05-03
 category: "gear"
-tags: ["gear","coffee"]
-author: "Ana Rivero"
+tags: ["equipo","café"]
+author: "Cash Café"
 readingTime: 6
 sources: []
 draft: false
 image: https://images.pexels.com/photos/1144176/pexels-photo-1144176.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-If you brew V60, Chemex, or any pour-over coffee, a gooseneck kettle isn't a luxury: it's the tool that controls how much water falls, where it falls, and how fast. That precision translates directly into flavor.
+Si preparas café en V60, Chemex o cualquier método de vertido, un hervidor de cuello de cisne no es un lujo: es el utensilio que controla cuánta agua cae, dónde cae y a qué velocidad. Esa precisión se traduce directamente en sabor.
 
-## Why gooseneck
+## Por qué un cuello de cisne
 
-A conventional kettle pours a thick, uncontrollable stream. On a V60, that means water hits the grounds unevenly, creating channels where it flows without extracting and zones where it over-extracts. A gooseneck allows a thin, consistent, directable stream.
+Un hervidor convencional vierte un chorro grueso e incontrolable. En una V60, eso significa que el agua golpea el café de forma desigual, creando canales por donde el agua se escapa sin extraer y zonas donde sobreextrae. Un cuello de cisne permite un chorro fino, constante y dirigible.
 
-- Controllable flow: from fine drip to medium stream, you decide.
-- Precision: you can direct water in spirals, to the center, or the edges.
-- Consistency: each pour is identical to the last when you control the flow.
+- Caudal controlable: del goteo más fino al chorro medio, tú decides.
+- Precisión: puedes dirigir el agua en espiral, al centro o a los bordes.
+- Constancia: cada vertido es idéntico al anterior cuando controlas el caudal.
 
-## Electric vs stovetop
+## Eléctrico o de fogón
 
-Electric kettles with temperature control are ideal: set 93 °C and the water holds. Stovetop ones are cheaper but need a separate thermometer. To start, a basic electric gooseneck for €30-40 is enough.
+Los hervidores eléctricos con control de temperatura son ideales: pones 93 °C y el agua se mantiene. Los de fogón son más baratos, pero necesitan un termómetro aparte. Para empezar, un cuello de cisne eléctrico básico de 30-40 € es más que suficiente.
 
-> The gooseneck kettle is the accessory with the most impact on filter coffee after the grinder. It's that important.
-> 
-> — Ana Rivero, editor
+## Cómo elegirlo
 
-## How to choose
+1. Capacidad: 600-800 ml es lo ideal para casa.
+2. Control de temperatura: si puedes, elige uno con pantalla y ajuste grado a grado.
+3. Material: acero inoxidable 304 como mínimo.
+4. Ergonomía: prueba el peso con agua dentro, porque vas a sostenerlo varios minutos.
 
-1. Capacity: 600-800 ml is ideal for home use.
-2. Temperature control: if you can, choose one with a display and per-degree adjustment.
-3. Material: 304 stainless steel minimum.
-4. Ergonomics: test the weight with water — you'll hold it for several minutes.
+## Practica antes de buscar la perfección
 
-## Practice before seeking perfection
+Tus primeros vertidos con el cuello de cisne saldrán irregulares. Es normal. Practica con agua sola sobre un recipiente vacío: espirales lentas, caudal estable, muñeca relajada. En una semana notarás la diferencia en tu V60.
 
-Your first gooseneck pours will be uneven. That's normal. Practice with plain water over an empty container: slow spirals, steady flow, relaxed wrist. Within a week you'll notice the difference in your V60.
-
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
 - [Best Manual Coffee Grinder Under $100: Travel and Pour Over](/blog/best-manual-coffee-grinder-under-100-travel-and-pour-over)
 - [French Press: Worth It or Overrated?](/blog/prensa-francesa-vale-la-pena-o-es-un-mito)

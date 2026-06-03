@@ -1,48 +1,44 @@
 ---
-title: "Roasting coffee at home in a skillet: a guide for the brave"
-description: "You don't need a €500 roaster. A cast-iron skillet, green coffee, and ventilation. This is how it was done before the industry existed."
+title: "Tostar café en casa en la sartén: guía para valientes"
+description: "No necesitas un tostador de 500 €. Una sartén de hierro fundido, café verde y ventilación. Así se hacía antes de que existiera la industria."
 pubDate: 2026-04-28
 category: "recipes"
-tags: ["recipes","coffee"]
-author: "David Aguilar"
+tags: ["recetas","café"]
+author: "Cash Café"
 readingTime: 8
 sources: []
 draft: false
 image: https://images.pexels.com/photos/2074131/pexels-photo-2074131.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-Skillet roasting is the oldest and most rudimentary coffee roasting method. It won't produce professional-grade results, but it teaches you more about coffee in 15 minutes than a year of videos. And the smell it leaves in the kitchen is unbeatable.
+Tostar en la sartén es el método más antiguo y rudimentario que existe para el café. No vas a sacar resultados profesionales, pero en 15 minutos aprendes más sobre el café que con un año de vídeos. Y el olor que deja en la cocina no tiene precio.
 
-## What you need
+## Lo que necesitas
 
-- Green (unroasted) coffee: find it at roasters that sell raw beans or online. 250 g to start.
-- Cast-iron or thick steel skillet. Not nonstick — you need direct heat.
-- Long wooden spoon for constant stirring.
-- Ventilation: open windows and crank the extractor fan. There will be smoke.
-- A large colander to cool beans quickly.
+- Café verde (sin tostar): lo encuentras en tostadores que venden grano crudo o por internet. Empieza con 250 g.
+- Sartén de hierro fundido o de acero grueso. Nada de antiadherente: necesitas calor directo.
+- Cuchara de madera larga para remover sin parar.
+- Ventilación: ventanas abiertas y extractor a tope. Va a haber humo.
+- Un colador grande para enfriar el grano rápido.
 
-## The step-by-step process
+## El proceso paso a paso
 
-1. Heat the skillet on medium-high for 3 minutes.
-2. Add 100 g of green coffee in a single layer. Stir constantly.
-3. At 4-5 minutes you'll hear first crack — a sound like popcorn. The coffee hits light roast.
-4. Keep stirring. At 7-9 minutes comes second crack, more subtle. Now it's medium-dark.
-5. When you reach the desired color, dump the beans into the colander and shake in the air to cool.
-6. Let rest 12-24 hours before grinding. The coffee needs to degas.
+1. Calienta la sartén a fuego medio-alto durante 3 minutos.
+2. Echa 100 g de café verde en una sola capa. Remueve sin parar.
+3. A los 4-5 minutos oirás el primer crack, un sonido parecido a las palomitas de maíz. Ahí el café llega a tueste claro.
+4. Sigue removiendo. A los 7-9 minutos llega el segundo crack, más sutil. Ahora está en tueste medio-oscuro.
+5. Cuando alcances el color que buscas, vuelca el grano en el colador y agítalo al aire para enfriarlo.
+6. Déjalo reposar entre 12 y 24 horas antes de molerlo. El café necesita desgasificar.
 
-> Skillet roasting is like cooking by feel: imprecise but intimate. It connects you to the bean in a way no machine can.
-> 
-> — David Aguilar, roaster
+## Qué puedes esperar
 
-## What to expect
+Tu primer tueste va a salir irregular: granos oscuros junto a otros claros. Es lo normal. Con práctica mejorarás la uniformidad. El sabor será rústico, ahumado y con más cuerpo del que esperas. No va a competir con un tueste profesional, pero es honesto y es tuyo.
 
-Your first roast will be uneven: dark beans next to light ones. That's normal. With practice you'll improve uniformity. The flavor will be rustic, smoky, and fuller-bodied than you expected. It won't compete with a professional roast, but it's honest and yours.
+## Precauciones
 
-## Precautions
+El humo es real y abundante. No hagas esto sin ventilación. El grano se pone muy caliente, así que cuidado al manipularlo. Y no vas a tostar más de 100-150 g por tanda en una sartén: es un proceso artesanal pensado para lotes pequeños.
 
-The smoke is real and plentiful. Don't do this without ventilation. Beans get very hot — careful when handling them. And you won't roast more than 100-150 g per batch in a skillet: this is an artisan process for small lots.
+## 📚 Sigue leyendo
 
-## 📚 Continue reading
-
-- [4 spiced coffees you can make at home](/blog/cafe-con-especias-recetas)
-- [Moka pot: 5 mistakes everyone makes](/blog/moka-italiana-errores-comunes)
-- [Matcha latte vs coffee latte: preparation and differences](/blog/matcha-latte-vs-cafe-latte)
+- [4 cafés con especias que puedes hacer en casa](/blog/cafe-con-especias-recetas)
+- [Cafetera italiana: 5 errores que comete todo el mundo](/blog/moka-italiana-errores-comunes)
+- [Matcha latte vs café latte: preparación y diferencias](/blog/matcha-latte-vs-cafe-latte)

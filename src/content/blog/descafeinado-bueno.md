@@ -1,34 +1,34 @@
 ---
-title: "Good decaf exists. It's right here."
-description: "Three processes, three roasters and a verdict: why Swiss water decaf has changed the game."
+title: "El descafeinado bueno existe. Y está aquí."
+description: "Tres procesos, tres tostadores y un veredicto: por qué el descafeinado Swiss Water lo ha cambiado todo."
 pubDate: 2026-03-12
 category: "guides"
-tags: ["guides","coffee"]
-author: "Marcos Llovera"
+tags: ["guías","café"]
+author: "Cash Café"
 readingTime: 5
 sources: []
 draft: false
 image: https://images.pexels.com/photos/1170659/pexels-photo-1170659.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-Three processes, three roasters and a verdict: why Swiss water decaf has changed the game.
+Tres procesos, tres tostadores y un veredicto: por qué el descafeinado Swiss Water lo ha cambiado todo.
 
-## Coming up
+## Próximamente
 
-This guide is being expanded. We're adding measured ratios, gear we tested, and the science behind each method.
+Esta guía está en ampliación. Estamos añadiendo proporciones medidas, el equipo que probamos y la ciencia que hay detrás de cada método.
 
-In the meantime, browse our full [coffee blog](/blog) for ready-to-read brewing guides and gear notes.
+Mientras tanto, échale un vistazo a nuestro [blog de café](/blog) y encontrarás guías de preparación listas para leer y notas sobre cafeteras y accesorios.
 
-## What we'll cover
+## Lo que vamos a ver
 
-- Method or topic overview with measurable steps
-- Gear recommendations at multiple price tiers
-- Common mistakes and how to fix them
-- Tips from working baristas
+- Resumen del método o tema con pasos que puedes medir
+- Recomendaciones de equipo en varias franjas de precio
+- Errores habituales y cómo solucionarlos
+- Consejos de baristas en activo
 
-> Subscribe to the [newsletter](/newsletter) to get notified when this guide is updated.
+> Suscríbete a la [newsletter](/newsletter) y te avisamos cuando actualicemos esta guía.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
 - [Colombia](/blog/viaje-cafetero-colombia)
-- [The best coffee shops in Valencia in 2026](/blog/mejores-cafeterias-valencia)
-- [The best coffee shops in Seville in 2026](/blog/mejores-cafeterias-sevilla)
+- [Las mejores cafeterías de Valencia en 2026](/blog/mejores-cafeterias-valencia)
+- [Las mejores cafeterías de Sevilla en 2026](/blog/mejores-cafeterias-sevilla)

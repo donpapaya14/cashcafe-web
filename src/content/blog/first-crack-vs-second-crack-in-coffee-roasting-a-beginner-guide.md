@@ -1,10 +1,10 @@
 ---
-title: "First Crack vs Second Crack in Coffee Roasting: A Beginner Guide"
-description: "Unlock the secrets of coffee roasting: what happens at first and second crack?"
+title: "Primer crack vs segundo crack en el tueste del café: guía para principiantes"
+description: "Descubre qué pasa de verdad en el primer y el segundo crack al tostar café y cómo influye en el resultado de la taza."
 pubDate: 2026-05-20
 category: "guides"
-tags: ["first crack vs second crack", "coffee roast cracks", "first crack temperature", "second crack roasting", "coffee roasting", "home coffee roaster", "coffee beans", "roast levels"]
-author: "Vladys Z."
+tags: ["primer crack vs segundo crack", "cracks del tueste", "temperatura primer crack", "tueste segundo crack", "tueste de café", "tostadora de café casera", "granos de café", "niveles de tueste"]
+author: "Cash Café"
 readingTime: 3
 
 sources:
@@ -16,78 +16,77 @@ draft: false
 ---
 
 
-## Introduction to Coffee Roasting
-When it comes to **first crack vs second crack** in coffee roasting, understanding the process is key. Coffee roasting involves **chemical and physical changes**, including water vapor release and cell wall breakdown, as noted by the [Specialty Coffee Association (2020)](https://sca.coffee/). 
+## Introducción al tueste del café
+Cuando hablamos de **primer crack vs segundo crack** en el tueste del café, entender el proceso lo es todo. Al tostar, el grano pasa por una serie de **cambios químicos y físicos**: libera vapor de agua y se rompen las paredes celulares, tal y como recoge la [Specialty Coffee Association (2020)](https://sca.coffee/).
 
-## What happens during roasting
-During roasting, coffee beans undergo significant transformations. The **water vapor release** and **cell wall breakdown** are critical stages that determine the final flavor and aroma of the coffee. According to the Specialty Coffee Association (2020), these changes occur due to the application of heat.
+## Qué ocurre durante el tueste
+Durante el tueste, los granos de café sufren transformaciones importantes. La **liberación de vapor de agua** y la **rotura de las paredes celulares** son las etapas clave que definen el sabor y el aroma final del café. Según la Specialty Coffee Association (2020), estos cambios se producen por la aplicación de calor.
 
-## First crack stage
-The **first crack** stage occurs around **196°C** as water vapor escapes, marking a significant point in the roasting process. As George Howell, founder of George Howell Coffee (2019), suggests, light roasts are often pulled at the onset of the first crack to allow for development. This stage is crucial for achieving the desired flavor profile.
+## La etapa del primer crack
+El **primer crack** ocurre en torno a los **196 °C**, cuando el vapor de agua escapa del grano y marca un punto importante del proceso. Como apunta George Howell, fundador de George Howell Coffee (2019), los tuestes claros suelen sacarse justo al inicio del primer crack para dejar margen al desarrollo. Esta fase es decisiva para conseguir el perfil de sabor que buscas.
 
-## Second crack stage
-The **second crack** stage, occurring at approximately **225-230°C**, is characterized by the breakdown of cell walls, as explained by James Hoffmann, World Barista Champion (2018). Vienna and French roasts are typically pulled into or after the second crack, resulting in a darker, more intense flavor.
+## La etapa del segundo crack
+El **segundo crack** llega aproximadamente a los **225-230 °C** y se caracteriza por la rotura de las paredes celulares, como explica James Hoffmann en su obra de 2018. Los tuestes Viena y francés se suelen sacar dentro o después del segundo crack, lo que da un café más oscuro y de sabor más intenso.
 
-## Stopping between cracks
-For a balanced flavor, roasting can be stopped between the first and second crack, resulting in a **City roast**. As Counter Culture Coffee (2022) notes, this method allows for the development of a nuanced flavor profile. The key is to carefully monitor the roasting process to achieve the desired level of roast.
+## Parar entre cracks
+Para un sabor equilibrado, puedes detener el tueste entre el primer y el segundo crack: así obtienes un tueste **City**. Como señala Counter Culture Coffee (2022), este método permite desarrollar un perfil de sabor con matices. La clave está en vigilar el proceso con cuidado para llegar al punto de tueste deseado.
 
-## Comparison of Roast Levels
-| Roast Level | Temperature Range | Flavor Profile |
+## Comparativa de niveles de tueste
+| Nivel de tueste | Rango de temperatura | Perfil de sabor |
 | --- | --- | --- |
-| Light Roast | 196°C - 205°C | Bright, acidic |
-| City Roast | 205°C - 215°C | Balanced, nuanced |
-| Vienna Roast | 215°C - 225°C | Smoky, intense |
-| French Roast | 225°C - 230°C | Dark, bold |
+| Tueste claro | 196 °C - 205 °C | Brillante, ácido |
+| Tueste City | 205 °C - 215 °C | Equilibrado, con matices |
+| Tueste Viena | 215 °C - 225 °C | Ahumado, intenso |
+| Tueste francés | 225 °C - 230 °C | Oscuro, potente |
 
-## Practical Roasting Steps
-1. Preheat the roaster to **400°F (200°C)**.
-2. Add **250g** of green coffee beans to the roaster.
-3. Monitor the temperature and adjust the roasting time to achieve the desired roast level.
-4. Cool the beans immediately after roasting to stop the process.
+## Pasos prácticos para tostar
+1. Precalienta la tostadora a **200 °C (400 °F)**.
+2. Añade **250 g** de café verde a la tostadora.
+3. Controla la temperatura y ajusta el tiempo de tueste hasta alcanzar el nivel que buscas.
+4. Enfría los granos justo al terminar para detener el proceso.
 
-## Frequently Asked Questions
-### What is the ideal temperature for first crack?
-The ideal temperature for first crack is around **196°C**. 
-### What is the difference between first and second crack?
-The first crack occurs due to water vapor release, while the second crack is caused by cell wall breakdown.
-### How do I achieve a balanced flavor?
-To achieve a balanced flavor, stop the roasting process between the first and second crack.
-### What is the recommended roast level for espresso?
-The recommended roast level for espresso is a **City roast** or **Vienna roast**.
-### Can I use a home coffee roaster?
-Yes, you can use a home coffee roaster like the [Gene Cafe CBR-101 Home Coffee Roaster](https://www.amazon.com/Gene-Cafe-CBR-101-Home-Coffee-Roaster?tag=vds96-20) to achieve professional-grade roasts.
-### What are the benefits of using a coffee roaster with a temperature control?
-Using a coffee roaster with temperature control, such as the [Behmor 1600 Plus Coffee Roaster](https://www.amazon.com/Behmor-1600-Plus-Coffee-Roaster?tag=vds96-20), allows for precise control over the roasting process.
+## Preguntas frecuentes
+### ¿Cuál es la temperatura ideal del primer crack?
+La temperatura ideal del primer crack ronda los **196 °C**.
+### ¿Qué diferencia hay entre el primer y el segundo crack?
+El primer crack se debe a la liberación de vapor de agua, mientras que el segundo lo provoca la rotura de las paredes celulares.
+### ¿Cómo consigo un sabor equilibrado?
+Para lograr un sabor equilibrado, detén el tueste entre el primer y el segundo crack.
+### ¿Qué nivel de tueste se recomienda para espresso?
+Para espresso suele recomendarse un tueste **City** o **Viena**.
+### ¿Puedo usar una tostadora de café casera?
+Sí. Con una tostadora doméstica puedes tostar tu propio café en casa y experimentar con distintos niveles de tueste sin necesidad de equipo profesional.
+### ¿Qué aporta una tostadora con control de temperatura?
+Una tostadora con control de temperatura te da un dominio mucho más preciso del proceso, lo que facilita repetir tuestes y afinar el perfil de sabor.
 
-## My Take
-As an app developer and trained chef who brews coffee daily, I can attest to the importance of understanding the roasting process. My personal experience with the Gene Cafe CBR-101 Home Coffee Roaster has allowed me to experiment with different roast levels and flavor profiles. I find that the key to achieving a great cup of coffee is to carefully monitor the roasting process and adjust the temperature and time accordingly.
+## Mi recomendación
+La clave para una buena taza está en entender el proceso de tueste y no perderlo de vista. Vigilar la temperatura y ajustar el tiempo en cada fase marca toda la diferencia entre un café plano y uno con carácter. Si estás empezando, ve probando con tandas pequeñas y anota lo que haces: así sabrás a qué temperatura sale tu tueste favorito.
 
-## My Favorite Roasting Method
-I prefer to roast my coffee beans to a City roast level, as it provides a balanced flavor profile that is perfect for everyday drinking. I use the [ Gene Cafe CBR-101 Home Coffee Roaster on Amazon](https://www.amazon.com/s?k=+Gene+Cafe+CBR-101+Home+Coffee+Roaster&tag=vds96-20) to achieve this level of roast, and I highly recommend it to anyone looking to start roasting their own coffee at home.
+## Mi método de tueste favorito
+Para el día a día, el tueste **City** es difícil de superar: ofrece un perfil equilibrado, con matices, que va bien tanto en filtro como en cafetera. Es un buen punto de partida si quieres empezar a tostar en casa, porque deja ver el carácter del grano sin pasarte de oscuro.
 
 
 
-### You might also like
+### También te puede interesar
 
 - [Coffee Brewing for Beginners: Your First 30 Days Guide](/blog/coffee-brewing-for-beginners-your-first-30-days-guide)
 - [Cold brew vs iced coffee: they're not the same thing](/blog/cold-brew-vs-cafe-frio)
 - [The best coffee shops in Valencia in 2026](/blog/mejores-cafeterias-valencia)
 - [How to read a coffee label (and stop buying garbage)](/blog/como-leer-etiqueta-cafe)
 
-## Practical Summary
-* Monitor the temperature during roasting to achieve the desired roast level.
-* Stop the roasting process between the first and second crack for a balanced flavor.
-* Use a home coffee roaster like the Gene Cafe CBR-101 to achieve professional-grade roasts.
-* Experiment with different roast levels to find your preferred flavor profile.
-* Invest in a coffee roaster with temperature control for precise control over the roasting process.
-* Store coffee beans in an airtight container to preserve freshness.
+## Resumen práctico
+* Vigila la temperatura durante el tueste para alcanzar el nivel que buscas.
+* Detén el proceso entre el primer y el segundo crack para un sabor equilibrado.
+* Experimenta con distintos niveles de tueste hasta dar con tu perfil favorito.
+* Si usas tostadora con control de temperatura, aprovecha ese control para afinar el proceso.
+* Guarda los granos en un recipiente hermético para conservar su frescura.
 
 
 ---
 
-*Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+*Escrito por **Cash Café**. CashCafe es contenido editorial sobre café basado en pruebas reales y ciencia citada. Aviso de afiliados en el [aviso legal](/legal-notice).*
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
 - [French press: the complete step-by-step guide](/blog/french-press-guia-completa)
 - [The best coffee shops in Valencia in 2026](/blog/mejores-cafeterias-valencia)

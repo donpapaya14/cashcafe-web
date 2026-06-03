@@ -1,10 +1,10 @@
 ---
-title: "Coffee Grind Size Chart: From Espresso Fine to French Press"
-description: "Unlock perfect brews with our coffee grind size chart guide"
+title: "Tabla de molienda del café: del espresso fino a la prensa francesa"
+description: "Descubre la molienda ideal para cada método con nuestra tabla de tamaños de molido"
 pubDate: 2026-05-10
 category: "brewing"
-tags: ["coffee grind size chart", "coffee grind sizes", "grind size by method", "grind size guide", "espresso", "drip", "pour-over", "French press"]
-author: "Vladys Z."
+tags: ["tabla de molienda del café", "tamaños de molido", "molienda por método", "guía de molido", "espresso", "café de goteo", "pour-over", "prensa francesa"]
+author: "Cash Café"
 readingTime: 4
 
 sources:
@@ -16,81 +16,77 @@ sources:
 draft: false
 ---
 
-## Introduction to Coffee Grind Size Chart
-The **coffee grind size chart** is a crucial tool for coffee enthusiasts, as it helps determine the optimal grind size for various brewing methods. According to the Specialty Coffee Association (2020), grind size is essential for achieving optimal extraction, flavor, and aroma. In this article, we will delve into the world of coffee grind sizes, exploring the different grind sizes required for various brewing methods, including espresso, drip, pour-over, French press, and cold brew.
+## Qué es la tabla de molienda del café
+La **tabla de molienda del café** es una herramienta muy útil para cualquier amante del café, porque te ayuda a dar con el tamaño de molido ideal según el método con el que prepares la taza. Como recuerda la Specialty Coffee Association (2020), el tamaño de molido es clave para conseguir una buena extracción, sacar todo el sabor y aprovechar el aroma. En este artículo nos metemos de lleno en el mundo de la molienda y repasamos qué grosor necesita cada método: espresso, goteo, pour-over, prensa francesa y cold brew.
 
-## Why Grind Size Matters
-Grind size affects the extraction of coffee, with **finer grinds** resulting in a more pronounced flavor and **coarser grinds** leading to a smoother taste. The Specialty Coffee Association (2020) recommends a grind size of 250-300 microns for espresso. For drip and pour-over methods, a medium grind size of 600-800 microns is ideal, as stated in the SCA Brewing Handbook (2018).
+## Por qué importa el tamaño de molido
+El grosor del molido afecta directamente a la extracción: los **moliendas finas** dan tazas con un sabor más intenso, mientras que las **moliendas gruesas** tienden a un resultado más suave. La Specialty Coffee Association (2020) recomienda un molido de entre 250 y 300 micras para espresso. Para goteo y pour-over, lo ideal es un molido medio de entre 600 y 800 micras, tal y como indica el SCA Brewing Handbook (2018).
 
-## Espresso Fine Grind
-For espresso, a fine grind size of approximately **250 microns** is recommended. James Hoffmann, World Barista Champion (2019), suggests using a burr grinder to achieve a consistent particle size distribution. The Baratza Encore Conical Burr Coffee Grinder is a popular choice among coffee enthusiasts, offering precise grind control and a compact design.
+## Molido fino para espresso
+Para el espresso se recomienda un molido fino de unas **250 micras**. James Hoffmann, campeón mundial de baristas (2019), aconseja usar un molinillo de muelas (burr) para conseguir una distribución de partículas uniforme. Un molinillo de muelas, frente a uno de cuchillas, marca la diferencia justo aquí: la regularidad del molido.
 
-### Grinder Settings for Espresso
-To achieve the perfect espresso grind, follow these steps:
-1. Set the grinder to a fine setting (around 250 microns).
-2. Adjust the grind distribution to ensure an even flow of coffee.
-3. Use a scale to measure the exact amount of coffee (approximately 14-17 grams).
+### Ajustes del molinillo para espresso
+Para clavar el molido del espresso, sigue estos pasos:
+1. Ajusta el molinillo a un grosor fino (alrededor de 250 micras).
+2. Comprueba que el café cae de forma homogénea, sin grumos ni cortes.
+3. Pesa la dosis exacta con una báscula (unos 14-17 gramos).
 
-## Drip and Pour Over Medium
-For drip and pour-over methods, a medium grind size of **600-800 microns** is ideal. The SCA Brewing Handbook (2018) recommends using a burr grinder to achieve a consistent grind size. Factors affecting grind size include coffee bean origin, roast level, and brewing method.
+## Molido medio para goteo y pour-over
+Para los métodos de goteo y pour-over, lo ideal es un molido medio de **600-800 micras**. El SCA Brewing Handbook (2018) recomienda usar un molinillo de muelas para mantener un grosor constante. Ten en cuenta que factores como el origen del grano, el nivel de tueste y el propio método de preparación también influyen en el molido que necesitas.
 
-### Comparison of Drip and Pour-Over Grind Sizes
-| Brewing Method | Grind Size (microns) |
+### Comparativa de molido: goteo y pour-over
+| Método | Tamaño de molido (micras) |
 | --- | --- |
-| Drip | 600-800 |
-| Pour-Over | 600-800 |
+| Goteo | 600-800 |
+| Pour-over | 600-800 |
 
-## French Press and Cold Brew Coarse
-For French press and cold brew, a coarse grind size of **800-1000 microns** or more is recommended. A peer-reviewed study on coffee extraction (2022) found that coarser grinds result in a smoother flavor and reduced bitterness. The [Baratza Encore Conical Burr Coffee Grinder on Amazon](https://www.amazon.com/s?k=Baratza+Encore+Conical+Burr+Coffee+Grinder&tag=vds96-20) and [KitchenAid Burr Coffee Grinder on Amazon](https://www.amazon.com/s?k=KitchenAid+Burr+Coffee+Grinder&tag=vds96-20) are excellent choices for achieving the perfect grind size.
+## Molido grueso para prensa francesa y cold brew
+Para la prensa francesa y el cold brew se recomienda un molido grueso de **800-1000 micras** o más. Un estudio revisado por pares sobre la extracción del café (2022) concluyó que las moliendas más gruesas dan un sabor más suave y reducen el amargor. La clave en estos métodos es que el café está mucho tiempo en contacto con el agua, así que conviene un grano más grueso para no sobreextraer.
 
-### Grind Size Requirements for French Press and Cold Brew
-1. French press: 800-1000 microns.
-2. Cold brew: 1000+ microns.
+### Molido recomendado para prensa francesa y cold brew
+1. Prensa francesa: 800-1000 micras.
+2. Cold brew: más de 1000 micras.
 
-## Frequently Asked Questions
-### What is the ideal grind size for espresso?
-The ideal grind size for espresso is approximately **250 microns**. According to James Hoffmann, World Barista Champion (2019), a fine grind size is essential for achieving optimal extraction and flavor.
-### How do I adjust the grind size on my burr grinder?
-To adjust the grind size on your burr grinder, refer to the manufacturer's instructions. Typically, you will need to turn the grind adjustment dial to the desired setting.
-### What is the difference between a burr grinder and a blade grinder?
-A burr grinder produces a consistent grind size, while a blade grinder can produce uneven particles, leading to inconsistent flavor.
-### Can I use a blade grinder for espresso?
-It is not recommended to use a blade grinder for espresso, as it can produce uneven particles and lead to poor extraction.
-### How often should I clean my burr grinder?
-It is recommended to clean your burr grinder every 1-2 weeks, depending on usage, to prevent oil buildup and maintain optimal performance.
-### What is the best coffee grinder for home use?
-The [Baratza Encore Conical Burr Coffee Grinder on Amazon](https://www.amazon.com/s?k=Baratza+Encore+Conical+Burr+Coffee+Grinder&tag=vds96-20) is a popular and highly-rated coffee grinder for home use, offering precise grind control and a compact design.
+## Preguntas frecuentes
+### ¿Cuál es el molido ideal para espresso?
+El molido ideal para espresso ronda las **250 micras**. Según James Hoffmann, campeón mundial de baristas (2019), un molido fino es fundamental para lograr una buena extracción y sacar todo el sabor.
+### ¿Cómo ajusto el molido en mi molinillo de muelas?
+Para ajustar el molido en un molinillo de muelas, revisa las instrucciones del fabricante. Por lo general, basta con girar el selector de molienda hasta el punto que necesites.
+### ¿Qué diferencia hay entre un molinillo de muelas y uno de cuchillas?
+Un molinillo de muelas produce un molido uniforme, mientras que el de cuchillas genera partículas desiguales, lo que se traduce en un sabor irregular.
+### ¿Puedo usar un molinillo de cuchillas para espresso?
+No es recomendable usar un molinillo de cuchillas para espresso, porque produce partículas desiguales y termina dando una extracción pobre.
+### ¿Cada cuánto debo limpiar mi molinillo de muelas?
+Lo recomendable es limpiar el molinillo de muelas cada 1-2 semanas, según el uso, para evitar la acumulación de grasas del café y mantenerlo a punto.
+### ¿Cuál es el mejor molinillo para casa?
+Un molinillo de muelas con buen control de molienda es la mejor opción para casa: te da un grosor regular y ocupa poco. Prioriza siempre las muelas frente a las cuchillas.
 
-## My Take
-As a trained chef and app developer who brews coffee daily, I can attest to the importance of grind size in achieving the perfect cup. I recall a particularly memorable experience where I experimented with different grind sizes for my pour-over, resulting in a flavor profile that was both nuanced and balanced. The [Chemex Pour-Over Glass Container on Amazon](https://www.amazon.com/s?k=Chemex+Pour-Over+Glass+Container&tag=vds96-20) is an excellent choice for pour-over brewing, offering a clean and sleek design.
+## Mi opinión
+Después de preparar café a diario durante años, puedo confirmar lo mucho que pesa el tamaño de molido a la hora de conseguir una buena taza. Recuerdo una vez que estuve probando distintos grosores para el pour-over hasta dar con un perfil de sabor equilibrado y lleno de matices: ese pequeño ajuste lo cambia todo. Un buen molinillo de muelas, con un grosor constante para espresso y pour-over, se acaba convirtiendo en la herramienta más importante de tu rutina cafetera.
 
-In my daily routine, I rely on the [Baratza Encore Conical Burr Coffee Grinder on Amazon](https://www.amazon.com/s?k=Baratza+Encore+Conical+Burr+Coffee+Grinder&tag=vds96-20) to produce a consistent grind size for my espresso and pour-over brewing. I appreciate the grinder's compact design and ease of use, making it an essential tool in my coffee-making arsenal.
-
-
-
-### You might also like
+### También te puede interesar
 
 - [Best Glass Coffee Pot for Pour Over: 5 Server Picks](/blog/best-glass-coffee-pot-for-pour-over-5-server-picks)
-- [Hand grinder vs electric: which to choose for your coffee](/blog/molinillo-manual-vs-el-ctrico-cu-l-elegir-seg-n-tu-caf)
-- [Ethiopian Coffee History](/blog/historia-del-cafe-en-etiopia)
-- [Turkish coffee: the world's oldest brewing method](/blog/cafe-turco-metodo-ancestral)
+- [Molinillo manual vs eléctrico: cuál elegir según tu café](/blog/molinillo-manual-vs-el-ctrico-cu-l-elegir-seg-n-tu-caf)
+- [Historia del café en Etiopía](/blog/historia-del-cafe-en-etiopia)
+- [Café turco: el método de preparación más antiguo del mundo](/blog/cafe-turco-metodo-ancestral)
 
-## Practical Summary
-To achieve the perfect cup of coffee, follow these concrete action bullets:
-* Use a burr grinder to produce a consistent grind size.
-* Adjust the grind size according to the brewing method (espresso, drip, pour-over, French press, or cold brew).
-* Measure the exact amount of coffee using a scale (approximately 14-17 grams for espresso).
-* Clean your burr grinder every 1-2 weeks to maintain optimal performance.
-* Experiment with different grind sizes to find the perfect flavor profile for your brewing method.
-* Invest in a high-quality coffee grinder, such as the [Baratza Encore Conical Burr Coffee Grinder on Amazon](https://www.amazon.com/s?k=Baratza+Encore+Conical+Burr+Coffee+Grinder&tag=vds96-20) or [KitchenAid Burr Coffee Grinder on Amazon](https://www.amazon.com/s?k=KitchenAid+Burr+Coffee+Grinder&tag=vds96-20).
-* Refer to the Specialty Coffee Association (2020) guidelines for optimal extraction and flavor.
+## Resumen práctico
+Para conseguir una taza perfecta, ten a mano estas acciones concretas:
+* Usa un molinillo de muelas para lograr un molido uniforme.
+* Ajusta el grosor según el método (espresso, goteo, pour-over, prensa francesa o cold brew).
+* Pesa la dosis exacta con una báscula (unos 14-17 gramos para espresso).
+* Limpia el molinillo de muelas cada 1-2 semanas para mantenerlo a punto.
+* Experimenta con distintos grosores hasta dar con el perfil de sabor que más te guste.
+* Apuesta por un molinillo de calidad con muelas en lugar de cuchillas.
+* Consulta las recomendaciones de la Specialty Coffee Association (2020) para optimizar la extracción y el sabor.
 
 
 ---
 
-*Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+*Cash Café es contenido editorial sobre café basado en pruebas reales y ciencia citada. Aviso de afiliados en el [aviso legal](/legal-notice).*
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
 - [Best Glass Coffee Pot for Pour Over: 5 Server Picks](/blog/best-glass-coffee-pot-for-pour-over-5-server-picks)
 - [Chemex vs V60: Which Pour Over Brewer Should You Buy?](/blog/chemex-vs-v60-which-pour-over-brewer-should-you-buy)

@@ -1,10 +1,5 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-
-const PHONE = '{{ PHONE_HERE }}';
-const WA_NUMBER = '{{ WHATSAPP_HERE }}';
-const WA_MSG = encodeURIComponent('Hola, vengo de la web de Cash Cafe.');
-const waLink = `https://wa.me/${WA_NUMBER}?text=${WA_MSG}`;
 ---
 
 <BaseLayout
@@ -30,7 +25,7 @@ const waLink = `https://wa.me/${WA_NUMBER}?text=${WA_MSG}`;
       </p>
 
       <p>
-        Con <strong>4,7 en Google Maps</strong> somos la cafetería mejor valorada de Beniel.
+        Tenemos un <strong>4,7 en Google Maps</strong> con 86 reseñas.
         Pero lo que más nos importa no es la puntuación — es la cara que pones con el primer sorbo.
       </p>
 
@@ -55,9 +50,7 @@ const waLink = `https://wa.me/${WA_NUMBER}?text=${WA_MSG}`;
         Lun–Vie 06:45–15:00 · Sáb 06:45–14:00 · Dom cerrado
       </p>
       <p>
-        <a href={waLink} target="_blank" rel="noopener">WhatsApp</a> ·
-        <a href={`tel:${PHONE}`}>Llamar</a> ·
-        <a href="https://maps.google.com/?cid=cash+cafe+beniel" target="_blank" rel="noopener">Cómo llegar</a>
+        <a href="https://www.google.com/maps?q=Avenida+del+Reino+16+Beniel+Murcia" target="_blank" rel="noopener">Cómo llegar</a>
       </p>
       <p>
         <a href="https://www.youtube.com/@cashcafe4636" target="_blank" rel="noopener">YouTube</a>

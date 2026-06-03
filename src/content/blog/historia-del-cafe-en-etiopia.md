@@ -1,45 +1,45 @@
 ---
-title: "Ethiopian Coffee History"
-description: "Ethiopia: Where coffee began. From Kaldi's legendary discovery to UNESCO-recognized ceremonies, explore how a single bean conquered the world."
+title: "Historia del café en Etiopía"
+description: "Etiopía: donde empezó todo. Del legendario descubrimiento de Kaldi a las ceremonias reconocidas por la UNESCO, descubre cómo un simple grano conquistó el mundo."
 pubDate: 2026-05-07
 category: "culture"
-tags: ["culture","coffee"]
-author: "David Aguilar"
+tags: ["cultura","café"]
+author: "Cash Café"
 readingTime: 3
 sources: []
 draft: false
 image: https://images.pexels.com/photos/1417945/pexels-photo-1417945.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-Ethiopia isn't just the birthplace of humanity—it's also where coffee was born. From ancient legends to modern specialty brews, this East African nation has shaped global coffee culture. Let's explore how a humble bean discovered in the highlands became a worldwide phenomenon.
+Etiopía no es solo la cuna de la humanidad: también es el lugar donde nació el café. Desde leyendas antiguas hasta los cafés de especialidad de hoy, este país de África oriental ha moldeado la cultura cafetera mundial. Veamos cómo un humilde grano descubierto en las tierras altas acabó convirtiéndose en un fenómeno global.
 
-## The Birthplace of Coffee
+## La cuna del café
 
-The most famous origin story features Kaldi, a 9th-century goat herder from Kaffa. Legend says his goats became unusually energetic after eating red berries. Local monks then brewed the first coffee to aid nighttime prayers. Research from Addis Ababa University (2018) confirms wild arabica coffee grew in Ethiopia as early as 850 AD.
+La historia de origen más conocida tiene como protagonista a Kaldi, un pastor de cabras del siglo IX en la región de Kaffa. Cuenta la leyenda que sus cabras se mostraban inusualmente enérgicas tras comer unas bayas rojas. Los monjes locales prepararon entonces el primer café para mantenerse despiertos durante las oraciones nocturnas. Investigaciones de la Universidad de Adís Abeba (2018) confirman que el café arábica silvestre ya crecía en Etiopía hacia el año 850 d. C.
 
-## Coffee's Global Spread
+## La expansión del café por el mundo
 
-From Yemen's port of Mocha in the 15th century, Ethiopian coffee reached the Middle East and Europe. Venetian merchants introduced it to Italy by 1615 (French National Library records). By 1700, trade routes connected Ethiopia to coffee-growing regions worldwide.
+Desde el puerto yemení de Moca, en el siglo XV, el café etíope llegó a Oriente Medio y a Europa. Los mercaderes venecianos lo introdujeron en Italia hacia 1615 (según registros de la Biblioteca Nacional de Francia). Hacia 1700, las rutas comerciales ya conectaban Etiopía con regiones cafeteras de todo el mundo.
 
-## Ethiopia's Coffee Varietals
+## Las variedades de café de Etiopía
 
-- Yirgacheffe: Floral and citrusy, grown at 6,500 ft (origin-certified since 1971)
-- Sidama: Balanced body with berry notes, protected by GI status
-- Harrar: Natural process with intense blueberry and spice aromas
+- Yirgacheffe: floral y cítrico, cultivado a unos 2.000 metros de altitud (con denominación de origen desde 1971)
+- Sidama: cuerpo equilibrado con notas a frutos rojos, protegido por indicación geográfica
+- Harrar: procesado natural, con aromas intensos a arándano y especias
 
-## Coffee Ceremony Culture
+## La cultura de la ceremonia del café
 
-The 'Bunna Tetu' ceremony is a 2-hour social ritual. UNESCO notes 80% of Ethiopians participate in this practice featuring three servings ('Abol', 'Tona', 'Baraka'). Freshly roasted beans are prepared in a 'jebena' clay pot and served with popcorn or bread.
+La ceremonia del 'Bunna Tetu' es un ritual social que puede durar unas dos horas. La UNESCO señala que el 80 % de los etíopes participa en esta práctica, que incluye tres rondas de servicio ('Abol', 'Tona' y 'Baraka'). Los granos se tuestan al momento, se preparan en una vasija de barro llamada 'jebena' y se sirven acompañados de palomitas o pan.
 
-## Modern Challenges
+## Los retos actuales
 
-Despite being the world's 5th largest producer (ICO, 2023), climate change has reduced viable growing areas by 30% since 2000 (Columbia University study). Initiatives like the Jimma Gene Bank preserve 6,000 genetic varieties for future resilience.
+Pese a ser el quinto mayor productor del mundo (OIC, 2023), el cambio climático ha reducido las zonas aptas para el cultivo en un 30 % desde el año 2000 (según un estudio de la Universidad de Columbia). Iniciativas como el Banco de Genes de Jimma conservan 6.000 variedades genéticas para garantizar la resiliencia del cultivo en el futuro.
 
-## Legacy in Your Cup
+## El legado en tu taza
 
-Your daily brew carries the DNA of Ethiopia's highlands. To honor this heritage, seek fair-trade single-origin beans and try traditional brewing methods. Every sip connects you to coffee's extraordinary journey.
+Tu café de cada día lleva en sí el ADN de las tierras altas de Etiopía. Para honrar esta herencia, busca granos de origen único y comercio justo, y anímate a probar métodos de preparación tradicionales. Cada sorbo te conecta con el extraordinario viaje del café.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [Fair Trade, Rainforest, UTZ: what coffee certifications actually mean](/blog/certificaciones-cafe-explicadas)
-- [Turkish coffee: the world](/blog/cafe-turco-metodo-ancestral)
-- [Kissaten: the Japanese coffeehouses that inspire the third wave](/blog/cafe-japones-kissaten)
+- [Comercio justo, Rainforest, UTZ: qué significan realmente las certificaciones del café](/blog/certificaciones-cafe-explicadas)
+- [Café turco: el método ancestral](/blog/cafe-turco-metodo-ancestral)
+- [Kissaten: las cafeterías japonesas que inspiran la tercera ola](/blog/cafe-japones-kissaten)

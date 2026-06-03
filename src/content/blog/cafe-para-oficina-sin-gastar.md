@@ -1,43 +1,41 @@
 ---
-title: "Set up a coffee corner at the office for under €100"
-description: "Real coffee at the office without pod machines or absurd budgets. Just the essentials and a bit of common sense."
+title: "Monta un rincón de café en la oficina por menos de 100 €"
+description: "Café de verdad en la oficina, sin cápsulas ni presupuestos absurdos. Solo lo imprescindible y un poco de sentido común."
 pubDate: 2026-04-22
 category: "guides"
-tags: ["guides","coffee"]
-author: "David Aguilar"
+tags: ["guías","café"]
+author: "Cash Café"
 readingTime: 6
 sources: []
 draft: false
 image: https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-Your office pod machine makes mediocre coffee and generates kilos of waste. For under €100 you can set up a corner that brews better coffee, costs less per cup, and leaves a better aftertaste — in every sense.
+La cafetera de cápsulas de tu oficina hace un café mediocre y genera kilos de residuos. Por menos de 100 € puedes montar un rincón que prepara mejor café, cuesta menos por taza y deja mejor sabor de boca, en todos los sentidos.
 
-## The minimum gear
+## El equipo mínimo
 
-- 1-liter French press: €15-25. Brews for 3-4 people at once.
-- Basic electric kettle: €15-20. No gooseneck needed.
-- Manual burr grinder: €30-40. Shared among coworkers.
-- Kitchen scale with 1 g precision: €10. Use the one you already have.
-- Freshly roasted whole bean coffee: €8-12 per 250 g. Changes everything.
+- Prensa francesa de 1 litro: 15-25 €. Prepara para 3-4 personas a la vez.
+- Hervidor eléctrico básico: 15-20 €. No hace falta cuello de cisne.
+- Molinillo manual de muelas: 30-40 €. Para compartir entre compañeros.
+- Báscula de cocina con precisión de 1 g: 10 €. Vale la que ya tengas.
+- Café en grano recién tostado: 8-12 € los 250 g. Lo cambia todo.
 
-## The office routine
+## La rutina en la oficina
 
-Grind 60 g of coarse coffee, pour 900 ml of water at 94 °C, wait 4 minutes, break the crust and serve. In 6 minutes you have 4 cups that outclass any pod. Cost per cup is around €0.30, versus €0.40-0.50 for pods.
+Muele 60 g de café en molienda gruesa, vierte 900 ml de agua a 94 °C, espera 4 minutos, rompe la costra y sirve. En 6 minutos tienes 4 tazas que dan mil vueltas a cualquier cápsula. El coste por taza ronda los 0,30 €, frente a los 0,40-0,50 € de las cápsulas.
 
-> The best office coffee isn't the most expensive — it's the one someone bothers to prepare well.
-> 
-> — David Aguilar, roaster
+> El mejor café de oficina no es el más caro, es el que alguien se molesta en preparar bien.
 
-## Convincing the boss
+## Convencer al jefe
 
-Numbers help: a 10-person office spends about €100 a month on pods. With whole bean, that drops to €60-70 and quality goes up. Plus, the ritual of brewing creates natural breaks that Harvard studies link to higher productivity.
+Los números ayudan: una oficina de 10 personas gasta unos 100 € al mes en cápsulas. Con café en grano, eso baja a 60-70 € y la calidad sube. Además, el ritual de preparar el café crea pausas naturales que algunos estudios relacionan con una mayor productividad.
 
-## Zero-stress maintenance
+## Mantenimiento sin estrés
 
-Rinse the French press with hot water after every use. Dump grounds in organic waste. Descale the kettle once a month with white vinegar. Total maintenance: 2 minutes a day.
+Enjuaga la prensa francesa con agua caliente después de cada uso. Tira los posos al cubo de orgánico. Descalcifica el hervidor una vez al mes con vinagre blanco. Mantenimiento total: 2 minutos al día.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [The best coffee shops in Seville in 2026](/blog/mejores-cafeterias-sevilla)
-- [French press: the complete step-by-step guide](/blog/french-press-guia-completa)
-- [Good decaf exists. It](/blog/descafeinado-bueno)
+- [Las mejores cafeterías de Sevilla en 2026](/blog/mejores-cafeterias-sevilla)
+- [Prensa francesa: la guía completa paso a paso](/blog/french-press-guia-completa)
+- [El buen descafeinado existe. Lo](/blog/descafeinado-bueno)

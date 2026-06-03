@@ -1,39 +1,35 @@
 ---
-title: "Grinder or machine: where to put your first euro"
-description: "If you've got €500 and you're moving on from the moka pot, which of the two gives you more joy first. Spoiler: not the machine."
+title: "Molinillo o cafetera: dónde poner tu primer euro"
+description: "Tienes 500 € y das el salto desde la cafetera italiana. ¿Cuál de los dos te dará más alegría primero? Spoiler: no es la cafetera."
 pubDate: 2026-04-21
 category: "guides"
-tags: ["guides","coffee"]
-author: "Ana Rivero"
+tags: ["guías","café"]
+author: "Cash Café"
 readingTime: 5
 sources: []
 draft: false
 image: https://images.pexels.com/photos/434213/pexels-photo-434213.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-You've got €500, a moka pot that's been with you for years, and an itch to level up. The question everyone asks: machine or grinder first? The answer has been the same for decades.
+Tienes 500 €, una cafetera italiana que te acompaña desde hace años y unas ganas tremendas de subir de nivel. La pregunta que se hace todo el mundo es la misma: ¿primero la cafetera o el molinillo? Y la respuesta lleva décadas sin cambiar.
 
-## The grinder always wins
+## El molinillo siempre gana
 
-Freshly ground coffee from a burr grinder, brewed in a €25 moka pot, tastes better than pre-ground coffee in an €800 machine. It's not opinion — it's physics. Ground coffee loses up to 60% of its aromatics in the first 15 minutes.
+Un café recién molido con un molinillo de muelas, preparado en una italiana de 25 €, sabe mejor que un café premolido en una máquina de 800 €. No es una opinión, es física pura. El café molido pierde hasta un 60 % de sus aromas en los primeros 15 minutos.
 
-- Pre-ground = aromatics gone before reaching your cup.
-- Blade grinder = uneven particles, uneven extraction, bitterness.
-- Burr grinder = uniform particles, clean extraction, sweetness.
+- Premolido = los aromas se han ido antes de llegar a la taza.
+- Molinillo de cuchillas = partículas desiguales, extracción irregular y amargor.
+- Molinillo de muelas = partículas uniformes, extracción limpia y dulzor.
 
-## How to split €500
+## Cómo repartir los 500 €
 
-Our recommended split: €200 on a grinder, €300 on a machine. A good manual like the 1Zpresso JX-Pro and an entry-level semi-auto gives you a setup that competes with €3,000 bars.
+Nuestro reparto recomendado: 200 € para el molinillo y 300 € para la máquina. Un buen molinillo manual como el 1Zpresso JX-Pro junto a una semiautomática de entrada te dejan un equipo capaz de plantar cara a barras de 3.000 €.
 
-## What if I already have a machine?
+## ¿Y si ya tengo máquina?
 
-Then your entire budget goes to the grinder. A Baratza Encore or mid-range manual transforms any machine. The quality jump is immediate and visible from the very first cup.
+Entonces todo el presupuesto va al molinillo. Un Baratza Encore o un buen manual de gama media transforma cualquier máquina. El salto de calidad se nota al instante, ya desde la primera taza.
 
-> I've tried €2,000 machines. What changed my coffee most was a €180 grinder.
-> 
-> — Ana Rivero, Cash Café editor
+## 📚 Sigue leyendo
 
-## 📚 Continue reading
-
-- [The 5 best coffee shops in Madrid in 2026](/blog/mejores-cafeterias-madrid-2026)
+- [Las 5 mejores cafeterías de Madrid en 2026](/blog/mejores-cafeterias-madrid-2026)
 - [Best Knock Box for Espresso Pucks Under $40](/blog/best-knock-box-for-espresso-pucks-under-40)
-- [The best coffee shops in Barcelona: updated guide](/blog/mejores-cafeterias-barcelona)
+- [Las mejores cafeterías de Barcelona: guía actualizada](/blog/mejores-cafeterias-barcelona)

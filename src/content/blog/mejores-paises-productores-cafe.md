@@ -1,42 +1,40 @@
 ---
-title: "The 10 largest coffee producers in the world (and what makes them unique)"
-description: "From Brazil to Ethiopia, via Vietnam and Indonesia. What each country produces, its coffee profile, and why it matters."
+title: "Los 10 mayores productores de café del mundo (y qué hace único a cada uno)"
+description: "De Brasil a Etiopía, pasando por Vietnam e Indonesia. Qué produce cada país, su perfil de café y por qué importa."
 pubDate: 2026-04-30
 category: "culture"
-tags: ["culture","coffee"]
-author: "David Aguilar"
+tags: ["cultura","café"]
+author: "Cash Café"
 readingTime: 10
 sources: []
 draft: false
 image: https://images.pexels.com/photos/1493080/pexels-photo-1493080.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-Coffee grows in the tropical belt between the Tropics of Cancer and Capricorn. But within that band, each country produces coffee with its own personality. These are the world's 10 largest producers and what makes each one special.
+El café crece en la franja tropical comprendida entre los trópicos de Cáncer y Capricornio. Pero dentro de esa banda, cada país produce un café con personalidad propia. Estos son los 10 mayores productores del mundo y lo que hace especial a cada uno.
 
-## Brazil: the giant
+## Brasil: el gigante
 
-Brazil produces a third of the world's coffee. Its coffee tends toward medium-full body, low acidity, and nutty, chocolate, and caramel notes. Most is arabica, grown in Minas Gerais, São Paulo, and Bahia. It's the base of most espresso blends worldwide.
+Brasil produce un tercio del café de todo el planeta. Su café tiende a un cuerpo medio-alto, acidez baja y notas a frutos secos, chocolate y caramelo. La mayor parte es arábica, cultivado en Minas Gerais, São Paulo y Bahía. Es la base de buena parte de las mezclas de espresso de todo el mundo.
 
-## Vietnam, Colombia, Indonesia and Ethiopia
+## Vietnam, Colombia, Indonesia y Etiopía
 
-- Vietnam: second-largest producer, dominated by robusta. Strong body, earthy notes. Base for many instant coffees.
-- Colombia: third-largest, 100% arabica. Smooth, balanced, medium acidity. Huila and Nariño produce the best lots.
-- Indonesia: Sumatra, Java, and Sulawesi. Heavy body, low acidity, wet earth and spice notes. Distinctive wet-hulling process.
-- Ethiopia: birthplace of coffee. Yirgacheffe and Sidamo offer floral and fruity profiles unique in the world.
+- Vietnam: segundo productor mundial, dominado por la robusta. Cuerpo potente, notas terrosas. Base de muchos cafés solubles.
+- Colombia: tercer productor, 100 % arábica. Suave, equilibrado, acidez media. Huila y Nariño producen los mejores lotes.
+- Indonesia: Sumatra, Java y Célebes. Cuerpo intenso, acidez baja, notas a tierra húmeda y especias. Destaca por su característico proceso de wet-hulling (descascarillado húmedo).
+- Etiopía: la cuna del café. Yirgacheffe y Sidamo ofrecen perfiles florales y afrutados únicos en el mundo.
 
-> Knowing the country of origin is the first step. Knowing the region, the farm, and the process is where specialty coffee begins.
-> 
-> — David Aguilar, roaster
+> Conocer el país de origen es el primer paso. Conocer la región, la finca y el proceso es donde empieza de verdad el café de especialidad.
 
-## Honduras, India, Uganda, Mexico and Guatemala
+## Honduras, India, Uganda, México y Guatemala
 
-Honduras is Central America's largest producer; India grows robusta in the south and arabica in the mountains; Uganda is a rising robusta giant; Mexico produces high-altitude organic coffee in Chiapas and Oaxaca; Guatemala offers volcanic complexity with bright acidity, especially in Antigua and Huehuetenango.
+Honduras es el mayor productor de Centroamérica; India cultiva robusta en el sur y arábica en las montañas; Uganda es un gigante de la robusta en pleno ascenso; México produce café ecológico de altura en Chiapas y Oaxaca; y Guatemala ofrece complejidad volcánica con una acidez brillante, sobre todo en Antigua y Huehuetenango.
 
-## And the best?
+## ¿Y cuál es el mejor?
 
-There's no 'best coffee country' — there's an ideal coffee for every palate and every method. Brazil for espresso, Ethiopia for filter, Colombia for everything. What matters is trying diverse origins and discovering which terroir speaks your language.
+No existe el "mejor país cafetero": existe un café ideal para cada paladar y cada método. Brasil para el espresso, Etiopía para el filtro, Colombia para casi todo. Lo importante es probar orígenes diversos y descubrir qué terroir habla tu idioma.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [From Ethiopia to the world: the history of coffee in 5 minutes](/blog/origen-cafe-etiopia-mundo)
-- [A day at an Andalusian roastery: from sack to portafilter](/blog/tour-tostador-andaluz)
+- [De Etiopía al mundo: la historia del café en 5 minutos](/blog/origen-cafe-etiopia-mundo)
+- [Un día en un tostadero andaluz: del saco al portafiltros](/blog/tour-tostador-andaluz)
 - [La Colombe Cafe](/blog/cafeter-a-la-colombe)

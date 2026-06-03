@@ -1,34 +1,34 @@
 ---
-title: "A day at an Andalusian roastery: from sack to portafilter"
-description: "Fourteen hours with one of Spain's most careful roasters. What we learned changes how we buy coffee."
+title: "Un día en un tostadero andaluz: del saco al portafiltros"
+description: "Catorce horas con uno de los tostadores más cuidadosos de España. Lo que aprendimos cambia la forma en que compramos café."
 pubDate: 2026-03-26
 category: "culture"
-tags: ["culture","coffee"]
-author: "David Aguilar"
+tags: ["cultura","café"]
+author: "Cash Café"
 readingTime: 9
 sources: []
 draft: false
 image: https://images.pexels.com/photos/1170650/pexels-photo-1170650.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-Fourteen hours with one of Spain's most careful roasters. What we learned changes how we buy coffee.
+Catorce horas con uno de los tostadores más cuidadosos de España. Lo que aprendimos cambia la forma en que compramos café.
 
-## Coming up
+## Próximamente
 
-This guide is being expanded. We're adding measured ratios, gear we tested, and the science behind each method.
+Esta guía está en pleno desarrollo. Estamos añadiendo proporciones medidas, los equipos que hemos probado y la ciencia que hay detrás de cada método.
 
-In the meantime, browse our full [coffee blog](/blog) for ready-to-read brewing guides and gear notes.
+Mientras tanto, échale un vistazo a nuestro [blog de café](/blog), donde encontrarás guías de preparación listas para leer y reseñas de equipos.
 
-## What we'll cover
+## Lo que veremos
 
-- Method or topic overview with measurable steps
-- Gear recommendations at multiple price tiers
-- Common mistakes and how to fix them
-- Tips from working baristas
+- Resumen del método o tema con pasos medibles
+- Recomendaciones de equipos en distintos rangos de precio
+- Errores habituales y cómo solucionarlos
+- Consejos de baristas en activo
 
-> Subscribe to the [newsletter](/newsletter) to get notified when this guide is updated.
+> Suscríbete a la [newsletter](/newsletter) para que te avisemos cuando actualicemos esta guía.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
 - [La Colombe Cafe](/blog/cafeter-a-la-colombe)
-- [The 10 largest coffee producers in the world (and what makes them unique)](/blog/mejores-paises-productores-cafe)
-- [Turkish coffee: the world](/blog/cafe-turco-metodo-ancestral)
+- [Los 10 mayores productores de café del mundo (y qué los hace únicos)](/blog/mejores-paises-productores-cafe)
+- [Café turco: el método ancestral](/blog/cafe-turco-metodo-ancestral)

@@ -1,43 +1,41 @@
 ---
-title: "Chemex vs V60: which to choose and why"
-description: "Two filter coffee icons, two different philosophies. We break down design, flavor, ease of use, and who each one is for."
+title: "Chemex vs V60: cuál elegir y por qué"
+description: "Dos iconos del café de filtro, dos filosofías distintas. Desgranamos diseño, sabor, facilidad de uso y para quién es cada uno."
 pubDate: 2026-04-22
 category: "guides"
-tags: ["guides","coffee"]
-author: "Ana Rivero"
+tags: ["guías","café"]
+author: "Cash Café"
 readingTime: 7
 sources: []
 draft: false
 image: https://images.pexels.com/photos/414645/pexels-photo-414645.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-Chemex and V60 are the two names any filter coffee enthusiast hears first. Both produce clean, aromatic cups, but their design differences create distinct flavor profiles. Let's compare them without playing favorites.
+Chemex y V60 son los dos nombres que escucha primero cualquier aficionado al café de filtro. Las dos preparan tazas limpias y aromáticas, pero sus diferencias de diseño dan lugar a perfiles de sabor distintos. Vamos a compararlas sin casarnos con ninguna.
 
-## Design and filter
+## Diseño y filtro
 
-The Chemex uses a thick bonded paper filter that traps more oils and sediment. The result is an extremely clean, almost translucent coffee. The V60 uses a thinner filter with spiral ribs and a large hole, allowing more control over flow and letting through more oils. The coffee is more expressive on the palate.
+La Chemex usa un filtro de papel grueso y prensado que retiene más aceites y sedimentos. El resultado es un café extremadamente limpio, casi translúcido. La V60 usa un filtro más fino, con acanaladuras en espiral y un agujero grande, lo que da más control sobre el caudal y deja pasar más aceites. El café resulta más expresivo en boca.
 
-- Chemex: thick filter → clean cup, light body, clear flavors.
-- V60: thin filter → more oils, medium body, pronounced nuances.
-- Chemex: easily brews 3-6 cups. V60: best for 1-2 cups.
+- Chemex: filtro grueso → taza limpia, cuerpo ligero, sabores nítidos.
+- V60: filtro fino → más aceites, cuerpo medio, matices marcados.
+- Chemex: prepara fácilmente de 3 a 6 tazas. V60: ideal para 1 o 2 tazas.
 
-## Pouring technique
+## Técnica de vertido
 
-The V60 demands more precision: spiral pours, pace control, attention to time. The Chemex is more forgiving thanks to its thick filter, which slows the flow and pardons pouring mistakes. If you want repeatability without stress, the Chemex wins. If you want to experiment with variables, the V60 is your lab.
+La V60 exige más precisión: vertidos en espiral, control del ritmo, atención al tiempo. La Chemex es más indulgente gracias a su filtro grueso, que ralentiza el caudal y perdona los fallos al verter. Si buscas repetir resultados sin estresarte, gana la Chemex. Si quieres experimentar con las variables, la V60 es tu laboratorio.
 
-> The Chemex gives you consistency; the V60 gives you control. Choose based on your coffee personality.
-> 
-> — Ana Rivero, editor at Cash Café
+> La Chemex te da consistencia; la V60 te da control. Elige según tu personalidad cafetera.
 
-## Flavor in the cup
+## El sabor en la taza
 
-In side-by-side cuppings with the same coffee (washed Ethiopian, light roast), the Chemex highlighted floral and citrus notes with a tea-like body. The V60 delivered riper fruit, juicy acidity, and a longer finish. Neither is 'better' — they're different.
+En catas comparativas con el mismo café (etíope lavado, tueste claro), la Chemex realzó las notas florales y cítricas con un cuerpo similar al de un té. La V60 ofreció fruta más madura, acidez jugosa y un final más largo. Ninguna es "mejor": son distintas.
 
-## The verdict
+## El veredicto
 
-If you brew for multiple people and value cup clarity, go Chemex. If you're a solo explorer who enjoys fine-tuning every variable, go V60. And if you can, get both: coffee changes so much between them that it's worth it.
+Si preparas café para varias personas y valoras la limpieza de la taza, ve a por la Chemex. Si eres un explorador solitario al que le gusta afinar cada variable, ve a por la V60. Y si puedes, hazte con las dos: el café cambia tanto de una a otra que merece la pena.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [Good decaf exists. It](/blog/descafeinado-bueno)
+- [Existe el descafeinado bueno](/blog/descafeinado-bueno)
 - [Colombia](/blog/viaje-cafetero-colombia)
-- [The best coffee shops in Barcelona: updated guide](/blog/mejores-cafeterias-barcelona)
+- [Las mejores cafeterías de Barcelona: guía actualizada](/blog/mejores-cafeterias-barcelona)

@@ -1,39 +1,37 @@
 ---
-title: "From Ethiopia to the world: the history of coffee in 5 minutes"
-description: "A shepherd, some goats, and a red berry. 1,500 years later, coffee moves $500 billion a year."
+title: "De Etiopía al mundo: la historia del café en 5 minutos"
+description: "Un pastor, unas cabras y una baya roja. 1.500 años después, el café mueve 500.000 millones de dólares al año."
 pubDate: 2026-04-11
 category: "culture"
-tags: ["culture","coffee"]
-author: "Lucía Pardo"
+tags: ["cultura","café"]
+author: "Cash Café"
 readingTime: 7
 sources: []
 draft: false
 image: https://images.pexels.com/photos/5946640/pexels-photo-5946640.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-It all started in the Ethiopian highlands, where a shepherd named Kaldi noticed his goats dancing after eating certain red berries. From there to your morning espresso: here's the short version.
+Todo empezó en las tierras altas de Etiopía, donde un pastor llamado Kaldi se fijó en que sus cabras se ponían a bailar después de comer unas bayas rojas. De ahí a tu espresso de la mañana hay un buen trecho: aquí tienes la versión corta.
 
-## Ethiopia: the birthplace (9th century)
+## Etiopía: la cuna del café (siglo IX)
 
-Oromo tribes chewed coffee berries mixed with animal fat as a stimulant. Sufi monks turned them into a drink to stay awake during prayers. Coffee was born as a spiritual tool.
+Las tribus oromo masticaban las bayas de café mezcladas con grasa animal como estimulante. Los monjes sufíes las convirtieron en bebida para mantenerse despiertos durante las oraciones. El café nació como una herramienta espiritual.
 
-## Yemen: the first cup (15th century)
+## Yemen: la primera taza (siglo XV)
 
-Yemenis were the first to roast and brew coffee as a drink. Mocha's coffeehouses became hubs for political and philosophical debate. Hence the name 'mocha'.
+Los yemeníes fueron los primeros en tostar y preparar el café como bebida. Las cafeterías de Mocha se convirtieron en puntos de encuentro para el debate político y filosófico. De ahí viene el nombre 'moka'.
 
-## Europe: the revolution (17th century)
+## Europa: la revolución (siglo XVII)
 
-London, Paris, and Vienna coffeehouses replaced taverns as business venues. The London Stock Exchange was born in a coffeehouse (Lloyd's). Coffee literally built the modern world.
+Las cafeterías de Londres, París y Viena sustituyeron a las tabernas como lugar para hacer negocios. La Bolsa de Londres nació en una cafetería (el Lloyd's). El café construyó literalmente el mundo moderno.
 
-## Today: third wave
+## Hoy: la tercera ola
 
-Coffee stopped being an anonymous commodity. Today we know the farm, variety, altitude, and process behind every bean. The barista is an artisan, not a dispenser. And you, reading this, are part of that revolution.
+El café dejó de ser una materia prima anónima. Hoy conocemos la finca, la variedad, la altitud y el proceso que hay detrás de cada grano. El barista es un artesano, no un dispensador. Y tú, que estás leyendo esto, formas parte de esa revolución.
 
-> Every cup of coffee connects the Ethiopian farmer to the barista on your corner. No other drink does that.
-> 
-> — Lucía Pardo, Q grader
+> Cada taza de café conecta al agricultor etíope con el barista de tu esquina. No hay otra bebida que haga eso.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [Kissaten: the Japanese coffeehouses that inspire the third wave](/blog/cafe-japones-kissaten)
-- [Coffee and health: what science says in 2026](/blog/cafe-y-salud-ciencia)
-- [Third wave: what it means and why it matters](/blog/tercera-ola-explicada)
+- [Kissaten: las cafeterías japonesas que inspiran la tercera ola](/blog/cafe-japones-kissaten)
+- [Café y salud: qué dice la ciencia en 2026](/blog/cafe-y-salud-ciencia)
+- [Tercera ola: qué significa y por qué importa](/blog/tercera-ola-explicada)

@@ -1,44 +1,40 @@
 ---
-title: "Japanese cold drip coffee (Kyoto drip method)"
-description: "Kyoto drip is the world's most elegant cold extraction method. Drop by drop, over hours, it produces coffee that resembles wine."
+title: "Café filtrado en frío japonés (método Kyoto drip)"
+description: "El Kyoto drip es el método de extracción en frío más elegante del mundo. Gota a gota, durante horas, da un café que recuerda al vino."
 pubDate: 2026-04-27
 category: "recipes"
-tags: ["recipes","coffee"]
-author: "Lucía Pardo"
+tags: ["recetas","café"]
+author: "Cash Café"
 readingTime: 7
 sources: []
 draft: false
 image: https://images.pexels.com/photos/1233528/pexels-photo-1233528.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-While cold brew submerges coffee in cold water for 12-24 hours, Kyoto drip uses gravity: ice-cold water drips slowly over ground coffee, passing through it drop by drop. The result is a clean, sweet, complex concentrate that the Japanese have been perfecting since the 1960s.
+Mientras que el cold brew sumerge el café en agua fría durante 12-24 horas, el Kyoto drip se sirve de la gravedad: agua helada que gotea despacio sobre el café molido y lo atraviesa gota a gota. El resultado es un concentrado limpio, dulce y complejo que los japoneses llevan perfeccionando desde los años 60.
 
-## How it works
+## Cómo funciona
 
-A three-chamber tower: ice water on top; medium-coarse ground coffee with a filter in the middle; a carafe collecting the concentrate at the bottom. Water drips at about one drop per second, and the process takes 3-8 hours depending on volume.
+Una torre de tres cámaras: el agua con hielo arriba; en el centro, el café molido medio-grueso con un filtro; y abajo, una jarra que recoge el concentrado. El agua cae a razón de una gota por segundo, más o menos, y el proceso dura entre 3 y 8 horas según el volumen.
 
-- Recommended ratio: 1:10 (coffee:water). 50 g of coffee for 500 ml of water.
-- Grind: medium-coarse, like French press.
-- Time: 3-8 hours. Slower = sweeter and more complex.
-- Water temperature: ice-cold, 2-4 °C.
+- Proporción recomendada: 1:10 (café:agua). 50 g de café por cada 500 ml de agua.
+- Molido: medio-grueso, como para prensa francesa.
+- Tiempo: 3-8 horas. Cuanto más lento, más dulce y complejo.
+- Temperatura del agua: helada, entre 2 y 4 °C.
 
-## Affordable towers
+## Torres asequibles
 
-Professional Kyoto drip towers cost hundreds of euros, but there are home versions in plastic and glass for €30-50 that work perfectly for getting started. You can also build a DIY tower with a water bottle, a lab dripper, and a carafe.
+Las torres de Kyoto drip profesionales cuestan cientos de euros, pero hay versiones caseras en plástico y vidrio por 30-50 € que van perfectas para empezar. También puedes montarte una torre casera con una botella de agua, un gotero de laboratorio y una jarra.
 
-> Kyoto drip is in no rush. Each drop extracts flavor without heat, without pressure, without force. It's meditative coffee.
-> 
-> — Lucía Pardo, Q grader
+## Sabor y forma de servir
 
-## Flavor and serving
+El concentrado que sale es sedoso, con una acidez jugosa y notas que van de la fruta tropical al caramelo según el café. Sírvelo con hielo y un chorrito de agua para diluir, o solo en una copa de vino para apreciar el aroma. No le añadas leche: eso es un crimen.
 
-The resulting concentrate is silky, with juicy acidity and notes ranging from tropical fruit to caramel depending on the coffee. Serve over ice with a splash of water to dilute, or neat in a wine glass to appreciate the aroma. Don't add milk — that's a crime.
+## Diferencias con el cold brew
 
-## Differences from cold brew
+El cold brew sumerge (inmersión) y da un cuerpo denso con poca acidez. El Kyoto drip percola (goteo) y aporta limpieza, complejidad y una acidez brillante. Son métodos complementarios, no rivales.
 
-Cold brew submerges (immersion) and produces dense body with low acidity. Kyoto drip percolates (drip) and produces clarity, complexity, and bright acidity. They're complementary methods, not competitors.
+## 📚 Sigue leyendo
 
-## 📚 Continue reading
-
-- [Irish Coffee: the original recipe and why you](/blog/receta-irish-coffee-original)
-- [Flat white at home, without a pro pitcher](/blog/flat-white-en-casa)
-- [The V60 method the baristas we interviewed actually use](/blog/metodo-v60)
+- [Irish Coffee: la receta original y por qué](/blog/receta-irish-coffee-original)
+- [Flat white en casa, sin jarra de profesional](/blog/flat-white-en-casa)
+- [El método V60 que de verdad usan los baristas que entrevistamos](/blog/metodo-v60)

@@ -1,43 +1,41 @@
 ---
-title: "Coffee in Italy vs coffee in Spain: customs that clash"
-description: "A cappuccino after lunch is a sin in Rome but normal in Madrid. Two coffee countries with very different rules."
+title: "Café en Italia vs café en España: costumbres que chocan"
+description: "Un capuchino después de comer es pecado en Roma, pero algo normal en Madrid. Dos países cafeteros con reglas muy distintas."
 pubDate: 2026-05-01
 category: "culture"
-tags: ["culture","coffee"]
-author: "Marcos Llovera"
+tags: ["cultura","café"]
+author: "Cash Café"
 readingTime: 7
 sources: []
 draft: false
 image: https://images.pexels.com/photos/2074131/pexels-photo-2074131.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-Italy and Spain are Mediterranean Europe's two great coffee countries. Both drink espresso, both have bars on every corner, but the unwritten rules of coffee are completely opposite. Here are the ones that clash most.
+Italia y España son los dos grandes países cafeteros de la Europa mediterránea. Los dos beben espresso, los dos tienen un bar en cada esquina, pero las reglas no escritas del café son completamente opuestas. Aquí van las que más chocan.
 
-## The cappuccino: the 11 o'clock rule
+## El capuchino: la regla de las 11
 
-In Italy, the cappuccino is exclusively a breakfast drink. Ordering one after 11 AM — and especially after lunch — is considered a tourist mistake. In Spain, café con leche is drunk at any hour without anyone batting an eye.
+En Italia, el capuchino es exclusivamente una bebida de desayuno. Pedir uno después de las 11 de la mañana —y sobre todo después de comer— se considera un error de turista. En España, el café con leche se toma a cualquier hora sin que a nadie le sorprenda lo más mínimo.
 
-## Standing vs sitting
+## De pie o sentado
 
-In Italy, coffee at the bar costs half what it does seated. Italians take their espresso standing, in 30 seconds, and leave. In Spain, coffee is an excuse to sit down, and the price difference between bar and table is minimal or nonexistent.
+En Italia, el café tomado en la barra cuesta la mitad que sentado. Los italianos se toman su espresso de pie, en 30 segundos, y se van. En España, el café es una excusa para sentarse, y la diferencia de precio entre barra y mesa es mínima o inexistente.
 
-- Italy: espresso at the bar = €1-1.20. Seated = €2.50-4.
-- Spain: solo at bar or table = €1.20-1.80. The difference is the tip.
-- Italy: 30 seconds at the bar. Spain: 30 minutes on the terrace.
+- Italia: espresso en barra = 1-1,20 €. Sentado = 2,50-4 €.
+- España: un solo en barra o mesa = 1,20-1,80 €. La diferencia es la propina.
+- Italia: 30 segundos en la barra. España: 30 minutos en la terraza.
 
-> In Italy, coffee is fuel. In Spain, it's a social ritual. Both cultures love coffee, but for different reasons.
-> 
-> — Marcos Llovera, head barista
+> En Italia, el café es combustible. En España, es un ritual social. Las dos culturas adoran el café, pero por razones distintas.
 
-## Roast and preparation
+## Tueste y preparación
 
-Italy prefers dark roasts and blends with robusta for crema and body. Spain lived through decades of torrefacto (coffee roasted with sugar), though the third wave is changing that. In both countries, espresso is king, but the baseline flavor is different.
+Italia prefiere los tuestes oscuros y las mezclas con robusta para conseguir crema y cuerpo. España vivió décadas de torrefacto (café tostado con azúcar), aunque la tercera ola está cambiando eso. En ambos países el espresso es el rey, pero el sabor de base es diferente.
 
-## Who wins?
+## ¿Quién gana?
 
-Nobody — and that's the beauty of it. Italy has standardization and the culture of the quick espresso; Spain has flexibility and the sobremesa. If you like coffee as a pause, Spain. If you like it as an energy shot, Italy.
+Nadie, y ahí está la gracia. Italia tiene la estandarización y la cultura del espresso rápido; España tiene la flexibilidad y la sobremesa. Si te gusta el café como pausa, España. Si te gusta como chute de energía, Italia.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [Turkish coffee: the world](/blog/cafe-turco-metodo-ancestral)
-- [Third wave: what it means and why it matters](/blog/tercera-ola-explicada)
-- [The Viennese coffeehouse: UNESCO heritage and living tradition](/blog/historia-cafeteria-viena)
+- [Café turco: el método ancestral](/blog/cafe-turco-metodo-ancestral)
+- [Tercera ola: qué significa y por qué importa](/blog/tercera-ola-explicada)
+- [El café vienés: patrimonio UNESCO y tradición viva](/blog/historia-cafeteria-viena)

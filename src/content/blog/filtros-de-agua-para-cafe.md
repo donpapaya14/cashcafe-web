@@ -1,39 +1,37 @@
 ---
-title: "Water Filters for Coffee"
-description: "Water is a crucial ingredient in coffee preparation, and its quality can significantly impact the flavor and quality of the brew. In this article, we'll explore the different types of water filters available and how they can help improve"
+title: "Filtros de agua para el café"
+description: "El agua es un ingrediente clave del café: su calidad influye muchísimo en el sabor. Repasamos los tipos de filtros de agua que existen y cómo pueden mejorar tu taza."
 pubDate: 2026-05-06
 category: "gear"
-tags: ["gear","coffee"]
-author: "Marcos Llovera"
+tags: ["equipo","café"]
+author: "Cash Café"
 readingTime: 3
 sources: []
 draft: false
 image: https://images.pexels.com/photos/129207/pexels-photo-129207.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-Water is a crucial ingredient in coffee preparation, and its quality can significantly impact the flavor and quality of the brew. In this article, we'll explore the different types of water filters available and how they can help improve the taste of your coffee.
+El agua es un ingrediente clave en la preparación del café y su calidad influye muchísimo en el sabor y en la calidad de la taza. En este artículo repasamos los distintos tipos de filtros de agua que existen y cómo pueden ayudarte a mejorar el sabor de tu café.
 
-## Types of Water Filters
+## Tipos de filtros de agua
 
-There are several types of water filters on the market, each with its own advantages and disadvantages. Activated carbon filters are effective at removing impurities and improving the taste of water, while reverse osmosis filters can remove up to 99% of impurities and minerals from water. Ceramic filters are also a popular option, as they can remove bacteria and viruses from water.
+En el mercado encontrarás varios tipos de filtros, cada uno con sus ventajas e inconvenientes. Los filtros de carbón activado son muy buenos eliminando impurezas y mejorando el sabor del agua, mientras que los de ósmosis inversa pueden retirar hasta el 99 % de las impurezas y minerales. Los filtros de cerámica también son una opción popular, ya que eliminan bacterias y virus del agua.
 
-- Activated Carbon Filters
-- Reverse Osmosis Filters
-- Ceramic Filters
+- Filtros de carbón activado
+- Filtros de ósmosis inversa
+- Filtros de cerámica
 
-## How Water Affects the Taste of Coffee
+## Cómo afecta el agua al sabor del café
 
-The quality of water can have a significant impact on the taste of coffee. The pH level of the water, the water hardness, and the presence of impurities can all affect the extraction of the coffee and the final flavor of the brew. A study by the University of California found that water with a high pH level can extract more bitter compounds from the coffee, resulting in an unpleasant taste.
+La calidad del agua tiene un peso importante en el sabor del café. El nivel de pH, la dureza del agua y la presencia de impurezas afectan directamente a la extracción y, por tanto, al sabor final de la taza. Un agua con un pH demasiado alto tiende a extraer más compuestos amargos del café, lo que puede dar como resultado un sabor desagradable.
 
-## Prices and Options for Different Budgets
+## Precios y opciones para distintos presupuestos
 
-There are water filter options available for different budgets. Activated carbon filters can be a budget-friendly option, while reverse osmosis filters can be more expensive. It's essential to research and compare prices and features before making a decision.
+Hay opciones de filtros de agua para todos los bolsillos. Los de carbón activado suelen ser la alternativa más económica, mientras que los de ósmosis inversa resultan bastante más caros. Antes de decidirte, lo ideal es comparar precios y prestaciones con calma.
 
-> The right water filter can make a significant difference in the taste of your coffee. By choosing a filter that meets your needs and budget, you can enjoy a better-tasting cup of coffee every time.
-> 
-> — Coffee Connoisseur Magazine
+> El filtro de agua adecuado puede marcar una gran diferencia en el sabor de tu café. Si eliges uno que se ajuste a tus necesidades y a tu presupuesto, disfrutarás de una taza mejor cada día.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [Gooseneck kettle: the tool that changes everything](/blog/hervidor-cuello-cisne-guia)
-- [7 barista accessories for under €50](/blog/accesorios-barista-esenciales)
-- [Best Espresso Machine for Beginners 2026: Sub $400 Picks](/blog/best-espresso-machine-for-beginners-2026-sub-400-picks)
+- [Hervidor de cuello de cisne: la herramienta que lo cambia todo](/blog/hervidor-cuello-cisne-guia)
+- [7 accesorios de barista por menos de 50 €](/blog/accesorios-barista-esenciales)
+- [Mejor cafetera espresso para principiantes 2026: opciones por menos de 400 $](/blog/best-espresso-machine-for-beginners-2026-sub-400-picks)

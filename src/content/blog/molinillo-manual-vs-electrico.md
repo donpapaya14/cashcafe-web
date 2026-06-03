@@ -1,47 +1,43 @@
 ---
-title: "Manual vs electric grinder: the real advantages of each"
-description: "The eternal specialty coffee debate. We give you concrete data, not opinions, so you can choose based on your real routine."
+title: "Molinillo manual vs eléctrico: las ventajas reales de cada uno"
+description: "El eterno debate del café de especialidad. Te damos datos concretos, no opiniones, para que elijas según tu rutina real."
 pubDate: 2026-05-03
 category: "gear"
-tags: ["gear","coffee"]
-author: "Lucía Pardo"
+tags: ["equipo","café"]
+author: "Cash Café"
 readingTime: 7
 sources: []
 draft: false
 image: https://images.pexels.com/photos/1233528/pexels-photo-1233528.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-Manual or electric grinder: the question every coffee enthusiast asks at least once. The answer depends on how many cups you make a day, which method you use, and how much you value your time at 7 AM. Let's look at the data.
+Molinillo manual o eléctrico: la pregunta que todo amante del café se hace al menos una vez. La respuesta depende de cuántas tazas prepares al día, qué método uses y cuánto valores tu tiempo a las 7 de la mañana. Vamos a ver los datos.
 
-## Manual grinder: portable precision
+## Molinillo manual: precisión portátil
 
-Mid-range manuals (1Zpresso, Comandante, Timemore) use high-precision steel or ceramic burrs. They produce grind uniformity comparable to €300 electrics, but cost €80-150. The catch: grinding 18 g for espresso takes 30-45 seconds of physical effort.
+Los manuales de gama media (1Zpresso, Comandante, Timemore) montan fresas de acero o cerámica de alta precisión. Consiguen una uniformidad de molienda comparable a la de eléctricos de 300 €, pero cuestan entre 80 y 150 €. La pega: moler 18 g para espresso te lleva de 30 a 45 segundos de esfuerzo físico.
 
-- Pros: silent, portable, unbeatable price/quality, easy to clean.
-- Cons: physical effort, slow for more than 2 cups, less intuitive adjustment.
-- Ideal for: travel, 1-2 cups a day, tight budget with high standards.
+- A favor: silencioso, portátil, relación calidad-precio imbatible y fácil de limpiar.
+- En contra: requiere esfuerzo físico, es lento para más de 2 tazas y el ajuste resulta menos intuitivo.
+- Ideal para: viajar, 1-2 tazas al día, presupuesto ajustado pero con buen nivel de exigencia.
 
-## Electric grinder: daily convenience
+## Molinillo eléctrico: comodidad diaria
 
-Electric flat or conical burr grinders eliminate the effort. Entry-level models (Baratza Encore, Wilfa Svart) cost €120-160 and are excellent for filter. For espresso you need to step up to €250-400 (Eureka Mignon, DF64). They grind 18 g in 5-10 seconds.
+Los eléctricos con fresas planas o cónicas eliminan el esfuerzo. Los modelos de entrada (Baratza Encore, Wilfa Svart) cuestan entre 120 y 160 € y van de maravilla para filtro. Para espresso hay que subir a la franja de 250-400 € (Eureka Mignon, DF64). Muelen 18 g en 5-10 segundos.
 
-- Pros: fast, convenient, consistent at high volume, easy adjustment.
-- Cons: noisy, takes up space, retention (coffee left inside).
-- Ideal for: more than 2 cups a day, families, those who value morning speed.
+- A favor: rápido, cómodo, constante en volúmenes altos y de ajuste sencillo.
+- En contra: hace ruido, ocupa espacio y tiene retención (café que se queda dentro).
+- Ideal para: más de 2 tazas al día, familias y quien valore la rapidez por las mañanas.
 
-> The 1Zpresso JX-Pro's grind quality competes with €300 electrics. The manual wins on price/quality; the electric wins on convenience.
-> 
-> — Lucía Pardo, Q grader
+## La pregunta correcta
 
-## The right question
+No es '¿cuál es mejor?', sino '¿cuántas tazas preparo y cuánto esfuerzo tolero a primera hora?'. Si la respuesta es 1-2 tazas y no te importa moler a mano, tira de manual. Si haces café para toda la familia o simplemente quieres pulsar un botón, ve a por el eléctrico.
 
-It's not 'which is better?' but 'how many cups do I make and how much effort do I tolerate first thing?' If the answer is 1-2 cups and you don't mind hand-grinding, go manual. If you make coffee for the family or simply want to press a button, go electric.
+## Nuestra recomendación
 
-## Our recommendation
+Empieza con un manual de gama media. Si al cabo de tres meses te cansas de moler a mano, véndelo (aguantan muy bien el valor de reventa) y cómprate un eléctrico. Así no te gastas de más al principio y descubres cuál es tu tolerancia real.
 
-Start with a mid-range manual. If after three months you're tired of hand-grinding, sell it (they hold value well) and buy an electric. That way you don't overspend upfront and you discover your real tolerance.
+## 📚 Sigue leyendo
 
-## 📚 Continue reading
-
-- [Gooseneck kettle: the tool that changes everything](/blog/hervidor-cuello-cisne-guia)
-- [7 barista accessories for under €50](/blog/accesorios-barista-esenciales)
-- [Best Espresso Machine for Beginners 2026: Sub $400 Picks](/blog/best-espresso-machine-for-beginners-2026-sub-400-picks)
+- [Hervidor de cuello de cisne: la herramienta que lo cambia todo](/blog/hervidor-cuello-cisne-guia)
+- [7 accesorios de barista por menos de 50 €](/blog/accesorios-barista-esenciales)
+- [Mejor cafetera espresso para principiantes 2026: opciones por menos de 400 $](/blog/best-espresso-machine-for-beginners-2026-sub-400-picks)

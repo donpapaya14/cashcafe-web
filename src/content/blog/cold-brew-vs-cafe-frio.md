@@ -1,42 +1,40 @@
 ---
-title: "Cold brew vs iced coffee: they're not the same thing"
-description: "One brews with cold water for 12 hours. The other is hot coffee over ice. The flavor difference is massive."
+title: "Cold brew vs café con hielo: no son lo mismo"
+description: "Uno se prepara con agua fría durante 12 horas. El otro es café caliente sobre hielo. La diferencia de sabor es enorme."
 pubDate: 2026-04-18
 category: "recipes"
-tags: ["recipes","coffee"]
-author: "David Aguilar"
+tags: ["recetas","café"]
+author: "Cash Café"
 readingTime: 5
 sources: []
 draft: false
 image: https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-Cold brew isn't iced coffee. It's a cold extraction method that takes 12–24 hours and produces a smooth, sweet, low-acid concentrate. If you confuse them, this guide sets it straight.
+El cold brew no es café con hielo. Es un método de extracción en frío que tarda entre 12 y 24 horas y da como resultado un concentrado suave, dulce y con muy poca acidez. Si sueles confundirlos, esta guía te lo deja claro.
 
-## Cold brew: slow cold extraction
+## Cold brew: extracción lenta en frío
 
-- 80 g coarsely ground coffee (like crushed pepper).
-- 1 liter cold or room-temperature water.
-- Mix in a pitcher, cover, fridge for 12–18 hours.
-- Filter through cloth or French press. Concentrate ready.
+- 80 g de café molido grueso (como pimienta machacada).
+- 1 litro de agua fría o a temperatura ambiente.
+- Mézclalo en una jarra, tápala y déjala en la nevera entre 12 y 18 horas.
+- Fíltralo con una tela o con una prensa francesa. Listo el concentrado.
 
-The result is a concentrate you can dilute 1:1 with water or milk. Lasts 2 weeks in the fridge. Smooth, chocolatey, virtually zero bitterness.
+El resultado es un concentrado que puedes diluir 1:1 con agua o leche. Aguanta dos semanas en la nevera. Suave, achocolatado y prácticamente sin amargor.
 
-## Iced coffee: espresso + ice
+## Café con hielo: espresso + hielo
 
-Pull a double espresso (or strong moka), pour over a glass full of ice. Quick, intense, more acidity and body than cold brew. Perfect when you want something strong and refreshing right now.
+Prepara un espresso doble (o una moka cargada) y viértelo sobre un vaso lleno de hielo. Rápido, intenso, con más acidez y cuerpo que el cold brew. Perfecto cuando te apetece algo fuerte y refrescante al momento.
 
-## Which to choose?
+## ¿Cuál elegir?
 
-- Want smooth and sweet → cold brew.
-- Want intense and quick → iced coffee.
-- Want to impress → cold brew tonic (cold brew + tonic water + lemon slice).
+- Si lo quieres suave y dulce → cold brew.
+- Si lo quieres intenso y rápido → café con hielo.
+- Si quieres presumir → cold brew tónico (cold brew + agua tónica + una rodaja de limón).
 
-> I prep my summer cold brew on Sunday and it lasts all week. It's the most practical coffee there is.
-> 
-> — David Aguilar, roaster
+El cold brew es perfecto para tener listo en la nevera durante toda la semana: lo dejas preparado un día y te dura varios. Es de los cafés más prácticos que hay para el verano.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [Moka pot: 5 mistakes everyone makes](/blog/moka-italiana-errores-comunes)
-- [How to Make AeroPress Coffee: 5 Recipes That Actually Work](/blog/how-to-make-aeropress-coffee-5-recipes-that-actually-work)
-- [Irish Coffee: the original recipe and why you](/blog/receta-irish-coffee-original)
+- [Cafetera italiana: 5 errores que comete todo el mundo](/blog/moka-italiana-errores-comunes)
+- [Cómo hacer café con AeroPress: 5 recetas que funcionan de verdad](/blog/how-to-make-aeropress-coffee-5-recipes-that-actually-work)
+- [Irish Coffee: la receta original y por qué funciona](/blog/receta-irish-coffee-original)

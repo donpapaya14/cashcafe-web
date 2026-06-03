@@ -1,43 +1,43 @@
 ---
-title: "The Viennese coffeehouse: UNESCO heritage and living tradition"
-description: "A place where ideas were born, revolutions were plotted, and coffee was served with a glass of water and a newspaper. The Viennese coffeehouse lives on."
+title: "El café vienés: patrimonio de la UNESCO y tradición viva"
+description: "Un lugar donde nacían ideas, se urdían revoluciones y el café se servía con un vaso de agua y el periódico. El café vienés sigue vivo."
 pubDate: 2026-05-02
 category: "culture"
-tags: ["culture","coffee"]
-author: "Ana Rivero"
+tags: ["cultura","café"]
+author: "Cash Café"
 readingTime: 8
 sources: []
 draft: false
 image: https://images.pexels.com/photos/1269025/pexels-photo-1269025.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-In 2011, UNESCO recognized Viennese coffeehouse culture as intangible cultural heritage of Austria. Not because of the coffee itself, but because of what it represents: a space of informal democracy where anyone can sit for hours with a cup, a newspaper, and the company of ideas.
+En 2011, la UNESCO reconoció la cultura del café vienés como patrimonio cultural inmaterial de Austria. No por el café en sí, sino por lo que representa: un espacio de democracia informal donde cualquiera puede sentarse durante horas con una taza, un periódico y la compañía de las ideas.
 
-## Origins: the Turks' sacks
+## Los orígenes: los sacos de los turcos
 
-Legend has it that in 1683, after the Ottoman siege of Vienna, sacks of coffee left behind by the Turks were found. Georg Franz Kolschitzky opened the first Viennese coffeehouse shortly after. The documented truth is that Vienna's first café opened in 1685, and by 1700 there were over 30.
+Cuenta la leyenda que en 1683, tras el asedio otomano a Viena, se encontraron unos sacos de café abandonados por los turcos. Poco después, Georg Franz Kolschitzky abrió el primer café vienés. Lo que está documentado es que el primer café de Viena abrió en 1685 y que hacia 1700 ya había más de treinta.
 
-## The coffeehouse as institution
+## El café como institución
 
-In the 18th and 19th centuries, Viennese coffeehouses became intellectual salons. Freud, Trotsky, Klimt, and Stefan Zweig frequented their marble tables. They weren't just places to drink — they were offices, libraries, and social clubs where classes mixed.
+En los siglos XVIII y XIX, los cafés vieneses se convirtieron en auténticos salones intelectuales. Freud, Trotski, Klimt y Stefan Zweig frecuentaban sus mesas de mármol. No eran solo sitios donde tomar algo: eran oficinas, bibliotecas y clubs sociales donde se mezclaban las clases.
 
-- Café Central: open since 1876, frequented by Freud and Trotsky.
-- Café Sperl: since 1880, a favorite of artists and musicians.
-- Café Hawelka: bohemian, open until the early hours, with fresh buchteln.
+- Café Central: abierto desde 1876, frecuentado por Freud y Trotski.
+- Café Sperl: desde 1880, uno de los favoritos de artistas y músicos.
+- Café Hawelka: bohemio, abierto hasta la madrugada, con buchteln recién hechos.
 
-> Viennese coffee isn't a drink — it's an attitude. It's the right to sit, think, and not be disturbed.
+> El café vienés no es una bebida: es una actitud. Es el derecho a sentarse, pensar y que nadie te moleste.
 > 
-> — Stefan Zweig, The World of Yesterday
+> — Stefan Zweig, *El mundo de ayer*
 
-## Viennese service
+## El servicio vienés
 
-In a classic Viennese coffeehouse, coffee is served on a silver tray with a glass of water, a small spoon, and sometimes a chocolate. The waiter (Herr Ober) has a formal but never cold style. You're expected to stay for hours. Asking for the check is your decision, never the waiter's.
+En un café vienés clásico, el café se sirve en una bandeja de plata, con un vaso de agua, una cucharilla y, a veces, un bombón. El camarero (el Herr Ober) tiene un trato formal, pero nunca frío. Se da por hecho que vas a quedarte horas. Pedir la cuenta es decisión tuya, nunca del camarero.
 
-## Visiting them today
+## Visitarlos hoy
 
-The great historic coffeehouses are still open, serving Melange, Einspänner, and Turkish coffee alongside Sachertorte and strudel. They're touristy, yes, but the culture is still real. The trick is to go on a weekday morning, when local regulars still outnumber tourists.
+Los grandes cafés históricos siguen abiertos, sirviendo Melange, Einspänner y café turco junto a la Sachertorte y el strudel. Son turísticos, sí, pero la cultura sigue siendo de verdad. El truco está en ir entre semana por la mañana, cuando los clientes de toda la vida todavía superan en número a los turistas.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [Third wave: what it means and why it matters](/blog/tercera-ola-explicada)
-- [The 10 largest coffee producers in the world (and what makes them unique)](/blog/mejores-paises-productores-cafe)
+- [Tercera ola: qué es y por qué importa](/blog/tercera-ola-explicada)
+- [Los 10 mayores productores de café del mundo (y qué los hace únicos)](/blog/mejores-paises-productores-cafe)
 - [La Colombe Cafe](/blog/cafeter-a-la-colombe)

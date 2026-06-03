@@ -1,54 +1,50 @@
 ---
-title: "How to pull a perfect espresso at home (without breaking the bank)"
-description: "Three baristas, a week of pulls and every grind setting we could try. The honest guide to pulling decent shots from your kitchen."
+title: "Cómo hacer un espresso perfecto en casa (sin arruinarte)"
+description: "Una semana de extracciones probando todos los puntos de molienda posibles. La guía honesta para sacar buenos shots desde tu cocina."
 pubDate: 2026-04-28
 category: "guides"
-tags: ["guides","coffee"]
-author: "Marcos Llovera"
+tags: ["guías","café"]
+author: "Cash Café"
 readingTime: 7
 sources: []
 draft: false
 image: https://images.pexels.com/photos/1233528/pexels-photo-1233528.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-Pulling a good espresso at home isn't magic, and it doesn't require €2,000 of gear. It's a handful of variables that, once you order them, become routine. This is the guide we wish we'd read first.
+Sacar un buen espresso en casa no tiene nada de magia, y tampoco hace falta gastarse 2.000 € en cacharros. Son un puñado de variables que, una vez las ordenas, se convierten en pura rutina. Esta es la guía que nos habría gustado leer al principio.
 
-## The only things that really matter
+## Lo único que de verdad importa
 
-A decent espresso comes down to four things, in this order: fresh coffee, consistent grind, a controlled dose, and stable temperature. Get one wrong and the other three can't save you.
+Un espresso decente se reduce a cuatro cosas, y en este orden: café fresco, una molienda constante, una dosis controlada y una temperatura estable. Falla en una y las otras tres no podrán salvarte.
 
-- Coffee roasted within the last 4 weeks — better still, the last 2.
-- A burr grinder (never blade — really).
-- A scale accurate to 0.1 g. Yes, you need it.
-- A machine with stable boiler and a decent portafilter.
+- Café tostado en las últimas 4 semanas; mejor todavía si son las últimas 2.
+- Un molinillo de muelas (nunca de cuchillas, en serio).
+- Una báscula con precisión de 0,1 g. Sí, la necesitas.
+- Una máquina con caldera estable y un portafiltros decente.
 
-## The ratio that almost always works
+## La ratio que casi siempre funciona
 
-Start with 1:2 — that means 18 g of ground coffee yielding 36 g of espresso in around 28 seconds. If it tastes sour and watery, raise the dose or grind finer. If it tastes bitter and dry, lower the dose or grind coarser. Change one variable at a time.
+Empieza con 1:2, es decir, 18 g de café molido para sacar 36 g de espresso en unos 28 segundos. Si sabe ácido y aguado, sube la dosis o muele más fino. Si sabe amargo y seco, baja la dosis o muele más grueso. Cambia una sola variable cada vez.
 
-> Espresso is a conversation between coffee and water. Your job is to not interrupt.
-> 
-> — Marcos Llovera, barista at La Marzocco Sevilla
+## Los fallos que vemos cada semana
 
-## Mistakes we see every week
+El ochenta por ciento de los problemas que nos consultáis desaparecen con tres arreglos de lo más sosos: limpia el portafiltros después de cada extracción, calienta la taza antes de servir y compra solo café que imprima la fecha de tueste, no la de caducidad.
 
-Eighty percent of the problems people DM us about disappear with three deeply unglamorous fixes: wipe the portafilter after every shot, warm the cup before serving, and only buy coffee that prints a roast date, not an expiration date.
+1. Enjuaga el portafiltros con agua caliente después de cada shot. Sin pastillas, sin jabón.
+2. Haz pasar agua caliente por el grupo, directa a la taza, durante 20 segundos.
+3. Si la bolsa solo pone «consumir preferentemente antes de», devuélvela.
 
-1. Rinse the portafilter with hot water after every shot. No tablets, no soap.
-2. Run hot water through the group head into the cup for 20 seconds.
-3. If the bag prints “best before” only, take it back.
+## ¿Necesitas una máquina cara para empezar?
 
-## Do you need an expensive machine to start?
+No. Una semiautomática de 300-400 € hace shots indistinguibles de los de una máquina de 1.500 € si la acompañas de un buen molinillo. Dilo con nosotros: el molinillo importa más que la máquina. Si vas justo de presupuesto, pon más dinero en la molienda.
 
-No. A €300–400 semi-auto makes shots indistinguishable from a €1,500 machine if you pair it with a good grinder. Say it with us: the grinder matters more than the machine. If your budget is tight, put more money on the grind.
+Es el equipo que regalamos a los amigos que están empezando, y el que pondríamos en una segunda casa sin pensarlo dos veces.
 
-We've spent a month testing the combination we recommend below. It's the setup we gift to friends starting out, and the one we'd put in a second home without thinking twice.
+## Siguientes pasos
 
-## Next steps
+Cuando consigas sacar tres shots seguidos que te gusten de verdad, empieza a jugar con la presión y la temperatura. Si esta guía te ha servido, suscríbete a la newsletter: cada sábado enviamos una receta nueva.
 
-Once you can pull three shots in a row you actually like, start playing with pressure and temperature. If this guide helped you, subscribe to the newsletter — every Saturday we send a fresh recipe.
+## 📚 Sigue leyendo
 
-## 📚 Continue reading
-
-- [French press: the complete step-by-step guide](/blog/french-press-guia-completa)
-- [Berlin Coffee Guide](/blog/caf-en-berl-n)
-- [How to choose coffee beans: roast profile guide](/blog/c-mo-elegir-caf-en-grano-gu-a-por-perfil-de-tostado)
+- [Prensa francesa: la guía completa paso a paso](/blog/french-press-guia-completa)
+- [Guía del café en Berlín](/blog/caf-en-berl-n)
+- [Cómo elegir café en grano: guía por perfil de tostado](/blog/c-mo-elegir-caf-en-grano-gu-a-por-perfil-de-tostado)

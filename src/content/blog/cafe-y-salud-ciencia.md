@@ -1,42 +1,40 @@
 ---
-title: "Coffee and health: what science says in 2026"
-description: "Over 1,000 studies reviewed. Coffee isn't just not bad — it's one of the most studied and beneficial drinks."
+title: "Café y salud: lo que dice la ciencia en 2026"
+description: "Más de 1.000 estudios revisados. El café no solo no es malo: es una de las bebidas más estudiadas y beneficiosas que existen."
 pubDate: 2026-03-15
 category: "culture"
-tags: ["culture","coffee"]
-author: "Ana Rivero"
+tags: ["cultura","café"]
+author: "Cash Café"
 readingTime: 6
 sources: []
 draft: false
 image: https://images.pexels.com/photos/542302/pexels-photo-542302.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-Your grandma said coffee was bad. 2026 science says otherwise. Over 1,000 studies analyzed — here's what we know for certain.
+Tu abuela decía que el café era malo. La ciencia de 2026 dice lo contrario. Se han analizado más de 1.000 estudios, y esto es lo que sabemos con certeza.
 
-## Confirmed benefits
+## Beneficios confirmados
 
-- Reduces type 2 diabetes risk by up to 25% (2024 meta-analysis, Annals of Internal Medicine).
-- Protects against Parkinson's and Alzheimer's (positive dose-response in multiple studies).
-- Rich in antioxidants — for many Europeans, the largest dietary source.
-- Acutely improves physical and cognitive performance.
-- Associated with lower all-cause mortality (3–5 cups/day).
+- Reduce el riesgo de diabetes tipo 2 hasta un 25 % (metaanálisis de 2024, Annals of Internal Medicine).
+- Protege frente al párkinson y el alzhéimer (relación dosis-respuesta positiva en varios estudios).
+- Es rico en antioxidantes: para muchos europeos, la mayor fuente de toda la dieta.
+- Mejora de forma inmediata el rendimiento físico y cognitivo.
+- Se asocia con una menor mortalidad por cualquier causa (de 3 a 5 tazas al día).
 
-## What to keep in mind
+## Lo que conviene tener en cuenta
 
-- Pregnancy: limit to 200 mg/day (1–2 cups). Clear medical consensus.
-- Anxiety: caffeine is a stimulant. If you have anxiety, moderate.
-- Sleep: leave 6 hours between your last coffee and bedtime.
-- Children: not recommended under 12 (AAP).
+- Embarazo: limítalo a 200 mg al día (1 o 2 tazas). Aquí el consenso médico es claro.
+- Ansiedad: la cafeína es un estimulante. Si tiendes a la ansiedad, modéralo.
+- Sueño: deja unas 6 horas entre el último café y la hora de acostarte.
+- Niños: no se recomienda en menores de 12 años (AAP).
 
-## How many cups?
+## ¿Cuántas tazas?
 
-The strongest evidence points to 3–4 cups daily as the sweet spot for most healthy adults. Above 6 adds no extra benefit and may cause jitteriness.
+La evidencia más sólida apunta a entre 3 y 4 tazas al día como el punto óptimo para la mayoría de adultos sanos. A partir de 6, no aporta beneficios extra y puede provocar nerviosismo.
 
-> Coffee is the most researched drink on the planet. And the results are overwhelmingly positive.
-> 
-> — Ana Rivero, editor — summary of published meta-analyses
+> El café es la bebida más investigada del planeta, y los resultados son abrumadoramente positivos.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [Turkish coffee: the world](/blog/cafe-turco-metodo-ancestral)
-- [Fair Trade, Rainforest, UTZ: what coffee certifications actually mean](/blog/certificaciones-cafe-explicadas)
-- [The Viennese coffeehouse: UNESCO heritage and living tradition](/blog/historia-cafeteria-viena)
+- [Café turco: el método ancestral](/blog/cafe-turco-metodo-ancestral)
+- [Comercio justo, Rainforest, UTZ: qué significan de verdad las certificaciones del café](/blog/certificaciones-cafe-explicadas)
+- [El café vienés: patrimonio de la UNESCO y tradición viva](/blog/historia-cafeteria-viena)

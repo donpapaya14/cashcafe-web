@@ -4,15 +4,16 @@ import ArticleCard from '../components/content/ArticleCard.astro';
 import { getCollection } from 'astro:content';
 
 const allPosts = await getCollection('blog', ({ data }) => !data.draft);
-const latestPosts = allPosts
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-  .slice(0, 3);
+const sorted = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const latestPosts = sorted.slice(0, 3);
+// Curiosidades: se actualiza solo desde los artículos de cultura del blog
+const curiosidades = sorted.filter(p => p.data.category === 'culture').slice(0, 3);
 
 ---
 
 <BaseLayout
   title="Cash Café — Cafetería en Beniel (Murcia)"
-  description="Cash Café, la cafetería mejor valorada de Beniel (Murcia). Café de especialidad, desayunos caseros, bocadillos y ambiente familiar. Av. del Reino 16."
+  description="Cash Café, cafetería en Beniel (Murcia). Café de especialidad, desayunos caseros, bocadillos y buen ambiente. Av. del Reino 16 · 4,7★ en Google."
 >
   <!-- Hero local -->
   <section class="hero">
@@ -53,7 +54,7 @@ const latestPosts = allPosts
         <div class="eyebrow">Visítanos</div>
         <h2 class="section-title">Av. del Reino, 16 · Beniel</h2>
         <p class="lede" style="max-width:560px">
-          Somos una cafetería pequeña con el mejor café de la zona. Llevamos más de 10 años ofreciendo los mejores desayunos en Beniel.
+          Una cafetería pequeña en el centro de Beniel, donde cuidamos el café y preparamos desayunos caseros cada mañana.
         </p>
 
         <ul class="visit-info">
@@ -175,41 +176,70 @@ const latestPosts = allPosts
     </div>
   </section>
 
-  <!-- Eventos -->
-  <section id="eventos" class="section section--alt">
+  <!-- Tipos de café -->
+  <section id="tipos" class="section section--alt">
     <div class="container">
       <div class="section__header">
         <div>
-          <div class="eyebrow">Lo que se mueve</div>
-          <h2 class="section-title">Eventos en el local</h2>
+          <div class="eyebrow">Para aprender</div>
+          <h2 class="section-title">Tipos de café</h2>
         </div>
       </div>
-      <p class="lede" style="max-width:640px">
-        Catas guiadas, talleres de barista y tardes de música acústica.
-        Aforo reducido para que se disfrute sin agobios — pásate por el local para apuntarte.
+      <p class="lede" style="max-width:640px;margin-bottom:24px">
+        Lo básico para entender lo que hay en tu taza. Si quieres profundizar,
+        en el blog lo contamos con calma.
       </p>
 
-      <div class="events-grid">
-        <article class="event-card">
-          <div class="event-card__tag">Cata</div>
-          <h3>Cata de café de especialidad</h3>
-          <p>Catamos 3 orígenes distintos en V60. Aprende a leer aroma, acidez y cuerpo. Plazas: 8.</p>
+      <div class="coffee-types-grid">
+        <article class="type-card">
+          <div class="type-card__kicker">Variedad</div>
+          <h3>Arábica</h3>
+          <p>La más cultivada y apreciada. Aromática, con muchos matices, acidez agradable y menos cafeína. Es la base del café de especialidad.</p>
         </article>
-        <article class="event-card">
-          <div class="event-card__tag">Taller</div>
-          <h3>Iniciación al espresso casero</h3>
-          <p>Molienda, dosis, tamping y extracción. Te llevas la receta para tu cafetera. Plazas: 6.</p>
+        <article class="type-card">
+          <div class="type-card__kicker">Variedad</div>
+          <h3>Robusta</h3>
+          <p>Más cuerpo, sabor intenso y amargo, y casi el doble de cafeína. Aporta crema y fuerza: clave en muchos espressos italianos.</p>
         </article>
-        <article class="event-card">
-          <div class="event-card__tag">Música</div>
-          <h3>Acústico de tarde</h3>
-          <p>Música en directo en la terraza, formato íntimo. Consumo libre, mesas limitadas.</p>
+        <article class="type-card">
+          <div class="type-card__kicker">Tueste</div>
+          <h3>Claro o tueste oscuro</h3>
+          <p>El tueste claro respeta el origen: más ácido y afrutado. El oscuro es más amargo y achocolatado, con menos matices. Ni mejor ni peor: cuestión de gusto.</p>
+        </article>
+        <article class="type-card">
+          <div class="type-card__kicker">Origen</div>
+          <h3>Origen único o mezcla</h3>
+          <p>El origen único viene de una sola finca o región y sabe a ese lugar. La mezcla busca equilibrio y constancia, taza tras taza.</p>
         </article>
       </div>
+    </div>
+  </section>
 
-      <p class="micro" style="margin-top:24px;color:var(--ink-3)">
-        Fechas concretas de cada evento — síguenos en
-      </p>
+  <!-- Curiosidades del café (se actualiza solo desde el blog) -->
+  <section id="curiosidades" class="section">
+    <div class="container">
+      <div class="section__header">
+        <div>
+          <div class="eyebrow">Cultura y curiosidades</div>
+          <h2 class="section-title">Curiosidades del café</h2>
+        </div>
+        <a href="/categoria/culture" class="section__link">Ver más &rarr;</a>
+      </div>
+      {curiosidades.length > 0 && (
+        <div class="articles-grid">
+          {curiosidades.map(post => (
+            <ArticleCard
+              title={post.data.title}
+              description={post.data.description}
+              pubDate={post.data.pubDate}
+              category={post.data.category}
+              slug={post.id}
+              image={post.data.image}
+              readingTime={post.data.readingTime}
+            />
+          ))}
+        </div>
+      )}
     </div>
   </section>
 
@@ -220,7 +250,8 @@ const latestPosts = allPosts
         <div class="eyebrow">Contacto</div>
         <h2 class="section-title">Pásate a vernos</h2>
         <p class="lede" style="max-width:520px">
-          Estamos en el centro de Beniel. Síguenos en redes para enterarte de eventos y novedades.
+          Estamos en el centro de Beniel, a pie de calle. Pásate a tomar un café
+          y a desayunar con calma.
         </p>
 
         <ul class="contact-list">
@@ -233,14 +264,12 @@ const latestPosts = allPosts
             <span>Lun–Vie 06:45–15:00 · Sáb 06:45–14:00 · Dom cerrado</span>
           </li>
           <li>
-            <strong>Instagram</strong>
-          </li>
-          <li>
-            <strong>Facebook</strong>
+            <strong>Valoración</strong>
+            <span>4,7★ · 86 reseñas en Google</span>
           </li>
           <li>
             <strong>Google Maps</strong>
-            <span><a href="https://maps.google.com/?cid=cash+cafe+beniel" target="_blank" rel="noopener">Cómo llegar</a></span>
+            <span><a href="https://www.google.com/maps?q=Avenida+del+Reino+16+Beniel+Murcia" target="_blank" rel="noopener">Cómo llegar</a></span>
           </li>
         </ul>
 
@@ -384,15 +413,15 @@ const latestPosts = allPosts
     line-height: 1.5;
   }
 
-  /* Eventos */
-  .events-grid {
+  /* Tipos de café */
+  .coffee-types-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 24px;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
     margin-top: 16px;
   }
-  .event-card {
-    padding: 26px 22px;
+  .type-card {
+    padding: 24px 22px;
     border: 0.5px solid var(--line);
     border-radius: 14px;
     background: color-mix(in oklab, var(--bg) 85%, transparent);
@@ -400,33 +429,30 @@ const latestPosts = allPosts
     display: flex;
     flex-direction: column;
     gap: 8px;
+    transition: border-color .2s ease, transform .2s ease;
   }
-  .event-card__tag {
+  .type-card:hover { border-color: var(--line-strong); transform: translateY(-2px); }
+  .type-card__kicker {
     font-size: 11px;
     text-transform: uppercase;
     letter-spacing: 0.12em;
     color: var(--accent);
     font-weight: 700;
   }
-  .event-card h3 {
+  .type-card h3 {
     font-family: var(--font-display);
-    font-size: 20px;
+    font-size: 21px;
     color: var(--ink-1);
   }
-  .event-card p {
+  .type-card p {
     color: var(--ink-2);
     font-size: 14px;
-    line-height: 1.55;
+    line-height: 1.6;
     flex-grow: 1;
   }
-  .event-card__cta {
-    color: var(--accent);
-    font-weight: 600;
-    font-size: 14px;
-    text-decoration: none;
-    margin-top: 6px;
+  @media (max-width: 1040px) {
+    .coffee-types-grid { grid-template-columns: repeat(2, 1fr); }
   }
-  .event-card__cta:hover { color: var(--ink-1); }
 
   /* Contacto */
   .contact-grid {
@@ -462,7 +488,7 @@ const latestPosts = allPosts
   @media (max-width: 900px) {
     .visit-grid,
     .signature-grid,
-    .events-grid,
+    .coffee-types-grid,
     .menu-grid,
     .contact-grid { grid-template-columns: 1fr; }
   }

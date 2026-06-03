@@ -1,10 +1,10 @@
 ---
-title: "How to Make AeroPress Coffee: 5 Recipes That Actually Work"
-description: "Unlock 5 expert AeroPress recipes for the perfect cup"
+title: "Cómo preparar café con AeroPress: 5 recetas que funcionan de verdad"
+description: "Descubre 5 recetas de AeroPress de nivel experto para una taza perfecta"
 pubDate: 2026-05-17
 category: "recipes"
-tags: ["aeropress recipes", "best aeropress recipe", "aeropress inverted method", "aeropress championship recipe", "coffee brewing", "specialty coffee", "coffee maker", "aeropress coffee maker"]
-author: "Vladys Z."
+tags: ["recetas aeropress", "mejor receta aeropress", "método invertido aeropress", "receta campeonato aeropress", "preparación de café", "café de especialidad", "cafetera", "cafetera aeropress"]
+author: "Cash Café"
 readingTime: 4
 
 sources:
@@ -16,82 +16,77 @@ sources:
 draft: false
 ---
 
-## Introduction to AeroPress Recipes
-To make the perfect cup of coffee using an AeroPress, it's essential to understand the different **aeropress recipes** available. The primary keyword for this article is **aeropress recipes**, and we will also be covering **best aeropress recipe** and **aeropress inverted method**. According to [Alan Adler](https://aeropress.com/), the inventor of the AeroPress, the standard ratio of coffee to water is 1:15.
+## Introducción a las recetas de AeroPress
+Para preparar la taza perfecta con una AeroPress conviene conocer las distintas **recetas de AeroPress** que tienes a tu alcance. En este artículo nos centraremos en las **recetas de AeroPress**, y también veremos cuál es la **mejor receta de AeroPress** y en qué consiste el **método invertido de AeroPress**. Según [Alan Adler](https://aeropress.com/), inventor de la AeroPress, la proporción estándar de café y agua es de 1:15.
 
-## Standard Upright Recipe
-The original method, as described by **Alan Adler** in 2005, involves using a standard ratio of 1:15 and a grind size between drip and espresso. This method is simple and produces a great cup of coffee.
-1. Heat water to 80°C (176°F).
-2. Add 17 grams of coffee to the AeroPress.
-3. Pour 255 grams of water over the coffee.
-4. Stir and steep for 1-2 minutes.
-5. Press the mixture to produce the coffee.
-As recommended by [Specialty Coffee Association](https://sca.coffee/), the brewing temperature should be between 93°C and 96°C (200°F to 205°F).
+## Receta clásica (posición normal)
+El método original, tal y como lo describió **Alan Adler** en 2005, usa una proporción de 1:15 y una molienda entre la de filtro y la de espresso. Es un método sencillo que da como resultado una taza excelente.
+1. Calienta el agua a 80 °C (176 °F).
+2. Añade 17 gramos de café a la AeroPress.
+3. Vierte 255 gramos de agua sobre el café.
+4. Remueve y deja reposar entre 1 y 2 minutos.
+5. Presiona la mezcla para extraer el café.
+Según la [Specialty Coffee Association](https://sca.coffee/), la temperatura de extracción debería situarse entre 93 °C y 96 °C (200 °F a 205 °F).
 
-## Inverted Method
-The **inverted method** allows for a longer steep time before pressing, which can result in a more flavorful cup of coffee. According to the [Specialty Coffee Association](https://sca.coffee/), this method can produce a more balanced extraction. The benefits of the inverted method include:
-* Longer steep time
-* More flavorful coffee
-* Easier to clean
+## Método invertido
+El **método invertido** permite un reposo más largo antes de presionar, lo que puede dar una taza con más matices. Según la [Specialty Coffee Association](https://sca.coffee/), este método puede lograr una extracción más equilibrada. Sus ventajas son:
+* Tiempo de reposo más largo
+* Café con más sabor
+* Más fácil de limpiar
 
-## World Championship Recipes
-The World AeroPress Championship, started in Norway in 2008, has produced some amazing **aeropress championship recipe** winners. These recipes often involve unique combinations of coffee and water ratios, as well as different steeping times. For example, the 2019 winner used a ratio of 1:12 and steeped the coffee for 2 minutes and 15 seconds.
-| Year | Winner | Ratio | Steep Time |
+## Recetas de campeonato mundial
+El Campeonato Mundial de AeroPress, que arrancó en Noruega en 2008, nos ha dejado algunas **recetas de campeonato de AeroPress** memorables. Estas recetas suelen jugar con combinaciones poco habituales de proporciones de café y agua, además de distintos tiempos de reposo. Por ejemplo, el ganador de 2019 usó una proporción de 1:12 y dejó reposar el café durante 2 minutos y 15 segundos.
+| Año | Ganador | Proporción | Tiempo de reposo |
 | --- | --- | --- | --- |
-| 2019 | [Winner's Name](https://worldaeropresschampionship.com/) | 1:12 | 2:15 |
-| 2018 | [Winner's Name](https://worldaeropresschampionship.com/) | 1:15 | 1:45 |
+| 2019 | [Nombre del ganador](https://worldaeropresschampionship.com/) | 1:12 | 2:15 |
+| 2018 | [Nombre del ganador](https://worldaeropresschampionship.com/) | 1:15 | 1:45 |
 
-## Tips for Consistent Shots
-To achieve consistent shots, it's essential to optimize the brewing temperature to 80°C (176°F), as recommended by **Alan Adler** in 2005. Not using boiling water can help prevent over-extraction and produce a more balanced cup of coffee. Additionally, using fresh, high-quality coffee beans can make a significant difference in the flavor of the coffee.
-1. Use fresh, high-quality coffee beans.
-2. Optimize the brewing temperature to 80°C (176°F).
-3. Experiment with different ratios and steeping times.
+## Trucos para tazas consistentes
+Para conseguir tazas consistentes conviene ajustar la temperatura de extracción a 80 °C (176 °F), tal y como recomendaba **Alan Adler** en 2005. No usar agua hirviendo ayuda a evitar la sobreextracción y a lograr una taza más equilibrada. Además, utilizar granos de café frescos y de calidad marca una gran diferencia en el sabor.
+1. Usa granos de café frescos y de calidad.
+2. Ajusta la temperatura de extracción a 80 °C (176 °F).
+3. Experimenta con distintas proporciones y tiempos de reposo.
 
-## Frequently Asked Questions
-### What is the best aeropress recipe?
-The best **aeropress recipe** is subjective and depends on personal taste preferences. However, a good starting point is the standard ratio of 1:15 and a steeping time of 1-2 minutes. According to [James Hoffmann](https://www.jimseven.com/), a well-known coffee expert, the key to a great cup of coffee is to experiment and find the perfect balance of flavors.
-### How do I clean my AeroPress?
-Cleaning the AeroPress is simple and essential to maintain its quality. According to the [AeroPress official website](https://aeropress.com/), the AeroPress should be washed with mild soap and warm water after each use.
-### What is the difference between the standard and inverted methods?
-The main difference between the standard and **inverted method** is the steeping time. The inverted method allows for a longer steep time, which can result in a more flavorful cup of coffee.
-### Can I use the AeroPress to make other beverages?
-Yes, the AeroPress can be used to make other beverages, such as tea and cold brew coffee. According to [Barista Hustle](https://www.baristahustle.com/), the AeroPress is a versatile brewing device that can be used to make a variety of beverages.
-### How do I troubleshoot common issues with my AeroPress?
-Common issues with the AeroPress include clogged filters and uneven extraction. According to the [AeroPress official website](https://aeropress.com/), these issues can be resolved by cleaning the filter and adjusting the grind size.
-### What are some related products to the AeroPress?
-Some related products to the AeroPress include the [AeroPress Coffee Maker](https://www.amazon.com/AeroPress-Coffee-Maker/dp/B0002QQLSQ?tag=vds96-20) and the [AeroPress Filter Cap](https://www.amazon.com/AeroPress-Filter-Cap/dp/B07B9R7RYG?tag=vds96-20).
+## Preguntas frecuentes
+### ¿Cuál es la mejor receta de AeroPress?
+La **mejor receta de AeroPress** es subjetiva y depende del gusto de cada uno. Aun así, un buen punto de partida es la proporción estándar de 1:15 con un tiempo de reposo de 1 a 2 minutos. Según [James Hoffmann](https://www.jimseven.com/), reconocido experto en café, la clave de una buena taza está en experimentar hasta dar con el equilibrio de sabores perfecto.
+### ¿Cómo limpio mi AeroPress?
+Limpiar la AeroPress es sencillo y fundamental para mantenerla en buen estado. Según la [web oficial de AeroPress](https://aeropress.com/), conviene lavarla con jabón suave y agua templada después de cada uso.
+### ¿Cuál es la diferencia entre el método normal y el invertido?
+La principal diferencia entre el método normal y el **método invertido** es el tiempo de reposo. El método invertido permite un reposo más largo, lo que puede dar una taza con más sabor.
+### ¿Puedo usar la AeroPress para otras bebidas?
+Sí, la AeroPress sirve para preparar otras bebidas, como té o café cold brew. Según [Barista Hustle](https://www.baristahustle.com/), la AeroPress es un sistema de extracción versátil con el que puedes preparar todo tipo de bebidas.
+### ¿Cómo soluciono problemas habituales con mi AeroPress?
+Los problemas más comunes con la AeroPress son los filtros atascados y la extracción desigual. Según la [web oficial de AeroPress](https://aeropress.com/), se resuelven limpiando el filtro y ajustando la molienda.
 
-## My Take
-As a trained chef and app developer who brews coffee daily, I can attest to the importance of using high-quality coffee beans and experimenting with different ratios and steeping times. My personal favorite **aeropress recipe** involves a ratio of 1:12 and a steeping time of 2 minutes. I also appreciate the versatility of the AeroPress and the fact that it can be used to make other beverages, such as tea and cold brew coffee.
-In my experience, the key to a great cup of coffee is to find the perfect balance of flavors and to experiment with different brewing methods. The AeroPress is an excellent brewing device that allows for a high degree of customization and experimentation.
-I highly recommend the AeroPress to anyone who is serious about coffee and wants to take their brewing to the next level.
+## En resumen
+Como conclusión, la AeroPress es un sistema de extracción versátil que admite un alto grado de personalización: puedes ajustar proporción, molienda, temperatura y tiempo de reposo hasta dar con tu taza ideal. La proporción estándar de 1:15 es un buen punto de partida, y a partir de ahí merece la pena experimentar. Y recuerda: con granos frescos y agua que no llegue a hervir, ganas mucho en equilibrio y sabor.
 
 
 
-### You might also like
+### También te puede interesar
 
-- [Third wave: what it means and why it matters](/blog/tercera-ola-explicada)
-- [Upgrade Your Coffee Game](/blog/mejora-tu-caf-con-accesorios)
-- [How to choose whole bean coffee: origin, roast and freshness](/blog/como-elegir-cafe-en-grano)
-- [Best Burr Grinder Under $200 for Pour Over and Drip](/blog/best-burr-grinder-under-200-for-pour-over-and-drip)
+- [La tercera ola: qué significa y por qué importa](/blog/tercera-ola-explicada)
+- [Mejora tu café con accesorios](/blog/mejora-tu-caf-con-accesorios)
+- [Cómo elegir café en grano: origen, tueste y frescura](/blog/como-elegir-cafe-en-grano)
+- [Mejor molinillo de muelas por menos de 200 $ para pour over y filtro](/blog/best-burr-grinder-under-200-for-pour-over-and-drip)
 
-## Practical Summary
-Here are some concrete action bullets to summarize the article:
-* Use the standard ratio of 1:15 as a starting point for your **aeropress recipes**.
-* Experiment with different ratios and steeping times to find your perfect cup of coffee.
-* Optimize the brewing temperature to 80°C (176°F) for a more balanced extraction.
-* Use fresh, high-quality coffee beans for the best flavor.
-* Clean the AeroPress regularly to maintain its quality.
-* Consider using related products, such as the [AeroPress Filter Cap](https://www.amazon.com/AeroPress-Filter-Cap/dp/B07B9R7RYG?tag=vds96-20), to enhance your brewing experience.
-* Try the **inverted method** for a longer steep time and a more flavorful cup of coffee.
+## Resumen práctico
+Estas son las acciones concretas que resumen el artículo:
+* Usa la proporción estándar de 1:15 como punto de partida para tus **recetas de AeroPress**.
+* Experimenta con distintas proporciones y tiempos de reposo hasta encontrar tu taza perfecta.
+* Ajusta la temperatura de extracción a 80 °C (176 °F) para una extracción más equilibrada.
+* Usa granos de café frescos y de calidad para el mejor sabor.
+* Limpia la AeroPress con regularidad para mantenerla en buen estado.
+* Prueba el **método invertido** para conseguir un reposo más largo y una taza con más sabor.
 
 
 ---
 
-*Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+*CashCafe es contenido editorial sobre café basado en pruebas reales y ciencia citada. Aviso de afiliados en el [aviso legal](/legal-notice).*
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [Homemade nitro coffee: how to make it without professional gear](/blog/nitro-coffee-casero)
-- [Matcha latte vs coffee latte: preparation and differences](/blog/matcha-latte-vs-cafe-latte)
-- [AeroPress guide for beginners: your first specialty coffee](/blog/guia-aeropress-principiantes)
+- [Nitro coffee casero: cómo hacerlo sin equipo profesional](/blog/nitro-coffee-casero)
+- [Matcha latte vs café latte: preparación y diferencias](/blog/matcha-latte-vs-cafe-latte)
+- [Guía de AeroPress para principiantes: tu primer café de especialidad](/blog/guia-aeropress-principiantes)

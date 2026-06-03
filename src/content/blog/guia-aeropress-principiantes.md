@@ -1,46 +1,42 @@
 ---
-title: "AeroPress guide for beginners: your first specialty coffee"
-description: "€30, one recipe, two minutes. The AeroPress is the cheapest way to try specialty coffee at home."
+title: "Guía de AeroPress para principiantes: tu primer café de especialidad"
+description: "30 €, una receta y dos minutos. La AeroPress es la forma más barata de probar el café de especialidad en casa."
 pubDate: 2026-04-25
 category: "recipes"
-tags: ["recipes","coffee"]
-author: "Marcos Llovera"
+tags: ["recetas","café"]
+author: "Cash Café"
 readingTime: 6
 sources: []
 draft: false
 image: https://images.pexels.com/photos/894695/pexels-photo-894695.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-The AeroPress costs €30, fits in a backpack, and produces coffee that rivals €300 methods. If you want an entry point to specialty coffee, start here.
+La AeroPress cuesta 30 €, cabe en una mochila y prepara un café que no tiene nada que envidiar a métodos de 300 €. Si buscas una puerta de entrada al café de especialidad, empieza por aquí.
 
-## Standard vs inverted method
+## Método estándar vs invertido
 
-Standard is easier: insert filter, add coffee and hot water, press. Inverted flips it (literally) for better immersion control. Start with standard.
+El estándar es más fácil: pones el filtro, añades el café y el agua caliente, y prensas. El invertido le da la vuelta (literalmente) para controlar mejor la inmersión. Empieza por el estándar.
 
-## Base recipe (2 minutes)
+## Receta base (2 minutos)
 
-1. Insert paper filter, rinse with hot water.
-2. Add 15 g medium-ground coffee (like table sugar).
-3. Pour 200 g water at 85 °C.
-4. Stir for 10 seconds with the paddle.
-5. Place plunger on top (seal). Wait 1 minute.
-6. Press slowly and steadily for 30 seconds.
+1. Coloca el filtro de papel y enjuágalo con agua caliente.
+2. Añade 15 g de café con molido medio (parecido al azúcar de mesa).
+3. Vierte 200 g de agua a 85 °C.
+4. Remueve 10 segundos con la paleta.
+5. Pon el émbolo encima para que selle. Espera 1 minuto.
+6. Prensa despacio y con firmeza durante 30 segundos.
 
-## Why it works so well
+## Por qué funciona tan bien
 
-It combines immersion (like French press) with pressure (like espresso). The result is clean, full-bodied coffee with no sediment. The lower temperature (85 °C) reduces bitterness and highlights sweetness.
+Combina la inmersión (como la prensa francesa) con la presión (como el espresso). El resultado es un café limpio, con cuerpo y sin posos. La temperatura más baja (85 °C) reduce el amargor y resalta el dulzor.
 
-> The AeroPress is the Swiss army knife of coffee. Simple, portable, and surprisingly good.
-> 
-> — Marcos Llovera, head barista
+## Ajustes rápidos
 
-## Quick adjustments
+- Demasiado ácido → muele más fino o sube la temperatura a 90 °C.
+- Demasiado amargo → muele más grueso o baja a 80 °C.
+- Demasiado aguado → usa 17 g de café en vez de 15 g.
 
-- Too sour → grind finer or raise temp to 90 °C.
-- Too bitter → grind coarser or lower to 80 °C.
-- Too watery → use 17 g coffee instead of 15 g.
+## 📚 Sigue leyendo
 
-## 📚 Continue reading
-
-- [Cold brew vs iced coffee: they](/blog/cold-brew-vs-cafe-frio)
-- [Coffee for productivity](/blog/caf-perfecto-para-trabajar)
-- [Irish Coffee: the original recipe and why you](/blog/receta-irish-coffee-original)
+- [Cold brew vs café frío](/blog/cold-brew-vs-cafe-frio)
+- [Café para la productividad](/blog/caf-perfecto-para-trabajar)
+- [Irish Coffee: la receta original](/blog/receta-irish-coffee-original)

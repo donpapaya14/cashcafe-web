@@ -1,46 +1,42 @@
 ---
-title: "Homemade nitro coffee: how to make it without professional gear"
-description: "Café nitro looks like magic: creamy foam, Guinness texture, zero sugar. You can replicate it at home with a whipped cream dispenser."
+title: "Café nitro casero: cómo hacerlo sin equipo profesional"
+description: "El café nitro parece magia: espuma cremosa, textura tipo Guinness y cero azúcar. Puedes replicarlo en casa con un sifón de cocina."
 pubDate: 2026-04-28
 category: "recipes"
-tags: ["recipes","coffee"]
-author: "Ana Rivero"
+tags: ["recetas","café"]
+author: "Cash Café"
 readingTime: 6
 sources: []
 draft: false
 image: https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-Nitro coffee infuses cold brew with nitrogen to create a velvety texture and persistent foam without milk or sugar. Cafés use kegs and pressure systems, but at home you can get a similar result with a whipped cream dispenser and an N2O cartridge.
+El café nitro infusiona cold brew con nitrógeno para conseguir una textura aterciopelada y una espuma que aguanta sin necesidad de leche ni azúcar. Las cafeterías usan barriles y sistemas de presión, pero en casa puedes lograr un resultado muy parecido con un sifón de cocina y una carga de N2O.
 
-## What you need
+## Qué necesitas
 
-- Concentrated cold brew (1:5 ratio, steeped 16-24 hours in the fridge).
-- Half-liter whipped cream dispenser (ISI or similar).
-- N2O cartridges (nitrous oxide). One or two per half liter.
-- A chilled glass for serving.
+- Cold brew concentrado (proporción 1:5, reposado de 16 a 24 horas en la nevera).
+- Sifón de cocina de medio litro (ISI o similar).
+- Cargas de N2O (óxido nitroso). Una o dos por cada medio litro.
+- Un vaso bien frío para servir.
 
-## Preparation
+## Preparación
 
-1. Make the concentrated cold brew ahead: 100 g of coarse coffee in 500 ml of cold water for 16-24 hours. Filter thoroughly.
-2. Pour the cold brew into the dispenser. Don't fill past 80%.
-3. Charge one N2O cartridge, shake vigorously for 30 seconds.
-4. Rest the dispenser in the fridge for 30 minutes to let the gas integrate.
-5. Serve into a chilled glass, dispensing from the siphon. The bubble cascade should appear in seconds.
+1. Prepara el cold brew concentrado con antelación: 100 g de café de molienda gruesa en 500 ml de agua fría durante 16-24 horas. Fíltralo bien.
+2. Vierte el cold brew en el sifón. No lo llenes más del 80 %.
+3. Carga una bombona de N2O y agita con fuerza durante 30 segundos.
+4. Deja el sifón reposar en la nevera 30 minutos para que el gas se integre.
+5. Sirve en un vaso bien frío directamente desde el sifón. La cascada de burbujas debería aparecer en cuestión de segundos.
 
-> Nitro coffee isn't a gimmick — it's a legitimate way to change coffee's texture without adding anything. Just gas and cold.
-> 
-> — Ana Rivero, editor
+## Trucos para que salga mejor
 
-## Tips for better results
+Usa un café de tueste medio con notas a chocolate o caramelo: son los que mejor combinan con la textura cremosa del nitro. Sírvelo sin hielo, porque el hielo rompe la espuma. Y, si quieres una espuma más densa, mete dos cargas en lugar de una.
 
-Use medium-roast coffee with chocolate or caramel notes — they work best with nitro's creamy texture. Serve without ice: ice breaks the foam. And use two cartridges instead of one if you want denser foam.
+## En qué se diferencia del nitro de verdad
 
-## Difference from real nitro
+El café nitro de cafetería usa nitrógeno puro (N2), que genera burbujas más finas. El N2O del sifón produce burbujas algo más grandes, pero el resultado visual y la sensación en boca son comparables en torno a un 80 %. Para tomarlo en casa, va más que de sobra.
 
-Café nitro uses pure nitrogen (N2), which creates finer bubbles. N2O from a cream dispenser produces slightly larger bubbles, but the visual and mouthfeel is about 80% comparable. For home use, it's more than enough.
+## 📚 Sigue leyendo
 
-## 📚 Continue reading
-
-- [Japanese cold drip coffee (Kyoto drip method)](/blog/cafe-filtrado-frio-japones)
-- [Latte art for beginners: your first heart](/blog/latte-art-principiantes)
-- [Espresso Martini: the recipe Madrid cocktail bars actually use](/blog/receta-espresso-martini)
+- [Café filtrado en frío japonés (método de goteo de Kioto)](/blog/cafe-filtrado-frio-japones)
+- [Latte art para principiantes: tu primer corazón](/blog/latte-art-principiantes)
+- [Espresso Martini: la receta que de verdad usan las coctelerías de Madrid](/blog/receta-espresso-martini)

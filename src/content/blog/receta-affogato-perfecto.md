@@ -1,44 +1,42 @@
 ---
-title: "Perfect affogato: espresso + ice cream in 2 minutes"
-description: "The simplest and most satisfying dessert in the coffee world. One shot, one scoop, and a minimum of common sense."
+title: "Affogato perfecto: espresso + helado en 2 minutos"
+description: "El postre más sencillo y satisfactorio del mundo del café. Un shot, una bola de helado y un poco de sentido común."
 pubDate: 2026-04-25
 category: "recipes"
-tags: ["recipes","coffee"]
-author: "Marcos Llovera"
+tags: ["recetas","café"]
+author: "Cash Café"
 readingTime: 5
 sources: []
 draft: false
 image: https://images.pexels.com/photos/1233521/pexels-photo-1233521.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-The affogato is not a complex recipe. It's hot espresso poured over vanilla ice cream. But the difference between a mediocre one and a memorable one comes down to three decisions you can make in 30 seconds.
+El affogato no tiene ningún misterio: es un espresso caliente vertido sobre helado de vainilla. Pero la diferencia entre uno del montón y uno que recuerdas se reduce a tres decisiones que tomas en 30 segundos.
 
-## Ingredients
+## Ingredientes
 
-- A freshly pulled double espresso (30-36 ml) with thick crema.
-- A generous scoop of quality vanilla ice cream. Nothing from an industrial tub.
-- A pre-warmed glass or cup, 150-200 ml.
+- Un espresso doble recién extraído (30-36 ml) con una crema espesa.
+- Una bola generosa de helado de vainilla de calidad. Nada de tarrina industrial.
+- Un vaso o taza precalentado, de 150-200 ml.
 
-## Preparation
+## Preparación
 
-1. Take the ice cream out of the freezer 2 minutes early so it's not rock-hard.
-2. Place the scoop in the glass.
-3. Pull the espresso directly onto the ice cream.
-4. Serve immediately. Don't stir — let each spoonful mix hot and cold.
+1. Saca el helado del congelador 2 minutos antes para que no esté como una piedra.
+2. Pon la bola en el vaso.
+3. Vierte el espresso directamente sobre el helado.
+4. Sírvelo al momento. No lo remuevas: deja que cada cucharada mezcle el calor y el frío.
 
-> The affogato is the barista's perfect dessert: it demands excellent espresso and zero pastry skills.
-> 
-> — Marcos Llovera, head barista
+> El affogato es el postre perfecto del barista: exige un espresso excelente y cero conocimientos de repostería.
 
-## Variations that work
+## Variaciones que funcionan
 
-Swap vanilla for hazelnut or pistachio ice cream. Add a splash of amaretto or Baileys for an after-dinner treat. Try white chocolate ice cream with a dark-roast espresso for a stunning contrast.
+Cambia la vainilla por helado de avellana o de pistacho. Añade un chorrito de amaretto o de Baileys para un final de comida. Prueba el helado de chocolate blanco con un espresso de tueste oscuro para un contraste espectacular.
 
-## Mistakes to avoid
+## Errores que evitar
 
-Don't use filter coffee — you need the concentration and crema of espresso. Don't use melted ice cream or ice cream that's too hard. And don't let it sit: the affogato is eaten in the moment, while the temperature contrast is at its peak.
+No uses café de filtro: necesitas la concentración y la crema del espresso. No emplees helado derretido ni demasiado duro. Y no lo dejes reposar: el affogato se toma en el momento, cuando el contraste de temperatura está en su punto álgido.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [Espresso Martini: the recipe Madrid cocktail bars actually use](/blog/receta-espresso-martini)
-- [Latte art for beginners: your first heart](/blog/latte-art-principiantes)
-- [Japanese cold drip coffee (Kyoto drip method)](/blog/cafe-filtrado-frio-japones)
+- [Espresso Martini: la receta que usan de verdad las cocteleras de Madrid](/blog/receta-espresso-martini)
+- [Latte art para principiantes: tu primer corazón](/blog/latte-art-principiantes)
+- [Café filtrado en frío al estilo japonés (método Kyoto drip)](/blog/cafe-filtrado-frio-japones)

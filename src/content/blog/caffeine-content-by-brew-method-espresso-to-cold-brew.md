@@ -1,10 +1,10 @@
 ---
-title: "Caffeine Content by Brew Method: Espresso to Cold Brew"
-description: "Discover how brew method affects caffeine intake"
+title: "Cafeína según el método de preparación: del espresso al cold brew"
+description: "Descubre cómo el método de preparación influye en la cafeína que tomas"
 pubDate: 2026-05-20
 category: "brewing"
-tags: ["caffeine content coffee", "coffee caffeine comparison", "caffeine by brew method", "espresso vs drip caffeine", "brewing methods", "coffee roast levels", "Arabica vs Robusta", "Aeropress Coffee Maker"]
-author: "Vladys Z."
+tags: ["cafeína del café", "comparativa de cafeína en el café", "cafeína según método de preparación", "espresso vs filtrado cafeína", "métodos de preparación", "niveles de tueste", "Arábica vs Robusta", "cafetera Aeropress"]
+author: "Cash Café"
 readingTime: 4
 
 sources:
@@ -12,92 +12,91 @@ sources:
   - "USDA. (2020). Coffee and Caffeine."
   - "Peer-reviewed study on coffee brewing. (2019). Journal of Food Science."
   - "SCA. (2018). Coffee Roast Levels."
-  - "Named barista, coffee expert. (2022). Coffee and Caffeine."
 draft: false
 ---
 
 
-## Introduction to Caffeine Content by Brew Method
-The **caffeine content coffee** varies significantly based on the brew method, with factors such as water solubility and extraction yield playing crucial roles. According to the Specialty Coffee Association (2020), the brew method is essential in determining the final **caffeine content** of the coffee. For instance, the SCA standards target an extraction yield of 18-22% for balanced espresso (Specialty Coffee Association, Brewing Standard 2018).
+## Cafeína según el método de preparación
+La **cafeína del café** cambia bastante según cómo lo prepares, y entran en juego factores como la solubilidad en agua y el rendimiento de extracción. Según la Specialty Coffee Association (2020), el método de preparación es clave para determinar la **cafeína final** de la taza. Por ejemplo, los estándares de la SCA marcan como objetivo un rendimiento de extracción del 18-22 % para un espresso equilibrado (Specialty Coffee Association, Brewing Standard 2018).
 
-## Why Method Matters
-The **coffee caffeine comparison** between different brew methods reveals that the method of brewing has a significant impact on the **caffeine by brew method**. This is due to the varying levels of water solubility and extraction yields. As noted by the Specialty Coffee Association (2020), the brew method affects the final **caffeine content coffee**.
+## Por qué importa el método
+Al hacer la **comparativa de cafeína en el café** entre distintos métodos se ve que la forma de prepararlo influye mucho en la **cafeína según el método de preparación**. Y eso se debe a los distintos niveles de solubilidad en agua y de rendimiento de extracción. Como señala la Specialty Coffee Association (2020), el método afecta a la **cafeína del café** que acaba en la taza.
 
-## Caffeine per Ounce vs per Serving
-When comparing the **caffeine content** of different brew methods, it's essential to consider both the **caffeine per ounce** and **per serving**. According to the USDA (2020), an 8oz cup of **drip coffee** typically contains around **95mg** of caffeine, while a single **espresso shot** contains approximately **63mg**. In contrast, **cold brew concentrates** can have over **200mg** of caffeine per serving.
+## Cafeína por onza frente a cafeína por ración
+Cuando comparas la **cafeína** de los distintos métodos, conviene mirar tanto la **cafeína por onza** como la **cafeína por ración**. Según el USDA (2020), una taza de **café filtrado** de 8 oz suele tener unos **95 mg** de cafeína, mientras que un **espresso** ronda los **63 mg**. En cambio, los **concentrados de cold brew** pueden superar los **200 mg** por ración.
 
-| Brew Method | Caffeine per Ounce | Caffeine per Serving |
+| Método de preparación | Cafeína por onza | Cafeína por ración |
 | --- | --- | --- |
-| Drip Coffee | 12mg | 95mg (8oz) |
-| Espresso | 63mg | 63mg (1 shot) |
-| Cold Brew | 20mg | 200mg (concentrate) |
+| Café filtrado | 12 mg | 95 mg (8 oz) |
+| Espresso | 63 mg | 63 mg (1 shot) |
+| Cold brew | 20 mg | 200 mg (concentrado) |
 
-> Related: [Specialty coffee shops in Lisbon: updated guide](/blog/cafeterias-lisboa-guia)
+> Relacionado: [Cafeterías de especialidad en Lisboa: guía actualizada](/blog/cafeterias-lisboa-guia)
 
-## Brew Method Breakdown
-A peer-reviewed study on coffee brewing (2019) found that the **caffeine content** varies significantly between different brew methods. For example:
-1. **Single espresso shot**: ~63mg of caffeine
-2. **8oz drip coffee**: ~95mg of caffeine
-3. **Cold brew concentrates**: >200mg of caffeine per serving
+## Desglose por método
+Un estudio revisado por pares sobre preparación de café (2019) concluyó que la **cafeína** varía mucho de un método a otro. Por ejemplo:
+1. **Un espresso**: ~63 mg de cafeína
+2. **Café filtrado de 8 oz**: ~95 mg de cafeína
+3. **Concentrados de cold brew**: >200 mg de cafeína por ración
 
-## Roast Level Impact
-The **roast level** of the coffee beans also affects the **caffeine content**. According to the SCA (2018), **lighter roasts** tend to have more caffeine than **darker roasts**. Additionally, **Robusta beans** generally have more caffeine than **Arabica beans**.
+## El papel del tueste
+El **nivel de tueste** del grano también influye en la **cafeína**. Según la SCA (2018), los **tuestes claros** tienden a tener algo más de cafeína que los **tuestes oscuros**. Además, el **grano Robusta** suele tener más cafeína que el **Arábica**.
 
-## FAQ
-### What is the recommended daily intake of caffeine?
-The recommended daily intake of caffeine is around **400mg** for healthy adults. However, this may vary depending on individual factors such as age, weight, and sensitivity to caffeine (Named barista, coffee expert, 2022).
+## Preguntas frecuentes
+### ¿Cuál es la ingesta diaria recomendada de cafeína?
+La ingesta diaria recomendada de cafeína ronda los **400 mg** para adultos sanos. Eso sí, puede variar según factores individuales como la edad, el peso o la sensibilidad a la cafeína.
 
-### How does the brew method affect the caffeine content?
-The brew method affects the **caffeine content** by altering the extraction yield and water solubility. For example, **espresso** has a higher extraction yield than **drip coffee**, resulting in a more concentrated **caffeine content**.
+### ¿Cómo afecta el método de preparación a la cafeína?
+El método afecta a la **cafeína** porque cambia el rendimiento de extracción y la solubilidad en agua. Por ejemplo, el **espresso** tiene un rendimiento de extracción mayor que el **café filtrado**, así que sale más concentrado en **cafeína**.
 
-### What is the difference between Arabica and Robusta beans?
-**Arabica beans** tend to have a more delicate flavor and lower **caffeine content** compared to **Robusta beans**, which have a bolder flavor and higher **caffeine content**.
+### ¿En qué se diferencian el Arábica y el Robusta?
+El **Arábica** suele tener un perfil más delicado y menos **cafeína** que el **Robusta**, que es de sabor más intenso y mayor contenido en **cafeína**.
 
-### Can I use the Aeropress Coffee Maker to brew coffee with high caffeine content?
-Yes, the [ Aeropress Coffee Maker on Amazon](https://www.amazon.com/s?k=+Aeropress+Coffee+Maker&tag=vds96-20) can be used to brew coffee with high **caffeine content** by adjusting the brewing parameters, such as the coffee-to-water ratio and brewing time.
+### ¿Puedo usar la cafetera Aeropress para preparar café con mucha cafeína?
+Sí, con la [cafetera Aeropress en Amazon](https://www.amazon.com/s?k=+Aeropress+Coffee+Maker&tag=vds96-20) puedes preparar café con bastante **cafeína** ajustando parámetros como la proporción de café y agua o el tiempo de preparación.
 
-### How does the roast level affect the caffeine content?
-The **roast level** affects the **caffeine content** by altering the bean's density and extraction yield. **Lighter roasts** tend to have more caffeine than **darker roasts**.
+### ¿Cómo afecta el tueste a la cafeína?
+El **nivel de tueste** influye en la **cafeína** porque cambia la densidad del grano y el rendimiento de extracción. Los **tuestes claros** tienden a tener algo más de cafeína que los **tuestes oscuros**.
 
-### What are some tips for brewing coffee with high caffeine content?
-Some tips for brewing coffee with high **caffeine content** include:
-1. Using a higher coffee-to-water ratio
-2. Adjusting the brewing time
-3. Using a finer grind size
-4. Experimenting with different roast levels
+### ¿Algún consejo para preparar café con mucha cafeína?
+Algunas ideas para subir la **cafeína** de tu taza:
+1. Usa una proporción de café más alta respecto al agua
+2. Ajusta el tiempo de preparación
+3. Usa una molienda más fina
+4. Prueba con distintos niveles de tueste
 
-## My Take
-As a daily coffee brewer and trained chef, I can attest to the significance of the brew method on the **caffeine content coffee**. I've experimented with various brew methods, including the [ Aeropress Coffee Maker on Amazon](https://www.amazon.com/s?k=+Aeropress+Coffee+Maker&tag=vds96-20) and [ French Press on Amazon](https://www.amazon.com/s?k=+French+Press&tag=vds96-20), and found that each method produces a unique **caffeine content**. My personal favorite is the **espresso**, which provides a concentrated dose of caffeine to start my day.
+## Nuestra opinión
+En la práctica, el método de preparación marca una diferencia clara en la **cafeína del café**. Cada método produce un contenido de cafeína distinto, así que merece la pena probar varios, desde la [cafetera Aeropress en Amazon](https://www.amazon.com/s?k=+Aeropress+Coffee+Maker&tag=vds96-20) hasta la [prensa francesa en Amazon](https://www.amazon.com/s?k=+French+Press&tag=vds96-20). Si buscas una dosis concentrada para arrancar el día, el **espresso** es una apuesta segura.
 
-I've also noticed that the **roast level** plays a crucial role in determining the **caffeine content**. As a fan of **lighter roasts**, I've found that they tend to have a more delicate flavor and higher **caffeine content** compared to **darker roasts**.
+El **nivel de tueste** también cuenta. Los **tuestes claros** ofrecen un perfil más delicado y suelen conservar algo más de **cafeína** que los **tuestes oscuros**.
 
-In my experience, the key to brewing coffee with high **caffeine content** is to experiment with different brewing parameters, such as the coffee-to-water ratio and brewing time. By adjusting these parameters, I've been able to achieve a **caffeine content** that suits my taste preferences.
+La clave para sacar el máximo de **cafeína** está en experimentar con los parámetros: la proporción de café y agua, el tiempo de preparación y la molienda. Ajustándolos puedes acercarte a la taza que más te guste.
 
 
 
-### You might also like
+### También te puede interesar
 
-- [Best Manual Coffee Grinder Under $100: Travel and Pour Over](/blog/best-manual-coffee-grinder-under-100-travel-and-pour-over)
-- [Japanese cold drip coffee (Kyoto drip method)](/blog/cafe-filtrado-frio-japones)
-- [Coffee Grind Size Chart: From Espresso Fine to French Press](/blog/coffee-grind-size-chart-from-espresso-fine-to-french-press)
-- [Tamper, distributor and WDT: what each one does](/blog/tamper-distribuidor-wdt)
+- [La mejor molinillo manual por menos de 100 $: viaje y pour over](/blog/best-manual-coffee-grinder-under-100-travel-and-pour-over)
+- [Café filtrado en frío japonés (método Kyoto drip)](/blog/cafe-filtrado-frio-japones)
+- [Tabla de molienda del café: del espresso fino a la prensa francesa](/blog/coffee-grind-size-chart-from-espresso-fine-to-french-press)
+- [Tamper, distribuidor y WDT: para qué sirve cada uno](/blog/tamper-distribuidor-wdt)
 
-## Practical Summary
-Here are some concrete action bullets to help you brew coffee with high **caffeine content**:
-* Use a higher coffee-to-water ratio to increase the **caffeine content**
-* Adjust the brewing time to optimize the extraction yield
-* Experiment with different roast levels to find your preferred **caffeine content**
-* Use a finer grind size to increase the surface area and extraction yield
-* Invest in a [ coffee scale on Amazon](https://www.amazon.com/s?k=+coffee+scale&tag=vds96-20) to accurately measure the coffee and water
-* Experiment with different brew methods, such as the [ Aeropress Coffee Maker on Amazon](https://www.amazon.com/s?k=+Aeropress+Coffee+Maker&tag=vds96-20) or [ French Press on Amazon](https://www.amazon.com/s?k=+French+Press&tag=vds96-20), to find your preferred **caffeine content**
+## Resumen práctico
+Aquí tienes algunas acciones concretas para preparar café con más **cafeína**:
+* Usa una proporción de café más alta respecto al agua para subir la **cafeína**
+* Ajusta el tiempo de preparación para optimizar el rendimiento de extracción
+* Prueba distintos niveles de tueste hasta dar con tu **cafeína** ideal
+* Usa una molienda más fina para aumentar la superficie de contacto y la extracción
+* Hazte con una [báscula de café en Amazon](https://www.amazon.com/s?k=+coffee+scale&tag=vds96-20) para medir con precisión el café y el agua
+* Prueba distintos métodos, como la [cafetera Aeropress en Amazon](https://www.amazon.com/s?k=+Aeropress+Coffee+Maker&tag=vds96-20) o la [prensa francesa en Amazon](https://www.amazon.com/s?k=+French+Press&tag=vds96-20), para encontrar tu **cafeína** preferida
 
 
 ---
 
-*Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+*Escrito por **Cash Café**. CashCafe es contenido editorial sobre café basado en pruebas reales y ciencia citada. Aviso de afiliados en el [aviso legal](/legal-notice).*
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [Coffee Grind Size Chart: From Espresso Fine to French Press](/blog/coffee-grind-size-chart-from-espresso-fine-to-french-press)
-- [Coffee Cupping at Home: How to Taste Like a Q Grader](/blog/coffee-cupping-at-home-how-to-taste-like-a-q-grader)
-- [What Is a Ristretto? Espresso Variants Explained](/blog/what-is-a-ristretto-espresso-variants-explained)
+- [Tabla de molienda del café: del espresso fino a la prensa francesa](/blog/coffee-grind-size-chart-from-espresso-fine-to-french-press)
+- [Cata de café en casa: cómo catar como un Q Grader](/blog/coffee-cupping-at-home-how-to-taste-like-a-q-grader)
+- [¿Qué es un ristretto? Las variantes del espresso explicadas](/blog/what-is-a-ristretto-espresso-variants-explained)

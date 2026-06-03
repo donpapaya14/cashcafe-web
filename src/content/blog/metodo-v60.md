@@ -1,51 +1,49 @@
 ---
-title: "The V60 method the baristas we interviewed actually use"
-description: "Five pours, one temperature, one ratio. A repeatable home recipe, validated by six coffee shops."
+title: "El método V60 que de verdad usan los baristas en casa"
+description: "Cinco vertidos, una temperatura y una proporción. Una receta casera repetible, contrastada con seis cafeterías."
 pubDate: 2026-04-02
 category: "recipes"
-tags: ["recipes","coffee"]
-author: "Lucía Pardo"
+tags: ["recetas","café"]
+author: "Cash Café"
 readingTime: 8
 sources: []
 draft: false
 image: https://images.pexels.com/photos/542302/pexels-photo-542302.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-We asked six baristas from shops featured in this guide: what's your home V60 recipe? Five out of six agreed on the essentials. This is that recipe.
+Preguntamos a seis baristas de cafeterías que aparecen en esta guía: ¿cuál es tu receta de V60 en casa? Cinco de los seis coincidían en lo esencial. Esta es esa receta.
 
-## Ingredients and ratio
+## Ingredientes y proporción
 
-- 15 g medium-coarse ground coffee (like sea salt).
-- 250 g water at 93–96 °C.
-- Ratio 1:16.7 — works with any medium-roast coffee.
-- V60 filter rinsed with hot water (removes paper taste).
+- 15 g de café molido medio-grueso (como sal gorda).
+- 250 g de agua a 93–96 °C.
+- Proporción 1:16,7 — funciona con cualquier café de tueste medio.
+- Filtro de V60 enjuagado con agua caliente (quita el sabor a papel).
 
-## The five pours
+## Los cinco vertidos
 
-1. 0:00 — Pour 50 g. Gentle swirl. Wait 45 seconds (bloom).
-2. 0:45 — Pour to 100 g in concentric circles.
-3. 1:15 — Pour to 150 g, same pattern.
-4. 1:45 — Pour to 200 g.
-5. 2:15 — Pour to 250 g. Let it drain.
+1. 0:00 — Vierte 50 g. Mueve la jarra con suavidad. Espera 45 segundos (el bloom).
+2. 0:45 — Vierte hasta 100 g en círculos concéntricos.
+3. 1:15 — Vierte hasta 150 g, con el mismo movimiento.
+4. 1:45 — Vierte hasta 200 g.
+5. 2:15 — Vierte hasta 250 g. Deja que escurra.
 
-Total drain time: between 3:00 and 3:30. If it drains before 2:45, grind finer. If it goes past 4:00, grind coarser.
+Tiempo total de filtrado: entre 3:00 y 3:30. Si escurre antes de 2:45, muele más fino. Si pasa de 4:00, muele más grueso.
 
-## The bloom is sacred
+## El bloom es sagrado
 
-Those first 45 seconds release CO₂ from freshly roasted coffee. Skip the bloom and gas interferes with extraction — the result is sour and flat. The fresher the coffee, the more spectacular the bloom.
+Esos primeros 45 segundos liberan el CO₂ del café recién tostado. Si te saltas el bloom, ese gas estorba en la extracción y el resultado sale ácido y plano. Cuanto más fresco está el café, más espectacular es el bloom.
 
-> If the coffee doesn't swell during bloom, it's either old or was ground days ago. Buy better.
-> 
-> — Lucía Pardo, Q grader
+Si el café no se hincha durante el bloom, o está viejo o lo molieron hace días. Vale la pena buscar uno mejor.
 
-## Mistakes that ruin a V60
+## Errores que arruinan un V60
 
-- Pouring all the water at once — loses extraction control.
-- Boiling water (100 °C) — scorches the coffee, tastes like rubber.
-- Not rinsing the filter — paper taste in every cup.
-- Grind too fine — clogs, over-extraction, bitterness.
+- Echar toda el agua de golpe — pierdes el control de la extracción.
+- Agua hirviendo (100 °C) — quema el café y sabe a goma.
+- No enjuagar el filtro — sabor a papel en cada taza.
+- Molienda demasiado fina — se atasca, se sobreextrae y amarga.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [Cold brew vs iced coffee: they](/blog/cold-brew-vs-cafe-frio)
-- [AeroPress guide for beginners: your first specialty coffee](/blog/guia-aeropress-principiantes)
-- [Flat white at home, without a pro pitcher](/blog/flat-white-en-casa)
+- [Cold brew vs café frío: en qué se diferencian](/blog/cold-brew-vs-cafe-frio)
+- [Guía de AeroPress para principiantes: tu primer café de especialidad](/blog/guia-aeropress-principiantes)
+- [Flat white en casa, sin jarra de profesional](/blog/flat-white-en-casa)

@@ -1,50 +1,48 @@
 ---
-title: "Upgrade Your V60"
-description: "Learn how water quality can make or break your V60 brew. From filters to techniques, master this often-overlooked ingredient."
+title: "Mejora tu V60 con el agua"
+description: "Descubre cómo la calidad del agua puede hacer que tu V60 sea un acierto o un desastre. De los filtros a la técnica, domina este ingrediente tan olvidado."
 pubDate: 2026-05-04
 category: "gear"
-tags: ["gear","coffee"]
-author: "David Aguilar"
+tags: ["equipo","café"]
+author: "Cash Café"
 readingTime: 3
 sources: []
 draft: false
 image: https://images.pexels.com/photos/2074123/pexels-photo-2074123.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-The V60 is a staple in specialty coffee for its ability to highlight nuanced flavors. Yet, one element often overlooked is water quality. Here’s how tweaking your H2O can elevate your pour-over from good to extraordinary.
+La V60 es un clásico del café de especialidad por su capacidad para resaltar matices muy sutiles. Sin embargo, hay un elemento que casi siempre pasamos por alto: la calidad del agua. Aquí tienes cómo, ajustando ese H2O, puedes llevar tu pour-over de bueno a extraordinario.
 
-## V60 101
+## La V60 en pocas palabras
 
-Designed by Hario in 2004, the V60’s name comes from its 60-degree cone shape. Its spiral ribs and large hole allow precise control over extraction time and clarity. A favorite among baristas, it’s a canvas for experimenting with grind size, water temperature, and pouring technique.
+Diseñada por Hario en 2004, la V60 debe su nombre a su cono con un ángulo de 60 grados. Sus nervaduras en espiral y su orificio grande permiten controlar con precisión el tiempo de extracción y la limpieza en taza. Favorita entre baristas, es un lienzo para experimentar con la molienda, la temperatura del agua y la técnica de vertido.
 
-## Why Water Matters
+## Por qué el agua importa
 
-Water makes up 98% of your brew, per Specialty Coffee Association (SCA) research. Its mineral content (especially calcium and magnesium) directly impacts extraction: too soft, and coffee tastes flat; too hard, and bitterness dominates. Filtered water with 75-250 ppm TDS (total dissolved solids) is the gold standard.
+El agua supone el 98 % de tu café, según las investigaciones de la Specialty Coffee Association (SCA). Su contenido mineral (sobre todo calcio y magnesio) influye directamente en la extracción: demasiado blanda y el café sabe plano; demasiado dura y dominan los amargos. El agua filtrada con entre 75 y 250 ppm de TDS (sólidos disueltos totales) es la referencia ideal.
 
-> Water isn’t passive—it’s a solvent that actively shapes coffee’s flavor profile.
-> 
-> — Dr. Christopher Hendon, University of Oregon
+> El agua no es un actor pasivo: es un disolvente que da forma activa al perfil de sabor del café.
 
-## Water Filtration Tips
+## Consejos para filtrar el agua
 
-- Activated carbon filters: Remove chlorine/odors while preserving beneficial minerals.
-- Reverse osmosis + remineralization: Best for very hard water areas but requires mineral rebalancing.
-- Pitcher filters: Affordable but less consistent. Replace cartridges monthly.
+- Filtros de carbón activo: eliminan el cloro y los olores conservando los minerales beneficiosos.
+- Ósmosis inversa + remineralización: lo mejor para zonas de agua muy dura, aunque hay que reequilibrar los minerales.
+- Jarras con filtro: económicas, pero menos constantes. Cambia el cartucho cada mes.
 
-## Filtered Water Experiments
+## Experimentos con agua filtrada
 
-A 2021 study in the 'Journal of Coffee Research' blind-tasted V60 brews made with tap, filtered, and distilled water. Filtered water scored 15% higher for balanced acidity and sweetness, while tap water introduced metallic notes in 60% of samples.
+Un estudio de 2021 publicado en el 'Journal of Coffee Research' hizo catas a ciegas de cafés en V60 preparados con agua del grifo, filtrada y destilada. El agua filtrada obtuvo un 15 % más de puntuación en equilibrio de acidez y dulzor, mientras que el agua del grifo introdujo notas metálicas en el 60 % de las muestras.
 
-## V60 Pro Tips
+## Trucos para sacarle partido a la V60
 
-1. Use filtered water heated to 195-205°F (90-96°C).
-2. Stick to a 1:16 coffee-to-water ratio (e.g., 15g coffee to 240g water).
-3. Aim for 2:30-3:30 minutes total brew time. Adjust grind size if too fast/slow.
+1. Usa agua filtrada calentada a 90-96 °C (195-205 °F).
+2. Mantén una proporción café-agua de 1:16 (por ejemplo, 15 g de café para 240 g de agua).
+3. Apunta a un tiempo total de extracción de entre 2:30 y 3:30 minutos. Ajusta la molienda si va demasiado rápido o demasiado lento.
 
-## Wrapping Up
+## Para terminar
 
-Great water is as vital as great beans. Dive deeper with SCA’s water standards or Maxwell Colonna-Dashwood’s 'Water for Coffee'. Your taste buds—and your V60—will thank you.
+Un buen agua es tan importante como un buen café. Si quieres profundizar, échale un ojo a los estándares de agua de la SCA o al libro 'Water for Coffee' de Maxwell Colonna-Dashwood. Tu paladar (y tu V60) te lo agradecerán.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
 - [Best Manual Coffee Grinder Under $100: Travel and Pour Over](/blog/best-manual-coffee-grinder-under-100-travel-and-pour-over)
 - [Water Filters for Coffee](/blog/filtros-de-agua-para-cafe)

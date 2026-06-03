@@ -1,10 +1,10 @@
 export const CATEGORIES = {
-  'guides':   { name: 'Buying Guides', slug: 'guides',   description: 'Coffee gear and accessories explained' },
-  'recipes':  { name: 'Recipes',       slug: 'recipes',  description: 'Drinks, methods, and creations to try at home' },
-  'culture':  { name: 'Culture',       slug: 'culture',  description: 'Coffee origins, history, and shop tours' },
-  'gear':     { name: 'Gear',          slug: 'gear',     description: 'Espresso machines, grinders, and brewing tools' },
-  'brewing':  { name: 'Brewing',       slug: 'brewing',  description: 'Pour over, immersion and espresso methods' },
-  'espresso': { name: 'Espresso',      slug: 'espresso', description: 'Pulling shots, dialing in, and steaming milk' },
+  'guides':   { name: 'Guías de compra', slug: 'guides',   description: 'Accesorios y equipo de café, explicados' },
+  'recipes':  { name: 'Recetas',         slug: 'recipes',  description: 'Bebidas y métodos para preparar en casa' },
+  'culture':  { name: 'Cultura',         slug: 'culture',  description: 'Orígenes, historia y cafeterías del mundo' },
+  'gear':     { name: 'Equipo',          slug: 'gear',     description: 'Cafeteras, molinillos y herramientas' },
+  'brewing':  { name: 'Métodos',         slug: 'brewing',  description: 'Filtrado, inmersión y métodos de espresso' },
+  'espresso': { name: 'Espresso',        slug: 'espresso', description: 'Extracción, ajuste y leche vaporizada' },
 } as const;
 
 export type Category = keyof typeof CATEGORIES;

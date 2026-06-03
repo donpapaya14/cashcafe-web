@@ -1,34 +1,34 @@
 ---
-title: "Third wave: what it means and why it matters"
-description: "The term has been hollowed out by misuse. We bring it back with concrete examples and real names."
+title: "Tercera ola: qué significa y por qué importa"
+description: "El término se ha vaciado de tanto usarlo mal. Lo recuperamos con ejemplos concretos y nombres reales."
 pubDate: 2026-04-08
 category: "culture"
-tags: ["culture","coffee"]
-author: "Lucía Pardo"
+tags: ["cultura","café"]
+author: "Cash Café"
 readingTime: 6
 sources: []
 draft: false
 image: https://images.pexels.com/photos/5946640/pexels-photo-5946640.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-The term has been hollowed out by misuse. We bring it back with concrete examples and real names.
+El término se ha vaciado de tanto usarlo mal. Lo recuperamos con ejemplos concretos y nombres reales.
 
-## Coming up
+## Próximamente
 
-This guide is being expanded. We're adding measured ratios, gear we tested, and the science behind each method.
+Esta guía está en plena ampliación. Vamos a sumar proporciones medidas, equipo que hemos probado y la ciencia que hay detrás de cada método.
 
-In the meantime, browse our full [coffee blog](/blog) for ready-to-read brewing guides and gear notes.
+Mientras tanto, échale un vistazo a nuestro [blog de café](/blog) al completo, donde encontrarás guías de preparación listas para leer y notas sobre equipo.
 
-## What we'll cover
+## Lo que vamos a ver
 
-- Method or topic overview with measurable steps
-- Gear recommendations at multiple price tiers
-- Common mistakes and how to fix them
-- Tips from working baristas
+- Una visión general del método o tema con pasos medibles
+- Recomendaciones de equipo en varias franjas de precio
+- Errores habituales y cómo solucionarlos
+- Consejos de baristas en activo
 
-> Subscribe to the [newsletter](/newsletter) to get notified when this guide is updated.
+> Suscríbete a la [newsletter](/newsletter) para enterarte cuando actualicemos esta guía.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [Kissaten: the Japanese coffeehouses that inspire the third wave](/blog/cafe-japones-kissaten)
-- [The 10 largest coffee producers in the world (and what makes them unique)](/blog/mejores-paises-productores-cafe)
-- [Why northern Europe drinks filter coffee (and the south espresso)](/blog/cafe-filtro-europa-norte)
+- [Kissaten: las cafeterías japonesas que inspiran la tercera ola](/blog/cafe-japones-kissaten)
+- [Los 10 mayores productores de café del mundo (y qué los hace únicos)](/blog/mejores-paises-productores-cafe)
+- [Por qué el norte de Europa bebe café de filtro (y el sur, espresso)](/blog/cafe-filtro-europa-norte)

@@ -1,10 +1,10 @@
 ---
-title: "Coffee Brewing for Beginners: Your First 30 Days Guide"
-description: "Start your coffee journey with our 30-day guide"
+title: "Preparar café para principiantes: guía para tus primeros 30 días"
+description: "Empieza en el mundo del café con nuestra guía de 30 días"
 pubDate: 2026-05-17
 category: "brewing"
-tags: ["coffee brewing for beginners", "beginner coffee guide", "start brewing coffee", "home coffee basics", "coffee equipment", "coffee beans", "brewing methods"]
-author: "Vladys Z."
+tags: ["preparar café para principiantes", "guía de café para principiantes", "empezar a preparar café", "café en casa básico", "equipo de café", "granos de café", "métodos de preparación"]
+author: "Cash Café"
 readingTime: 3
 
 sources:
@@ -16,71 +16,64 @@ draft: false
 ---
 
 
-## Choosing your first brewing method
-**Coffee brewing for beginners** starts with selecting the right method. Popular methods include drip, pour-over, and French press, each with its pros and cons. According to the [Specialty Coffee Association (2020)](https://sca.coffee/), drip brewing is convenient but may lack flavor, while pour-over offers a clean cup but requires more effort. French press, on the other hand, provides a rich and full-bodied coffee but can be messy.
+## Elegir tu primer método de preparación
+**Preparar café para principiantes** empieza por escoger el método adecuado. Entre los más habituales están la cafetera de goteo, el pour-over (vertido manual) y la prensa francesa, cada uno con sus pros y sus contras. Según la [Specialty Coffee Association (2020)](https://sca.coffee/), el goteo es cómodo pero puede quedarse corto de sabor, mientras que el pour-over ofrece una taza limpia a cambio de algo más de esfuerzo. La prensa francesa, por su parte, da un café con mucho cuerpo, aunque es más sucia de manejar.
 
-## Essential equipment list
-To start brewing coffee at home, you'll need a few essential pieces of equipment. [James Hoffmann, World Barista Champion (2019)](https://www.jimseven.com/) recommends investing in a good grinder, such as the [Baratza Encore Conical Burr Coffee Grinder on Amazon](https://www.amazon.com/s?k=Baratza+Encore+Conical+Burr+Coffee+Grinder&tag=vds96-20), and a scale to measure your coffee and water accurately. A brewing device, such as a pour-over or French press, is also necessary.
+## Lista de equipo imprescindible
+Para empezar a preparar café en casa necesitas unas pocas piezas básicas. [James Hoffmann, campeón mundial de baristas (2019)](https://www.jimseven.com/) recomienda invertir en un buen molinillo, como el [Baratza Encore Conical Burr Coffee Grinder en Amazon](https://www.amazon.com/s?k=Baratza+Encore+Conical+Burr+Coffee+Grinder&tag=vds96-20), y en una báscula para medir el café y el agua con precisión. También hace falta un dispositivo de preparación, como un pour-over o una prensa francesa.
 
-| Equipment | Description | Cost |
+| Equipo | Descripción | Coste |
 | --- | --- | --- |
-| Grinder | [Baratza Encore Conical Burr Coffee Grinder on Amazon](https://www.amazon.com/s?k=Baratza+Encore+Conical+Burr+Coffee+Grinder&tag=vds96-20) | $140 |
-| Scale | Digital kitchen scale | $20 |
-| Brewing device | Pour-over or French press | $20-$50 |
+| Molinillo | [Baratza Encore Conical Burr Coffee Grinder en Amazon](https://www.amazon.com/s?k=Baratza+Encore+Conical+Burr+Coffee+Grinder&tag=vds96-20) | 140 $ |
+| Báscula | Báscula de cocina digital | 20 $ |
+| Dispositivo de preparación | Pour-over o prensa francesa | 20-50 $ |
 
-## Buying fresh beans
-Fresh coffee beans are essential for a good cup of coffee. According to the [Specialty Coffee Association (2018)](https://sca.coffee/), coffee beans should be used within 7-10 days of roasting for optimal flavor. When buying coffee beans, look for the roast date and opt for beans that have been roasted recently. Store your coffee beans in an airtight container in a cool, dark place to preserve their flavor.
+## Comprar grano fresco
+El grano de café fresco es clave para una buena taza. Según la [Specialty Coffee Association (2018)](https://sca.coffee/), el café conviene consumirlo dentro de los 7-10 días posteriores al tueste para sacarle el máximo sabor. Al comprar grano, fíjate en la fecha de tueste y opta por café tostado recientemente. Guárdalo en un recipiente hermético, en un lugar fresco y oscuro, para conservar su aroma.
 
-## Basic brewing variables
-To brew a good cup of coffee, you'll need to control a few key variables. The standard brewing ratio is **1:16**, meaning one gram of coffee for every 16 grams of water. The ideal water temperature is between **195-205°F**, and the grind size should be adjusted to suit your brewing method. According to the [Specialty Coffee Association (2020)](https://sca.coffee/), the grind size should be fine for espresso, medium for pour-over, and coarse for French press.
+## Variables básicas de preparación
+Para preparar una buena taza tienes que controlar unas pocas variables clave. La proporción estándar es **1:16**, es decir, un gramo de café por cada 16 gramos de agua. La temperatura ideal del agua está entre **195-205 °F** (unos 90-96 °C), y el grosor de la molienda debe ajustarse al método que uses. Según la [Specialty Coffee Association (2020)](https://sca.coffee/), la molienda debe ser fina para espresso, media para pour-over y gruesa para prensa francesa.
 
-1. Measure your coffee and water accurately
-2. Adjust the grind size to suit your brewing method
-3. Heat your water to the ideal temperature
+1. Mide el café y el agua con precisión
+2. Ajusta la molienda al método de preparación
+3. Calienta el agua a la temperatura ideal
 
-> Related: [Manual vs electric grinder: the real advantages of each](/blog/molinillo-manual-vs-electrico)
+> Relacionado: [Molinillo manual vs eléctrico: las ventajas reales de cada uno](/blog/molinillo-manual-vs-electrico)
 
-## Frequently Asked Questions
-### What is the best brewing method for beginners?
-The best brewing method for beginners is pour-over, as it is easy to use and requires minimal equipment. According to [The Sprudge Coffee Guide (2022)](https://sprudge.com/), pour-over brewing allows for a clean and balanced cup of coffee.
+## Preguntas frecuentes
+### ¿Cuál es el mejor método de preparación para principiantes?
+El mejor método para empezar es el pour-over, porque es fácil de usar y requiere poco equipo. Según [The Sprudge Coffee Guide (2022)](https://sprudge.com/), el pour-over permite obtener una taza limpia y equilibrada.
 
-### What is the difference between whole bean and pre-ground coffee?
-Whole bean coffee is freshly roasted and ground just before brewing, while pre-ground coffee is ground and packaged in advance. According to [The Sprudge Coffee Guide (2022)](https://sprudge.com/), whole bean coffee is preferred for its fresher flavor.
+### ¿Qué diferencia hay entre el grano entero y el café molido?
+El café en grano entero se muele justo antes de prepararlo, mientras que el molido viene ya triturado y envasado de antemano. Según [The Sprudge Coffee Guide (2022)](https://sprudge.com/), el grano entero es preferible por su sabor más fresco.
 
-### What is the difference between burr and blade grinders?
-Burr grinders use abrasive surfaces to grind the coffee beans, while blade grinders use a spinning blade to chop the beans. According to [James Hoffmann (2019)](https://www.jimseven.com/), burr grinders are preferred for their consistent grind size and flavor.
+### ¿Qué diferencia hay entre los molinillos de muelas y los de cuchillas?
+Los molinillos de muelas usan superficies abrasivas para moler el grano, mientras que los de cuchillas lo trituran con una cuchilla giratoria. Según [James Hoffmann (2019)](https://www.jimseven.com/), los de muelas son preferibles por ofrecer una molienda más uniforme y mejor sabor.
 
-## My Take
-As a trained chef and app developer who brews coffee daily, I can attest to the importance of using fresh, high-quality coffee beans. I remember my first experience with pour-over brewing, where I was amazed by the clean and balanced flavor it produced. Since then, I've experimented with different brewing methods and equipment, and I can confidently say that investing in a good grinder and scale is essential for any coffee enthusiast.
+## Resumen práctico
+* Invierte en un buen molinillo, como el [Baratza Encore Conical Burr Coffee Grinder en Amazon](https://www.amazon.com/s?k=Baratza+Encore+Conical+Burr+Coffee+Grinder&tag=vds96-20)
+* Usa grano fresco y de calidad
+* Experimenta con distintos métodos de preparación y equipo
+* Controla las variables de preparación: proporción, temperatura y molienda
+* Guarda el grano en un recipiente hermético, en un lugar fresco y oscuro
+* Usa agua filtrada para sacar el mejor sabor
 
-As I continue to explore the world of coffee, I'm constantly reminded of the nuances and complexities of this beloved beverage. From the roast date to the grind size, every variable plays a crucial role in determining the final flavor. As a beginner, it's essential to start with the basics and experiment with different methods and equipment to find what works best for you.
-
-In my daily routine, I make sure to grind my coffee beans just before brewing and use filtered water to bring out the optimal flavor. I also experiment with different roast levels and brewing times to find the perfect balance for my taste buds. Whether you're a beginner or an experienced coffee enthusiast, I encourage you to explore the world of coffee and discover the nuances and complexities that make it so unique and rewarding.
 
 
+### También te puede interesar
 
-### You might also like
-
-- [The ingredient almost everyone ignores: water](/blog/agua-para-cafe)
-- [Best Espresso Machine for Beginners 2026: Sub $400 Picks](/blog/best-espresso-machine-for-beginners-2026-sub-400-picks)
-- [Tamper, distributor and WDT: what each one does](/blog/tamper-distribuidor-wdt)
-- [7 barista accessories for under €50](/blog/accesorios-barista-esenciales)
-
-## Practical Summary
-* Invest in a good grinder, such as the [Baratza Encore Conical Burr Coffee Grinder on Amazon](https://www.amazon.com/s?k=Baratza+Encore+Conical+Burr+Coffee+Grinder&tag=vds96-20)
-* Use fresh, high-quality coffee beans
-* Experiment with different brewing methods and equipment
-* Control the brewing variables, including ratio, temperature, and grind size
-* Store your coffee beans in an airtight container in a cool, dark place
-* Use filtered water to bring out the optimal flavor
+- [El ingrediente que casi todos ignoran: el agua](/blog/agua-para-cafe)
+- [Mejor máquina de espresso para principiantes 2026: opciones por menos de 400 $](/blog/best-espresso-machine-for-beginners-2026-sub-400-picks)
+- [Tamper, distribuidor y WDT: qué hace cada uno](/blog/tamper-distribuidor-wdt)
+- [7 accesorios de barista por menos de 50 €](/blog/accesorios-barista-esenciales)
 
 
 ---
 
-*Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+*Escrito por **Cash Café**. CashCafe es contenido editorial sobre café basado en pruebas reales y ciencia citada. Aviso de afiliados en el [aviso legal](/legal-notice).*
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [Coffee Cupping at Home: How to Taste Like a Q Grader](/blog/coffee-cupping-at-home-how-to-taste-like-a-q-grader)
-- [What Is a Ristretto? Espresso Variants Explained](/blog/what-is-a-ristretto-espresso-variants-explained)
-- [Chemex vs V60: Which Pour Over Brewer Should You Buy?](/blog/chemex-vs-v60-which-pour-over-brewer-should-you-buy)
+- [Cata de café en casa: cómo catar como un Q Grader](/blog/coffee-cupping-at-home-how-to-taste-like-a-q-grader)
+- [¿Qué es un ristretto? Variantes del espresso explicadas](/blog/what-is-a-ristretto-espresso-variants-explained)
+- [Chemex vs V60: ¿qué cafetera de vertido deberías comprar?](/blog/chemex-vs-v60-which-pour-over-brewer-should-you-buy)

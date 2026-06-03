@@ -1,42 +1,40 @@
 ---
-title: "Matcha latte vs coffee latte: preparation and differences"
-description: "One green, one brown. Both with milk. But that's where the similarities end. We break down caffeine, flavor, preparation and when to choose each."
+title: "Matcha latte vs café latte: preparación y diferencias"
+description: "Uno verde, otro marrón. Los dos llevan leche. Pero ahí acaban los parecidos. Repasamos cafeína, sabor, preparación y cuándo elegir cada uno."
 pubDate: 2026-04-26
 category: "recipes"
-tags: ["recipes","coffee"]
-author: "Ana Rivero"
+tags: ["recetas","café"]
+author: "Cash Café"
 readingTime: 6
 sources: []
 draft: false
 image: https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-The matcha latte has gone from Instagram fad to a regular offering at specialty coffee shops. But does it make sense to compare it to a coffee latte? We analyze the real differences so you can choose with criteria, not by color.
+El matcha latte ha pasado de moda de Instagram a fijo en la carta de las cafeterías de especialidad. Pero ¿tiene sentido compararlo con un café latte? Analizamos las diferencias reales para que elijas con criterio y no por el color.
 
-## Caffeine: less but longer-lasting
+## Cafeína: menos, pero más duradera
 
-A matcha latte has about 70 mg of caffeine; a coffee latte with a double espresso, around 120-150 mg. But matcha's caffeine is released more slowly thanks to L-theanine, an amino acid that smooths the stimulant effect. The result: sustained energy without a spike or crash.
+Un matcha latte tiene unos 70 mg de cafeína; un café latte con doble espresso, alrededor de 120-150 mg. Lo interesante es que la cafeína del matcha se libera más despacio gracias a la L-teanina, un aminoácido que suaviza el efecto estimulante. ¿El resultado? Energía sostenida, sin el subidón ni el bajón posterior.
 
-## Making a matcha latte
+## Cómo preparar un matcha latte
 
-1. Sift 2 g of ceremonial matcha into a bowl or cup.
-2. Add 30 ml of water at 80 °C and whisk with a chasen (bamboo whisk) until lump-free.
-3. Heat 200 ml of milk (dairy or plant-based) to 65 °C and pour over the matcha.
-4. Stir gently. Don't add sugar — quality matcha has natural sweetness.
+1. Tamiza 2 g de matcha ceremonial en un bol o una taza.
+2. Añade 30 ml de agua a 80 °C y bate con un chasen (varilla de bambú) hasta que no queden grumos.
+3. Calienta 200 ml de leche (de vaca o vegetal) a 65 °C y viértela sobre el matcha.
+4. Remueve con suavidad. No le pongas azúcar: un matcha de calidad ya tiene su dulzor natural.
 
-> Matcha doesn't replace coffee. It's a different category. Comparing them is like comparing wine and beer.
-> 
-> — Ana Rivero, editor
+> El matcha no sustituye al café. Es otra categoría. Compararlos es como comparar vino y cerveza.
 
-## Flavor in the cup
+## El sabor en la taza
 
-The matcha latte tastes vegetal, umami, with a sweet, creamy finish. The coffee latte has caramel, nut, or chocolate notes depending on the espresso, with a drier finish. They're completely different experiences.
+El matcha latte sabe vegetal, con umami y un final dulce y cremoso. El café latte tira a caramelo, fruto seco o chocolate según el espresso, con un final más seco. Son experiencias completamente distintas.
 
-## When to choose each one
+## Cuándo elegir cada uno
 
-Matcha in the afternoon, when you need focus without anxiety. Coffee in the morning, when you need the energy hit. And if you want both, have the coffee first and the matcha after lunch. Your body will thank you.
+Matcha por la tarde, cuando necesitas concentración sin nervios. Café por la mañana, cuando lo que quieres es ese chute de energía. Y si te apetecen los dos, toma primero el café y deja el matcha para después de comer. Tu cuerpo te lo agradecerá.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [Japanese cold drip coffee (Kyoto drip method)](/blog/cafe-filtrado-frio-japones)
-- [Moka pot: 5 mistakes everyone makes](/blog/moka-italiana-errores-comunes)
-- [Flat white at home, without a pro pitcher](/blog/flat-white-en-casa)
+- [Café filtrado en frío japonés (método Kyoto drip)](/blog/cafe-filtrado-frio-japones)
+- [Cafetera moka: 5 errores que comete todo el mundo](/blog/moka-italiana-errores-comunes)
+- [Flat white en casa, sin jarra de profesional](/blog/flat-white-en-casa)

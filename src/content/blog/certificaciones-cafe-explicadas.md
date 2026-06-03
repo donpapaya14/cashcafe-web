@@ -1,44 +1,42 @@
 ---
-title: "Fair Trade, Rainforest, UTZ: what coffee certifications actually mean"
-description: "Green seals everywhere, but what do they actually guarantee? We break down the main certifications and their limitations."
+title: "Fair Trade, Rainforest, UTZ: qué significan de verdad las certificaciones del café"
+description: "Sellos verdes por todas partes, pero ¿qué garantizan en realidad? Desgranamos las principales certificaciones y sus límites."
 pubDate: 2026-04-30
 category: "culture"
-tags: ["culture","coffee"]
-author: "Ana Rivero"
+tags: ["cultura","café"]
+author: "Cash Café"
 readingTime: 8
 sources: []
 draft: false
 image: https://images.pexels.com/photos/1207918/pexels-photo-1207918.jpeg?auto=compress&cs=tinysrgb&w=1200
 ---
-You buy a Fair Trade coffee thinking the producer got a fair price. But do you know how much actually reaches them? Coffee certifications are more complicated — and more imperfect — than their pretty logos suggest.
+Compras un café Fair Trade pensando que el productor cobró un precio justo. Pero ¿sabes cuánto le llega de verdad? Las certificaciones del café son más complicadas (y más imperfectas) de lo que sugieren sus logos tan bonitos.
 
 ## Fair Trade
 
-Fair Trade sets a minimum price (currently $1.40/lb for washed arabica) and a social premium. The goal is to protect small producers from market volatility. It works well when the market price is low, but when it rises above the minimum, the certification offers no economic advantage.
+Fair Trade fija un precio mínimo (ahora mismo, 1,40 $/libra para arábica lavado) y una prima social. La idea es proteger a los pequeños productores frente a los vaivenes del mercado. Funciona bien cuando el precio de mercado está bajo, pero en cuanto sube por encima de ese mínimo, la certificación ya no aporta ninguna ventaja económica.
 
-## Rainforest Alliance and UTZ
+## Rainforest Alliance y UTZ
 
-Since 2018, UTZ merged with Rainforest Alliance. Their focus is environmental and social sustainability: they ban deforestation, regulate pesticide use, and require decent labor conditions. They don't set a minimum price — they focus on practices, not direct economics.
+Desde 2018, UTZ se fusionó con Rainforest Alliance. Su enfoque es la sostenibilidad ambiental y social: prohíben la deforestación, regulan el uso de pesticidas y exigen condiciones laborales dignas. No fijan un precio mínimo: se centran en las prácticas, no en la economía directa.
 
-- Fair Trade: minimum price + social premium. Economic focus.
-- Rainforest Alliance: environmental and social sustainability. No minimum price.
-- Organic (USDA/EU): no synthetic pesticides or fertilizers. Environmental focus.
-- Direct Trade: not an official certification — it's a direct roaster-producer relationship.
+- Fair Trade: precio mínimo + prima social. Enfoque económico.
+- Rainforest Alliance: sostenibilidad ambiental y social. Sin precio mínimo.
+- Ecológico (USDA/UE): sin pesticidas ni fertilizantes sintéticos. Enfoque ambiental.
+- Direct Trade: no es una certificación oficial, sino una relación directa entre tostador y productor.
 
-> Certifications are better than nothing, but they're not enough. Real transparency comes from direct trade.
-> 
-> — Ana Rivero, editor
+> Las certificaciones son mejor que nada, pero no bastan. La transparencia de verdad llega con el comercio directo.
 
-## The limitations
+## Los límites
 
-Certification costs can be prohibitive for small producers. Many excellent farms can't afford the seal even though they meet the requirements. And audits don't always guarantee real compliance on the ground.
+El coste de certificarse puede resultar prohibitivo para los pequeños productores. Muchas fincas excelentes no pueden permitirse el sello aunque cumplan los requisitos. Y las auditorías no siempre garantizan que sobre el terreno se cumpla de verdad.
 
-## What to do as a consumer
+## Qué hacer como consumidor
 
-Look for roasters that publish prices paid to producers (green price transparency). It's more reliable than any seal. If you're buying from a supermarket, choose Fair Trade or Rainforest Alliance over nothing — but don't assume a seal tells the whole story.
+Busca tostadores que publiquen los precios que pagan a los productores (transparencia del precio en verde). Es más fiable que cualquier sello. Y si compras en el supermercado, elige Fair Trade o Rainforest Alliance antes que nada, pero no des por hecho que un sello cuenta toda la historia.
 
-## 📚 Continue reading
+## 📚 Sigue leyendo
 
-- [From Ethiopia to the world: the history of coffee in 5 minutes](/blog/origen-cafe-etiopia-mundo)
-- [Coffee and health: what science says in 2026](/blog/cafe-y-salud-ciencia)
+- [De Etiopía al mundo: la historia del café en 5 minutos](/blog/origen-cafe-etiopia-mundo)
+- [Café y salud: qué dice la ciencia en 2026](/blog/cafe-y-salud-ciencia)
 - [La Colombe Cafe](/blog/cafeter-a-la-colombe)
