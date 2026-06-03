@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Generate ONE high-quality SEO article in English with real data and Amazon links.
-Priority: useful real content > volume.
+Genera UN artículo SEO de alta calidad en ESPAÑOL con datos reales y enlaces de Amazon.
+Prioridad: contenido real y útil > volumen.
 """
 
 import json
@@ -27,18 +27,19 @@ log = logging.getLogger(__name__)
 
 BLOG_DIR = Path(__file__).parent.parent / "src" / "content" / "blog"
 CATEGORY_NAMES = {
-    "guides": "Buying Guides",
-    "recipes": "Recipes",
-    "culture": "Culture",
-    "gear": "Gear",
-    "brewing": "Brewing",
+    "guides": "Guías de compra",
+    "recipes": "Recetas",
+    "culture": "Cultura",
+    "gear": "Equipo",
+    "brewing": "Métodos",
     "espresso": "Espresso",
 }
 
-AMAZON_TAG = os.getenv("AMAZON_TAG", "vds96-20")
+AMAZON_TAG = os.getenv("AMAZON_TAG", "vladys-21")
+AMAZON_DOMAIN = os.getenv("AMAZON_DOMAIN", "amazon.es")
 SITE_URL = os.getenv("SITE_URL", "https://cash-cafe.org")
-BRAND = os.getenv("BRAND", "CashCafe")
-AUTHOR = "Vladys Z."
+BRAND = os.getenv("BRAND", "Cash Café")
+AUTHOR = "Cash Café"
 
 
 def research_topic(category: str, formula: str, existing_titles: list[str], preplanned: dict | None) -> dict:
@@ -47,141 +48,143 @@ def research_topic(category: str, formula: str, existing_titles: list[str], prep
 
     if preplanned:
         # Use the preplanned topic — only ask AI to confirm and produce sections
-        prompt = f"""You are the editor-in-chief of CashCafe, an English coffee blog.
-FOCUS: brewing science, espresso, gear reviews, recipes, cafe culture.
-Your reader wants to brew better coffee at home.
-NO content about non-coffee topics.
+        prompt = f"""Eres el redactor jefe de Cash Café, un blog de café EN ESPAÑOL DE ESPAÑA.
+FOCO: ciencia de la preparación, espresso, reseñas de equipo, recetas y cultura del café.
+Tu lector quiere preparar mejor café en casa. NADA de temas que no sean café.
 
-Use this PRE-PLANNED topic exactly:
-TITLE: {preplanned.get('title')}
-PRIMARY KEYWORD: {preplanned.get('primary_keyword')}
-SECONDARY KEYWORDS: {', '.join(preplanned.get('secondary_keywords', []))}
-SEARCH INTENT: {preplanned.get('search_intent', 'informational')}
-PRE-PLANNED OUTLINE: {preplanned.get('outline', [])}
-KEY POINTS TO COVER: {preplanned.get('key_points', [])}
+Usa este tema PRE-PLANIFICADO (puede venir en inglés: ADÁPTALO a un título natural en español):
+TÍTULO ORIGINAL: {preplanned.get('title')}
+KEYWORD PRINCIPAL: {preplanned.get('primary_keyword')}
+KEYWORDS SECUNDARIAS: {', '.join(preplanned.get('secondary_keywords', []))}
+INTENCIÓN DE BÚSQUEDA: {preplanned.get('search_intent', 'informational')}
+ESQUEMA: {preplanned.get('outline', [])}
+PUNTOS CLAVE A CUBRIR: {preplanned.get('key_points', [])}
 
-Return JSON for the article plan:
+TODO el resultado debe estar EN ESPAÑOL natural: título, descripción y secciones.
+
+Devuelve JSON con el plan del artículo:
 {{
-  "title": "{preplanned.get('title')}",
-  "description": "max 150 chars meta description with curiosity",
+  "title": "título en ESPAÑOL natural, máx 65 caracteres, con la keyword",
+  "description": "descripción meta en español, máx 150 caracteres, con curiosidad",
   "keyword": "{preplanned.get('primary_keyword')}",
   "secondary_keywords": {json.dumps(preplanned.get('secondary_keywords', []))},
   "sections": [
     {{
-      "heading": "section H2",
-      "what_to_cover": "specific data, methods, or recommendations to include",
-      "source_to_cite": "real source name (SCA, Specialty Coffee Association, peer-reviewed study, named barista) with year"
+      "heading": "H2 de la sección, en español",
+      "what_to_cover": "datos, métodos o recomendaciones concretas a incluir",
+      "source_to_cite": "fuente real (SCA, Specialty Coffee Association, estudio revisado, barista con nombre) con año"
     }}
   ],
-  "amazon_product": "ONE Amazon product name relevant to the topic (or null if culture/recipes only)"
+  "amazon_product": "UN producto de Amazon relevante (o null si es solo cultura/recetas)"
 }}"""
         return call_ai(prompt, temperature=0.6)
 
-    prompt = f"""You are the editor-in-chief of CashCafe, an English coffee blog.
-FOCUS: brewing science, espresso, gear reviews, recipes, cafe culture.
-Your reader wants to brew better coffee at home.
+    prompt = f"""Eres el redactor jefe de Cash Café, un blog de café EN ESPAÑOL DE ESPAÑA.
+FOCO: ciencia de la preparación, espresso, reseñas de equipo, recetas y cultura del café.
+Tu lector quiere preparar mejor café en casa.
 
-Your job: pick ONE topic for an article that is GENUINELY USEFUL.
+Tu tarea: elige UN tema para un artículo GENUINAMENTE ÚTIL.
 
-ARTICLE TYPE: {formula}
+TIPO DE ARTÍCULO: {formula}
 
-ARTICLES THAT ALREADY EXIST (pick something DIFFERENT):
+ARTÍCULOS QUE YA EXISTEN (elige algo DISTINTO):
 {existing_str}
 
-INSTRUCTIONS:
-1. Topic must be SPECIFIC. Bad: "coffee brewing tips". Good: "How to dial in a Hario V60 with 15g coffee for a daily cup".
-2. The title should match what someone would Google. 4-7 keyword words.
-3. 5-6 sections where EACH adds concrete information the reader doesn't know.
-4. For each section, write WHAT specific data or practical advice goes in.
+INSTRUCCIONES:
+1. El tema debe ser ESPECÍFICO. Mal: "trucos para hacer café". Bien: "Cómo ajustar un Hario V60 con 15 g de café para tu taza diaria".
+2. El título debe coincidir con lo que alguien buscaría en Google. 4-7 palabras clave.
+3. 5-6 secciones donde CADA UNA aporte información concreta que el lector no sabe.
+4. En cada sección, escribe QUÉ dato o consejo práctico específico va dentro.
+5. TODO en ESPAÑOL natural de España.
 
-Respond JSON:
+Responde JSON:
 {{
-  "title": "title max 65 chars, keyword included",
-  "description": "max 150 chars, real curiosity",
-  "keyword": "long-tail keyword 3-6 words",
+  "title": "título en español, máx 65 caracteres, con la keyword",
+  "description": "máx 150 caracteres, curiosidad real, en español",
+  "keyword": "keyword long-tail de 3-6 palabras en español",
   "secondary_keywords": ["kw2", "kw3", "kw4"],
   "sections": [
     {{
-      "heading": "Section title",
-      "what_to_cover": "What CONCRETE and USEFUL info goes here",
-      "source_to_cite": "Real source name with year (SCA, peer-reviewed paper, barista, manufacturer spec)"
+      "heading": "Título de la sección, en español",
+      "what_to_cover": "Qué información CONCRETA y ÚTIL va aquí",
+      "source_to_cite": "Fuente real con año (SCA, estudio revisado, barista, ficha del fabricante)"
     }}
   ],
-  "amazon_product": "ONE relevant Amazon product (or null if not applicable)"
+  "amazon_product": "UN producto de Amazon relevante (o null si no aplica)"
 }}"""
 
     return call_ai(prompt, temperature=0.8)
 
 
 def generate_content(category: str, topic_data: dict) -> dict:
-    """Step 2: Generate full high-quality article in English."""
+    """Paso 2: Genera el artículo completo de alta calidad en español."""
     sections = json.dumps(topic_data.get("sections", []), ensure_ascii=False, indent=2)
     amazon_product = topic_data.get("amazon_product")
     secondary_kws = ", ".join(topic_data.get("secondary_keywords", []))
 
-    prompt = f"""Write a PROFESSIONAL, COMPLETE SEO blog article in ENGLISH.
+    prompt = f"""Escribe un artículo de blog SEO PROFESIONAL y COMPLETO EN ESPAÑOL DE ESPAÑA.
 
-TITLE: {topic_data['title']}
-CATEGORY: {CATEGORY_NAMES.get(category, category)}
-PRIMARY KEYWORD: {topic_data['keyword']}
-SECONDARY KEYWORDS: {secondary_kws}
+TÍTULO: {topic_data['title']}
+CATEGORÍA: {CATEGORY_NAMES.get(category, category)}
+KEYWORD PRINCIPAL: {topic_data['keyword']}
+KEYWORDS SECUNDARIAS: {secondary_kws}
 
-SECTION PLAN:
+PLAN DE SECCIONES:
 {sections}
 
-=== QUALITY RULES (MANDATORY) ===
+=== REGLAS DE CALIDAD (OBLIGATORIAS) ===
 
-1. ZERO filler. Every sentence adds new data or actionable advice.
-   - BAD: "Coffee is very important for our morning routine"
-   - GOOD: "SCA standards target an extraction yield of 18-22% for balanced espresso (Specialty Coffee Association, Brewing Standard 2018)"
+1. CERO relleno. Cada frase aporta un dato nuevo o un consejo aplicable.
+   - MAL: "El café es muy importante en nuestra rutina de la mañana"
+   - BIEN: "La SCA fija un rendimiento de extracción del 18-22 % para un espresso equilibrado (Specialty Coffee Association, Brewing Standard 2018)"
 
-2. REAL DATA with full source. Minimum 5 sourced data points across the article.
-   - Source name (SCA, manufacturer, peer-reviewed paper, named barista) + year + concrete number/percentage
-   - BAD: "Studies show this works"
-   - GOOD: "James Hoffmann's 2020 ratio test (One Step Espresso Workflow) found 1:2 yields landed in the 25-30 second pull window 87% of the time"
+2. DATOS REALES con fuente completa. Mínimo 5 datos con fuente en todo el artículo.
+   - Nombre de la fuente (SCA, fabricante, estudio revisado, barista con nombre) + año + número/porcentaje concreto.
+   - MAL: "Los estudios demuestran que funciona"
+   - BIEN: "El test de ratios de James Hoffmann (2020) encontró que un 1:2 caía en la ventana de 25-30 segundos el 87 % de las veces"
 
-3. PRACTICAL ADVICE with numbered steps.
-   - Include exact amounts (grams, ml, seconds, °C/°F)
-   - At least 2 numbered lists or comparison tables
+3. CONSEJO PRÁCTICO con pasos numerados.
+   - Incluye cantidades exactas (gramos, ml, segundos, °C).
+   - Al menos 2 listas numeradas o tablas comparativas.
 
-4. EXTERNAL AUTHORITY LINKS (minimum 3):
-   - Link real sources when citing data: SCA, Barista Hustle, peer-reviewed journals, manufacturer pages
-   - Format: [source name](real domain URL)
-   - Use only real top-level domains, do NOT invent specific paper URLs
+4. ENLACES DE AUTORIDAD EXTERNA (mínimo 3):
+   - Enlaza fuentes reales al citar datos: SCA, Barista Hustle, revistas científicas, páginas de fabricantes.
+   - Formato: [nombre de la fuente](URL del dominio real)
+   - Usa solo dominios reales; NO inventes URLs concretas de estudios.
 
-5. FAQ SECTION: "## Frequently Asked Questions" with 5-6 real Google questions.
-   - Each ### question with a 4-6 line answer using real data
-   - Start with a direct sentence that answers the question (good for featured snippets / AI citation)
+5. SECCIÓN DE FAQ: "## Preguntas frecuentes" con 5-6 preguntas reales de Google.
+   - Cada ### pregunta con una respuesta de 4-6 líneas usando datos reales.
+   - Empieza con una frase directa que responda la pregunta (bueno para fragmentos destacados / citación por IA).
 
-6. FORMAT:
-   - Paragraphs of 2-3 lines maximum
-   - ## for main sections, ### for subsections
-   - **Bold** for key terms and important figures
-   - Markdown lists and tables when comparing options
-   - Do NOT include H1 (it is added automatically by the layout)
-   - End with "## Practical Summary" — 6-8 concrete action bullets
+6. FORMATO:
+   - Párrafos de 2-3 líneas máximo.
+   - ## para secciones principales, ### para subsecciones.
+   - **Negrita** para términos clave y cifras importantes.
+   - Listas y tablas markdown al comparar opciones.
+   - NO incluyas H1 (lo añade la plantilla automáticamente).
+   - Termina con "## Resumen práctico" — 6-8 puntos de acción concretos.
 
 7. SEO/GEO:
-   - Primary keyword in first paragraph and at least 2 H2 titles
-   - Secondary keywords used naturally
-   - First paragraph: direct answer to the search intent
-   - FAQ: direct answers (for featured snippets and AI citation)
+   - Keyword principal en el primer párrafo y en al menos 2 títulos H2.
+   - Keywords secundarias usadas con naturalidad.
+   - Primer párrafo: respuesta directa a la intención de búsqueda.
+   - FAQ: respuestas directas (para fragmentos destacados y citación por IA).
 
-8. PERSONAL TOUCH: Include a "## My Take" section (after the FAQ) with 2-3 first-person paragraphs by the author Vladys Z. — app developer and trained chef who brews coffee daily. Share a personal reflection or anecdote tied to the topic. This is MANDATORY — Google penalises content with no human voice.
+8. VOZ HUMANA: Incluye una sección "## Lo que pensamos en Cash Café" (después de la FAQ) con 2-3 párrafos en primera persona del plural, desde la perspectiva de Cash Café, una cafetería real de Beniel (Murcia) que prepara café a diario. Comparte una reflexión o anécdota ligada al tema. Es OBLIGATORIO — Google penaliza el contenido sin voz humana. NO inventes personas ni credenciales concretas; habla como la cafetería.
 
-9. LENGTH: 2000-2800 words of REAL useful content.
+9. EXTENSIÓN: 2000-2800 palabras de contenido REAL y útil.
 
-{f'10. AMAZON PRODUCTS: Mention "{amazon_product}" and 1-2 related products naturally. Use [AMAZON:product name] for each.' if amazon_product else '10. AMAZON PRODUCTS: If relevant products exist, mention 2-3 naturally with [AMAZON:product name]. Only when it fits organically.'}
+{f'10. PRODUCTOS DE AMAZON: Menciona "{amazon_product}" y 1-2 productos relacionados con naturalidad. Usa [AMAZON:nombre del producto] en cada uno.' if amazon_product else '10. PRODUCTOS DE AMAZON: Si hay productos relevantes, menciona 2-3 con naturalidad usando [AMAZON:nombre del producto]. Solo cuando encaje de forma orgánica.'}
 
-Respond JSON:
+Responde JSON (todo el texto en ESPAÑOL):
 {{
-  "content": "full article in markdown (no H1)",
-  "tags": ["tag1", "tag2", "tag3", "tag4", "tag5", "tag6", "tag7", "tag8"],
+  "content": "artículo completo en markdown (sin H1)",
+  "tags": ["tag en español 1", "tag2", "tag3", "tag4", "tag5", "tag6", "tag7", "tag8"],
   "sources": [
-    "Author A. et al. (year). Study title. Journal",
-    "Institution (year). Report name"
+    "Autor A. et al. (año). Título del estudio. Revista",
+    "Institución (año). Nombre del informe"
   ],
-  "amazon_keywords": ["product1", "product2", "product3"]
+  "amazon_keywords": ["producto1", "producto2", "producto3"]
 }}"""
 
     return call_ai(prompt, temperature=0.5)
@@ -208,19 +211,21 @@ def fetch_pexels_image(query: str) -> tuple[str, str]:
 
 
 def inject_amazon_links(content: str, amazon_keywords: list[str]) -> str:
+    base = f"https://www.{AMAZON_DOMAIN}/s"
+
     def replace_amazon(match):
         product = match.group(1)
         search_query = product.replace(" ", "+")
-        return f"[{product} on Amazon](https://www.amazon.com/s?k={search_query}&tag={AMAZON_TAG})"
+        return f"[{product} en Amazon]({base}?k={search_query}&tag={AMAZON_TAG})"
 
     content = re.sub(r'\[AMAZON:([^\]]+)\]', replace_amazon, content)
 
-    if amazon_keywords and "amazon.com" not in content:
+    if amazon_keywords and AMAZON_DOMAIN not in content:
         content += "\n\n---\n\n"
-        content += "*This article contains affiliate links. If you buy through them you help us keep CashCafe free, at no extra cost to you.*\n\n"
+        content += "*Como afiliado de Amazon, Cash Café gana por las compras adscritas que cumplan los requisitos aplicables. Si compras a través de estos enlaces nos ayudas a mantener el blog, sin coste extra para ti.*\n\n"
         for kw in amazon_keywords[:2]:
             search = kw.replace(" ", "+")
-            content += f"- [{kw}](https://www.amazon.com/s?k={search}&tag={AMAZON_TAG})\n"
+            content += f"- [{kw}]({base}?k={search}&tag={AMAZON_TAG})\n"
 
     return content
 
@@ -256,17 +261,17 @@ def add_internal_links(content: str, current_slug: str) -> str:
             continue
         if i > 2 and i < len(paragraphs) - 3 and shuffled:
             link = shuffled.pop(0)
-            paragraphs[i] = para + f"\n\n> Related: [{link['title']}](/blog/{link['slug']})"
+            paragraphs[i] = para + f"\n\n> Relacionado: [{link['title']}](/blog/{link['slug']})"
             contextual_count += 1
     content = "\n\n".join(paragraphs)
 
     remaining = shuffled[:4] if shuffled else random.sample(existing, min(4, len(existing)))
-    section = "\n\n### You might also like\n\n"
+    section = "\n\n### También te puede interesar\n\n"
     for link in remaining:
         section += f"- [{link['title']}](/blog/{link['slug']})\n"
 
-    if "## Practical Summary" in content:
-        content = content.replace("## Practical Summary", section + "\n## Practical Summary")
+    if "## Resumen práctico" in content:
+        content = content.replace("## Resumen práctico", section + "\n## Resumen práctico")
     else:
         content += section
 
@@ -299,7 +304,7 @@ def write_markdown(category: str, topic_data: dict, content_data: dict) -> Path:
 
     sources = content_data.get("sources", [])
     if not sources:
-        sources = [f"{BRAND} (2026). Internal research"]
+        sources = [f"{BRAND} (2026). Investigación propia"]
 
     valid_cats = list(CATEGORY_NAMES.keys())
     if category not in valid_cats:
@@ -336,7 +341,7 @@ draft: false
     if file_path.exists():
         file_path = BLOG_DIR / f"{slug}-{today}.md"
 
-    author_bio = f"\n\n---\n\n*Written by **{AUTHOR}** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*\n"
+    author_bio = f"\n\n---\n\n*Escrito por el equipo de **{AUTHOR}**, cafetería en Beniel (Murcia). Contenido editorial sobre café basado en práctica real y fuentes citadas. Información de afiliados en el [aviso legal](/legal-notice).*\n"
     content = content + author_bio
 
     file_path.write_text(f"{frontmatter}\n\n{content}", encoding="utf-8")
