@@ -92,6 +92,6 @@ El truco está en cambiar una sola variable cada vez (normalmente la molienda), 
 
 ## 📚 Sigue leyendo
 
-- [Guía del café en Berlín](/blog/caf-en-berl-n)
+- [Guía del café en Berlín](/blog/cafe-en-berlin)
 - [Tercera ola: qué significa y por qué importa](/blog/tercera-ola-explicada)
-- [Cómo elegir café en grano: guía por perfil de tostado](/blog/c-mo-elegir-caf-en-grano-gu-a-por-perfil-de-tostado)
+- [Cómo elegir café en grano: guía por perfil de tostado](/blog/como-elegir-cafe-en-grano)

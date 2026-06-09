@@ -38,5 +38,5 @@ Combina la inmersión (como la prensa francesa) con la presión (como el espress
 ## 📚 Sigue leyendo
 
 - [Cold brew vs café frío](/blog/cold-brew-vs-cafe-frio)
-- [Café para la productividad](/blog/caf-perfecto-para-trabajar)
+- [Café para la productividad](/blog/cafe-perfecto-para-trabajar)
 - [Irish Coffee: la receta original](/blog/receta-irish-coffee-original)

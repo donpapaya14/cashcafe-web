@@ -114,7 +114,7 @@ Lo que importa más que la marca es usar el cajón de golpeo correctamente. Suje
 - [Café filtrado en frío japonés (método Kyoto drip)](/blog/cafe-filtrado-frio-japones)
 - [Historia del café en Etiopía](/blog/historia-del-cafe-en-etiopia)
 - [Cómo elegir café en grano: origen, tueste y frescura](/blog/como-elegir-cafe-en-grano)
-- [Guía del café en Berlín](/blog/caf-en-berl-n)
+- [Guía del café en Berlín](/blog/cafe-en-berlin)
 
 ## Resumen práctico
 

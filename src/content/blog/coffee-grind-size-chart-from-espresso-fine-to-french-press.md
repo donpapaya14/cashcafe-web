@@ -67,7 +67,7 @@ Después de preparar café a diario durante años, puedo confirmar lo mucho que 
 ### También te puede interesar
 
 - [Best Glass Coffee Pot for Pour Over: 5 Server Picks](/blog/best-glass-coffee-pot-for-pour-over-5-server-picks)
-- [Molinillo manual vs eléctrico: cuál elegir según tu café](/blog/molinillo-manual-vs-el-ctrico-cu-l-elegir-seg-n-tu-caf)
+- [Molinillo manual vs eléctrico: cuál elegir según tu café](/blog/molinillo-manual-vs-electrico)
 - [Historia del café en Etiopía](/blog/historia-del-cafe-en-etiopia)
 - [Café turco: el método de preparación más antiguo del mundo](/blog/cafe-turco-metodo-ancestral)
 

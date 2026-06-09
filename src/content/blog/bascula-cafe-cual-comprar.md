@@ -120,7 +120,7 @@ Pesa el café. Pesa el agua. Apunta lo que funciona. Repite. Ese es todo el truc
 
 ## Seguir leyendo
 
-- [Molinillo manual vs eléctrico: cuál elegir según tu café](/blog/molinillo-manual-vs-el-ctrico-cu-l-elegir-seg-n-tu-caf)
+- [Molinillo manual vs eléctrico: cuál elegir según tu café](/blog/molinillo-manual-vs-electrico)
 - [Hervidor de cuello de cisne: la herramienta que lo cambia todo](/blog/hervidor-cuello-cisne-guia)
 - [7 accesorios de barista por menos de 50 €](/blog/accesorios-barista-esenciales)
 - [Cómo ajustar el espresso paso a paso](/blog/how-to-dial-in-espresso-step-by-step-guide-for-beginners)

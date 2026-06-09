@@ -38,5 +38,5 @@ Los barrios emergentes al norte del centro son donde la escena crece más rápid
 ## 📚 Sigue leyendo
 
 - [Las mejores cafeterías de Sevilla en 2026](/blog/mejores-cafeterias-sevilla)
-- [Guía del café en Berlín](/blog/caf-en-berl-n)
+- [Guía del café en Berlín](/blog/cafe-en-berlin)
 - [First Crack vs Second Crack en el tueste del café: guía para principiantes](/blog/first-crack-vs-second-crack-in-coffee-roasting-a-beginner-guide)

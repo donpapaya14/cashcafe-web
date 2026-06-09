@@ -38,5 +38,5 @@ Tokio todavía conserva cientos de kissaten, sobre todo en barrios como Ginza, S
 ## 📚 Sigue leyendo
 
 - [Primera, segunda y tercera ola del café: la historia completa](/blog/cafe-segunda-ola-tercera-ola)
-- [La Colombe Cafe](/blog/cafeter-a-la-colombe)
+- [La Colombe Cafe](/blog/cafeteria-la-colombe)
 - [Maridaje: café + repostería, las combinaciones que de verdad funcionan](/blog/maridaje-cafe-reposteria)

@@ -30,5 +30,5 @@ Mientras tanto, échale un vistazo a nuestro [blog de café](/blog), donde encon
 ## 📚 Sigue leyendo
 
 - [Tostar café en casa con una sartén: guía para los valientes](/blog/tostado-casero-sarten)
-- [Café para la productividad](/blog/caf-perfecto-para-trabajar)
+- [Café para la productividad](/blog/cafe-perfecto-para-trabajar)
 - [Guía de AeroPress para principiantes: tu primer café de especialidad](/blog/guia-aeropress-principiantes)

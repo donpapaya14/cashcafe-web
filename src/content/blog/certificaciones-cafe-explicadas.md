@@ -39,4 +39,4 @@ Busca tostadores que publiquen los precios que pagan a los productores (transpar
 
 - [De Etiopía al mundo: la historia del café en 5 minutos](/blog/origen-cafe-etiopia-mundo)
 - [Café y salud: qué dice la ciencia en 2026](/blog/cafe-y-salud-ciencia)
-- [La Colombe Cafe](/blog/cafeter-a-la-colombe)
+- [La Colombe Cafe](/blog/cafeteria-la-colombe)

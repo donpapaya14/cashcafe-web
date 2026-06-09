@@ -39,4 +39,4 @@ Sí. Las cafeterías de especialidad del sur de Europa sirven cada vez más caf�
 
 - [Café turco: el método ancestral](/blog/cafe-turco-metodo-ancestral)
 - [El café en Italia frente al café en España: costumbres que chocan](/blog/cultura-cafe-italia-espana)
-- [La Colombe Cafe](/blog/cafeter-a-la-colombe)
+- [La Colombe Cafe](/blog/cafeteria-la-colombe)

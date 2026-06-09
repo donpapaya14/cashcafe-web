@@ -40,4 +40,4 @@ Los grandes cafés históricos siguen abiertos, sirviendo Melange, Einspänner y
 
 - [Tercera ola: qué es y por qué importa](/blog/tercera-ola-explicada)
 - [Los 10 mayores productores de café del mundo (y qué los hace únicos)](/blog/mejores-paises-productores-cafe)
-- [La Colombe Cafe](/blog/cafeter-a-la-colombe)
+- [La Colombe Cafe](/blog/cafeteria-la-colombe)

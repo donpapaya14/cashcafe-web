@@ -74,8 +74,8 @@ En resumen, la preinfusión es una pieza fundamental del proceso de extracción 
 
 - [4 cafés con especias que puedes preparar en casa](/blog/cafe-con-especias-recetas)
 - [Las 3 mejores cafeteras espresso por menos de 300 € en 2026](/blog/cafetera-espresso-300-euros)
-- [Guía del café en Berlín](/blog/caf-en-berl-n)
-- [Cómo elegir café en grano: guía por perfil de tostado](/blog/c-mo-elegir-caf-en-grano-gu-a-por-perfil-de-tostado)
+- [Guía del café en Berlín](/blog/cafe-en-berlin)
+- [Cómo elegir café en grano: guía por perfil de tostado](/blog/como-elegir-cafe-en-grano)
 
 ## Resumen práctico
 * Ajusta el tiempo de preinfusión a 5-10 segundos

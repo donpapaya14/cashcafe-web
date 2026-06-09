@@ -30,5 +30,5 @@ Mientras tanto, échale un vistazo a nuestro [blog de café](/blog) completo, co
 ## 📚 Sigue leyendo
 
 - [Molinillo manual vs. eléctrico: las ventajas reales de cada uno](/blog/molinillo-manual-vs-electrico)
-- [Mejora tu café con accesorios](/blog/mejora-tu-caf-con-accesorios)
+- [Mejora tu café con accesorios](/blog/mejora-tu-cafe-con-accesorios)
 - [Prensa francesa: ¿vale la pena o es un mito?](/blog/prensa-francesa-vale-la-pena-o-es-un-mito)

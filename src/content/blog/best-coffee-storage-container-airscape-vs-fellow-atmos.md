@@ -65,7 +65,7 @@ En resumen, conservar bien el café es clave para mantener la calidad de los gra
 
 ### También te puede interesar
 
-- [Coffee for productivity](/blog/caf-perfecto-para-trabajar)
+- [Coffee for productivity](/blog/cafe-perfecto-para-trabajar)
 - [Japanese cold drip coffee (Kyoto drip method)](/blog/cafe-filtrado-frio-japones)
 - [Coffee Roasting Date: Why Roast Date Matters More Than Best By](/blog/coffee-roasting-date-why-roast-date-matters-more-than-best-by)
 - [What Is a Ristretto? Espresso Variants Explained](/blog/what-is-a-ristretto-espresso-variants-explained)

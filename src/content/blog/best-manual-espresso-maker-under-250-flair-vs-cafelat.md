@@ -65,7 +65,7 @@ Después de probar varios métodos de preparación, incluidas distintas cafetera
 - [Fair Trade, Rainforest, UTZ: what coffee certifications actually mean](/blog/certificaciones-cafe-explicadas)
 - [Ethiopian Coffee History](/blog/historia-del-cafe-en-etiopia)
 - [Robusta vs Arabica Coffee: Flavor, Caffeine, and Why It Matters](/blog/robusta-vs-arabica-coffee-flavor-caffeine-and-why-it-matters)
-- [Berlin Coffee Guide](/blog/caf-en-berl-n)
+- [Berlin Coffee Guide](/blog/cafe-en-berlin)
 
 ## Resumen práctico
 Estas son las ideas clave de este artículo:

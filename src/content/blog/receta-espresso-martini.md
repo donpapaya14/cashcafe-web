@@ -35,5 +35,5 @@ Usa un espresso de tueste medio-oscuro con notas a chocolate. Los cafés afrutad
 ## 📚 Sigue leyendo
 
 - [4 cafés con especias que puedes hacer en casa](/blog/cafe-con-especias-recetas)
-- [Café para la productividad](/blog/caf-perfecto-para-trabajar)
+- [Café para la productividad](/blog/cafe-perfecto-para-trabajar)
 - [Guía de AeroPress para principiantes: tu primer café de especialidad](/blog/guia-aeropress-principiantes)

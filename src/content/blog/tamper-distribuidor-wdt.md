@@ -43,4 +43,4 @@ No hace falta fuerza bruta: con 15-20 kg de presión es suficiente. Lo que impor
 
 - [Mejora tu V60 con agua](/blog/mejora-tu-v60-con-agua)
 - [Molinillo manual vs eléctrico: las ventajas reales de cada uno](/blog/molinillo-manual-vs-electrico)
-- [Molinillo manual vs eléctrico: cuál elegir según tu café](/blog/molinillo-manual-vs-el-ctrico-cu-l-elegir-seg-n-tu-caf)
+- [Molinillo manual vs eléctrico: cuál elegir según tu café](/blog/molinillo-manual-vs-electrico)

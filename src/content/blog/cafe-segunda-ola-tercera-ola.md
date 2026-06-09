@@ -36,6 +36,6 @@ Hay quien habla de una cuarta ola centrada en la ciencia del café: control de v
 
 ## 📚 Sigue leyendo
 
-- [La Colombe Cafe](/blog/cafeter-a-la-colombe)
+- [La Colombe Cafe](/blog/cafeteria-la-colombe)
 - [Historia del café en Etiopía](/blog/historia-del-cafe-en-etiopia)
 - [Por qué el norte de Europa toma café de filtro (y el sur, espresso)](/blog/cafe-filtro-europa-norte)

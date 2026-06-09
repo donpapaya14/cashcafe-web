@@ -63,7 +63,7 @@ Después de preparar café a diario, la conclusión es clara: el gramaje del esp
 
 ### También te puede interesar
 
-- [Café para la productividad](/blog/caf-perfecto-para-trabajar)
+- [Café para la productividad](/blog/cafe-perfecto-para-trabajar)
 - [El café en Italia frente al de España: costumbres que chocan](/blog/cultura-cafe-italia-espana)
 - [Chemex vs V60: cuál elegir y por qué](/blog/chemex-vs-v60-diferencias)
 - [Cómo elegir café en grano: origen, tueste y frescura](/blog/como-elegir-cafe-en-grano)

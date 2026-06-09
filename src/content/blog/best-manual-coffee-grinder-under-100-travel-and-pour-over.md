@@ -125,7 +125,7 @@ Salta los molinillos manuales de menos de 40 $. El ahorro se evapora en muelas q
 
 ### También te puede interesar
 
-- [La Colombe Cafe](/blog/cafeter-a-la-colombe)
+- [La Colombe Cafe](/blog/cafeteria-la-colombe)
 - [Mejora tu V60](/blog/mejora-tu-v60-con-agua)
 - [Cafetera moka: 5 errores que comete todo el mundo](/blog/moka-italiana-errores-comunes)
 - [Maridaje: café + repostería, las combinaciones que de verdad funcionan](/blog/maridaje-cafe-reposteria)
@@ -147,6 +147,6 @@ Lista de acciones rápida:
 
 ## 📚 Sigue leyendo
 
-- [Mejora tu café con accesorios](/blog/mejora-tu-caf-con-accesorios)
+- [Mejora tu café con accesorios](/blog/mejora-tu-cafe-con-accesorios)
 - [Comparativa: Bialetti frente a otras cafeteras italianas de fuego](/blog/comparativa-cafeteras-italianas)
 - [Mejor cafetera espresso por menos de 500 $ para baristas caseros en 2026](/blog/best-espresso-machine-under-500-for-home-baristas-in-2026)

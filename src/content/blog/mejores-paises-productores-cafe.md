@@ -37,4 +37,4 @@ No existe el "mejor país cafetero": existe un café ideal para cada paladar y c
 
 - [De Etiopía al mundo: la historia del café en 5 minutos](/blog/origen-cafe-etiopia-mundo)
 - [Un día en un tostadero andaluz: del saco al portafiltros](/blog/tour-tostador-andaluz)
-- [La Colombe Cafe](/blog/cafeter-a-la-colombe)
+- [La Colombe Cafe](/blog/cafeteria-la-colombe)

@@ -65,7 +65,7 @@ El mundo del café es enorme: cuanto más se exploran las distintas especies, co
 ### También te puede interesar
 
 - [El café vienés: patrimonio de la UNESCO y tradición viva](/blog/historia-cafeteria-viena)
-- [Guía del café en Berlín](/blog/caf-en-berl-n)
+- [Guía del café en Berlín](/blog/cafe-en-berlin)
 - [Primer crack vs segundo crack en el tueste del café: guía para principiantes](/blog/first-crack-vs-second-crack-in-coffee-roasting-a-beginner-guide)
 - [Latte art para principiantes: tu primer corazón](/blog/latte-art-principiantes)
 

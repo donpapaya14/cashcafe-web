@@ -31,4 +31,4 @@ Mientras tanto, échale un vistazo a nuestro [blog de café](/blog), donde encon
 
 - [De Etiopía al mundo: la historia del café en 5 minutos](/blog/origen-cafe-etiopia-mundo)
 - [Por qué el norte de Europa toma café de filtro (y el sur, espresso)](/blog/cafe-filtro-europa-norte)
-- [La Colombe Cafe](/blog/cafeter-a-la-colombe)
+- [La Colombe Cafe](/blog/cafeteria-la-colombe)

@@ -65,7 +65,7 @@ Como rutina, conviene guardar el café en un recipiente hermético y molerlo jus
 ### También te puede interesar
 
 - [Matcha latte vs café latte: preparación y diferencias](/blog/matcha-latte-vs-cafe-latte)
-- [Mejora tu café con accesorios](/blog/mejora-tu-caf-con-accesorios)
+- [Mejora tu café con accesorios](/blog/mejora-tu-cafe-con-accesorios)
 - [Cómo hacer espresso sin cafetera de espresso: 5 métodos](/blog/how-to-make-espresso-without-an-espresso-machine-5-methods)
 - [Las 3 mejores cafeteras espresso por menos de 300 € en 2026](/blog/cafetera-espresso-300-euros)
 

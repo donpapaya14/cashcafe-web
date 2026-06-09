@@ -70,8 +70,8 @@ Por experiencia, la clave para conseguir un buen cold brew está en experimentar
 
 ### También te puede interesar
 
-- [Guía del café en Berlín](/blog/caf-en-berl-n)
-- [Molinillo manual vs eléctrico: cuál elegir según tu café](/blog/molinillo-manual-vs-el-ctrico-cu-l-elegir-seg-n-tu-caf)
+- [Guía del café en Berlín](/blog/cafe-en-berlin)
+- [Molinillo manual vs eléctrico: cuál elegir según tu café](/blog/molinillo-manual-vs-electrico)
 - [Nitro coffee casero: cómo hacerlo sin equipo profesional](/blog/nitro-coffee-casero)
 - [Las mejores cafeterías de Barcelona: guía actualizada](/blog/mejores-cafeterias-barcelona)
 

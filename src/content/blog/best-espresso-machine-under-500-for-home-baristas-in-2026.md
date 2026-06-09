@@ -111,7 +111,7 @@ Sáltate las todo-en-uno tipo "Barista Express" con molinillo integrado en esta 
 
 ### También te puede interesar
 
-- [Cafetería La Colombe](/blog/cafeter-a-la-colombe)
+- [Cafetería La Colombe](/blog/cafeteria-la-colombe)
 - [Chemex vs V60: cuál elegir y por qué](/blog/chemex-vs-v60-diferencias)
 - [Tamper, distribuidor y WDT: qué hace cada uno](/blog/tamper-distribuidor-wdt)
 - [Cómo elegir café en grano: origen, tueste y frescura](/blog/como-elegir-cafe-en-grano)
@@ -142,6 +142,6 @@ Sáltate las todo-en-uno tipo "Barista Express" con molinillo integrado en esta 
 
 ## 📚 Sigue leyendo
 
-- [Molinillo manual vs eléctrico: cuál elegir para tu café](/blog/molinillo-manual-vs-el-ctrico-cu-l-elegir-seg-n-tu-caf)
+- [Molinillo manual vs eléctrico: cuál elegir para tu café](/blog/molinillo-manual-vs-electrico)
 - [Probados: 5 molinillos por menos de 200 €](/blog/comparativa-molinillos-200)
 - [Mejor molinillo de café manual por menos de 100 $: viaje y pour over](/blog/best-manual-coffee-grinder-under-100-travel-and-pour-over)

@@ -67,7 +67,7 @@ Como conclusión, la AeroPress es un sistema de extracción versátil que admite
 ### También te puede interesar
 
 - [La tercera ola: qué significa y por qué importa](/blog/tercera-ola-explicada)
-- [Mejora tu café con accesorios](/blog/mejora-tu-caf-con-accesorios)
+- [Mejora tu café con accesorios](/blog/mejora-tu-cafe-con-accesorios)
 - [Cómo elegir café en grano: origen, tueste y frescura](/blog/como-elegir-cafe-en-grano)
 - [Mejor molinillo de muelas por menos de 200 $ para pour over y filtro](/blog/best-burr-grinder-under-200-for-pour-over-and-drip)
 

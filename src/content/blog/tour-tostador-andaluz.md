@@ -29,6 +29,6 @@ Mientras tanto, échale un vistazo a nuestro [blog de café](/blog), donde encon
 
 ## 📚 Sigue leyendo
 
-- [La Colombe Cafe](/blog/cafeter-a-la-colombe)
+- [La Colombe Cafe](/blog/cafeteria-la-colombe)
 - [Los 10 mayores productores de café del mundo (y qué los hace únicos)](/blog/mejores-paises-productores-cafe)
 - [Café turco: el método ancestral](/blog/cafe-turco-metodo-ancestral)

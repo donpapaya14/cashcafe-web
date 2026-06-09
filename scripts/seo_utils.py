@@ -5,7 +5,10 @@ from slugify import slugify
 
 
 def generate_slug(title: str) -> str:
-    """SEO-friendly slug from English title."""
+    """Slug SEO-friendly. Transliterar acentos a ASCII (café -> cafe, Berlín -> berlin)
+    para evitar slugs rotos cuando el título está en español."""
+    import unicodedata
+    title = unicodedata.normalize("NFKD", title).encode("ascii", "ignore").decode("ascii")
     return slugify(title, max_length=80, word_boundary=True)
 
 

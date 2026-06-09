@@ -46,5 +46,5 @@ Cuando consigas sacar tres shots seguidos que te gusten de verdad, empieza a jug
 ## 📚 Sigue leyendo
 
 - [Prensa francesa: la guía completa paso a paso](/blog/french-press-guia-completa)
-- [Guía del café en Berlín](/blog/caf-en-berl-n)
-- [Cómo elegir café en grano: guía por perfil de tostado](/blog/c-mo-elegir-caf-en-grano-gu-a-por-perfil-de-tostado)
+- [Guía del café en Berlín](/blog/cafe-en-berlin)
+- [Cómo elegir café en grano: guía por perfil de tostado](/blog/como-elegir-cafe-en-grano)
