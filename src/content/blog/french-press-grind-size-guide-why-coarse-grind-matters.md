@@ -1,10 +1,10 @@
 ---
-title: "French Press Grind Size Guide: Why Coarse Grind Matters"
-description: "Unlock the perfect French press brew with the right grind size"
+title: "Guía del tamaño de molienda para prensa francesa: por qué importa el grueso"
+description: "Saca el máximo partido a tu prensa francesa con el tamaño de molienda adecuado y consigue una taza equilibrada y sabrosa."
 pubDate: 2026-05-27
 category: "brewing"
-tags: ["French press grind size", "coarse grind", "French press grinder setting", "french press fines", "coffee brewing", "Specialty Coffee Association", "James Hoffmann", "Baratza"]
-author: "Vladys Z."
+tags: ["molienda prensa francesa", "molienda gruesa", "ajuste molinillo prensa francesa", "finos prensa francesa", "preparación de café", "Specialty Coffee Association", "James Hoffmann", "Baratza"]
+author: "Cash Café"
 readingTime: 4
 
 sources:
@@ -17,71 +17,72 @@ draft: false
 ---
 
 
-## Introduction to French Press Grind Size
-The **French press grind size** is a crucial factor in determining the quality of the coffee brewed. According to the Specialty Coffee Association (2020), the ideal particle size range for French press is between **600-1000 microns**. This range allows for the perfect balance of extraction and flavor.
+## Introducción al tamaño de molienda para prensa francesa
+El **tamaño de molienda en la prensa francesa** es un factor decisivo a la hora de obtener un buen café. Según la Specialty Coffee Association (2020), el rango ideal de partícula para la prensa francesa se sitúa entre las **600 y 1000 micras**. Ese intervalo permite alcanzar el equilibrio perfecto entre extracción y sabor.
 
-## Why Grind Size Matters Here
-The grind size of the coffee beans affects the extraction rate, which in turn impacts the flavor of the coffee. A **coarse grind** is essential for French press as it allows for the right amount of extraction. The Specialty Coffee Association (2020) recommends a grind size that is not too fine, as it can lead to over-extraction and a bitter taste.
+## Por qué importa aquí la molienda
+El tamaño de molienda del grano afecta a la velocidad de extracción, que a su vez condiciona el sabor del café. Una **molienda gruesa** es imprescindible en la prensa francesa, porque permite una extracción en su justa medida. La Specialty Coffee Association (2020) recomienda evitar moliendas demasiado finas, ya que pueden provocar una sobreextracción y un amargor desagradable.
 
-## Recommended Particle Range
-The recommended particle range for French press is around **1mm particles**. This coarse grind allows for the perfect balance of extraction and flavor. According to James Hoffmann (2019), a grind that is too fine can lead to over-extraction, while a grind that is too coarse can result in under-extraction. 
-| Grind Size | Effect on Flavor |
+## Rango de partícula recomendado
+El rango de partícula recomendado para la prensa francesa ronda **1 mm**. Esta molienda gruesa proporciona el equilibrio perfecto entre extracción y sabor. Según James Hoffmann (2019), una molienda demasiado fina deriva en sobreextracción, mientras que una demasiado gruesa provoca subextracción.
+| Tamaño de molienda | Efecto en el sabor |
 | --- | --- |
-| Too Fine | Over-extraction, bitter taste |
-| Too Coarse | Under-extraction, weak taste |
-| Ideal (1mm) | Perfect balance of extraction and flavor |
+| Demasiado fina | Sobreextracción, sabor amargo |
+| Demasiado gruesa | Subextracción, sabor flojo |
+| Ideal (1 mm) | Equilibrio perfecto entre extracción y sabor |
 
-## Reducing Sediment in Cup
-To reduce sediment in the cup, it is essential to use the right steep time and technique. James Hoffmann (2019) recommends a steep time of **4 minutes**. Additionally, skimming the crust before plunging can help reduce bitterness. 
-1. Steep the coffee for 4 minutes
-2. Skim the crust before plunging
-3. Plunge slowly to avoid stirring up the sediment
+## Cómo reducir los posos en la taza
+Para reducir los posos en la taza es fundamental acertar con el tiempo de infusión y la técnica. James Hoffmann (2019) recomienda un tiempo de infusión de **4 minutos**. Además, retirar la costra superior antes de presionar el émbolo ayuda a reducir el amargor.
+1. Deja infusionar el café durante 4 minutos
+2. Retira la costra antes de bajar el émbolo
+3. Presiona despacio para no remover los posos
 
-## Manual vs Electric Grinders
-When it comes to grinding coffee beans, there are two main options: manual and electric grinders. Burr grinders, such as the [Baratza Encore Conical Burr Coffee Grinder on Amazon](https://www.amazon.com/s?k=Baratza+Encore+Conical+Burr+Coffee+Grinder&tag=vds96-20), produce fewer fines than blade grinders, resulting in a more consistent grind. According to Baratza (2022), burr grinders are the preferred choice for coffee enthusiasts.
-| Grinder Type | Characteristics |
+## Molinillos manuales frente a eléctricos
+A la hora de moler el grano, hay dos grandes opciones: molinillos manuales y eléctricos. Los molinillos de muelas, como el [Baratza Encore Conical Burr Coffee Grinder en Amazon](https://www.amazon.com/s?k=Baratza+Encore+Conical+Burr+Coffee+Grinder&tag=vds96-20), generan menos finos que los de cuchillas, lo que se traduce en una molienda más uniforme. Según Baratza (2022), los molinillos de muelas son la opción preferida por los aficionados al café.
+| Tipo de molinillo | Características |
 | --- | --- |
-| Manual | Portable, affordable, inconsistent grind |
-| Electric (Burr) | Consistent grind, easy to use, more expensive |
+| Manual | Portátil, económico, molienda irregular |
+| Eléctrico (de muelas) | Molienda uniforme, fácil de usar, más caro |
 
-## Frequently Asked Questions
-### What is the ideal French press grind size?
-The ideal French press grind size is around **1mm particles**. This coarse grind allows for the perfect balance of extraction and flavor.
-### How do I reduce sediment in my French press coffee?
-To reduce sediment, use a steep time of **4 minutes** and skim the crust before plunging.
-### What is the difference between manual and electric grinders?
-Manual grinders are portable and affordable, but produce an inconsistent grind. Electric burr grinders, such as the [Baratza Encore Conical Burr Coffee Grinder on Amazon](https://www.amazon.com/s?k=Baratza+Encore+Conical+Burr+Coffee+Grinder&tag=vds96-20), produce a consistent grind, but are more expensive.
-### Can I use a blade grinder for French press?
-While it is possible to use a blade grinder, it is not recommended. Blade grinders produce a lot of fines, which can lead to over-extraction and a bitter taste.
-### How often should I clean my French press?
-It is recommended to clean your French press after each use to prevent any residual coffee oils from affecting the flavor of your next brew.
-### What is the best coffee-to-water ratio for French press?
-The best coffee-to-water ratio for French press is around **1:15**. This ratio allows for the perfect balance of extraction and flavor.
+## Preguntas frecuentes
+### ¿Cuál es el tamaño de molienda ideal para la prensa francesa?
+El tamaño de molienda ideal para la prensa francesa ronda **1 mm**. Esta molienda gruesa ofrece el equilibrio perfecto entre extracción y sabor.
+### ¿Cómo reduzco los posos en mi café de prensa francesa?
+Para reducir los posos, usa un tiempo de infusión de **4 minutos** y retira la costra antes de bajar el émbolo.
+### ¿Qué diferencia hay entre los molinillos manuales y los eléctricos?
+Los molinillos manuales son portátiles y económicos, pero dan una molienda irregular. Los eléctricos de muelas, como el [Baratza Encore Conical Burr Coffee Grinder en Amazon](https://www.amazon.com/s?k=Baratza+Encore+Conical+Burr+Coffee+Grinder&tag=vds96-20), ofrecen una molienda uniforme, aunque son más caros.
+### ¿Puedo usar un molinillo de cuchillas para la prensa francesa?
+Aunque es posible usar un molinillo de cuchillas, no es lo recomendable. Estos molinillos generan muchos finos, que pueden provocar sobreextracción y un sabor amargo.
+### ¿Con qué frecuencia debo limpiar la prensa francesa?
+Se recomienda limpiar la prensa francesa después de cada uso para evitar que los restos de aceites del café afecten al sabor de la siguiente preparación.
+### ¿Cuál es la mejor proporción de café y agua para la prensa francesa?
+La mejor proporción de café y agua para la prensa francesa ronda el **1:15**. Esa proporción permite el equilibrio perfecto entre extracción y sabor.
 
-## My Take
-As an app developer and trained chef who brews coffee daily, I can attest to the importance of using the right grind size for French press. I have experimented with different grind sizes and have found that a coarse grind around **1mm particles** produces the best results. I also recommend using a burr grinder, such as the [Baratza Encore Conical Burr Coffee Grinder on Amazon](https://www.amazon.com/s?k=Baratza+Encore+Conical+Burr+Coffee+Grinder&tag=vds96-20), for a consistent grind.
-I have been using French press for years and have found that it is a great way to brew coffee. The key is to use the right grind size and technique to produce a balanced and flavorful cup.
-In addition to the [Baratza Encore Conical Burr Coffee Grinder on Amazon](https://www.amazon.com/s?k=Baratza+Encore+Conical+Burr+Coffee+Grinder&tag=vds96-20), I also recommend the [KitchenAid Burr Coffee Grinder on Amazon](https://www.amazon.com/s?k=KitchenAid+Burr+Coffee+Grinder&tag=vds96-20) and [Cuisinart DBM-8 Supreme Grind Automatic Burr Mill on Amazon](https://www.amazon.com/s?k=Cuisinart+DBM-8+Supreme+Grind+Automatic+Burr+Mill&tag=vds96-20) for their consistent grind and ease of use.
+## Mi opinión
+Usar el tamaño de molienda adecuado marca toda la diferencia en la prensa francesa. Tras probar distintas moliendas, una molienda gruesa en torno a **1 mm** es la que mejores resultados ofrece. También merece la pena apostar por un molinillo de muelas, como el [Baratza Encore Conical Burr Coffee Grinder en Amazon](https://www.amazon.com/s?k=Baratza+Encore+Conical+Burr+Coffee+Grinder&tag=vds96-20), para conseguir una molienda uniforme.
+La prensa francesa es una forma estupenda de preparar café. La clave está en acertar con el tamaño de molienda y la técnica para lograr una taza equilibrada y sabrosa.
+Además del [Baratza Encore Conical Burr Coffee Grinder en Amazon](https://www.amazon.com/s?k=Baratza+Encore+Conical+Burr+Coffee+Grinder&tag=vds96-20), también son buenas opciones el [KitchenAid Burr Coffee Grinder en Amazon](https://www.amazon.com/s?k=KitchenAid+Burr+Coffee+Grinder&tag=vds96-20) y el [Cuisinart DBM-8 Supreme Grind Automatic Burr Mill en Amazon](https://www.amazon.com/s?k=Cuisinart+DBM-8+Supreme+Grind+Automatic+Burr+Mill&tag=vds96-20) por su molienda uniforme y su facilidad de uso.
 
 
 
-### You might also like
+### También te puede interesar
 
 - [French Press: Worth It or Overrated?](/blog/prensa-francesa-vale-la-pena-o-es-un-mito)
 - [Water Filters for Coffee](/blog/filtros-de-agua-para-cafe)
 - [AeroPress guide for beginners: your first specialty coffee](/blog/guia-aeropress-principiantes)
 - [Irish Coffee: the original recipe and why you're making it wrong](/blog/receta-irish-coffee-original)
 
-## Practical Summary
-* Use a coarse grind around **1mm particles** for French press
-* Steep the coffee for **4 minutes** to allow for the perfect balance of extraction and flavor
-* Skim the crust before plunging to reduce bitterness
-* Use a burr grinder, such as the [Baratza Encore Conical Burr Coffee Grinder on Amazon](https://www.amazon.com/s?k=Baratza+Encore+Conical+Burr+Coffee+Grinder&tag=vds96-20), for a consistent grind
-* Clean your French press after each use to prevent any residual coffee oils from affecting the flavor of your next brew
-* Experiment with different coffee-to-water ratios to find the perfect balance of extraction and flavor
-* Consider investing in a high-quality grinder, such as the [Baratza Encore Conical Burr Coffee Grinder on Amazon](https://www.amazon.com/s?k=Baratza+Encore+Conical+Burr+Coffee+Grinder&tag=vds96-20), for the best results
+## Resumen práctico
+* Usa una molienda gruesa en torno a **1 mm** para la prensa francesa
+* Deja infusionar el café **4 minutos** para lograr el equilibrio perfecto entre extracción y sabor
+* Retira la costra antes de bajar el émbolo para reducir el amargor
+* Usa un molinillo de muelas, como el [Baratza Encore Conical Burr Coffee Grinder en Amazon](https://www.amazon.com/s?k=Baratza+Encore+Conical+Burr+Coffee+Grinder&tag=vds96-20), para una molienda uniforme
+* Limpia la prensa francesa después de cada uso para evitar que los restos de aceites del café afecten al sabor de la siguiente preparación
+* Experimenta con distintas proporciones de café y agua hasta dar con tu equilibrio ideal
+* Plantéate invertir en un molinillo de calidad, como el [Baratza Encore Conical Burr Coffee Grinder en Amazon](https://www.amazon.com/s?k=Baratza+Encore+Conical+Burr+Coffee+Grinder&tag=vds96-20), para obtener los mejores resultados
+
 
 
 ---
 
-*Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+*CashCafe es contenido editorial sobre café basado en pruebas reales y ciencia citada. Aviso de afiliación en el [aviso legal](/legal-notice).*

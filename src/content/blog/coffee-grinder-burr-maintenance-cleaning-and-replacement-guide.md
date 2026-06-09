@@ -1,10 +1,10 @@
 ---
-title: "Coffee Grinder Burr Maintenance: Cleaning and Replacement Guide"
-description: "Learn to clean & replace burrs for better brews"
+title: "Mantenimiento de las muelas del molinillo: limpieza y sustitución"
+description: "Aprende a limpiar y sustituir las muelas para mejorar tu café"
 pubDate: 2026-06-01
 category: "gear"
-tags: ["coffee grinder burr cleaning", "how to clean burr grinder", "grinder burr replacement", "grinder maintenance", "burr grinder", "coffee grinding", "coffee beans", "coffee roasting"]
-author: "Vladys Z."
+tags: ["limpieza muelas molinillo café", "cómo limpiar molinillo de muelas", "sustitución muelas molinillo", "mantenimiento molinillo", "molinillo de muelas", "molienda de café", "granos de café", "tueste de café"]
+author: "Cash Café"
 readingTime: 3
 
 sources:
@@ -17,63 +17,63 @@ draft: false
 ---
 
 
-## Why burr maintenance matters
-Regular **coffee grinder burr cleaning** is crucial as coffee oils accumulate on burrs, degrading the taste of your coffee. According to the [Specialty Coffee Association](https://sca.coffee/), 2020, this buildup can lead to a significant decrease in the quality of your brew. The SCA standards target an extraction yield of 18-22% for balanced espresso.
+## Por qué importa el mantenimiento de las muelas
+La **limpieza periódica de las muelas del molinillo** es fundamental, ya que los aceites del café se van acumulando en ellas y deterioran el sabor de la taza. Según la [Specialty Coffee Association](https://sca.coffee/) (2020), esta acumulación puede provocar una caída notable en la calidad del café. Los estándares de la SCA fijan como objetivo un rendimiento de extracción del 18-22 % para un espresso equilibrado.
 
-## Daily cleaning routine
-A daily cleaning routine is essential for maintaining your burr grinder. Here's a step-by-step guide:
-1. Turn off and unplug your grinder.
-2. Use a **brush** to remove any loose coffee grounds from the burrs and grinder chamber.
-3. Wipe down the exterior with a damp cloth.
-As recommended by the [Barista Guild of America](https://baristaguildofamerica.net/), 2019, this routine will help prevent oil buildup and keep your grinder in good working condition.
+## Rutina de limpieza diaria
+Una rutina de limpieza diaria es imprescindible para mantener tu molinillo de muelas en forma. Aquí tienes una guía paso a paso:
+1. Apaga y desenchufa el molinillo.
+2. Usa un **cepillo** para retirar los restos de café sueltos de las muelas y de la cámara de molienda.
+3. Limpia el exterior con un paño húmedo.
+Tal y como recomienda la [Barista Guild of America](https://baristaguildofamerica.net/) (2019), esta rutina ayuda a evitar la acumulación de aceites y a mantener el molinillo en buen estado de funcionamiento.
 
-## Deep cleaning with tablets
-For a deeper clean, you can use **Grindz cleaning tablets**. These tablets are made of a **food-grade material** and are safe to use in your grinder. To use:
-1. Add one tablet to your grinder.
-2. Run the grinder for about 10 seconds to allow the tablet to break down and absorb any oils.
-3. Repeat the process until the tablet is completely ground.
-According to [Urnex](https://urnex.com/), the manufacturer of Grindz, 2022, this method is effective in removing old coffee oils and residue from your grinder.
+## Limpieza a fondo con pastillas
+Para una limpieza más profunda, puedes usar **pastillas limpiadoras Grindz**. Están fabricadas con un **material apto para uso alimentario** y son seguras para tu molinillo. Para usarlas:
+1. Añade una pastilla al molinillo.
+2. Pon el molinillo en marcha unos 10 segundos para que la pastilla se vaya deshaciendo y absorba los aceites.
+3. Repite el proceso hasta que la pastilla quede completamente molida.
+Según [Urnex](https://urnex.com/), fabricante de Grindz (2022), este método es eficaz para eliminar los aceites viejos y los residuos de café del molinillo.
 
-## When to replace burrs
-The lifespan of your burrs depends on the material and usage. **Steel burrs** typically last for around 600-1200 pounds of coffee, while **ceramic burrs** are more durable but can chip if not handled carefully. A peer-reviewed study on coffee grinder wear, 2018, found that the average lifespan of steel burrs is around 900 pounds.
+## Cuándo sustituir las muelas
+La vida útil de las muelas depende del material y del uso. Las **muelas de acero** suelen durar unos 600-1200 kg de café molido, mientras que las **muelas de cerámica** son más duraderas, pero pueden astillarse si no se manejan con cuidado. Un estudio revisado por pares sobre el desgaste de los molinillos de café (2018) determinó que la vida útil media de las muelas de acero ronda los 900 kg.
 
-## Frequently Asked Questions
-### How often should I clean my burr grinder?
-You should clean your burr grinder daily to prevent oil buildup. For a deeper clean, use Grindz cleaning tablets every 1-2 months.
-### What is the best way to store my burr grinder?
-Store your grinder in a cool, dry place to prevent moisture from accumulating and causing damage.
-### Can I use a dishwasher to clean my burr grinder?
-No, it's not recommended to use a dishwasher to clean your burr grinder. Instead, use a soft brush and a damp cloth to wipe down the exterior.
-### How do I know when to replace my burrs?
-Check your burrs regularly for signs of wear, such as a decrease in grind quality or an increase in noise. Replace your burrs every 600-1200 pounds of coffee for steel burrs.
-### What is the difference between steel and ceramic burrs?
-Steel burrs are more prone to wear and tear, but are generally less expensive than ceramic burrs. Ceramic burrs are more durable, but can chip if not handled carefully.
-### Can I use my burr grinder for other types of grinding?
-No, it's not recommended to use your burr grinder for other types of grinding, such as spices or nuts, as this can cause damage to the burrs and affect the flavor of your coffee.
+## Preguntas frecuentes
+### ¿Con qué frecuencia debo limpiar mi molinillo de muelas?
+Conviene limpiar el molinillo a diario para evitar la acumulación de aceites. Para una limpieza más a fondo, usa pastillas limpiadoras Grindz cada 1-2 meses.
+### ¿Cuál es la mejor forma de guardar mi molinillo de muelas?
+Guárdalo en un lugar fresco y seco para evitar que la humedad se acumule y lo dañe.
+### ¿Puedo lavar mi molinillo de muelas en el lavavajillas?
+No, no es recomendable meter el molinillo en el lavavajillas. En su lugar, usa un cepillo suave y un paño húmedo para limpiar el exterior.
+### ¿Cómo sé cuándo tengo que cambiar las muelas?
+Revisa las muelas con regularidad en busca de signos de desgaste, como una pérdida de calidad en la molienda o un aumento del ruido. Sustituye las muelas de acero cada 600-1200 kg de café molido.
+### ¿Cuál es la diferencia entre las muelas de acero y las de cerámica?
+Las muelas de acero se desgastan con más facilidad, pero suelen ser más económicas que las de cerámica. Las de cerámica son más duraderas, aunque pueden astillarse si no se manejan con cuidado.
+### ¿Puedo usar mi molinillo de muelas para moler otras cosas?
+No, no es recomendable usar el molinillo de muelas para moler otros productos, como especias o frutos secos, ya que esto puede dañar las muelas y alterar el sabor de tu café.
 
-## My Take
-As an app developer and trained chef who brews coffee daily, I can attest to the importance of regular burr maintenance. I use my [Baratza Encore Conical Burr Coffee Grinder](https://www.baratza.com/encore/) every morning to grind my coffee beans. I've found that regular cleaning and maintenance have significantly improved the flavor of my coffee. I also recommend using [ Urnex Grindz Coffee Grinder Cleaning Tablets on Amazon](https://www.amazon.com/s?k=+Urnex+Grindz+Coffee+Grinder+Cleaning+Tablets&tag=vds96-20) to keep your grinder in top condition.
+## Mi opinión
+Tras moler café a diario, queda claro lo importante que es el mantenimiento periódico de las muelas. La limpieza y el cuidado regulares mejoran de forma notable el sabor en taza. Un buen punto de partida es un [molinillo de muelas cónicas Baratza Encore](https://www.baratza.com/encore/) para el café de cada mañana, junto con las [pastillas limpiadoras Urnex Grindz en Amazon](https://www.amazon.com/s?k=+Urnex+Grindz+Coffee+Grinder+Cleaning+Tablets&tag=vds96-20) para mantener el molinillo a punto.
 
 
 
-### You might also like
+### También te puede interesar
 
-- [Espresso Martini: the recipe Madrid cocktail bars actually use](/blog/receta-espresso-martini)
-- [Cold brew vs iced coffee: they're not the same thing](/blog/cold-brew-vs-cafe-frio)
-- [Pre-Infusion in Espresso: What It Is and Why It Matters](/blog/pre-infusion-in-espresso-what-it-is-and-why-it-matters)
-- [Best Cold Brew Coffee Maker for Home: Top 7 Reviewed](/blog/best-cold-brew-coffee-maker-for-home-top-7-reviewed)
+- [Espresso Martini: la receta que usan de verdad las coctelerías de Madrid](/blog/receta-espresso-martini)
+- [Cold brew vs café frío: no son lo mismo](/blog/cold-brew-vs-cafe-frio)
+- [La preinfusión en el espresso: qué es y por qué importa](/blog/pre-infusion-in-espresso-what-it-is-and-why-it-matters)
+- [Las mejores cafeteras de cold brew para casa: 7 modelos analizados](/blog/best-cold-brew-coffee-maker-for-home-top-7-reviewed)
 
-## Practical Summary
-Here are some practical tips to keep in mind:
-* Clean your burr grinder daily to prevent oil buildup
-* Use Grindz cleaning tablets every 1-2 months for a deeper clean
-* Store your grinder in a cool, dry place
-* Check your burrs regularly for signs of wear
-* Replace your burrs every 600-1200 pounds of coffee for steel burrs
-* Use a soft brush and a damp cloth to wipe down the exterior of your grinder
-* Consider using a [ Baratza Encore Conical Burr Coffee Grinder on Amazon](https://www.amazon.com/s?k=+Baratza+Encore+Conical+Burr+Coffee+Grinder&tag=vds96-20) for your coffee grinding needs
+## Resumen práctico
+Estos son algunos consejos prácticos que conviene tener en cuenta:
+* Limpia el molinillo a diario para evitar la acumulación de aceites
+* Usa pastillas limpiadoras Grindz cada 1-2 meses para una limpieza más a fondo
+* Guarda el molinillo en un lugar fresco y seco
+* Revisa las muelas con regularidad en busca de signos de desgaste
+* Sustituye las muelas de acero cada 600-1200 kg de café molido
+* Usa un cepillo suave y un paño húmedo para limpiar el exterior del molinillo
+* Plantéate un [molinillo de muelas cónicas Baratza Encore en Amazon](https://www.amazon.com/s?k=+Baratza+Encore+Conical+Burr+Coffee+Grinder&tag=vds96-20) para tus necesidades de molienda
 
 
 ---
 
-*Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+*Escrito por **Cash Café**. CashCafe es contenido editorial sobre café basado en pruebas reales y ciencia citada. Aviso de afiliación en el [aviso legal](/legal-notice).*

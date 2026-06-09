@@ -1,10 +1,10 @@
 ---
-title: "Robusta vs Arabica Coffee: Flavor, Caffeine, and Why It Matters"
-description: "Discover the difference between Robusta and Arabica coffee"
+title: "Robusta vs Arábica: sabor, cafeína y por qué importa la diferencia"
+description: "Descubre las diferencias entre el café Robusta y el Arábica: sabor, cafeína, cultivo y cuándo conviene cada uno."
 pubDate: 2026-05-26
 category: "brewing"
-tags: ["coffee", "arabica", "robusta", "caffeine", "flavor profile", "growing conditions", "Italian espresso blends"]
-author: "Vladys Z."
+tags: ["café", "arábica", "robusta", "cafeína", "perfil de sabor", "condiciones de cultivo", "mezclas de espresso italiano"]
+author: "Cash Café"
 readingTime: 3
 
 sources:
@@ -16,69 +16,70 @@ sources:
 draft: false
 ---
 
-## Two main coffee species
-When it comes to **coffee**, there are two main species: **Arabica** (Coffea arabica) and **Robusta** (Coffea canephora). According to the [Specialty Coffee Association](https://sca.coffee/), Arabica accounts for approximately 60-70% of global production, while Robusta makes up around 30-40%.
+## Las dos especies principales de café
+Cuando hablamos de **café**, existen dos especies principales: el **Arábica** (Coffea arabica) y el **Robusta** (Coffea canephora). Según la [Specialty Coffee Association](https://sca.coffee/), el Arábica representa aproximadamente el 60-70 % de la producción mundial, mientras que el Robusta supone en torno al 30-40 %.
 
-## Caffeine content compared
-The **caffeine content** in Arabica and Robusta differs significantly. A study published in the [Journal of Food Science](https://jfoodsci.onlinelibrary.wiley.com/) in 2019 found that Robusta contains roughly **2x more caffeine** than Arabica, with an average of 2.7% caffeine content compared to Arabica's 1.2%.
+## Comparativa de cafeína
+El **contenido de cafeína** del Arábica y del Robusta difiere de forma notable. Un estudio publicado en el [Journal of Food Science](https://jfoodsci.onlinelibrary.wiley.com/) en 2019 concluyó que el Robusta contiene aproximadamente **el doble de cafeína** que el Arábica, con una media del 2,7 % frente al 1,2 % del Arábica.
 
-## Flavor profile differences
-The **flavor profile** of Arabica and Robusta is also distinct. Arabica is generally sweeter and more nuanced, while Robusta is often described as more bitter and harsh. According to [James Hoffmann](https://www.jameshoffmann.com/), World Barista Champion in 2018, Arabica's flavor profile is more complex and refined, making it a popular choice among coffee connoisseurs.
+## Diferencias en el perfil de sabor
+El **perfil de sabor** del Arábica y del Robusta también es muy distinto. El Arábica suele ser más dulce y matizado, mientras que el Robusta se describe a menudo como más amargo y áspero. Según [James Hoffmann](https://www.jameshoffmann.com/), Campeón del Mundo de Baristas en 2018, el perfil del Arábica es más complejo y refinado, lo que lo convierte en la opción preferida por los aficionados al buen café.
 
-## Where each is grown
-Arabica and Robusta are grown in different regions and altitudes. Arabica is typically grown at higher altitudes, between 1,000-2,000 meters above sea level, while Robusta is grown at lower altitudes, between 200-800 meters. According to the [International Coffee Organization](https://www.ico.org/), Arabica is more susceptible to disease, making it more challenging to grow.
+## Dónde se cultiva cada uno
+El Arábica y el Robusta se cultivan en regiones y altitudes diferentes. El Arábica crece normalmente a mayor altitud, entre los 1.000 y los 2.000 metros sobre el nivel del mar, mientras que el Robusta se cultiva en cotas más bajas, entre los 200 y los 800 metros. Según la [International Coffee Organization](https://www.ico.org/), el Arábica es más sensible a las enfermedades, lo que dificulta su cultivo.
 
-### Growing conditions
-| Species | Altitude | Disease Resistance |
+### Condiciones de cultivo
+| Especie | Altitud | Resistencia a enfermedades |
 | --- | --- | --- |
-| Arabica | 1,000-2,000m | Low |
-| Robusta | 200-800m | High |
+| Arábica | 1.000-2.000 m | Baja |
+| Robusta | 200-800 m | Alta |
 
-## FAQ
-### What is the difference between Arabica and Robusta?
-Arabica and Robusta are two main coffee species, with Arabica accounting for 60-70% of global production and Robusta making up around 30-40%. Arabica is generally sweeter and more nuanced, while Robusta is more bitter and harsh.
+## Preguntas frecuentes
+### ¿Cuál es la diferencia entre el Arábica y el Robusta?
+El Arábica y el Robusta son las dos especies principales de café: el Arábica supone el 60-70 % de la producción mundial y el Robusta en torno al 30-40 %. El Arábica suele ser más dulce y matizado, mientras que el Robusta es más amargo y áspero.
 
-### Which coffee species has more caffeine?
-Robusta contains roughly **2x more caffeine** than Arabica, with an average of 2.7% caffeine content compared to Arabica's 1.2%.
+### ¿Qué especie de café tiene más cafeína?
+El Robusta contiene aproximadamente **el doble de cafeína** que el Arábica, con una media del 2,7 % frente al 1,2 % del Arábica.
 
-### Can I use Arabica and Robusta in Italian espresso blends?
-Yes, many Italian espresso blends use a combination of Arabica and Robusta. According to [The Sprudge Coffee Guide](https://sprudge.com/), a blend of 70% Arabica and 30% Robusta is a common ratio.
+### ¿Puedo usar Arábica y Robusta en las mezclas de espresso italiano?
+Sí, muchas mezclas de espresso italiano combinan Arábica y Robusta. Según [The Sprudge Coffee Guide](https://sprudge.com/), una proporción habitual es la de 70 % Arábica y 30 % Robusta.
 
-### What is the flavor profile of Arabica?
-Arabica's flavor profile is generally sweeter and more nuanced, with notes of fruit and floral hints. According to [James Hoffmann](https://www.jameshoffmann.com/), Arabica's flavor profile is more complex and refined.
+### ¿Cómo es el perfil de sabor del Arábica?
+El perfil del Arábica es por lo general más dulce y matizado, con notas de fruta y toques florales. Según [James Hoffmann](https://www.jameshoffmann.com/), su perfil de sabor es más complejo y refinado.
 
-### Can I grow Arabica at home?
-Yes, but it may be challenging. Arabica is more susceptible to disease and requires specific growing conditions, including high altitudes and cool temperatures.
+### ¿Puedo cultivar Arábica en casa?
+Sí, aunque puede resultar complicado. El Arábica es más sensible a las enfermedades y requiere unas condiciones de cultivo concretas, entre ellas altitudes elevadas y temperaturas frescas.
 
-### What are some popular Arabica coffee products?
-Some popular Arabica coffee products include [Blue Horse 100% Arabica Coffee Beans](https://www.amazon.com/Blue-Horse-100-Arabica-Coffee-Beans), [Illy Arabica Coffee](https://www.amazon.com/Illy-Arabica-Coffee), and [Lavazza Super Crema Arabica Coffee](https://www.amazon.com/Lavazza-Super-Crema-Arabica-Coffee).
+### ¿Cuáles son algunos productos populares de café Arábica?
+Entre los productos de café Arábica más conocidos están los [granos de café 100 % Arábica Blue Horse](https://www.amazon.com/Blue-Horse-100-Arabica-Coffee-Beans), el [café Arábica Illy](https://www.amazon.com/Illy-Arabica-Coffee) y el [café Arábica Lavazza Super Crema](https://www.amazon.com/Lavazza-Super-Crema-Arabica-Coffee).
 
-## My Take
-As a trained chef and coffee enthusiast, I can attest to the distinct flavor profiles of Arabica and Robusta. In my daily brewing routine, I prefer to use Arabica for its nuanced and refined flavor. However, I also appreciate the bold and rich flavor of Robusta in certain blends.
+## Nuestra opinión
+El Arábica y el Robusta tienen perfiles de sabor claramente diferenciados. Para el día a día, el Arábica suele ganar por su sabor matizado y refinado, pero el Robusta también aporta cuerpo y un carácter intenso en determinadas mezclas, sobre todo en el espresso.
 
-In my experience, the key to a great cup of coffee is using high-quality beans and paying attention to the brewing process. Whether you prefer Arabica or Robusta, it's essential to experiment with different roasts and brewing methods to find your perfect cup.
+La clave para una buena taza de café está en usar granos de calidad y cuidar el proceso de preparación. Prefieras Arábica o Robusta, merece la pena experimentar con distintos tuestes y métodos de preparación hasta dar con tu taza perfecta.
 
-As I continue to explore the world of coffee, I'm excited to learn more about the different species, growing conditions, and brewing techniques. Whether you're a seasoned coffee connoisseur or just starting your coffee journey, I hope this article has provided you with valuable insights and practical advice.
+El mundo del café es enorme: cuanto más se exploran las distintas especies, condiciones de cultivo y técnicas de preparación, mejor se entiende lo que hay dentro de la taza. Tanto si eres un aficionado experimentado como si acabas de empezar, esperamos que este artículo te haya aportado información útil y consejos prácticos.
 
 
 
-### You might also like
+### También te puede interesar
 
-- [The Viennese coffeehouse: UNESCO heritage and living tradition](/blog/historia-cafeteria-viena)
-- [Berlin Coffee Guide](/blog/caf-en-berl-n)
-- [First Crack vs Second Crack in Coffee Roasting: A Beginner Guide](/blog/first-crack-vs-second-crack-in-coffee-roasting-a-beginner-guide)
-- [Latte art for beginners: your first heart](/blog/latte-art-principiantes)
+- [El café vienés: patrimonio de la UNESCO y tradición viva](/blog/historia-cafeteria-viena)
+- [Guía del café en Berlín](/blog/caf-en-berl-n)
+- [Primer crack vs segundo crack en el tueste del café: guía para principiantes](/blog/first-crack-vs-second-crack-in-coffee-roasting-a-beginner-guide)
+- [Latte art para principiantes: tu primer corazón](/blog/latte-art-principiantes)
 
-## Practical Summary
-Here are some concrete action bullets to help you navigate the world of Arabica and Robusta:
-* Choose high-quality Arabica beans for a nuanced and refined flavor
-* Experiment with different roasts and brewing methods to find your perfect cup
-* Consider using a blend of Arabica and Robusta for a balanced flavor
-* Pay attention to the growing conditions and altitudes of your coffee beans
-* Invest in a good coffee grinder and brewing equipment
-* Try [Blue Horse 100% Arabica Coffee Beans](https://www.amazon.com/Blue-Horse-100-Arabica-Coffee-Beans) for a high-quality Arabica coffee experience
+## Resumen práctico
+Aquí tienes algunas acciones concretas para moverte con soltura en el mundo del Arábica y el Robusta:
+* Elige granos de Arábica de calidad si buscas un sabor matizado y refinado
+* Experimenta con distintos tuestes y métodos de preparación hasta encontrar tu taza perfecta
+* Plantéate una mezcla de Arábica y Robusta para un sabor equilibrado
+* Fíjate en las condiciones de cultivo y la altitud de tus granos de café
+* Invierte en un buen molinillo y en un buen equipo de preparación
+* Prueba los [granos de café 100 % Arábica Blue Horse](https://www.amazon.com/Blue-Horse-100-Arabica-Coffee-Beans) para una experiencia de café Arábica de calidad
+
 
 
 ---
 
-*Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+*CashCafe es contenido editorial sobre café basado en pruebas reales y ciencia citada. Consulta la información sobre afiliados en el [aviso legal](/legal-notice).*

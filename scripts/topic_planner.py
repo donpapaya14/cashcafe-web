@@ -11,6 +11,10 @@ from pathlib import Path
 
 BLOG_DIR = Path(__file__).parent.parent / "src" / "content" / "blog"
 TOPICS_FILE = Path(__file__).parent.parent / "topics" / "cashcafe_seo_3months.json"
+# Registro de temas YA usados (por título ORIGINAL del topic, en inglés). El dedup
+# por título de artículo no sirve porque los artículos se publican en español y el
+# topics file está en inglés -> nunca casaban. Esto deduplica por la identidad del topic.
+USED_TOPICS_FILE = Path(__file__).parent.parent / "topics" / "used_topics.txt"
 
 CATEGORIES = ["guides", "recipes", "culture", "gear", "brewing", "espresso"]
 
@@ -61,6 +65,21 @@ def load_topics() -> list:
         return json.loads(TOPICS_FILE.read_text(encoding="utf-8"))
     except Exception:
         return []
+
+
+def load_used_topics() -> set:
+    if not USED_TOPICS_FILE.exists():
+        return set()
+    return {ln.strip().lower() for ln in USED_TOPICS_FILE.read_text(encoding="utf-8").splitlines() if ln.strip()}
+
+
+def mark_topic_used(title: str):
+    """Marca el tema (por su título original) como usado, para no repetirlo."""
+    if not title:
+        return
+    USED_TOPICS_FILE.parent.mkdir(parents=True, exist_ok=True)
+    with open(USED_TOPICS_FILE, "a", encoding="utf-8") as f:
+        f.write(title.strip().lower() + "\n")
 
 
 def get_existing_titles() -> set[str]:
@@ -133,12 +152,13 @@ def pick_formula(category: str) -> str:
 def plan_topic() -> dict:
     """Try the SEO topics file first, fall back to formula generation."""
     existing = get_existing_titles()
+    used = load_used_topics()
     topics = load_topics()
     if topics:
         random.shuffle(topics)
         for topic in topics:
             tt = topic.get("title", "").lower().strip()
-            if tt and tt not in existing:
+            if tt and tt not in used and tt not in existing:
                 cat = map_topic_category(topic)
                 return {
                     "category": cat,

@@ -1,10 +1,10 @@
 ---
-title: "Coffee Bloom Explained: Why Pour Over Coffee Foams Up"
-description: "Discover the secret behind pour over coffee's foamy start"
+title: "El bloom del café explicado: por qué el café de filtro hace espuma"
+description: "Descubre la ciencia detrás de la espuma inicial del café de filtro y cómo aprovecharla para extraer todo el sabor."
 pubDate: 2026-06-02
 category: "brewing"
-tags: ["coffee bloom", "pour over bloom", "coffee degassing", "fresh coffee bloom", "coffee brewing", "pour-over coffee", "coffee extraction", "coffee flavor"]
-author: "Vladys Z."
+tags: ["bloom del café", "bloom en pour over", "desgasificación del café", "café recién tostado", "preparación del café", "café de filtro", "extracción del café", "sabor del café"]
+author: "Cash Café"
 readingTime: 4
 
 sources:
@@ -17,68 +17,68 @@ draft: false
 ---
 
 
-## Introduction to Coffee Bloom
-The **coffee bloom** is a crucial step in the pour-over brewing process. It occurs when **CO2** trapped in the coffee beans during roasting is released as the beans come into contact with water. This release of CO2 causes the coffee to **foam up**, which is why it's essential to understand the science behind the bloom. According to the [Specialty Coffee Association (2020)](https://sca.coffee/), this process is a result of the CO2 trapped in the beans during roasting.
+## Qué es el bloom del café
+El **bloom del café** es un paso clave en la preparación del café de filtro. Se produce cuando el **CO2** que quedó atrapado en los granos durante el tueste se libera al entrar el café en contacto con el agua. Esa liberación de CO2 hace que el café **se hinche y forme espuma**, así que conviene entender la ciencia que hay detrás. Según la [Specialty Coffee Association (2020)](https://sca.coffee/), este fenómeno es justamente consecuencia del CO2 retenido en los granos al tostarlos.
 
-## What Causes the Bloom
-The bloom is caused by the release of **CO2** from the coffee beans. This CO2 is trapped in the beans during the roasting process and is released when the beans come into contact with water. As stated by the [Specialty Coffee Association (2020)](https://sca.coffee/), this release of CO2 is what causes the coffee to bloom.
+## Qué provoca el bloom
+El bloom lo provoca la salida del **CO2** de los granos de café. Ese gas queda encerrado en el grano durante el tueste y se libera en cuanto el café toca el agua. Como señala la [Specialty Coffee Association (2020)](https://sca.coffee/), es esa liberación de CO2 la que hace que el café florezca.
 
-## Why CO2 Matters in Brewing
-**CO2** plays a significant role in the brewing process. If the coffee is not allowed to bloom, the CO2 can displace water, reducing extraction and affecting the flavor of the coffee. A [Peer-reviewed study by Journal of Food Science (2018)](https://onlinelibrary.wiley.com/journal/17503841) found that CO2 can significantly impact the extraction of coffee.
+## Por qué importa el CO2 al preparar el café
+El **CO2** cumple un papel importante en la preparación. Si no dejas que el café haga su bloom, el gas puede desplazar el agua, reducir la extracción y estropear el sabor de la taza. Un [estudio revisado por pares del Journal of Food Science (2018)](https://onlinelibrary.wiley.com/journal/17503841) comprobó que el CO2 puede afectar de forma notable a la extracción del café.
 
-## How Long to Bloom
-The bloom typically lasts **30-45 seconds** for a standard pour-over. This is according to [Barista and coffee expert, James Hoffmann (2019)](https://www.jimseven.com/), who recommends allowing the coffee to bloom for this amount of time to ensure optimal extraction. Here are the steps to bloom your coffee:
-1. Heat water to **200°F (93°C)**.
-2. Place **30-40 grams** of coffee in the pour-over.
-3. Pour **60-80 grams** of water over the coffee to initiate the bloom.
-4. Allow the coffee to bloom for **30-45 seconds**.
+## Cuánto debe durar el bloom
+En un café de filtro estándar, el bloom suele durar **entre 30 y 45 segundos**. Así lo recomienda el [barista y experto en café James Hoffmann (2019)](https://www.jimseven.com/), que aconseja respetar ese tiempo para lograr una extracción óptima. Estos son los pasos para hacer el bloom:
+1. Calienta el agua a **93 °C (200 °F)**.
+2. Pon **entre 30 y 40 gramos** de café en el filtro.
+3. Vierte **entre 60 y 80 gramos** de agua sobre el café para iniciar el bloom.
+4. Deja que el café florezca durante **30-45 segundos**.
 
-## Bloom Size and Freshness
-The size of the bloom can indicate the freshness of the coffee. A larger bloom typically indicates **fresher coffee**, usually under **14 days post-roast**. According to the [Specialty Coffee Association (2020)](https://sca.coffee/), the bloom water should typically be **2-3 times the coffee dose in grams**.
+## Tamaño del bloom y frescura
+El tamaño del bloom puede indicarte lo fresco que está el café. Un bloom más grande suele señalar un **café más fresco**, normalmente con **menos de 14 días desde el tueste**. Según la [Specialty Coffee Association (2020)](https://sca.coffee/), el agua del bloom debería ser **entre 2 y 3 veces la dosis de café en gramos**.
 
-## Brewing with the Chemex Pour-Over
-The [Chemex Pour-Over Glass Coffee Maker](https://www.chemex.com/) is a great tool for brewing coffee. To use it, simply place the coffee in the filter, pour over the water, and allow it to bloom. You can also use the [Hario V60 Pour-Over Coffee Maker](https://www.hario.com/) or the [Kalita Wave Pour-Over Coffee Maker](https://www.kalita.co.jp/) for a similar brewing experience.
+## Preparar café con la Chemex
+La [cafetera de filtro Chemex](https://www.chemex.com/) es una herramienta estupenda para preparar café. Para usarla, coloca el café en el filtro, vierte el agua y deja que haga el bloom. También puedes usar la [Hario V60](https://www.hario.com/) o la [Kalita Wave](https://www.kalita.co.jp/) para una experiencia de preparación parecida.
 
-## Frequently Asked Questions
-### What is the purpose of the coffee bloom?
-The purpose of the coffee bloom is to release the CO2 trapped in the coffee beans, allowing for optimal extraction and flavor. According to [The Sprudge Coffee Guide (2022)](https://sprudge.com/), this step is crucial for achieving the perfect cup of coffee.
-### How do I achieve the optimal bloom?
-To achieve the optimal bloom, use **fresh coffee beans**, heat the water to **200°F (93°C)**, and allow the coffee to bloom for **30-45 seconds**. You can also use a [coffee scale](https://www.amazon.com/s?k=coffee+scale) to measure the coffee and water.
-### Can I use any type of coffee for the bloom?
-No, it's best to use **fresh, high-quality coffee beans** for the bloom. This will ensure that you get the best flavor and aroma from your coffee.
-### How often should I bloom my coffee?
-You should bloom your coffee every time you brew a new cup. This will ensure that you get the best flavor and aroma from your coffee.
-### What is the ideal water temperature for the bloom?
-The ideal water temperature for the bloom is **200°F (93°C)**. This will help to release the CO2 trapped in the coffee beans and allow for optimal extraction.
-### Can I use a pour-over coffee maker without blooming the coffee?
-While it's possible to use a pour-over coffee maker without blooming the coffee, it's not recommended. Blooming the coffee allows for optimal extraction and flavor, and skipping this step can result in a subpar cup of coffee.
+## Preguntas frecuentes
+### ¿Para qué sirve el bloom del café?
+El objetivo del bloom es liberar el CO2 atrapado en los granos para conseguir una extracción y un sabor óptimos. Según [The Sprudge Coffee Guide (2022)](https://sprudge.com/), es un paso clave para lograr una taza redonda.
+### ¿Cómo consigo un bloom óptimo?
+Para un bloom óptimo, usa **café recién tostado**, calienta el agua a **93 °C (200 °F)** y deja que el café florezca durante **30-45 segundos**. También puedes usar una [báscula de café](https://www.amazon.com/s?k=coffee+scale) para medir el café y el agua.
+### ¿Sirve cualquier café para el bloom?
+No. Lo ideal es usar **granos frescos y de buena calidad** para el bloom. Así obtendrás el mejor sabor y aroma de tu café.
+### ¿Con qué frecuencia debo hacer el bloom?
+Deberías hacer el bloom cada vez que prepares una taza nueva. Es la forma de sacar siempre el mejor sabor y aroma del café.
+### ¿Cuál es la temperatura ideal del agua para el bloom?
+La temperatura ideal del agua para el bloom es **93 °C (200 °F)**. Ayuda a liberar el CO2 atrapado en los granos y permite una extracción óptima.
+### ¿Puedo usar una cafetera de filtro sin hacer el bloom?
+Aunque es posible usar una cafetera de filtro sin hacer el bloom, no es lo recomendable. El bloom favorece la extracción y el sabor, y saltártelo suele dar como resultado una taza mediocre.
 
-## My Take
-As a trained chef and app developer who brews coffee daily, I can attest to the importance of the coffee bloom. I've experimented with different brewing methods and techniques, and I've found that the bloom is a crucial step in achieving the perfect cup of coffee. One of my favorite brewing methods is using the [Chemex Pour-Over Glass Coffee Maker](https://www.chemex.com/), which allows for a clean and balanced extraction.
-I've also found that using fresh, high-quality coffee beans is essential for achieving the best flavor and aroma. I always make sure to use beans that are less than 14 days post-roast, and I grind them just before brewing to ensure optimal flavor.
-In my experience, the coffee bloom is a game-changer for coffee lovers. It's a simple step that can make a huge difference in the flavor and aroma of your coffee. Whether you're a seasoned coffee connoisseur or just starting out, I highly recommend experimenting with the coffee bloom to take your coffee game to the next level.
+## Nuestra opinión
+El bloom es uno de esos pequeños gestos que marcan una gran diferencia en la taza. Quien prepara café a diario lo nota enseguida: al probar distintos métodos y técnicas queda claro que el bloom es un paso decisivo para conseguir un café redondo. Métodos como la [cafetera de filtro Chemex](https://www.chemex.com/) destacan precisamente por ofrecer una extracción limpia y equilibrada cuando se respeta este paso.
+Usar granos frescos y de buena calidad también es fundamental para lograr el mejor sabor y aroma. Lo ideal es trabajar con granos de menos de 14 días desde el tueste y molerlos justo antes de preparar el café.
+En definitiva, el bloom del café es un cambio de juego para cualquier amante del café. Es un paso sencillo que puede transformar el sabor y el aroma de tu taza. Tanto si eres un experto como si acabas de empezar, merece la pena experimentar con el bloom para llevar tu café al siguiente nivel.
 
 
 
-### You might also like
+### También te puede interesar
 
-- [Latte art for beginners: your first heart](/blog/latte-art-principiantes)
-- [The 10 largest coffee producers in the world (and what makes them unique)](/blog/mejores-paises-productores-cafe)
-- [Tamper, distributor and WDT: what each one does](/blog/tamper-distribuidor-wdt)
-- [Irish Coffee: the original recipe and why you're making it wrong](/blog/receta-irish-coffee-original)
+- [Latte art para principiantes: tu primer corazón](/blog/latte-art-principiantes)
+- [Los 10 mayores productores de café del mundo (y qué los hace únicos)](/blog/mejores-paises-productores-cafe)
+- [Tamper, distribuidor y WDT: para qué sirve cada uno](/blog/tamper-distribuidor-wdt)
+- [Irish Coffee: la receta original y por qué lo estás haciendo mal](/blog/receta-irish-coffee-original)
 
-## Practical Summary
-Here are the key takeaways from this article:
-* Allow the coffee to bloom for **30-45 seconds** to ensure optimal extraction.
-* Use **fresh, high-quality coffee beans** for the best flavor and aroma.
-* Heat the water to **200°F (93°C)** for optimal extraction.
-* Use a **coffee scale** to measure the coffee and water.
-* Experiment with different brewing methods and techniques to find your perfect cup of coffee.
-* Use a [coffee pour-over](https://www.amazon.com/s?k=coffee+pour-over) for a clean and balanced extraction.
-* Consider investing in a [coffee grinder](https://www.amazon.com/s?k=coffee+grinder) for optimal flavor.
-* Always use **filtered water** for the best flavor and aroma.
+## Resumen práctico
+Estas son las ideas clave de este artículo:
+* Deja que el café florezca durante **30-45 segundos** para una extracción óptima.
+* Usa **granos frescos y de buena calidad** para conseguir el mejor sabor y aroma.
+* Calienta el agua a **93 °C (200 °F)** para una extracción óptima.
+* Usa una **báscula de café** para medir el café y el agua.
+* Experimenta con distintos métodos y técnicas hasta dar con tu taza perfecta.
+* Usa una [cafetera de filtro](https://www.amazon.com/s?k=coffee+pour-over) para una extracción limpia y equilibrada.
+* Plantéate invertir en un [molinillo de café](https://www.amazon.com/s?k=coffee+grinder) para un sabor óptimo.
+* Usa siempre **agua filtrada** para el mejor sabor y aroma.
 
 
 ---
 
-*Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+*Cash Café es contenido editorial sobre café basado en pruebas reales y ciencia citada. Consulta la información de afiliados en el [aviso legal](/legal-notice).*

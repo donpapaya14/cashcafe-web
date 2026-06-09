@@ -382,6 +382,14 @@ def main():
 
     file_path = write_markdown(category, topic_data, content_data)
 
+    # Dedup robusto: marca el tema (título original del topic) como usado para no repetirlo
+    if preplanned:
+        try:
+            from topic_planner import mark_topic_used
+            mark_topic_used(preplanned.get("title", ""))
+        except Exception:
+            pass
+
     notify_telegram(
         f"<b>{BRAND}</b>\n"
         f"{topic_data['title']}\n"

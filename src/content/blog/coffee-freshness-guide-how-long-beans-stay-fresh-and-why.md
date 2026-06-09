@@ -1,10 +1,10 @@
 ---
-title: "Coffee Freshness Guide: How Long Beans Stay Fresh and Why"
-description: "Unlock the secret to freshest brews"
+title: "Guía de frescura del café: cuánto duran los granos frescos y por qué"
+description: "Descubre el secreto para conseguir las infusiones más frescas y sacar todo el sabor a tus granos de café."
 pubDate: 2026-06-02
 category: "guides"
-tags: ["coffee freshness", "how long beans last", "coffee bean storage", "fresh coffee window", "coffee brewing", "coffee grinding", "coffee storage"]
-author: "Vladys Z."
+tags: ["frescura del café", "cuánto duran los granos", "conservación del café en grano", "ventana de frescura del café", "preparación del café", "molido del café", "almacenamiento del café"]
+author: "Cash Café"
 readingTime: 3
 
 sources:
@@ -17,68 +17,69 @@ draft: false
 ---
 
 
-## What aging does to coffee
-Coffee freshness is a critical factor in determining the quality of your brew. According to the **Specialty Coffee Association (2020)**, chemical changes occur in coffee beans over time, leading to a release of **CO2** and flavor degradation. This process affects the overall taste and aroma of your coffee.
+## Qué le ocurre al café con el tiempo
+La frescura del café es un factor decisivo para la calidad de la taza. Según la **Specialty Coffee Association (2020)**, con el paso del tiempo se producen cambios químicos en los granos que liberan **CO2** y degradan los aromas. Este proceso afecta directamente al sabor y al aroma de tu café.
 
-## Optimal freshness window
-The optimal freshness window for coffee beans is between **4-14 days** after the roast date, as found in a **peer-reviewed study on coffee freshness (2019)**. Factors such as bean origin, roast level, and storage conditions influence the freshness of coffee. For most beans, the peak freshness is achieved within this time frame.
+## La ventana de frescura ideal
+La ventana de frescura ideal del café en grano va de los **4 a los 14 días** tras la fecha de tueste, según un **estudio revisado por pares sobre la frescura del café (2019)**. Factores como el origen del grano, el nivel de tueste y las condiciones de conservación influyen en su frescura. En la mayoría de los granos, el punto óptimo se alcanza dentro de este margen.
 
-## Storage best practices
-To maintain coffee freshness, it's essential to store beans in **airtight opaque containers**, such as the [AirScape Coffee Container on Amazon](https://www.amazon.com/s?k=AirScape+Coffee+Container&tag=vds96-20). Freezing is also an effective method to slow down oxidation, as suggested by **James Hoffmann, World Barista Champion (2018)**. Other storage methods include using **vacuum-sealed bags** or **coffee canisters** with one-way valves.
+## Buenas prácticas de conservación
+Para mantener el café fresco es fundamental guardar los granos en **recipientes herméticos y opacos**, como el [recipiente para café AirScape en Amazon](https://www.amazon.com/s?k=AirScape+Coffee+Container&tag=vds96-20). Congelar también es un método eficaz para frenar la oxidación, tal y como sugiere **James Hoffmann, campeón del mundo de baristas (2018)**. Otras opciones de conservación son las **bolsas selladas al vacío** o los **botes para café** con válvula unidireccional.
 
-## Whole bean vs ground
-Pre-ground coffee loses its aroma compounds within **hours**, according to the **SCA Coffee Grinding Guide (2022)**. Grinding whole beans just before brewing ensures the preservation of these compounds, resulting in a more flavorful cup. The benefits of grinding whole beans include:
-1. **Preservation of aroma compounds**
-2. **Customizable grind size**
-3. **Improved flavor**
+## Grano entero frente a molido
+El café premolido pierde sus compuestos aromáticos en cuestión de **horas**, según la **Guía de molido del café de la SCA (2022)**. Moler el grano entero justo antes de preparar el café preserva esos compuestos y da como resultado una taza con mucho más sabor. Las ventajas de moler grano entero son:
+1. **Conservación de los compuestos aromáticos**
+2. **Molido a medida según el método**
+3. **Más sabor en la taza**
 
-## Storage comparison
-| Storage Method | Effectiveness | Cost |
+## Comparativa de métodos de conservación
+| Método de conservación | Eficacia | Coste |
 | --- | --- | --- |
-| Airtight containers | High | Medium |
-| Freezing | High | Low |
-| Vacuum-sealed bags | Medium | Low |
+| Recipientes herméticos | Alta | Medio |
+| Congelación | Alta | Bajo |
+| Bolsas selladas al vacío | Media | Bajo |
 
-## FAQ
-### How long do coffee beans stay fresh?
-Coffee beans typically stay fresh for **7-14 days** after the roast date, depending on storage conditions.
-### What is the best way to store coffee beans?
-The best way to store coffee beans is in **airtight opaque containers**, such as the [AirScape Coffee Container on Amazon](https://www.amazon.com/s?k=AirScape+Coffee+Container&tag=vds96-20).
-### Can I freeze coffee beans?
-Yes, freezing coffee beans is an effective method to slow down oxidation, as suggested by **James Hoffmann, World Barista Champion (2018)**.
-### How often should I grind my coffee beans?
-It's recommended to grind your coffee beans **just before brewing** to preserve the aroma compounds.
-### What is the optimal coffee-to-water ratio?
-The optimal coffee-to-water ratio is between **1:15 and 1:17**, according to the **SCA Brewing Standard (2018)**.
-### Can I use pre-ground coffee?
-While pre-ground coffee is convenient, it's not recommended due to the loss of aroma compounds within **hours**.
+## Preguntas frecuentes
+### ¿Cuánto tiempo se mantiene fresco el café en grano?
+El café en grano suele mantenerse fresco entre **7 y 14 días** después de la fecha de tueste, dependiendo de las condiciones de conservación.
+### ¿Cuál es la mejor forma de conservar el café en grano?
+La mejor forma de conservar el café en grano es en **recipientes herméticos y opacos**, como el [recipiente para café AirScape en Amazon](https://www.amazon.com/s?k=AirScape+Coffee+Container&tag=vds96-20).
+### ¿Puedo congelar el café en grano?
+Sí, congelar el café en grano es un método eficaz para frenar la oxidación, tal y como sugiere **James Hoffmann, campeón del mundo de baristas (2018)**.
+### ¿Con qué frecuencia debo moler el café?
+Lo recomendable es moler el café **justo antes de prepararlo** para preservar los compuestos aromáticos.
+### ¿Cuál es la proporción ideal de café y agua?
+La proporción ideal de café y agua está entre **1:15 y 1:17**, según el **estándar de preparación de la SCA (2018)**.
+### ¿Puedo usar café premolido?
+Aunque el café premolido es cómodo, no es lo más recomendable por la pérdida de compuestos aromáticos en cuestión de **horas**.
 
-## My Take
-As an app developer and trained chef who brews coffee daily, I can attest to the importance of coffee freshness. I've experimented with various storage methods and found that using an [AirScape Coffee Container on Amazon](https://www.amazon.com/s?k=AirScape+Coffee+Container&tag=vds96-20) and grinding whole beans just before brewing makes a significant difference in the flavor and aroma of my coffee. I've also noticed that the optimal freshness window is crucial in bringing out the unique characteristics of each coffee bean.
+## Nuestra opinión
+La frescura del café marca una diferencia enorme en la taza, y merece la pena prestarle atención. Entre los distintos métodos de conservación, guardar el grano en un [recipiente para café AirScape en Amazon](https://www.amazon.com/s?k=AirScape+Coffee+Container&tag=vds96-20) y molerlo justo antes de preparar el café cambia por completo el sabor y el aroma. Además, respetar la ventana de frescura óptima es clave para sacar a relucir las características únicas de cada grano.
 
-I recall a particularly memorable experience where I brewed a cup of coffee using beans that were **10 days** past the roast date. The flavor was lackluster, and the aroma was almost non-existent. This experience taught me the importance of paying attention to the roast date and storing my coffee beans properly.
+Un café preparado con granos que llevaban **10 días** pasados de la fecha de tueste suele resultar plano, con un sabor apagado y un aroma casi inexistente. Es el mejor recordatorio de lo importante que es fijarse en la fecha de tueste y conservar bien el grano.
 
-In my daily routine, I make sure to store my coffee beans in an airtight container and grind them just before brewing. I've also invested in a **coffee scale** to ensure the perfect coffee-to-water ratio. The result is a delicious and flavorful cup of coffee that I enjoy every morning.
+Como rutina, conviene guardar el café en un recipiente hermético y molerlo justo antes de preparar la taza. Una **báscula de café** ayuda a clavar la proporción exacta de café y agua. El resultado es una taza sabrosa y aromática para disfrutar cada mañana.
 
 
 
-### You might also like
+### También te puede interesar
 
-- [Matcha latte vs coffee latte: preparation and differences](/blog/matcha-latte-vs-cafe-latte)
-- [Upgrade Your Coffee Game](/blog/mejora-tu-caf-con-accesorios)
-- [How to Make Espresso Without an Espresso Machine: 5 Methods](/blog/how-to-make-espresso-without-an-espresso-machine-5-methods)
-- [The 3 best espresso machines under €300 in 2026](/blog/cafetera-espresso-300-euros)
+- [Matcha latte vs café latte: preparación y diferencias](/blog/matcha-latte-vs-cafe-latte)
+- [Mejora tu café con accesorios](/blog/mejora-tu-caf-con-accesorios)
+- [Cómo hacer espresso sin cafetera de espresso: 5 métodos](/blog/how-to-make-espresso-without-an-espresso-machine-5-methods)
+- [Las 3 mejores cafeteras espresso por menos de 300 € en 2026](/blog/cafetera-espresso-300-euros)
 
-## Practical Summary
-Here are some concrete actions to improve your coffee freshness:
-* Store coffee beans in **airtight opaque containers**, such as the [AirScape Coffee Container on Amazon](https://www.amazon.com/s?k=AirScape+Coffee+Container&tag=vds96-20)
-* Freeze coffee beans to slow down oxidation
-* Grind whole beans just before brewing to preserve aroma compounds
-* Use the optimal coffee-to-water ratio of **1:15 to 1:17**
-* Pay attention to the roast date and aim for the **4-14 day** freshness window
-* Invest in a **coffee scale** for precise measurements
+## Resumen práctico
+Estas son algunas acciones concretas para mejorar la frescura de tu café:
+* Guarda el café en grano en **recipientes herméticos y opacos**, como el [recipiente para café AirScape en Amazon](https://www.amazon.com/s?k=AirScape+Coffee+Container&tag=vds96-20)
+* Congela el café en grano para frenar la oxidación
+* Muele el grano entero justo antes de preparar el café para preservar los compuestos aromáticos
+* Usa la proporción ideal de café y agua de **1:15 a 1:17**
+* Fíjate en la fecha de tueste y apunta a la ventana de frescura de **4 a 14 días**
+* Hazte con una **báscula de café** para medir con precisión
+
 
 
 ---
 
-*Written by **Vladys Z.** — app developer and trained chef. CashCafe is editorial coffee content built on real testing and cited science. Affiliate disclosure on the [legal notice](/legal-notice).*
+*Contenido de **Cash Café**. CashCafe es contenido editorial sobre café basado en pruebas reales y ciencia citada. Aviso de afiliación en el [aviso legal](/legal-notice).*
