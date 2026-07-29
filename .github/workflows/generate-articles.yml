@@ -103,7 +103,17 @@ jobs:
           echo "failed=$FAILED" >> $GITHUB_OUTPUT
           echo "=== Result: $SUCCESS OK, $FAILED failed ==="
 
+      - name: Check something was generated
+        # Without this gate the job ends GREEN with 0 articles: cash-cafe.org
+        # spent a month "succeeding" while publishing nothing.
+        run: |
+          if [ "${{ steps.generate.outputs.success }}" = "0" ]; then
+            echo "::error::0 of ${{ steps.config.outputs.count }} articles — all three AI providers failed"
+            exit 1
+          fi
+
       - name: Build check
+        id: build
         run: |
           npm run build
           echo "Build OK"
@@ -150,7 +160,7 @@ jobs:
             -d text="$MSG" || true
 
       - name: Fix and retry on build failure
-        if: failure()
+        if: failure() && steps.build.outcome == 'failure'
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
