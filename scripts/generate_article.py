@@ -339,7 +339,10 @@ draft: false
     BLOG_DIR.mkdir(parents=True, exist_ok=True)
     file_path = BLOG_DIR / f"{slug}.md"
     if file_path.exists():
-        file_path = BLOG_DIR / f"{slug}-{today}.md"
+        # Republishing the same topic with the date appended to the slug created
+        # 547 duplicate URLs competing against each other across the group
+        # (295 clusters). Abort instead; the workflow retries with another topic.
+        raise SystemExit(f"DUPLICATE: '{slug}' already exists, not republishing")
 
     author_bio = f"\n\n---\n\n*Escrito por el equipo de **{AUTHOR}**, cafetería en Beniel (Murcia). Contenido editorial sobre café basado en práctica real y fuentes citadas. Información de afiliados en el [aviso legal](/legal-notice).*\n"
     content = content + author_bio
